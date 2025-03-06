@@ -4,9 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build": "vite build",
     "prepare:json": "cp -R src/data/json/* public/",
     "dev": "npm run prepare:json && vite",
-    "build": "vite build",
     "preview": "vite preview",
     "convert": "tsx ./src/utils/convert.ts"
   },
