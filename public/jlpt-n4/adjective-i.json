@@ -1,0 +1,128 @@
+[
+  {
+    "kanji": "浅い",
+    "furigana": "あさい",
+    "translation": "shallow",
+    "check": false
+  },
+  {
+    "kanji": "深い",
+    "furigana": "ふかい",
+    "translation": "deep",
+    "check": false
+  },
+  {
+    "kanji": "恥ずかしい",
+    "furigana": "はずかしい",
+    "translation": "embarrassed",
+    "check": false
+  },
+  {
+    "kanji": "酷い",
+    "furigana": "ひどい",
+    "translation": "terrible; awful​",
+    "check": false
+  },
+  {
+    "kanji": "悲しい",
+    "furigana": "かなしい",
+    "translation": "sad",
+    "check": false
+  },
+  {
+    "kanji": "硬い",
+    "furigana": "かたい",
+    "translation": "hard",
+    "check": false
+  },
+  {
+    "kanji": "厳しい",
+    "furigana": "きびしい",
+    "translation": "strict",
+    "check": false
+  },
+  {
+    "kanji": "細かい",
+    "furigana": "こまかい",
+    "translation": "small, fine",
+    "check": false
+  },
+  {
+    "kanji": "怖い",
+    "furigana": "こわい",
+    "translation": "frightening",
+    "check": false
+  },
+  {
+    "kanji": "珍しい",
+    "furigana": "めずらしい",
+    "translation": "unusual; rare",
+    "check": false
+  },
+  {
+    "kanji": "眠い",
+    "furigana": "ねむい",
+    "translation": "sleepy",
+    "check": false
+  },
+  {
+    "kanji": "苦い",
+    "furigana": "にがい",
+    "translation": "bitter",
+    "check": false
+  },
+  {
+    "kanji": "可笑しい",
+    "furigana": "おかしい",
+    "translation": "strange or funny",
+    "check": false
+  },
+  {
+    "kanji": "寂しい",
+    "furigana": "さびしい",
+    "translation": "lonely",
+    "check": false
+  },
+  {
+    "kanji": "素晴らしい",
+    "furigana": "すばらしい",
+    "translation": "wonderful",
+    "check": false
+  },
+  {
+    "kanji": "凄い",
+    "furigana": "すごい",
+    "translation": "terrific",
+    "check": false
+  },
+  {
+    "kanji": "正しい",
+    "furigana": "ただしい",
+    "translation": "right; correct",
+    "check": false
+  },
+  {
+    "kanji": "嬉しい",
+    "furigana": "うれしい",
+    "translation": "happy",
+    "check": false
+  },
+  {
+    "kanji": "美しい",
+    "furigana": "うつくしい",
+    "translation": "beautiful",
+    "check": false
+  },
+  {
+    "kanji": "優しい",
+    "furigana": "やさしい",
+    "translation": "kind",
+    "check": false
+  },
+  {
+    "kanji": "柔らかい",
+    "furigana": "やわらかい",
+    "translation": "soft",
+    "check": false
+  }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "kanji": "会",
+    "furigana": "On: カイ;\n Kun: あ(う);",
+    "check": false
+  },
+  {
+    "kanji": "同",
+    "furigana": "On: ドウ;\n Kun: おな(じ);",
+    "check": false
+  },
+  {
+    "kanji": "事",
+    "furigana": "On: ジ;\n Kun: こと;",
+    "check": false
+  },
+  {
+    "kanji": "自",
+    "furigana": "On: ジ、シ;\n Kun: みずか(ら);",
+    "check": false
+  },
+  {
+    "kanji": "社",
+    "furigana": "On: シャ;\n Kun: やしろ;",
+    "check": false
+  },
+  {
+    "kanji": "発",
+    "furigana": "On: ハツ、ホツ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "者",
+    "furigana": "On: シャ;\n Kun: もの;",
+    "check": false
+  },
+  {
+    "kanji": "地",
+    "furigana": "On: チ、ジ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "業",
+    "furigana": "On: ギョウ;\n Kun: わざ;",
+    "check": false
+  },
+  {
+    "kanji": "方",
+    "furigana": "On: ホウ;\n Kun: かた;",
+    "check": false
+  },
+  {
+    "kanji": "新",
+    "furigana": "On: シン;\n Kun: あたら(しい)、あら(た);",
+    "check": false
+  },
+  {
+    "kanji": "場",
+    "furigana": "On: ジョウ;\n Kun: ば;",
+    "check": false
+  },
+  {
+    "kanji": "員",
+    "furigana": "On: イン;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "立",
+    "furigana": "On: リツ;\n Kun: た(つ);",
+    "check": false
+  },
+  {
+    "kanji": "開",
+    "furigana": "On: カイ;\n Kun: ひら(く)、あ(ける);",
+    "check": false
+  },
+  {
+    "kanji": "手",
+    "furigana": "On: シュ;\n Kun: て;",
+    "check": false
+  },
+  {
+    "kanji": "力",
+    "furigana": "On: リョク、リキ;\n Kun: ちから;",
+    "check": false
+  },
+  {
+    "kanji": "問",
+    "furigana": "On: モン;\n Kun: と(う);",
+    "check": false
+  },
+  {
+    "kanji": "代",
+    "furigana": "On: ダイ;\n Kun: か(わり);",
+    "check": false
+  },
+  {
+    "kanji": "明",
+    "furigana": "On: メイ、ミョウ;\n Kun: あか(るい);",
+    "check": false
+  },
+  {
+    "kanji": "動",
+    "furigana": "On: ドウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "京",
+    "furigana": "On: キョウ、ケイ、キン;\n Kun: みやこ;",
+    "check": false
+  },
+  {
+    "kanji": "目",
+    "furigana": "On: モク、ボク;\n Kun: め;",
+    "check": false
+  },
+  {
+    "kanji": "通",
+    "furigana": "On: ツウ;\n Kun: とお(る)、かよ(う);",
+    "check": false
+  },
+  {
+    "kanji": "言",
+    "furigana": "On: ゲン、ゴン;\n Kun: い（う）、こと;",
+    "check": false
+  },
+  {
+    "kanji": "理",
+    "furigana": "On: リ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "体",
+    "furigana": "On: タイ;\n Kun: からだ;",
+    "check": false
+  },
+  {
+    "kanji": "田",
+    "furigana": "On: デン;\n Kun: た;",
+    "check": false
+  },
+  {
+    "kanji": "主",
+    "furigana": "On: シュ;\n Kun: ぬし、おも;",
+    "check": false
+  },
+  {
+    "kanji": "題",
+    "furigana": "On: ダイ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "意",
+    "furigana": "On: イ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "不",
+    "furigana": "On: フ、ブ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "作",
+    "furigana": "On: サク、サ;\n Kun: つく(る);",
+    "check": false
+  },
+  {
+    "kanji": "用",
+    "furigana": "On: ヨウ;\n Kun: もち(いる);",
+    "check": false
+  },
+  {
+    "kanji": "度",
+    "furigana": "On: ド、タク;\n Kun: たび、た(い);",
+    "check": false
+  },
+  {
+    "kanji": "強",
+    "furigana": "On: キョウ、ゴウ;\n Kun: つよ(い);",
+    "check": false
+  },
+  {
+    "kanji": "公",
+    "furigana": "On: コウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "持",
+    "furigana": "On: ジ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "野",
+    "furigana": "On: ヤ;\n Kun: の;",
+    "check": false
+  },
+  {
+    "kanji": "以",
+    "furigana": "On: イ;\n Kun: もっ(て);",
+    "check": false
+  },
+  {
+    "kanji": "思",
+    "furigana": "On: シ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "家",
+    "furigana": "On: カ;\n Kun: いえ、や、うち;",
+    "check": false
+  },
+  {
+    "kanji": "世",
+    "furigana": "On: セイ、セ;\n Kun: よ;",
+    "check": false
+  },
+  {
+    "kanji": "多",
+    "furigana": "On: タ;\n Kun: おお(い);",
+    "check": false
+  },
+  {
+    "kanji": "正",
+    "furigana": "On: セイ、ショウ;\n Kun: ただ(しい)、まさ(に);",
+    "check": false
+  },
+  {
+    "kanji": "安",
+    "furigana": "On: アン;\n Kun: やす(い);",
+    "check": false
+  },
+  {
+    "kanji": "院",
+    "furigana": "On: イン;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "心",
+    "furigana": "On: シン;\n Kun: こころ;",
+    "check": false
+  },
+  {
+    "kanji": "界",
+    "furigana": "On: カイ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "教",
+    "furigana": "On: キョウ;\n Kun: おし(える)、おそ(わる);",
+    "check": false
+  },
+  {
+    "kanji": "文",
+    "furigana": "On: ブン、モン;\n Kun: ふみ;",
+    "check": false
+  },
+  {
+    "kanji": "元",
+    "furigana": "On: ゲン、ガン;\n Kun: もと;",
+    "check": false
+  },
+  {
+    "kanji": "重",
+    "furigana": "On: ジュウ、チョウ;\n Kun: おも(い)、かさ(ねる);",
+    "check": false
+  },
+  {
+    "kanji": "近",
+    "furigana": "On: キン;\n Kun: ちか(い);",
+    "check": false
+  },
+  {
+    "kanji": "考",
+    "furigana": "On: コウ;\n Kun: かんが(える);",
+    "check": false
+  },
+  {
+    "kanji": "画",
+    "furigana": "On: ガ、カク;\n Kun: かく(する);",
+    "check": false
+  },
+  {
+    "kanji": "海",
+    "furigana": "On: カイ;\n Kun: うみ;",
+    "check": false
+  },
+  {
+    "kanji": "売",
+    "furigana": "On: バイ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "知",
+    "furigana": "On: チ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "道",
+    "furigana": "On: ドウ;\n Kun: みち;",
+    "check": false
+  },
+  {
+    "kanji": "集",
+    "furigana": "On: シュウ;\n Kun: あつ(める);",
+    "check": false
+  },
+  {
+    "kanji": "別",
+    "furigana": "On: ベツ;\n Kun: わか(れる)、わ(ける);",
+    "check": false
+  },
+  {
+    "kanji": "物",
+    "furigana": "On: ブツ、モツ;\n Kun: もの;",
+    "check": false
+  },
+  {
+    "kanji": "使",
+    "furigana": "On: シ;\n Kun: つか(う);",
+    "check": false
+  },
+  {
+    "kanji": "品",
+    "furigana": "On: ヒン;\n Kun: しな;",
+    "check": false
+  },
+  {
+    "kanji": "計",
+    "furigana": "On: ケイ;\n Kun: はか(る);",
+    "check": false
+  },
+  {
+    "kanji": "死",
+    "furigana": "On: シ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "特",
+    "furigana": "On: トク;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "私",
+    "furigana": "On: シ;\n Kun: わたくし、わたし;",
+    "check": false
+  },
+  {
+    "kanji": "始",
+    "furigana": "On: シ;\n Kun: はじ(める);",
+    "check": false
+  },
+  {
+    "kanji": "朝",
+    "furigana": "On: チョウ;\n Kun: あさ;",
+    "check": false
+  },
+  {
+    "kanji": "運",
+    "furigana": "On: ウン;\n Kun: はこ(ぶ);",
+    "check": false
+  },
+  {
+    "kanji": "終",
+    "furigana": "On: シュウ;\n Kun: お(わる);",
+    "check": false
+  },
+  {
+    "kanji": "台",
+    "furigana": "On: ダイ、タイ;\n Kun: うてな;",
+    "check": false
+  },
+  {
+    "kanji": "広",
+    "furigana": "On: コウ;\n Kun: ひろ(い);",
+    "check": false
+  },
+  {
+    "kanji": "住",
+    "furigana": "On: ジュウ、チュウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "無",
+    "furigana": "On: ム、ブ;\n Kun: な(い);",
+    "check": false
+  },
+  {
+    "kanji": "真",
+    "furigana": "On: シン;\n Kun: ま、まこと;",
+    "check": false
+  },
+  {
+    "kanji": "有",
+    "furigana": "On: ユウ、ウ;\n Kun: あ(る);",
+    "check": false
+  },
+  {
+    "kanji": "口",
+    "furigana": "On: コウ;\n Kun: くち;",
+    "check": false
+  },
+  {
+    "kanji": "少",
+    "furigana": "On: ショウ;\n Kun: すく(ない)、すこ(し);",
+    "check": false
+  },
+  {
+    "kanji": "町",
+    "furigana": "On: チョウ;\n Kun: まち;",
+    "check": false
+  },
+  {
+    "kanji": "料",
+    "furigana": "On: リョウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "工",
+    "furigana": "On: コウ、ク、グ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "建",
+    "furigana": "On: ケン、コン;\n Kun: た(てる);",
+    "check": false
+  },
+  {
+    "kanji": "空",
+    "furigana": "On: クウ;\n Kun: そら、から、あ(く)、す(く)、むな(しい);",
+    "check": false
+  },
+  {
+    "kanji": "急",
+    "furigana": "On: キュウ;\n Kun: いそ(ぐ);",
+    "check": false
+  },
+  {
+    "kanji": "止",
+    "furigana": "On: シ;\n Kun: と(まる)、とど(まる)、や(める)、よ(す);",
+    "check": false
+  },
+  {
+    "kanji": "送",
+    "furigana": "On: ソウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "切",
+    "furigana": "On: セツ、サイ;\n Kun: き(る);",
+    "check": false
+  },
+  {
+    "kanji": "転",
+    "furigana": "On: テン;\n Kun: ころ(がる);",
+    "check": false
+  },
+  {
+    "kanji": "研",
+    "furigana": "On: ケン;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "足",
+    "furigana": "On: ソク;\n Kun: あし、た(りる);",
+    "check": false
+  },
+  {
+    "kanji": "究",
+    "furigana": "On: キュウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "楽",
+    "furigana": "On: ガク、ラク;\n Kun: たの(しい);",
+    "check": false
+  },
+  {
+    "kanji": "起",
+    "furigana": "On: キ;\n Kun: お(きる)、おこ(す);",
+    "check": false
+  },
+  {
+    "kanji": "着",
+    "furigana": "On: チャク;\n Kun: き(る)、つ(く);",
+    "check": false
+  },
+  {
+    "kanji": "店",
+    "furigana": "On: テン;\n Kun: みせ;",
+    "check": false
+  },
+  {
+    "kanji": "病",
+    "furigana": "On: ビョウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "質",
+    "furigana": "On: シツ、シチ;\n Kun: たち、ただ(す);",
+    "check": false
+  },
+  {
+    "kanji": "待",
+    "furigana": "On: タイ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "試",
+    "furigana": "On: シ;\n Kun: こころ(みる)、ため(す);",
+    "check": false
+  },
+  {
+    "kanji": "族",
+    "furigana": "On: ゾク;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "銀",
+    "furigana": "On: ギン;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "早",
+    "furigana": "On: ソウ、サッ;\n Kun: はや(い);",
+    "check": false
+  },
+  {
+    "kanji": "映",
+    "furigana": "On: エイ;\n Kun: うつ(る)、は(える);",
+    "check": false
+  },
+  {
+    "kanji": "親",
+    "furigana": "On: シン;\n Kun: おや、した(しい);",
+    "check": false
+  },
+  {
+    "kanji": "験",
+    "furigana": "On: ケン;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "英",
+    "furigana": "On: エイ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "医",
+    "furigana": "On: イ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "仕",
+    "furigana": "On: シ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "去",
+    "furigana": "On: キョ、コ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "味",
+    "furigana": "On: undefined;\n Kun: あじ;",
+    "check": false
+  },
+  {
+    "kanji": "写",
+    "furigana": "On: シャ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "字",
+    "furigana": "On: ジ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "答",
+    "furigana": "On: トウ;\n Kun: こた(える);",
+    "check": false
+  },
+  {
+    "kanji": "夜",
+    "furigana": "On: ヤ;\n Kun: よ、よる;",
+    "check": false
+  },
+  {
+    "kanji": "音",
+    "furigana": "On: オン;\n Kun: おと、ね;",
+    "check": false
+  },
+  {
+    "kanji": "注",
+    "furigana": "On: チュウ;\n Kun: そそ(ぐ)、さ(す)、つ(ぐ);",
+    "check": false
+  },
+  {
+    "kanji": "帰",
+    "furigana": "On: キ;\n Kun: かえ(る)、かえ(す);",
+    "check": false
+  },
+  {
+    "kanji": "古",
+    "furigana": "On: コ;\n Kun: ふる(い);",
+    "check": false
+  },
+  {
+    "kanji": "歌",
+    "furigana": "On: カ;\n Kun: うた、うた(う);",
+    "check": false
+  },
+  {
+    "kanji": "買",
+    "furigana": "On: バイ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "悪",
+    "furigana": "On: アク;\n Kun: わる(い);",
+    "check": false
+  },
+  {
+    "kanji": "図",
+    "furigana": "On: ズ、ト;\n Kun: はか(る);",
+    "check": false
+  },
+  {
+    "kanji": "週",
+    "furigana": "On: シュウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "室",
+    "furigana": "On: シツ;\n Kun: むろ;",
+    "check": false
+  },
+  {
+    "kanji": "歩",
+    "furigana": "On: ホ、ブ;\n Kun: ある(く)、あゆ(む);",
+    "check": false
+  },
+  {
+    "kanji": "風",
+    "furigana": "On: フウ、フ;\n Kun: かぜ、かざ-;",
+    "check": false
+  },
+  {
+    "kanji": "紙",
+    "furigana": "On: シ;\n Kun: かみ;",
+    "check": false
+  },
+  {
+    "kanji": "黒",
+    "furigana": "On: コク;\n Kun: くろ;",
+    "check": false
+  },
+  {
+    "kanji": "花",
+    "furigana": "On: カ、ケ;\n Kun: はな;",
+    "check": false
+  },
+  {
+    "kanji": "春",
+    "furigana": "On: シュン;\n Kun: はる;",
+    "check": false
+  },
+  {
+    "kanji": "赤",
+    "furigana": "On: セキ、シャク;\n Kun: あか(い);",
+    "check": false
+  },
+  {
+    "kanji": "青",
+    "furigana": "On: セイ、ショウ;\n Kun: あお(い);",
+    "check": false
+  },
+  {
+    "kanji": "館",
+    "furigana": "On: カン;\n Kun: やかた;",
+    "check": false
+  },
+  {
+    "kanji": "屋",
+    "furigana": "On: オク;\n Kun: や;",
+    "check": false
+  },
+  {
+    "kanji": "色",
+    "furigana": "On: ショク、シキ;\n Kun: いろ;",
+    "check": false
+  },
+  {
+    "kanji": "走",
+    "furigana": "On: undefined;\n Kun: はし(る);",
+    "check": false
+  },
+  {
+    "kanji": "秋",
+    "furigana": "On: シュウ;\n Kun: あき;",
+    "check": false
+  },
+  {
+    "kanji": "夏",
+    "furigana": "On: カ、ゲ;\n Kun: なつ;",
+    "check": false
+  },
+  {
+    "kanji": "習",
+    "furigana": "On: シュウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "駅",
+    "furigana": "On: エキ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "洋",
+    "furigana": "On: ヨウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "旅",
+    "furigana": "On: リョ;\n Kun: たび;",
+    "check": false
+  },
+  {
+    "kanji": "服",
+    "furigana": "On: フク;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "夕",
+    "furigana": "On: セキ;\n Kun: ゆう;",
+    "check": false
+  },
+  {
+    "kanji": "借",
+    "furigana": "On: シャク;\n Kun: か(りる);",
+    "check": false
+  },
+  {
+    "kanji": "曜",
+    "furigana": "On: ヨウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "飲",
+    "furigana": "On: イン;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "肉",
+    "furigana": "On: ニク;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "貸",
+    "furigana": "On: タイ;\n Kun: か(す)、かし;",
+    "check": false
+  },
+  {
+    "kanji": "堂",
+    "furigana": "On: ドウ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "鳥",
+    "furigana": "On: チョウ;\n Kun: とり;",
+    "check": false
+  },
+  {
+    "kanji": "飯",
+    "furigana": "On: ハン;\n Kun: めし;",
+    "check": false
+  },
+  {
+    "kanji": "勉",
+    "furigana": "On: ベン;\n Kun: つと(める);",
+    "check": false
+  },
+  {
+    "kanji": "冬",
+    "furigana": "On: トウ;\n Kun: ふゆ;",
+    "check": false
+  },
+  {
+    "kanji": "昼",
+    "furigana": "On: チュウ;\n Kun: ひる;",
+    "check": false
+  },
+  {
+    "kanji": "茶",
+    "furigana": "On: チャ、サ;\n Kun: undefined;",
+    "check": false
+  },
+  {
+    "kanji": "弟",
+    "furigana": "On: テイ、ダイ、デ;\n Kun: おとうと;",
+    "check": false
+  },
+  {
+    "kanji": "牛",
+    "furigana": "On: ギュウ;\n Kun: うし;",
+    "check": false
+  },
+  {
+    "kanji": "魚",
+    "furigana": "On: ギョ;\n Kun: うお、さかな;",
+    "check": false
+  },
+  {
+    "kanji": "兄",
+    "furigana": "On: キョウ、ケイ;\n Kun: あに;",
+    "check": false
+  },
+  {
+    "kanji": "犬",
+    "furigana": "On: ケン;\n Kun: いぬ;",
+    "check": false
+  },
+  {
+    "kanji": "妹",
+    "furigana": "On: マイ;\n Kun: いもうと;",
+    "check": false
+  },
+  {
+    "kanji": "姉",
+    "furigana": "On: シ;\n Kun: あね;",
+    "check": false
+  },
+  {
+    "kanji": "漢",
+    "furigana": "On: カン;\n Kun: undefined;",
+    "check": false
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "kanji": "だけ",
+    "furigana": "",
+    "translation": "only; just; as much as~",
+    "check": false
+  },
+  {
+    "kanji": "が",
+    "furigana": "",
+    "translation": "subject marker; however; but~",
+    "check": false
+  },
+  {
+    "kanji": "か",
+    "furigana": "",
+    "translation": "question particle",
+    "check": false
+  },
+  {
+    "kanji": "か～か",
+    "furigana": "",
+    "translation": "or",
+    "check": false
+  },
+  {
+    "kanji": "から",
+    "furigana": "",
+    "translation": "because; since; from",
+    "check": false
+  },
+  {
+    "kanji": "けど",
+    "furigana": "",
+    "translation": "but; however; although~",
+    "check": false
+  },
+  {
+    "kanji": "けれども",
+    "furigana": "",
+    "translation": "but; however; although~",
+    "check": false
+  },
+  {
+    "kanji": "まで",
+    "furigana": "",
+    "translation": "until; as far as; even~",
+    "check": false
+  },
+  {
+    "kanji": "も",
+    "furigana": "",
+    "translation": "too; also; as well",
+    "check": false
+  },
+  {
+    "kanji": "なあ",
+    "furigana": "",
+    "translation": "sentence ending; confirm; admiration",
+    "check": false
+  },
+  {
+    "kanji": "んです",
+    "furigana": "",
+    "translation": "to explain something; emphasis",
+    "check": false
+  },
+  {
+    "kanji": "ね",
+    "furigana": "",
+    "translation": "isn't it? right? eh?",
+    "check": false
+  },
+  {
+    "kanji": "に",
+    "furigana": "",
+    "translation": "destination particle; in/at/on/to",
+    "check": false
+  },
+  {
+    "kanji": "に/へ",
+    "furigana": "",
+    "translation": "to (direction / destination)",
+    "check": false
+  },
+  {
+    "kanji": "の",
+    "furigana": "",
+    "translation": "possessive particle",
+    "check": false
+  },
+  {
+    "kanji": "のです",
+    "furigana": "",
+    "translation": "to explain something; emphasis",
+    "check": false
+  },
+  {
+    "kanji": "ので",
+    "furigana": "",
+    "translation": "because of; given that; since",
+    "check": false
+  },
+  {
+    "kanji": "お / ご",
+    "furigana": "",
+    "translation": "polite marker; honorific prefix",
+    "check": false
+  },
+  {
+    "kanji": "を",
+    "furigana": "",
+    "translation": "object marker particle",
+    "check": false
+  },
+  {
+    "kanji": "たり～たり",
+    "furigana": "",
+    "translation": "do such things as A and B",
+    "check": false
+  },
+  {
+    "kanji": "と",
+    "furigana": "",
+    "translation": "and; with; connecting particle",
+    "check": false
+  },
+  {
+    "kanji": "は",
+    "furigana": "",
+    "translation": "topic marker",
+    "check": false
+  },
+  {
+    "kanji": "や",
+    "furigana": "",
+    "translation": "and; or; connecting particle",
+    "check": false
+  },
+  {
+    "kanji": "よ",
+    "furigana": "",
+    "translation": "you know; ending emphasis",
+    "check": false
+  },
+  {
+    "kanji": "より～ほうが",
+    "furigana": "",
+    "translation": "[A] is more than [B]",
+    "check": false
+  }
+]

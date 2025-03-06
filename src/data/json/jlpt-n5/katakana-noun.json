@@ -1,0 +1,368 @@
+[
+  {
+    "kanji": "アパート",
+    "furigana": "",
+    "translation": "apartment",
+    "check": false
+  },
+  {
+    "kanji": "バス",
+    "furigana": "",
+    "translation": "bus",
+    "check": false
+  },
+  {
+    "kanji": "バター",
+    "furigana": "",
+    "translation": "butter",
+    "check": false
+  },
+  {
+    "kanji": "ベッド",
+    "furigana": "",
+    "translation": "bed",
+    "check": false
+  },
+  {
+    "kanji": "ボールペン",
+    "furigana": "",
+    "translation": "ball-point pen",
+    "check": false
+  },
+  {
+    "kanji": "ボタン",
+    "furigana": "",
+    "translation": "button",
+    "check": false
+  },
+  {
+    "kanji": "デパート",
+    "furigana": "",
+    "translation": "department store",
+    "check": false
+  },
+  {
+    "kanji": "ドア",
+    "furigana": "",
+    "translation": "door",
+    "check": false
+  },
+  {
+    "kanji": "エレベーター",
+    "furigana": "",
+    "translation": "elevator",
+    "check": false
+  },
+  {
+    "kanji": "フィルム",
+    "furigana": "",
+    "translation": "film",
+    "check": false
+  },
+  {
+    "kanji": "フォーク",
+    "furigana": "",
+    "translation": "fork",
+    "check": false
+  },
+  {
+    "kanji": "ギター",
+    "furigana": "",
+    "translation": "guitar",
+    "check": false
+  },
+  {
+    "kanji": "グラム",
+    "furigana": "",
+    "translation": "gram",
+    "check": false
+  },
+  {
+    "kanji": "ハンカチ",
+    "furigana": "",
+    "translation": "handkerchief",
+    "check": false
+  },
+  {
+    "kanji": "ホテル",
+    "furigana": "",
+    "translation": "hotel",
+    "check": false
+  },
+  {
+    "kanji": "カメラ",
+    "furigana": "",
+    "translation": "camera",
+    "check": false
+  },
+  {
+    "kanji": "カップ",
+    "furigana": "",
+    "translation": "cup",
+    "check": false
+  },
+  {
+    "kanji": "カレー",
+    "furigana": "",
+    "translation": "curry",
+    "check": false
+  },
+  {
+    "kanji": "カレンダー",
+    "furigana": "",
+    "translation": "calendar",
+    "check": false
+  },
+  {
+    "kanji": "キログラム",
+    "furigana": "",
+    "translation": "kilogram",
+    "check": false
+  },
+  {
+    "kanji": "キロメートル",
+    "furigana": "",
+    "translation": "kilometer",
+    "check": false
+  },
+  {
+    "kanji": "コーヒー",
+    "furigana": "",
+    "translation": "Coffee",
+    "check": false
+  },
+  {
+    "kanji": "コート",
+    "furigana": "",
+    "translation": "coat",
+    "check": false
+  },
+  {
+    "kanji": "コピー",
+    "furigana": "",
+    "translation": "copy; photocopy",
+    "check": false
+  },
+  {
+    "kanji": "コップ",
+    "furigana": "",
+    "translation": "glass; cup",
+    "check": false
+  },
+  {
+    "kanji": "クラス",
+    "furigana": "",
+    "translation": "class",
+    "check": false
+  },
+  {
+    "kanji": "マッチ",
+    "furigana": "",
+    "translation": "match",
+    "check": false
+  },
+  {
+    "kanji": "メートル",
+    "furigana": "",
+    "translation": "metre; meter",
+    "check": false
+  },
+  {
+    "kanji": "ナイフ",
+    "furigana": "",
+    "translation": "knife",
+    "check": false
+  },
+  {
+    "kanji": "ネクタイ",
+    "furigana": "",
+    "translation": "tie; necktie",
+    "check": false
+  },
+  {
+    "kanji": "ノート",
+    "furigana": "",
+    "translation": "notebook",
+    "check": false
+  },
+  {
+    "kanji": "ニュース",
+    "furigana": "",
+    "translation": "news",
+    "check": false
+  },
+  {
+    "kanji": "パーティー",
+    "furigana": "",
+    "translation": "party",
+    "check": false
+  },
+  {
+    "kanji": "パン",
+    "furigana": "",
+    "translation": "bread",
+    "check": false
+  },
+  {
+    "kanji": "ページ",
+    "furigana": "",
+    "translation": "page",
+    "check": false
+  },
+  {
+    "kanji": "ペン",
+    "furigana": "",
+    "translation": "pen",
+    "check": false
+  },
+  {
+    "kanji": "ペット",
+    "furigana": "",
+    "translation": "pet",
+    "check": false
+  },
+  {
+    "kanji": "ポケット",
+    "furigana": "",
+    "translation": "pocket",
+    "check": false
+  },
+  {
+    "kanji": "ポスト",
+    "furigana": "",
+    "translation": "post",
+    "check": false
+  },
+  {
+    "kanji": "プール",
+    "furigana": "",
+    "translation": "swimming pool",
+    "check": false
+  },
+  {
+    "kanji": "ラジオ",
+    "furigana": "",
+    "translation": "radio",
+    "check": false
+  },
+  {
+    "kanji": "レコード",
+    "furigana": "",
+    "translation": "record",
+    "check": false
+  },
+  {
+    "kanji": "レストラン",
+    "furigana": "",
+    "translation": "restaurant",
+    "check": false
+  },
+  {
+    "kanji": "セーター",
+    "furigana": "",
+    "translation": "sweater; jumper",
+    "check": false
+  },
+  {
+    "kanji": "シャツ",
+    "furigana": "",
+    "translation": "shirt",
+    "check": false
+  },
+  {
+    "kanji": "シャワー",
+    "furigana": "",
+    "translation": "shower",
+    "check": false
+  },
+  {
+    "kanji": "スカート",
+    "furigana": "",
+    "translation": "skirt",
+    "check": false
+  },
+  {
+    "kanji": "スポーツ",
+    "furigana": "",
+    "translation": "sport; sports",
+    "check": false
+  },
+  {
+    "kanji": "スプーン",
+    "furigana": "",
+    "translation": "spoon",
+    "check": false
+  },
+  {
+    "kanji": "スリッパ",
+    "furigana": "",
+    "translation": "slipper; slippers",
+    "check": false
+  },
+  {
+    "kanji": "ストーブ",
+    "furigana": "",
+    "translation": "heater; stove",
+    "check": false
+  },
+  {
+    "kanji": "タクシー",
+    "furigana": "",
+    "translation": "taxi",
+    "check": false
+  },
+  {
+    "kanji": "テーブル",
+    "furigana": "",
+    "translation": "table",
+    "check": false
+  },
+  {
+    "kanji": "テープ",
+    "furigana": "",
+    "translation": "tape",
+    "check": false
+  },
+  {
+    "kanji": "テープレコーダー",
+    "furigana": "",
+    "translation": "tape recorder",
+    "check": false
+  },
+  {
+    "kanji": "テレビ",
+    "furigana": "",
+    "translation": "television; TV",
+    "check": false
+  },
+  {
+    "kanji": "テスト",
+    "furigana": "",
+    "translation": "examination; quiz; test",
+    "check": false
+  },
+  {
+    "kanji": "トイレ",
+    "furigana": "",
+    "translation": "toilet",
+    "check": false
+  },
+  {
+    "kanji": "ワイシャツ",
+    "furigana": "",
+    "translation": "shirt",
+    "check": false
+  },
+  {
+    "kanji": "ゼロ",
+    "furigana": "",
+    "translation": "zero",
+    "check": false
+  },
+  {
+    "kanji": "ズボン",
+    "furigana": "",
+    "translation": "trousers; pants",
+    "check": false
+  }
+]

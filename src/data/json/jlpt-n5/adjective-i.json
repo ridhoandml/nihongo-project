@@ -1,0 +1,362 @@
+[
+  {
+    "kanji": "危ない",
+    "furigana": "あぶない",
+    "translation": "dangerous",
+    "check": false
+  },
+  {
+    "kanji": "赤い",
+    "furigana": "あかい",
+    "translation": "red; crimson; scarlet",
+    "check": false
+  },
+  {
+    "kanji": "明るい",
+    "furigana": "あかるい",
+    "translation": "bright; light",
+    "check": false
+  },
+  {
+    "kanji": "甘い",
+    "furigana": "あまい",
+    "translation": "sweet; sugary; naive",
+    "check": false
+  },
+  {
+    "kanji": "青い",
+    "furigana": "あおい",
+    "translation": "blue; azure",
+    "check": false
+  },
+  {
+    "kanji": "新しい",
+    "furigana": "あたらしい",
+    "translation": "new; fresh; recent; latest",
+    "check": false
+  },
+  {
+    "kanji": "暖かい",
+    "furigana": "あたたかい",
+    "translation": "warm",
+    "check": false
+  },
+  {
+    "kanji": "厚い",
+    "furigana": "あつい",
+    "translation": "thick",
+    "check": false
+  },
+  {
+    "kanji": "暑い",
+    "furigana": "あつい",
+    "translation": "hot; sultry (weather)",
+    "check": false
+  },
+  {
+    "kanji": "熱い",
+    "furigana": "あつい",
+    "translation": "hot (temperature)",
+    "check": false
+  },
+  {
+    "kanji": "小さい",
+    "furigana": "ちいさい",
+    "translation": "small; little; tiny",
+    "check": false
+  },
+  {
+    "kanji": "近い",
+    "furigana": "ちかい",
+    "translation": "near; close",
+    "check": false
+  },
+  {
+    "kanji": "古い",
+    "furigana": "ふるい",
+    "translation": "old (not used for people)",
+    "check": false
+  },
+  {
+    "kanji": "太い",
+    "furigana": "ふとい",
+    "translation": "fat; thick",
+    "check": false
+  },
+  {
+    "kanji": "早い",
+    "furigana": "はやい",
+    "translation": "fast; early",
+    "check": false
+  },
+  {
+    "kanji": "速い",
+    "furigana": "はやい",
+    "translation": "fast; quick; hasty; brisk",
+    "check": false
+  },
+  {
+    "kanji": "低い",
+    "furigana": "ひくい",
+    "translation": "short,low",
+    "check": false
+  },
+  {
+    "kanji": "広い",
+    "furigana": "ひろい",
+    "translation": "spacious; vast; wide",
+    "check": false
+  },
+  {
+    "kanji": "欲しい",
+    "furigana": "ほしい",
+    "translation": "want",
+    "check": false
+  },
+  {
+    "kanji": "細い",
+    "furigana": "ほそい",
+    "translation": "thin; slender",
+    "check": false
+  },
+  {
+    "kanji": "忙しい",
+    "furigana": "いそがしい",
+    "translation": "busy",
+    "check": false
+  },
+  {
+    "kanji": "痛い",
+    "furigana": "いたい",
+    "translation": "painful; sore",
+    "check": false
+  },
+  {
+    "kanji": "辛い",
+    "furigana": "からい",
+    "translation": "spicy",
+    "check": false
+  },
+  {
+    "kanji": "軽い",
+    "furigana": "かるい",
+    "translation": "light",
+    "check": false
+  },
+  {
+    "kanji": "可愛い",
+    "furigana": "かわいい",
+    "translation": "cute",
+    "check": false
+  },
+  {
+    "kanji": "黄色い",
+    "furigana": "きいろい",
+    "translation": "yellow",
+    "check": false
+  },
+  {
+    "kanji": "汚い",
+    "furigana": "きたない",
+    "translation": "dirty",
+    "check": false
+  },
+  {
+    "kanji": "暗い",
+    "furigana": "くらい",
+    "translation": "dark; gloomy; murky",
+    "check": false
+  },
+  {
+    "kanji": "黒い",
+    "furigana": "くろい",
+    "translation": "black",
+    "check": false
+  },
+  {
+    "kanji": "丸い",
+    "furigana": "まるい",
+    "translation": "round,circular",
+    "check": false
+  },
+  {
+    "kanji": "不味い",
+    "furigana": "まずい",
+    "translation": "unpleasant",
+    "check": false
+  },
+  {
+    "kanji": "短い",
+    "furigana": "みじかい",
+    "translation": "short",
+    "check": false
+  },
+  {
+    "kanji": "難しい",
+    "furigana": "むずかしい",
+    "translation": "difficult",
+    "check": false
+  },
+  {
+    "kanji": "長い",
+    "furigana": "ながい",
+    "translation": "long (distance); long (time)",
+    "check": false
+  },
+  {
+    "kanji": "温い",
+    "furigana": "ぬるい",
+    "translation": "luke warm",
+    "check": false
+  },
+  {
+    "kanji": "美味しい",
+    "furigana": "おいしい",
+    "translation": "delicious",
+    "check": false
+  },
+  {
+    "kanji": "重い",
+    "furigana": "おもい",
+    "translation": "heavy",
+    "check": false
+  },
+  {
+    "kanji": "面白い",
+    "furigana": "おもしろい",
+    "translation": "interesting",
+    "check": false
+  },
+  {
+    "kanji": "多い",
+    "furigana": "おおい",
+    "translation": "many; numerous",
+    "check": false
+  },
+  {
+    "kanji": "大きい",
+    "furigana": "おおきい",
+    "translation": "big; large; great; important",
+    "check": false
+  },
+  {
+    "kanji": "遅い",
+    "furigana": "おそい",
+    "translation": "slow; time-consuming; late",
+    "check": false
+  },
+  {
+    "kanji": "寒い",
+    "furigana": "さむい",
+    "translation": "cold",
+    "check": false
+  },
+  {
+    "kanji": "狭い",
+    "furigana": "せまい",
+    "translation": "narrow",
+    "check": false
+  },
+  {
+    "kanji": "白い",
+    "furigana": "しろい",
+    "translation": "white",
+    "check": false
+  },
+  {
+    "kanji": "少ない",
+    "furigana": "すくない",
+    "translation": "few; a little; scarce",
+    "check": false
+  },
+  {
+    "kanji": "涼しい",
+    "furigana": "すずしい",
+    "translation": "refreshing, cool",
+    "check": false
+  },
+  {
+    "kanji": "高い",
+    "furigana": "たかい",
+    "translation": "high; tall; expensive",
+    "check": false
+  },
+  {
+    "kanji": "楽しい",
+    "furigana": "たのしい",
+    "translation": "enjoyable; fun",
+    "check": false
+  },
+  {
+    "kanji": "遠い",
+    "furigana": "とおい",
+    "translation": "far",
+    "check": false
+  },
+  {
+    "kanji": "詰まらない",
+    "furigana": "つまらない",
+    "translation": "boring",
+    "check": false
+  },
+  {
+    "kanji": "冷たい",
+    "furigana": "つめたい",
+    "translation": "cold to the touch",
+    "check": false
+  },
+  {
+    "kanji": "強い",
+    "furigana": "つよい",
+    "translation": "powerful",
+    "check": false
+  },
+  {
+    "kanji": "煩い",
+    "furigana": "うるさい",
+    "translation": "noisy, annoying",
+    "check": false
+  },
+  {
+    "kanji": "薄い",
+    "furigana": "うすい",
+    "translation": "thin; weak",
+    "check": false
+  },
+  {
+    "kanji": "若い",
+    "furigana": "わかい",
+    "translation": "young",
+    "check": false
+  },
+  {
+    "kanji": "悪い",
+    "furigana": "わるい",
+    "translation": "bad; poor; undesirable",
+    "check": false
+  },
+  {
+    "kanji": "易しい",
+    "furigana": "やさしい",
+    "translation": "easy, simple",
+    "check": false
+  },
+  {
+    "kanji": "安い",
+    "furigana": "やすい",
+    "translation": "cheap; inexpensive",
+    "check": false
+  },
+  {
+    "kanji": "良い",
+    "furigana": "よい / いい",
+    "translation": "good",
+    "check": false
+  },
+  {
+    "kanji": "弱い",
+    "furigana": "よわい",
+    "translation": "weak",
+    "check": false
+  }
+]

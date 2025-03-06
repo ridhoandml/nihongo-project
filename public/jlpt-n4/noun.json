@@ -1,0 +1,2444 @@
+[
+  {
+    "kanji": "アフリカ",
+    "furigana": "",
+    "translation": "Africa",
+    "check": false
+  },
+  {
+    "kanji": "挨拶",
+    "furigana": "あいさつ",
+    "translation": "to greet",
+    "check": false
+  },
+  {
+    "kanji": "味",
+    "furigana": "あじ",
+    "translation": "flavor; taste",
+    "check": false
+  },
+  {
+    "kanji": "アジア",
+    "furigana": "",
+    "translation": "Asia",
+    "check": false
+  },
+  {
+    "kanji": "赤ちゃん",
+    "furigana": "あかちゃん",
+    "translation": "baby; infant",
+    "check": false
+  },
+  {
+    "kanji": "赤ん坊",
+    "furigana": "あかんぼう",
+    "translation": "baby; infant",
+    "check": false
+  },
+  {
+    "kanji": "アクセサリー",
+    "furigana": "",
+    "translation": "accessory",
+    "check": false
+  },
+  {
+    "kanji": "アメリカ",
+    "furigana": "",
+    "translation": "America",
+    "check": false
+  },
+  {
+    "kanji": "アナウンサー",
+    "furigana": "",
+    "translation": "announcer",
+    "check": false
+  },
+  {
+    "kanji": "案内",
+    "furigana": "あんない",
+    "translation": "to guide",
+    "check": false
+  },
+  {
+    "kanji": "安心",
+    "furigana": "あんしん",
+    "translation": "peace of mind",
+    "check": false
+  },
+  {
+    "kanji": "安全",
+    "furigana": "あんぜん",
+    "translation": "safety; security",
+    "check": false
+  },
+  {
+    "kanji": "アルバイト",
+    "furigana": "",
+    "translation": "part-time job",
+    "check": false
+  },
+  {
+    "kanji": "アルコール",
+    "furigana": "",
+    "translation": "alcohol",
+    "check": false
+  },
+  {
+    "kanji": "遊び",
+    "furigana": "あそび",
+    "translation": "playing",
+    "check": false
+  },
+  {
+    "kanji": "倍",
+    "furigana": "ばい",
+    "translation": "double",
+    "check": false
+  },
+  {
+    "kanji": "番組",
+    "furigana": "ばんぐみ",
+    "translation": "program (e.g. TV)",
+    "check": false
+  },
+  {
+    "kanji": "場所",
+    "furigana": "ばしょ",
+    "translation": "place",
+    "check": false
+  },
+  {
+    "kanji": "ベル",
+    "furigana": "",
+    "translation": "bell",
+    "check": false
+  },
+  {
+    "kanji": "美術館",
+    "furigana": "びじゅつかん",
+    "translation": "art gallery; art museum",
+    "check": false
+  },
+  {
+    "kanji": "ビル",
+    "furigana": "",
+    "translation": "building",
+    "check": false
+  },
+  {
+    "kanji": "貿易",
+    "furigana": "ぼうえき",
+    "translation": "trade",
+    "check": false
+  },
+  {
+    "kanji": "部長",
+    "furigana": "ぶちょう",
+    "translation": "manager; director",
+    "check": false
+  },
+  {
+    "kanji": "ぶどう",
+    "furigana": "",
+    "translation": "grapes",
+    "check": false
+  },
+  {
+    "kanji": "文学",
+    "furigana": "ぶんがく",
+    "translation": "literature",
+    "check": false
+  },
+  {
+    "kanji": "文化",
+    "furigana": "ぶんか",
+    "translation": "culture",
+    "check": false
+  },
+  {
+    "kanji": "文法",
+    "furigana": "ぶんぽう",
+    "translation": "grammar",
+    "check": false
+  },
+  {
+    "kanji": "チェック",
+    "furigana": "",
+    "translation": "to check",
+    "check": false
+  },
+  {
+    "kanji": "血",
+    "furigana": "ち",
+    "translation": "blood",
+    "check": false
+  },
+  {
+    "kanji": "力",
+    "furigana": "ちから",
+    "translation": "energy; strength; power",
+    "check": false
+  },
+  {
+    "kanji": "地理",
+    "furigana": "ちり",
+    "translation": "geography",
+    "check": false
+  },
+  {
+    "kanji": "中学校",
+    "furigana": "ちゅうがっこう",
+    "translation": "junior high/ middle school",
+    "check": false
+  },
+  {
+    "kanji": "注意",
+    "furigana": "ちゅうい",
+    "translation": "caution",
+    "check": false
+  },
+  {
+    "kanji": "注射",
+    "furigana": "ちゅうしゃ",
+    "translation": "injection",
+    "check": false
+  },
+  {
+    "kanji": "駐車場",
+    "furigana": "ちゅうしゃじょう",
+    "translation": "parking lot",
+    "check": false
+  },
+  {
+    "kanji": "大学生",
+    "furigana": "だいがくせい",
+    "translation": "university student",
+    "check": false
+  },
+  {
+    "kanji": "大体",
+    "furigana": "だいたい",
+    "translation": "roughly",
+    "check": false
+  },
+  {
+    "kanji": "暖房",
+    "furigana": "だんぼう",
+    "translation": "heating",
+    "check": false
+  },
+  {
+    "kanji": "男性",
+    "furigana": "だんせい",
+    "translation": "man; male",
+    "check": false
+  },
+  {
+    "kanji": "電報",
+    "furigana": "でんぽう",
+    "translation": "telegram",
+    "check": false
+  },
+  {
+    "kanji": "電灯",
+    "furigana": "でんとう",
+    "translation": "electric light",
+    "check": false
+  },
+  {
+    "kanji": "泥棒",
+    "furigana": "どろぼう",
+    "translation": "thief",
+    "check": false
+  },
+  {
+    "kanji": "動物園",
+    "furigana": "どうぶつえん",
+    "translation": "zoo; zoological gardens",
+    "check": false
+  },
+  {
+    "kanji": "道具",
+    "furigana": "どうぐ",
+    "translation": "tool",
+    "check": false
+  },
+  {
+    "kanji": "枝",
+    "furigana": "えだ",
+    "translation": "branch",
+    "check": false
+  },
+  {
+    "kanji": "遠慮",
+    "furigana": "えんりょ",
+    "translation": "reserve; refraining",
+    "check": false
+  },
+  {
+    "kanji": "エスカレーター",
+    "furigana": "",
+    "translation": "escalator",
+    "check": false
+  },
+  {
+    "kanji": "ファックス",
+    "furigana": "",
+    "translation": "fax",
+    "check": false
+  },
+  {
+    "kanji": "不便",
+    "furigana": "ふべん",
+    "translation": "inconvenience",
+    "check": false
+  },
+  {
+    "kanji": "復習",
+    "furigana": "ふくしゅう",
+    "translation": "review (of learned material)",
+    "check": false
+  },
+  {
+    "kanji": "複雑",
+    "furigana": "ふくざつ",
+    "translation": "complexity; complication",
+    "check": false
+  },
+  {
+    "kanji": "船",
+    "furigana": "ふね",
+    "translation": "ship",
+    "check": false
+  },
+  {
+    "kanji": "布団",
+    "furigana": "ふとん",
+    "translation": "Japanese bedding, futon",
+    "check": false
+  },
+  {
+    "kanji": "普通",
+    "furigana": "ふつう",
+    "translation": "usually",
+    "check": false
+  },
+  {
+    "kanji": "ガラス",
+    "furigana": "",
+    "translation": "a glass",
+    "check": false
+  },
+  {
+    "kanji": "ガソリン",
+    "furigana": "",
+    "translation": "gasoline; petrol",
+    "check": false
+  },
+  {
+    "kanji": "ガソリンスタンド",
+    "furigana": "",
+    "translation": "petrol/gas station",
+    "check": false
+  },
+  {
+    "kanji": "ガス",
+    "furigana": "",
+    "translation": "petrol",
+    "check": false
+  },
+  {
+    "kanji": "原因",
+    "furigana": "げんいん",
+    "translation": "cause",
+    "check": false
+  },
+  {
+    "kanji": "下宿",
+    "furigana": "げしゅく",
+    "translation": "lodging",
+    "check": false
+  },
+  {
+    "kanji": "技術",
+    "furigana": "ぎじゅつ",
+    "translation": "art; technology; skill",
+    "check": false
+  },
+  {
+    "kanji": "ごちそう",
+    "furigana": "",
+    "translation": "a feast",
+    "check": false
+  },
+  {
+    "kanji": "ごみ",
+    "furigana": "",
+    "translation": "rubbish",
+    "check": false
+  },
+  {
+    "kanji": "ご主人",
+    "furigana": "ごしゅじん",
+    "translation": "your husband; her husband",
+    "check": false
+  },
+  {
+    "kanji": "ご存じ",
+    "furigana": "ごぞんじ",
+    "translation": "knowing",
+    "check": false
+  },
+  {
+    "kanji": "具合",
+    "furigana": "ぐあい",
+    "translation": "condition; health",
+    "check": false
+  },
+  {
+    "kanji": "葉",
+    "furigana": "は",
+    "translation": "leaves; leaf",
+    "check": false
+  },
+  {
+    "kanji": "拝見",
+    "furigana": "はいけん",
+    "translation": "seeing; looking at",
+    "check": false
+  },
+  {
+    "kanji": "歯医者",
+    "furigana": "はいしゃ",
+    "translation": "dentist",
+    "check": false
+  },
+  {
+    "kanji": "花見",
+    "furigana": "はなみ",
+    "translation": "cherry blossom viewing",
+    "check": false
+  },
+  {
+    "kanji": "ハンドバッグ",
+    "furigana": "",
+    "translation": "handbag",
+    "check": false
+  },
+  {
+    "kanji": "反対",
+    "furigana": "はんたい",
+    "translation": "opposition",
+    "check": false
+  },
+  {
+    "kanji": "発音",
+    "furigana": "はつおん",
+    "translation": "pronunciation",
+    "check": false
+  },
+  {
+    "kanji": "林",
+    "furigana": "はやし",
+    "translation": "woods; forest",
+    "check": false
+  },
+  {
+    "kanji": "変",
+    "furigana": "へん",
+    "translation": "strange; peculiar; weird",
+    "check": false
+  },
+  {
+    "kanji": "返事",
+    "furigana": "へんじ",
+    "translation": "reply; answer; response",
+    "check": false
+  },
+  {
+    "kanji": "火",
+    "furigana": "ひ",
+    "translation": "fire",
+    "check": false
+  },
+  {
+    "kanji": "髭",
+    "furigana": "ひげ",
+    "translation": "beard",
+    "check": false
+  },
+  {
+    "kanji": "光",
+    "furigana": "ひかり",
+    "translation": "light",
+    "check": false
+  },
+  {
+    "kanji": "引き出し",
+    "furigana": "ひきだし",
+    "translation": "drawer",
+    "check": false
+  },
+  {
+    "kanji": "飛行場",
+    "furigana": "ひこうじょう",
+    "translation": "airfield; airport",
+    "check": false
+  },
+  {
+    "kanji": "昼間",
+    "furigana": "ひるま",
+    "translation": "daytime; during the day",
+    "check": false
+  },
+  {
+    "kanji": "昼休み",
+    "furigana": "ひるやすみ",
+    "translation": "lunch break; noon recess",
+    "check": false
+  },
+  {
+    "kanji": "久しぶり",
+    "furigana": "ひさしぶり",
+    "translation": "after a long time",
+    "check": false
+  },
+  {
+    "kanji": "翻訳",
+    "furigana": "ほんやく",
+    "translation": "translation",
+    "check": false
+  },
+  {
+    "kanji": "星",
+    "furigana": "ほし",
+    "translation": "star",
+    "check": false
+  },
+  {
+    "kanji": "ほとんど",
+    "furigana": "",
+    "translation": "mostly",
+    "check": false
+  },
+  {
+    "kanji": "法律",
+    "furigana": "ほうりつ",
+    "translation": "law",
+    "check": false
+  },
+  {
+    "kanji": "放送",
+    "furigana": "ほうそう",
+    "translation": "to broadcast",
+    "check": false
+  },
+  {
+    "kanji": "一度",
+    "furigana": "いちど",
+    "translation": "once; one time",
+    "check": false
+  },
+  {
+    "kanji": "以外",
+    "furigana": "いがい",
+    "translation": "with the exception of",
+    "check": false
+  },
+  {
+    "kanji": "医学",
+    "furigana": "いがく",
+    "translation": "medical science; medicine",
+    "check": false
+  },
+  {
+    "kanji": "以上",
+    "furigana": "いじょう",
+    "translation": "... and more; ... and upwards",
+    "check": false
+  },
+  {
+    "kanji": "以下",
+    "furigana": "いか",
+    "translation": "not exceeding",
+    "check": false
+  },
+  {
+    "kanji": "意見",
+    "furigana": "いけん",
+    "translation": "opinion; view; comment",
+    "check": false
+  },
+  {
+    "kanji": "生き物",
+    "furigana": "いきもの",
+    "translation": "living thing",
+    "check": false
+  },
+  {
+    "kanji": "以内",
+    "furigana": "いない",
+    "translation": "within",
+    "check": false
+  },
+  {
+    "kanji": "田舎",
+    "furigana": "いなか",
+    "translation": "countryside",
+    "check": false
+  },
+  {
+    "kanji": "いっぱい",
+    "furigana": "",
+    "translation": "full",
+    "check": false
+  },
+  {
+    "kanji": "石",
+    "furigana": "いし",
+    "translation": "stone",
+    "check": false
+  },
+  {
+    "kanji": "一生懸命",
+    "furigana": "いっしょうけんめい",
+    "translation": "very hard; with utmost effort",
+    "check": false
+  },
+  {
+    "kanji": "糸",
+    "furigana": "いと",
+    "translation": "thread",
+    "check": false
+  },
+  {
+    "kanji": "ジャム",
+    "furigana": "",
+    "translation": "jam",
+    "check": false
+  },
+  {
+    "kanji": "字",
+    "furigana": "じ",
+    "translation": "character",
+    "check": false
+  },
+  {
+    "kanji": "時代",
+    "furigana": "じだい",
+    "translation": "period",
+    "check": false
+  },
+  {
+    "kanji": "事故",
+    "furigana": "じこ",
+    "translation": "accident",
+    "check": false
+  },
+  {
+    "kanji": "事務所",
+    "furigana": "じむしょ",
+    "translation": "office",
+    "check": false
+  },
+  {
+    "kanji": "神社",
+    "furigana": "じんじゃ",
+    "translation": "Shinto shrine",
+    "check": false
+  },
+  {
+    "kanji": "人口",
+    "furigana": "じんこう",
+    "translation": "population",
+    "check": false
+  },
+  {
+    "kanji": "人生",
+    "furigana": "じんせい",
+    "translation": "human life",
+    "check": false
+  },
+  {
+    "kanji": "地震",
+    "furigana": "じしん",
+    "translation": "earthquake",
+    "check": false
+  },
+  {
+    "kanji": "辞典",
+    "furigana": "じてん",
+    "translation": "dictionary",
+    "check": false
+  },
+  {
+    "kanji": "自由",
+    "furigana": "じゆう",
+    "translation": "freedom",
+    "check": false
+  },
+  {
+    "kanji": "女性",
+    "furigana": "じょせい",
+    "translation": "woman; female",
+    "check": false
+  },
+  {
+    "kanji": "準備",
+    "furigana": "じゅんび",
+    "translation": "to prepare",
+    "check": false
+  },
+  {
+    "kanji": "十分",
+    "furigana": "じゅうぶん",
+    "translation": "enough; sufficient; plenty",
+    "check": false
+  },
+  {
+    "kanji": "柔道",
+    "furigana": "じゅうどう",
+    "translation": "judo",
+    "check": false
+  },
+  {
+    "kanji": "住所",
+    "furigana": "じゅうしょ",
+    "translation": "address",
+    "check": false
+  },
+  {
+    "kanji": "カーテン",
+    "furigana": "",
+    "translation": "curtain",
+    "check": false
+  },
+  {
+    "kanji": "壁",
+    "furigana": "かべ",
+    "translation": "wall",
+    "check": false
+  },
+  {
+    "kanji": "課長",
+    "furigana": "かちょう",
+    "translation": "section manager/chief",
+    "check": false
+  },
+  {
+    "kanji": "帰り",
+    "furigana": "かえり",
+    "translation": "return; coming back",
+    "check": false
+  },
+  {
+    "kanji": "科学",
+    "furigana": "かがく",
+    "translation": "science",
+    "check": false
+  },
+  {
+    "kanji": "鏡",
+    "furigana": "かがみ",
+    "translation": "mirror",
+    "check": false
+  },
+  {
+    "kanji": "海岸",
+    "furigana": "かいがん",
+    "translation": "coast",
+    "check": false
+  },
+  {
+    "kanji": "会議",
+    "furigana": "かいぎ",
+    "translation": "meeting; conference",
+    "check": false
+  },
+  {
+    "kanji": "会議室",
+    "furigana": "かいぎしつ",
+    "translation": "conference room",
+    "check": false
+  },
+  {
+    "kanji": "会場",
+    "furigana": "かいじょう",
+    "translation": "assembly hall; venue",
+    "check": false
+  },
+  {
+    "kanji": "会話",
+    "furigana": "かいわ",
+    "translation": "conversation",
+    "check": false
+  },
+  {
+    "kanji": "火事",
+    "furigana": "かじ",
+    "translation": "fire",
+    "check": false
+  },
+  {
+    "kanji": "格好",
+    "furigana": "かっこう",
+    "translation": "appearance",
+    "check": false
+  },
+  {
+    "kanji": "髪",
+    "furigana": "かみ",
+    "translation": "hair",
+    "check": false
+  },
+  {
+    "kanji": "家内",
+    "furigana": "かない",
+    "translation": "(my) wife; inside the home",
+    "check": false
+  },
+  {
+    "kanji": "看護婦",
+    "furigana": "かんごふ",
+    "translation": "female nurse",
+    "check": false
+  },
+  {
+    "kanji": "関係",
+    "furigana": "かんけい",
+    "translation": "relationship",
+    "check": false
+  },
+  {
+    "kanji": "簡単",
+    "furigana": "かんたん",
+    "translation": "simple; easy",
+    "check": false
+  },
+  {
+    "kanji": "形",
+    "furigana": "かたち",
+    "translation": "shape",
+    "check": false
+  },
+  {
+    "kanji": "代わり",
+    "furigana": "かわり",
+    "translation": "instead; in place",
+    "check": false
+  },
+  {
+    "kanji": "毛",
+    "furigana": "け",
+    "translation": "hair or fur",
+    "check": false
+  },
+  {
+    "kanji": "ケーキ",
+    "furigana": "",
+    "translation": "cake",
+    "check": false
+  },
+  {
+    "kanji": "怪我",
+    "furigana": "けが",
+    "translation": "to injure",
+    "check": false
+  },
+  {
+    "kanji": "計画",
+    "furigana": "けいかく",
+    "translation": "to plan",
+    "check": false
+  },
+  {
+    "kanji": "経験",
+    "furigana": "けいけん",
+    "translation": "to experience",
+    "check": false
+  },
+  {
+    "kanji": "警察",
+    "furigana": "けいさつ",
+    "translation": "police",
+    "check": false
+  },
+  {
+    "kanji": "経済",
+    "furigana": "けいざい",
+    "translation": "finance, economy",
+    "check": false
+  },
+  {
+    "kanji": "見物",
+    "furigana": "けんぶつ",
+    "translation": "sightseeing; visit",
+    "check": false
+  },
+  {
+    "kanji": "喧嘩",
+    "furigana": "けんか",
+    "translation": "to quarrel",
+    "check": false
+  },
+  {
+    "kanji": "研究",
+    "furigana": "けんきゅう",
+    "translation": "research",
+    "check": false
+  },
+  {
+    "kanji": "研究室",
+    "furigana": "けんきゅうしつ",
+    "translation": "laboratory",
+    "check": false
+  },
+  {
+    "kanji": "消しゴム",
+    "furigana": "けしごむ",
+    "translation": "eraser",
+    "check": false
+  },
+  {
+    "kanji": "景色",
+    "furigana": "けしき",
+    "translation": "scenery",
+    "check": false
+  },
+  {
+    "kanji": "気",
+    "furigana": "き",
+    "translation": "spirit",
+    "check": false
+  },
+  {
+    "kanji": "気分",
+    "furigana": "きぶん",
+    "translation": "feeling; mood",
+    "check": false
+  },
+  {
+    "kanji": "機会",
+    "furigana": "きかい",
+    "translation": "chance; opportunity",
+    "check": false
+  },
+  {
+    "kanji": "危険",
+    "furigana": "きけん",
+    "translation": "danger",
+    "check": false
+  },
+  {
+    "kanji": "気持ち",
+    "furigana": "きもち",
+    "translation": "feeling",
+    "check": false
+  },
+  {
+    "kanji": "着物",
+    "furigana": "きもの",
+    "translation": "kimono; traditional clothing",
+    "check": false
+  },
+  {
+    "kanji": "近所",
+    "furigana": "きんじょ",
+    "translation": "neighbourhood",
+    "check": false
+  },
+  {
+    "kanji": "絹",
+    "furigana": "きぬ",
+    "translation": "silk",
+    "check": false
+  },
+  {
+    "kanji": "季節",
+    "furigana": "きせつ",
+    "translation": "season",
+    "check": false
+  },
+  {
+    "kanji": "汽車",
+    "furigana": "きしゃ",
+    "translation": "train",
+    "check": false
+  },
+  {
+    "kanji": "規則",
+    "furigana": "きそく",
+    "translation": "rule",
+    "check": false
+  },
+  {
+    "kanji": "子",
+    "furigana": "こ",
+    "translation": "child",
+    "check": false
+  },
+  {
+    "kanji": "心",
+    "furigana": "こころ",
+    "translation": "heart",
+    "check": false
+  },
+  {
+    "kanji": "国際",
+    "furigana": "こくさい",
+    "translation": "international",
+    "check": false
+  },
+  {
+    "kanji": "米",
+    "furigana": "こめ",
+    "translation": "rice",
+    "check": false
+  },
+  {
+    "kanji": "今度",
+    "furigana": "こんど",
+    "translation": "this time; next time",
+    "check": false
+  },
+  {
+    "kanji": "この間",
+    "furigana": "このあいだ",
+    "translation": "the other day; recently",
+    "check": false
+  },
+  {
+    "kanji": "このごろ",
+    "furigana": "",
+    "translation": "these days; nowadays",
+    "check": false
+  },
+  {
+    "kanji": "コンピュータ",
+    "furigana": "",
+    "translation": "computer",
+    "check": false
+  },
+  {
+    "kanji": "コンサート",
+    "furigana": "",
+    "translation": "concert",
+    "check": false
+  },
+  {
+    "kanji": "今夜",
+    "furigana": "こんや",
+    "translation": "this evening; tonigh",
+    "check": false
+  },
+  {
+    "kanji": "故障",
+    "furigana": "こしょう",
+    "translation": "to break-down",
+    "check": false
+  },
+  {
+    "kanji": "答え",
+    "furigana": "こたえ",
+    "translation": "response",
+    "check": false
+  },
+  {
+    "kanji": "小鳥",
+    "furigana": "ことり",
+    "translation": "small bird",
+    "check": false
+  },
+  {
+    "kanji": "校長",
+    "furigana": "こうちょう",
+    "translation": "principal; headmaster",
+    "check": false
+  },
+  {
+    "kanji": "講堂",
+    "furigana": "こうどう",
+    "translation": "auditorium",
+    "check": false
+  },
+  {
+    "kanji": "郊外",
+    "furigana": "こうがい",
+    "translation": "suburb; residential area",
+    "check": false
+  },
+  {
+    "kanji": "講義",
+    "furigana": "こうぎ",
+    "translation": "lecture",
+    "check": false
+  },
+  {
+    "kanji": "工業",
+    "furigana": "こうぎょう",
+    "translation": "industry",
+    "check": false
+  },
+  {
+    "kanji": "工場",
+    "furigana": "こうじょう",
+    "translation": "factory",
+    "check": false
+  },
+  {
+    "kanji": "高校",
+    "furigana": "こうこう",
+    "translation": "high school",
+    "check": false
+  },
+  {
+    "kanji": "高校生",
+    "furigana": "こうこうせい",
+    "translation": "high school student",
+    "check": false
+  },
+  {
+    "kanji": "公務員",
+    "furigana": "こうむいん",
+    "translation": "government worker",
+    "check": false
+  },
+  {
+    "kanji": "高等学校",
+    "furigana": "こうとうがっこう",
+    "translation": "high school",
+    "check": false
+  },
+  {
+    "kanji": "交通",
+    "furigana": "こうつう",
+    "translation": "traffic",
+    "check": false
+  },
+  {
+    "kanji": "首",
+    "furigana": "くび",
+    "translation": "neck",
+    "check": false
+  },
+  {
+    "kanji": "雲",
+    "furigana": "くも",
+    "translation": "cloud",
+    "check": false
+  },
+  {
+    "kanji": "草",
+    "furigana": "くさ",
+    "translation": "grass",
+    "check": false
+  },
+  {
+    "kanji": "空気",
+    "furigana": "くうき",
+    "translation": "air",
+    "check": false
+  },
+  {
+    "kanji": "空港",
+    "furigana": "くうこう",
+    "translation": "airport",
+    "check": false
+  },
+  {
+    "kanji": "客",
+    "furigana": "きゃく",
+    "translation": "guest; customer",
+    "check": false
+  },
+  {
+    "kanji": "教育",
+    "furigana": "きょういく",
+    "translation": "education",
+    "check": false
+  },
+  {
+    "kanji": "教会",
+    "furigana": "きょうかい",
+    "translation": "church; Christian church",
+    "check": false
+  },
+  {
+    "kanji": "興味",
+    "furigana": "きょうみ",
+    "translation": "interest; curiosity",
+    "check": false
+  },
+  {
+    "kanji": "競争",
+    "furigana": "きょうそう",
+    "translation": "competition",
+    "check": false
+  },
+  {
+    "kanji": "急行",
+    "furigana": "きゅうこう",
+    "translation": "hurrying; rushing",
+    "check": false
+  },
+  {
+    "kanji": "漫画",
+    "furigana": "まんが",
+    "translation": "comic",
+    "check": false
+  },
+  {
+    "kanji": "真ん中",
+    "furigana": "まんなか",
+    "translation": "middle; centre; center",
+    "check": false
+  },
+  {
+    "kanji": "周り",
+    "furigana": "まわり",
+    "translation": "around",
+    "check": false
+  },
+  {
+    "kanji": "港",
+    "furigana": "みなと",
+    "translation": "harbour",
+    "check": false
+  },
+  {
+    "kanji": "味噌",
+    "furigana": "みそ",
+    "translation": "fermented condiment made from soybeans",
+    "check": false
+  },
+  {
+    "kanji": "都",
+    "furigana": "みやこ",
+    "translation": "capital",
+    "check": false
+  },
+  {
+    "kanji": "湖",
+    "furigana": "みずうみ",
+    "translation": "lake",
+    "check": false
+  },
+  {
+    "kanji": "木綿",
+    "furigana": "もめん",
+    "translation": "cotton (material)",
+    "check": false
+  },
+  {
+    "kanji": "森",
+    "furigana": "もり",
+    "translation": "forest",
+    "check": false
+  },
+  {
+    "kanji": "昔",
+    "furigana": "むかし",
+    "translation": "olden days, former",
+    "check": false
+  },
+  {
+    "kanji": "無理",
+    "furigana": "むり",
+    "translation": "impossible",
+    "check": false
+  },
+  {
+    "kanji": "虫",
+    "furigana": "むし",
+    "translation": "insect",
+    "check": false
+  },
+  {
+    "kanji": "息子",
+    "furigana": "むすこ",
+    "translation": "son",
+    "check": false
+  },
+  {
+    "kanji": "娘",
+    "furigana": "むすめ",
+    "translation": "daughter",
+    "check": false
+  },
+  {
+    "kanji": "生",
+    "furigana": "なま",
+    "translation": "raw",
+    "check": false
+  },
+  {
+    "kanji": "寝坊",
+    "furigana": "ねぼう",
+    "translation": "sleeping in late; oversleeping",
+    "check": false
+  },
+  {
+    "kanji": "値段",
+    "furigana": "ねだん",
+    "translation": "price; cost",
+    "check": false
+  },
+  {
+    "kanji": "熱",
+    "furigana": "ねつ",
+    "translation": "fever",
+    "check": false
+  },
+  {
+    "kanji": "二階建て",
+    "furigana": "にかいだて",
+    "translation": "two-storied building",
+    "check": false
+  },
+  {
+    "kanji": "人形",
+    "furigana": "にんぎょう",
+    "translation": "doll",
+    "check": false
+  },
+  {
+    "kanji": "匂い",
+    "furigana": "におい",
+    "translation": "a smell",
+    "check": false
+  },
+  {
+    "kanji": "喉",
+    "furigana": "のど",
+    "translation": "throat",
+    "check": false
+  },
+  {
+    "kanji": "乗り物",
+    "furigana": "のりもの",
+    "translation": "vehicle",
+    "check": false
+  },
+  {
+    "kanji": "入学",
+    "furigana": "にゅうがく",
+    "translation": "entry to school; enrollment",
+    "check": false
+  },
+  {
+    "kanji": "入院",
+    "furigana": "にゅういん",
+    "translation": "hospitalization",
+    "check": false
+  },
+  {
+    "kanji": "踊り",
+    "furigana": "おどり",
+    "translation": "a dance",
+    "check": false
+  },
+  {
+    "kanji": "お祝い",
+    "furigana": "おいわい",
+    "translation": "congratulation",
+    "check": false
+  },
+  {
+    "kanji": "お嬢さん",
+    "furigana": "おじょうさん",
+    "translation": "(another's) daughter",
+    "check": false
+  },
+  {
+    "kanji": "屋上",
+    "furigana": "おくじょう",
+    "translation": "rooftop",
+    "check": false
+  },
+  {
+    "kanji": "贈り物",
+    "furigana": "おくりもの",
+    "translation": "present; gift",
+    "check": false
+  },
+  {
+    "kanji": "お祭り",
+    "furigana": "おまつり",
+    "translation": "festival",
+    "check": false
+  },
+  {
+    "kanji": "お見舞い",
+    "furigana": "おみまい",
+    "translation": "visiting ill people",
+    "check": false
+  },
+  {
+    "kanji": "お土産",
+    "furigana": "おみやげ",
+    "translation": "souvenir",
+    "check": false
+  },
+  {
+    "kanji": "おもちゃ",
+    "furigana": "",
+    "translation": "toy",
+    "check": false
+  },
+  {
+    "kanji": "表",
+    "furigana": "おもて",
+    "translation": "the front",
+    "check": false
+  },
+  {
+    "kanji": "オートバイ",
+    "furigana": "",
+    "translation": "motorcycle",
+    "check": false
+  },
+  {
+    "kanji": "お礼",
+    "furigana": "おれい",
+    "translation": "thanks",
+    "check": false
+  },
+  {
+    "kanji": "押し入れ",
+    "furigana": "おしいれ",
+    "translation": "closet",
+    "check": false
+  },
+  {
+    "kanji": "お宅",
+    "furigana": "おたく",
+    "translation": "your home",
+    "check": false
+  },
+  {
+    "kanji": "音",
+    "furigana": "おと",
+    "translation": "sound; note",
+    "check": false
+  },
+  {
+    "kanji": "お釣り",
+    "furigana": "おつり",
+    "translation": "change (for a purchase)",
+    "check": false
+  },
+  {
+    "kanji": "夫",
+    "furigana": "おっと",
+    "translation": "husband",
+    "check": false
+  },
+  {
+    "kanji": "終わり",
+    "furigana": "おわり",
+    "translation": "the end",
+    "check": false
+  },
+  {
+    "kanji": "親",
+    "furigana": "おや",
+    "translation": "parents",
+    "check": false
+  },
+  {
+    "kanji": "泳ぎ方",
+    "furigana": "およぎかた",
+    "translation": "way of swimming",
+    "check": false
+  },
+  {
+    "kanji": "パート",
+    "furigana": "",
+    "translation": "part; part time",
+    "check": false
+  },
+  {
+    "kanji": "パソコン",
+    "furigana": "",
+    "translation": "personal computer",
+    "check": false
+  },
+  {
+    "kanji": "ピアノ",
+    "furigana": "",
+    "translation": "piano",
+    "check": false
+  },
+  {
+    "kanji": "プレゼント",
+    "furigana": "",
+    "translation": "present; gift",
+    "check": false
+  },
+  {
+    "kanji": "冷房",
+    "furigana": "れいぼう",
+    "translation": "air conditioning",
+    "check": false
+  },
+  {
+    "kanji": "レジ",
+    "furigana": "",
+    "translation": "cashier",
+    "check": false
+  },
+  {
+    "kanji": "歴史",
+    "furigana": "れきし",
+    "translation": "history",
+    "check": false
+  },
+  {
+    "kanji": "レポート",
+    "furigana": "",
+    "translation": "report",
+    "check": false
+  },
+  {
+    "kanji": "利用",
+    "furigana": "りよう",
+    "translation": "use; utilization; application",
+    "check": false
+  },
+  {
+    "kanji": "理由",
+    "furigana": "りゆう",
+    "translation": "reason",
+    "check": false
+  },
+  {
+    "kanji": "留守",
+    "furigana": "るす",
+    "translation": "absence",
+    "check": false
+  },
+  {
+    "kanji": "旅館",
+    "furigana": "りょかん",
+    "translation": "traditional Japanese inn",
+    "check": false
+  },
+  {
+    "kanji": "両方",
+    "furigana": "りょうほう",
+    "translation": "both sides",
+    "check": false
+  },
+  {
+    "kanji": "最後",
+    "furigana": "さいご",
+    "translation": "end; last",
+    "check": false
+  },
+  {
+    "kanji": "最近",
+    "furigana": "さいきん",
+    "translation": "recently",
+    "check": false
+  },
+  {
+    "kanji": "最初",
+    "furigana": "さいしょ",
+    "translation": "beginning; first",
+    "check": false
+  },
+  {
+    "kanji": "坂",
+    "furigana": "さか",
+    "translation": "slope; hill",
+    "check": false
+  },
+  {
+    "kanji": "昨夜",
+    "furigana": "さくや",
+    "translation": "last night",
+    "check": false
+  },
+  {
+    "kanji": "サンダル",
+    "furigana": "",
+    "translation": "sandal",
+    "check": false
+  },
+  {
+    "kanji": "サンドイッチ",
+    "furigana": "",
+    "translation": "sandwich",
+    "check": false
+  },
+  {
+    "kanji": "産業",
+    "furigana": "さんぎょう",
+    "translation": "industry",
+    "check": false
+  },
+  {
+    "kanji": "サラダ",
+    "furigana": "",
+    "translation": "salad",
+    "check": false
+  },
+  {
+    "kanji": "再来月",
+    "furigana": "さらいげつ",
+    "translation": "month after next",
+    "check": false
+  },
+  {
+    "kanji": "再来週",
+    "furigana": "さらいしゅう",
+    "translation": "week after next",
+    "check": false
+  },
+  {
+    "kanji": "生物",
+    "furigana": "せいぶつ",
+    "translation": "living thing",
+    "check": false
+  },
+  {
+    "kanji": "政治",
+    "furigana": "せいじ",
+    "translation": "politics",
+    "check": false
+  },
+  {
+    "kanji": "生活",
+    "furigana": "せいかつ",
+    "translation": "to live",
+    "check": false
+  },
+  {
+    "kanji": "生命",
+    "furigana": "せいめい",
+    "translation": "life",
+    "check": false
+  },
+  {
+    "kanji": "生産",
+    "furigana": "せいさん",
+    "translation": "production",
+    "check": false
+  },
+  {
+    "kanji": "西洋",
+    "furigana": "せいよう",
+    "translation": "the west; Western countries",
+    "check": false
+  },
+  {
+    "kanji": "世界",
+    "furigana": "せかい",
+    "translation": "the world",
+    "check": false
+  },
+  {
+    "kanji": "席",
+    "furigana": "せき",
+    "translation": "seat",
+    "check": false
+  },
+  {
+    "kanji": "線",
+    "furigana": "せん",
+    "translation": "line",
+    "check": false
+  },
+  {
+    "kanji": "背中",
+    "furigana": "せなか",
+    "translation": "back (of body)",
+    "check": false
+  },
+  {
+    "kanji": "先輩",
+    "furigana": "せんぱい",
+    "translation": "senior",
+    "check": false
+  },
+  {
+    "kanji": "戦争",
+    "furigana": "せんそう",
+    "translation": "war",
+    "check": false
+  },
+  {
+    "kanji": "説明",
+    "furigana": "せつめい",
+    "translation": "explanation",
+    "check": false
+  },
+  {
+    "kanji": "社長",
+    "furigana": "しゃちょう",
+    "translation": "company president",
+    "check": false
+  },
+  {
+    "kanji": "社会",
+    "furigana": "しゃかい",
+    "translation": "society; public; community",
+    "check": false
+  },
+  {
+    "kanji": "市",
+    "furigana": "し",
+    "translation": "city",
+    "check": false
+  },
+  {
+    "kanji": "試合",
+    "furigana": "しあい",
+    "translation": "match,game",
+    "check": false
+  },
+  {
+    "kanji": "仕方",
+    "furigana": "しかた",
+    "translation": "way; method",
+    "check": false
+  },
+  {
+    "kanji": "試験",
+    "furigana": "しけん",
+    "translation": "examination",
+    "check": false
+  },
+  {
+    "kanji": "島",
+    "furigana": "しま",
+    "translation": "island",
+    "check": false
+  },
+  {
+    "kanji": "市民",
+    "furigana": "市民",
+    "translation": "citizen",
+    "check": false
+  },
+  {
+    "kanji": "品物",
+    "furigana": "しなもの",
+    "translation": "goods; article; thing",
+    "check": false
+  },
+  {
+    "kanji": "新聞社",
+    "furigana": "しんぶんしゃ",
+    "translation": "newspaper company",
+    "check": false
+  },
+  {
+    "kanji": "親切",
+    "furigana": "しんせつ",
+    "translation": "kindness",
+    "check": false
+  },
+  {
+    "kanji": "失敗",
+    "furigana": "しっぱい",
+    "translation": "failure",
+    "check": false
+  },
+  {
+    "kanji": "下着",
+    "furigana": "したぎ",
+    "translation": "underwear",
+    "check": false
+  },
+  {
+    "kanji": "食料品",
+    "furigana": "しょくりょうひん",
+    "translation": "food; groceries",
+    "check": false
+  },
+  {
+    "kanji": "小学校",
+    "furigana": "しょうがっこう",
+    "translation": "elementary school",
+    "check": false
+  },
+  {
+    "kanji": "紹介",
+    "furigana": "しょうかい",
+    "translation": "introduction",
+    "check": false
+  },
+  {
+    "kanji": "将来",
+    "furigana": "しょうらい",
+    "translation": "future",
+    "check": false
+  },
+  {
+    "kanji": "小説",
+    "furigana": "しょうせつ",
+    "translation": "novel",
+    "check": false
+  },
+  {
+    "kanji": "趣味",
+    "furigana": "しゅみ",
+    "translation": "hobby; pastime; preference",
+    "check": false
+  },
+  {
+    "kanji": "習慣",
+    "furigana": "しゅうかん",
+    "translation": "habit; custom",
+    "check": false
+  },
+  {
+    "kanji": "祖母",
+    "furigana": "そぼ",
+    "translation": "grandmother",
+    "check": false
+  },
+  {
+    "kanji": "祖父",
+    "furigana": "そふ",
+    "translation": "grandfather",
+    "check": false
+  },
+  {
+    "kanji": "ソフト",
+    "furigana": "",
+    "translation": "soft",
+    "check": false
+  },
+  {
+    "kanji": "卒業",
+    "furigana": "そつぎょう",
+    "translation": "graduation",
+    "check": false
+  },
+  {
+    "kanji": "相談",
+    "furigana": "そうだん",
+    "translation": "to discuss",
+    "check": false
+  },
+  {
+    "kanji": "水道",
+    "furigana": "すいどう",
+    "translation": "water supply",
+    "check": false
+  },
+  {
+    "kanji": "水泳",
+    "furigana": "すいえい",
+    "translation": "swimming",
+    "check": false
+  },
+  {
+    "kanji": "スクリーン",
+    "furigana": "",
+    "translation": "screen",
+    "check": false
+  },
+  {
+    "kanji": "隅",
+    "furigana": "すみ",
+    "translation": "corner; nook",
+    "check": false
+  },
+  {
+    "kanji": "砂",
+    "furigana": "すな",
+    "translation": "sand",
+    "check": false
+  },
+  {
+    "kanji": "すり",
+    "furigana": "",
+    "translation": "pickpocket",
+    "check": false
+  },
+  {
+    "kanji": "スーツケース",
+    "furigana": "",
+    "translation": "suitcase",
+    "check": false
+  },
+  {
+    "kanji": "ステーキ",
+    "furigana": "",
+    "translation": "steak",
+    "check": false
+  },
+  {
+    "kanji": "ステレオ",
+    "furigana": "",
+    "translation": "stereo",
+    "check": false
+  },
+  {
+    "kanji": "数学",
+    "furigana": "すうがく",
+    "translation": "mathematics; arithmetic",
+    "check": false
+  },
+  {
+    "kanji": "スーツ",
+    "furigana": "",
+    "translation": "suit",
+    "check": false
+  },
+  {
+    "kanji": "退院",
+    "furigana": "たいいん",
+    "translation": "leaving hospital; discharge",
+    "check": false
+  },
+  {
+    "kanji": "台風",
+    "furigana": "たいふう",
+    "translation": "typhoon",
+    "check": false
+  },
+  {
+    "kanji": "タイプ",
+    "furigana": "",
+    "translation": "type,style",
+    "check": false
+  },
+  {
+    "kanji": "たいてい",
+    "furigana": "",
+    "translation": "usually",
+    "check": false
+  },
+  {
+    "kanji": "棚",
+    "furigana": "たな",
+    "translation": "shelves",
+    "check": false
+  },
+  {
+    "kanji": "誕生",
+    "furigana": "たんじょう",
+    "translation": "birth",
+    "check": false
+  },
+  {
+    "kanji": "楽しみ",
+    "furigana": "たのしみ",
+    "translation": "looking forward to",
+    "check": false
+  },
+  {
+    "kanji": "畳",
+    "furigana": "たたみ",
+    "translation": "Japanese straw mat",
+    "check": false
+  },
+  {
+    "kanji": "手袋",
+    "furigana": "てぶくろ",
+    "translation": "glove",
+    "check": false
+  },
+  {
+    "kanji": "丁寧",
+    "furigana": "ていねい",
+    "translation": "polite",
+    "check": false
+  },
+  {
+    "kanji": "テキスト",
+    "furigana": "",
+    "translation": "text; textbook",
+    "check": false
+  },
+  {
+    "kanji": "適当",
+    "furigana": "てきとう",
+    "translation": "suitable",
+    "check": false
+  },
+  {
+    "kanji": "点",
+    "furigana": "てん",
+    "translation": "point; dot",
+    "check": false
+  },
+  {
+    "kanji": "店員",
+    "furigana": "てんいん",
+    "translation": "shop assistant; clerk",
+    "check": false
+  },
+  {
+    "kanji": "テニス",
+    "furigana": "",
+    "translation": "tennis",
+    "check": false
+  },
+  {
+    "kanji": "天気予報",
+    "furigana": "てんきよほう",
+    "translation": "weather forecast",
+    "check": false
+  },
+  {
+    "kanji": "展覧会",
+    "furigana": "てんらんかい",
+    "translation": "exhibition",
+    "check": false
+  },
+  {
+    "kanji": "寺",
+    "furigana": "てら",
+    "translation": "temple",
+    "check": false
+  },
+  {
+    "kanji": "途中",
+    "furigana": "とちゅう",
+    "translation": "on the way",
+    "check": false
+  },
+  {
+    "kanji": "特急",
+    "furigana": "とっきゅう",
+    "translation": "limited express (train)",
+    "check": false
+  },
+  {
+    "kanji": "床屋",
+    "furigana": "とこや",
+    "translation": "barber",
+    "check": false
+  },
+  {
+    "kanji": "特別",
+    "furigana": "とくべつ",
+    "translation": "special; particular",
+    "check": false
+  },
+  {
+    "kanji": "遠く",
+    "furigana": "とおく",
+    "translation": "distant",
+    "check": false
+  },
+  {
+    "kanji": "都合",
+    "furigana": "つごう",
+    "translation": "convenience",
+    "check": false
+  },
+  {
+    "kanji": "月",
+    "furigana": "つき",
+    "translation": "moon",
+    "check": false
+  },
+  {
+    "kanji": "妻",
+    "furigana": "つま",
+    "translation": "(humble) wife",
+    "check": false
+  },
+  {
+    "kanji": "腕",
+    "furigana": "うで",
+    "translation": "arm",
+    "check": false
+  },
+  {
+    "kanji": "受付",
+    "furigana": "うけつけ",
+    "translation": "reception (desk)",
+    "check": false
+  },
+  {
+    "kanji": "生まれ",
+    "furigana": "うまれ",
+    "translation": "birth",
+    "check": false
+  },
+  {
+    "kanji": "運転手",
+    "furigana": "うんてんしゅ",
+    "translation": "driver; chauffeur",
+    "check": false
+  },
+  {
+    "kanji": "裏",
+    "furigana": "うら",
+    "translation": "reverse side",
+    "check": false
+  },
+  {
+    "kanji": "売り場",
+    "furigana": "うりば",
+    "translation": "selling area",
+    "check": false
+  },
+  {
+    "kanji": "嘘",
+    "furigana": "うそ",
+    "translation": "a lie",
+    "check": false
+  },
+  {
+    "kanji": "ワープロ",
+    "furigana": "",
+    "translation": "word processor",
+    "check": false
+  },
+  {
+    "kanji": "割合",
+    "furigana": "わりあい",
+    "translation": "rate; ratio",
+    "check": false
+  },
+  {
+    "kanji": "忘れ物",
+    "furigana": "わすれもの",
+    "translation": "lost article",
+    "check": false
+  },
+  {
+    "kanji": "約束",
+    "furigana": "やくそく",
+    "translation": "promise",
+    "check": false
+  },
+  {
+    "kanji": "予習",
+    "furigana": "よしゅう",
+    "translation": "preparation for a lesson",
+    "check": false
+  },
+  {
+    "kanji": "予定",
+    "furigana": "よてい",
+    "translation": "plan",
+    "check": false
+  },
+  {
+    "kanji": "用",
+    "furigana": "よう",
+    "translation": "business; task; errand",
+    "check": false
+  },
+  {
+    "kanji": "用意",
+    "furigana": "ようい",
+    "translation": "preparation; arrangements",
+    "check": false
+  },
+  {
+    "kanji": "用事",
+    "furigana": "ようじ",
+    "translation": "tasks; things to do; errand",
+    "check": false
+  },
+  {
+    "kanji": "予約",
+    "furigana": "よやく",
+    "translation": "reservation",
+    "check": false
+  },
+  {
+    "kanji": "湯",
+    "furigana": "ゆ",
+    "translation": "hot water",
+    "check": false
+  },
+  {
+    "kanji": "指",
+    "furigana": "ゆび",
+    "translation": "finger",
+    "check": false
+  },
+  {
+    "kanji": "手紙",
+    "furigana": "てがみ",
+    "translation": "Letter (message)",
+    "check": false
+  },
+  {
+    "kanji": "天気",
+    "furigana": "てんき",
+    "translation": "weather; the elements",
+    "check": false
+  },
+  {
+    "kanji": "テレビ",
+    "furigana": "",
+    "translation": "television; TV",
+    "check": false
+  },
+  {
+    "kanji": "テスト",
+    "furigana": "",
+    "translation": "examination; quiz; test",
+    "check": false
+  },
+  {
+    "kanji": "戸",
+    "furigana": "と",
+    "translation": "Japanese style door",
+    "check": false
+  },
+  {
+    "kanji": "トイレ",
+    "furigana": "",
+    "translation": "toilet",
+    "check": false
+  },
+  {
+    "kanji": "時計",
+    "furigana": "とけい",
+    "translation": "watch; clock; timepiece",
+    "check": false
+  },
+  {
+    "kanji": "時",
+    "furigana": "とき",
+    "translation": "time; moment",
+    "check": false
+  },
+  {
+    "kanji": "時々",
+    "furigana": "ときどき",
+    "translation": "sometimes; at times",
+    "check": false
+  },
+  {
+    "kanji": "所",
+    "furigana": "ところ",
+    "translation": "place",
+    "check": false
+  },
+  {
+    "kanji": "友達",
+    "furigana": "ともだち",
+    "translation": "friend; companion",
+    "check": false
+  },
+  {
+    "kanji": "隣",
+    "furigana": "となり",
+    "translation": "next door to",
+    "check": false
+  },
+  {
+    "kanji": "十日",
+    "furigana": "とおか",
+    "translation": "tenth day of the month",
+    "check": false
+  },
+  {
+    "kanji": "鳥",
+    "furigana": "とり",
+    "translation": "bird",
+    "check": false
+  },
+  {
+    "kanji": "鶏肉",
+    "furigana": "とりにく",
+    "translation": "chicken meat",
+    "check": false
+  },
+  {
+    "kanji": "年",
+    "furigana": "とし",
+    "translation": "year; age",
+    "check": false
+  },
+  {
+    "kanji": "図書館",
+    "furigana": "としょかん",
+    "translation": "library",
+    "check": false
+  },
+  {
+    "kanji": "次",
+    "furigana": "つぎ",
+    "translation": "next",
+    "check": false
+  },
+  {
+    "kanji": "一日",
+    "furigana": "ついたち",
+    "translation": "first day of the month",
+    "check": false
+  },
+  {
+    "kanji": "机",
+    "furigana": "つくえ",
+    "translation": "desk",
+    "check": false
+  },
+  {
+    "kanji": "上",
+    "furigana": "うえ",
+    "translation": "above; up; over; top",
+    "check": false
+  },
+  {
+    "kanji": "海",
+    "furigana": "うみ",
+    "translation": "sea",
+    "check": false
+  },
+  {
+    "kanji": "後ろ",
+    "furigana": "うしろ",
+    "translation": "back; behind; rear",
+    "check": false
+  },
+  {
+    "kanji": "歌",
+    "furigana": "うた",
+    "translation": "song",
+    "check": false
+  },
+  {
+    "kanji": "上着",
+    "furigana": "うわぎ",
+    "translation": "coat; jacket",
+    "check": false
+  },
+  {
+    "kanji": "ワイシャツ",
+    "furigana": "",
+    "translation": "shirt",
+    "check": false
+  },
+  {
+    "kanji": "山",
+    "furigana": "やま",
+    "translation": "mountain; hill",
+    "check": false
+  },
+  {
+    "kanji": "八百屋",
+    "furigana": "やおや",
+    "translation": "greengrocer",
+    "check": false
+  },
+  {
+    "kanji": "野菜",
+    "furigana": "やさい",
+    "translation": "vegetable",
+    "check": false
+  },
+  {
+    "kanji": "休み",
+    "furigana": "やすみ",
+    "translation": "rest; vacation; holiday",
+    "check": false
+  },
+  {
+    "kanji": "八つ",
+    "furigana": "やっつ",
+    "translation": "eight: 8",
+    "check": false
+  },
+  {
+    "kanji": "四日",
+    "furigana": "よっか",
+    "translation": "fourth day of the month",
+    "check": false
+  },
+  {
+    "kanji": "横",
+    "furigana": "よこ",
+    "translation": "beside,side,width",
+    "check": false
+  },
+  {
+    "kanji": "夜",
+    "furigana": "よる",
+    "translation": "evening; night",
+    "check": false
+  },
+  {
+    "kanji": "四つ",
+    "furigana": "よつ",
+    "translation": "four; 4",
+    "check": false
+  },
+  {
+    "kanji": "洋服",
+    "furigana": "ようふく",
+    "translation": "western clothes",
+    "check": false
+  },
+  {
+    "kanji": "八日",
+    "furigana": "ようか",
+    "translation": "eighth day of the month",
+    "check": false
+  },
+  {
+    "kanji": "雪",
+    "furigana": "ゆき",
+    "translation": "snow",
+    "check": false
+  },
+  {
+    "kanji": "昨夜",
+    "furigana": "ゆうべ",
+    "translation": "last night",
+    "check": false
+  },
+  {
+    "kanji": "郵便局",
+    "furigana": "ゆうびんきょく",
+    "translation": "post office",
+    "check": false
+  },
+  {
+    "kanji": "夕方",
+    "furigana": "ゆうがた",
+    "translation": "evening; dusk",
+    "check": false
+  },
+  {
+    "kanji": "夕飯",
+    "furigana": "ゆうはん",
+    "translation": "evening meal",
+    "check": false
+  },
+  {
+    "kanji": "有名",
+    "furigana": "ゆうめい",
+    "translation": "famous",
+    "check": false
+  },
+  {
+    "kanji": "雑誌",
+    "furigana": "ざっし",
+    "translation": "magazine",
+    "check": false
+  },
+  {
+    "kanji": "全部",
+    "furigana": "ぜんぶ",
+    "translation": "all",
+    "check": false
+  },
+  {
+    "kanji": "ゼロ",
+    "furigana": "",
+    "translation": "zero",
+    "check": false
+  },
+  {
+    "kanji": "ズボン",
+    "furigana": "",
+    "translation": "trousers; pants",
+    "check": false
+  }
+]
