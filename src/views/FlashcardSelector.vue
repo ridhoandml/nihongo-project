@@ -2,8 +2,6 @@
   <div class="min-h-screen flex flex-col items-center justify-center gap-4 p-4">
     <h1 class="text-2xl font-bold">Japanese Simple Flashcard</h1>
     <h3 class="text-lg">Choose JLPT Level</h3>
-
-    <!-- JLPT Level Selection -->
     <div class="flex gap-4">
       <label class="flex items-center gap-2">
         <input type="radio" value="n5" v-model="selectedLevel" />
@@ -41,6 +39,6 @@ const selectedLevel = ref<JLPTLevel>("n5")
 const types = ref<TypeFlashCard[]>(["noun", "katakana-noun", "adverb", "verb", "adjective-i", "adjective-na", "bunpou", "particles", "kanji"])
 
 function selectType(type: string) {
-  router.push({ name: 'Flashcard', params: { level: selectedLevel.value, type } });
+  router.push({ name: 'WordCheck', params: { level: selectedLevel.value, type } });
 }
 </script>

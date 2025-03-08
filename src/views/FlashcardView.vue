@@ -2,8 +2,8 @@
   <div class="h-screen w-screen flex items-center justify-center p-8">
     <div class="flex grow flex-col max-w-[400px] justify-center gap-4">
       <div class="flex items-center gap-8">
-        <h1 class="flex grow text-1xl">Flashcard {{ level.toUpperCase() }} {{ type }}</h1>
-        <button @click="$router.back()" class="px-4 py-2 bg-gray-800 rounded cursor-pointer">Back</button>
+        <h1 class="flex grow text-1xl">Flashcard {{ level.toUpperCase() }} {{ type }} - Current {{ currentIndex }} of {{ cards.length }}</h1>
+        <button @click="back" class="px-4 py-2 bg-gray-800 rounded cursor-pointer">Back</button>
       </div>
       <div v-if="cards.length > 0" class="flex grow flex-col">
         <div class="p-4 rounded h-64 text-center border border-gray-800">
@@ -43,24 +43,28 @@
 
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue';
-import { useRoute } from 'vue-router';
+import { useRoute, useRouter } from 'vue-router';
 import type { JLPTLevel, TypeFlashCard } from './FlashcardSelector.vue';
+import type { JapaneseWordInterface } from './WordCheck.vue';
 
+const router = useRouter();
 const route = useRoute();
 const level = route.params.level as JLPTLevel;
 const type = route.params.type as TypeFlashCard;
 
 const jsonPath = `/jlpt-${level}/${type}.json`;
 
-const cards = ref<any[]>([]);
+const cards = ref<JapaneseWordInterface[]>([]);
 const currentIndex = ref(0);
 const showDetails = ref(false);
 
 const currentCard = computed(() => cards.value[currentIndex.value] || {});
 
 async function loadCards() {
-  const res = await fetch(jsonPath);
-  cards.value = await res.json();
+  const res = await fetch(jsonPath)
+  const rememberedCards = loadSelection()
+  const json = await res.json() as JapaneseWordInterface[]
+  cards.value = rememberedCards ? json.filter(item => !rememberedCards[item.kanji]) : json
 }
 
 function nextCard() {
@@ -103,6 +107,15 @@ function speak() {
   speechSynthesis.speak(utterance);
 }
 
+onMounted(loadCards)
 
-onMounted(loadCards);
+function loadSelection (): Record<string, boolean> | undefined {
+  const data = localStorage.getItem(`saved-${level}-${type}`)
+  if (!data) return undefined
+  return JSON.parse(data);
+}
+
+function back () {
+  router.push({ name: 'WordCheck', params: { level, type } });
+}
 </script>
