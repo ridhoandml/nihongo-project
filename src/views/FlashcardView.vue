@@ -2,7 +2,7 @@
   <div class="h-screen w-screen flex items-center justify-center p-8">
     <div class="flex grow flex-col max-w-[400px] justify-center gap-4">
       <div class="flex items-center gap-8">
-        <h1 class="flex grow text-1xl">Flashcard {{ level.toUpperCase() }} {{ type }} - Current {{ currentIndex }} of {{ cards.length }}</h1>
+        <h1 class="flex grow text-1xl">{{ level.toUpperCase() }} {{ type }} - Current {{ currentIndex }} of {{ cards.length }}</h1>
         <button @click="back" class="px-4 py-2 bg-gray-800 rounded cursor-pointer">Back</button>
       </div>
       <div v-if="cards.length > 0" class="flex grow flex-col">
@@ -15,7 +15,7 @@
         </div>
   
         <div class="mt-4 flex gap-2">
-          <button @click="prevCard" class="flex justify-center flex-auto px-4 py-2 bg-gray-800 rounded cursor-pointer">
+          <button @click="prevCard" class="flex justify-center flex-auto px-4 py-2 bg-gray-800 rounded cursor-pointer touch-manipulation">
             <i class='bx bx-chevrons-left text-2xl' ></i>
           </button>
           <div class="flex grow gap-2">
@@ -31,7 +31,7 @@
               </div>
             </button>
           </div>
-          <button @click="nextCard" class="flex justify-center flex-auto px-4 py-2 bg-gray-800 rounded cursor-pointer">
+          <button @click="nextCard" class="flex justify-center flex-auto px-4 py-2 bg-gray-800 rounded cursor-pointer touch-manipulation">
             <i class='bx bx-chevrons-right text-2xl' ></i>
           </button>
         </div>
