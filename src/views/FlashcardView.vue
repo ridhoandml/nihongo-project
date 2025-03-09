@@ -6,12 +6,15 @@
         <button @click="back" class="px-4 py-2 bg-gray-800 rounded cursor-pointer">Back</button>
       </div>
       <div v-if="cards.length > 0" class="flex grow flex-col">
-        <div class="p-4 rounded h-64 text-center border border-gray-800">
-          <div class="text-5xl mb-4">{{ currentCard.kanji }}</div>
-          <div v-if="showDetails" class="mt-2 flex flex-col">
-            <div class="text-2xl text-gray-300 mb-2">{{ currentCard.furigana }}</div>
-            <div class="text-2xl text-gray-100">{{ currentCard.translation }}</div>
+        <div class="p-4 flex flex-col gap-2 rounded h-64 text-center border border-gray-800">
+          <div
+            class="text-2xl text-gray-300"
+            :class="showDetails ? 'invisible' : 'visible'"
+            >
+            {{ currentCard.furigana }}
           </div>
+          <div class="text-5xl">{{ currentCard.kanji }}</div>
+          <div class="text-2xl text-gray-100">{{ currentCard.translation }}</div>
         </div>
   
         <div class="mt-4 flex gap-2">
@@ -70,13 +73,11 @@ async function loadCards() {
 function nextCard() {
   if (currentIndex.value < cards.value.length - 1) currentIndex.value++;
   else currentIndex.value = 0;
-  showDetails.value = false;
 }
 
 function prevCard() {
   if (currentIndex.value > 0) currentIndex.value--;
   else currentIndex.value = cards.value.length - 1;
-  showDetails.value = false;
 }
 
 function toggleDetails() {

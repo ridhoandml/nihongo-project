@@ -6,6 +6,19 @@
           <h1 class="text-2xl font-bold">Remembered Word</h1>
           <span class="text-base">{{ level.toUpperCase() }} - {{ type }} ({{ savedDataCount }} - {{ flashcardData?.length }})</span>
         </div>
+        <div class="flex gap-4">
+          <label v-for="key in Object.keys(configs)">
+            <input
+              class="border-none outline-none"
+              :value="(configs as Record<string, boolean>)[key]"
+              v-model="(configs as Record<string, boolean>)[key]"
+              type="checkbox"
+              name="config-saved"
+              :id="key"
+            >
+            {{ key }}
+          </label>
+        </div>
         <div class="flex gap-3 justify-between">
           <button @click="back" class="px-4 py-2 bg-gray-800 rounded cursor-pointer">Back</button>
           <button @click="startLearning" class="flex justify-center px-4 py-2 bg-blue-500 text-white rounded cursor-pointer">
@@ -19,7 +32,7 @@
             v-for="flashcard in flashcardData"
             :flashcard="flashcard"
             v-model:saved-flashcard="savedData"
-            /> 
+          /> 
         </div>
       </div>
     </div>
@@ -31,6 +44,8 @@ import { computed, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import type { JLPTLevel, TypeFlashCard } from './FlashcardSelector.vue';
 import FlashcardWord from '@/components/FlashcardWord.vue';
+import { useConfig, type Config } from '@/store/config';
+import { storeToRefs } from 'pinia';
 
 export interface JapaneseWordInterface {
   kanji: string,
@@ -42,6 +57,8 @@ export interface JapaneseWordInterface {
 export type JapaneseWordSaved = Record<string, boolean>
 
 const jsonFiles = import.meta.glob('/public/jlpt-*/**/*.json', { eager: true })
+const config = useConfig()
+const { getConfigFromLocal: configs } = storeToRefs(config)
 
 const router = useRouter();
 const route = useRoute();
@@ -66,6 +83,7 @@ const isLoaded = loadSelection()
 if (isLoaded) savedData.value = isLoaded
 
 watch(savedData, () => saveSelection(), { deep: true })
+watch(configs, (v) => config.setAllConfig(v), { deep: true })
 
 function saveSelection () {
   localStorage.setItem(`saved-${level}-${type}`, JSON.stringify(savedData.value));
