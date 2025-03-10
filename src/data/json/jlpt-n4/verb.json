@@ -1,602 +1,2334 @@
 [
   {
-    "kanji": "浴びる",
-    "furigana": "abiruあびる",
-    "translation": "to bathe, to shower",
-    "check": false
-  },
-  {
-    "kanji": "上げる",
-    "furigana": "ageruあげる",
-    "translation": "to raise; to elevate; to give",
-    "check": false
-  },
-  {
-    "kanji": "開ける",
-    "furigana": "akeruあける",
-    "translation": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
-    "check": false
-  },
-  {
-    "kanji": "開く",
-    "furigana": "akuあく",
-    "translation": "to open (e.g. doors, business, etc)",
-    "check": false
-  },
-  {
-    "kanji": "洗う",
-    "furigana": "arauあらう",
-    "translation": "to wash",
-    "check": false
-  },
-  {
-    "kanji": "ある",
-    "furigana": "aru",
-    "translation": "to be, to have",
-    "check": false
-  },
-  {
-    "kanji": "歩く",
-    "furigana": "arukuあるく",
-    "translation": "to walk",
-    "check": false
-  },
-  {
-    "kanji": "遊ぶ",
-    "furigana": "asobuあそぶ",
-    "translation": "to play; to enjoy oneself",
-    "check": false
-  },
-  {
-    "kanji": "会う",
-    "furigana": "auあう",
-    "translation": "to meet; to encounter; to see",
-    "check": false
-  },
-  {
-    "kanji": "勉強",
-    "furigana": "benkyouべんきょう",
-    "translation": "to study",
-    "check": false
-  },
-  {
-    "kanji": "違う",
-    "furigana": "chigauちがう",
-    "translation": "to differ",
-    "check": false
-  },
-  {
-    "kanji": "出す",
-    "furigana": "dasuだす",
-    "translation": "to take out; to get out; to put out; to reveal",
-    "check": false
-  },
-  {
-    "kanji": "出かける",
-    "furigana": "dekakeruでかける",
-    "translation": "to go out; to leave; to depart",
-    "check": false
-  },
-  {
-    "kanji": "電話",
-    "furigana": "denwaでんわ",
-    "translation": "telephone (call / device)l; phone call",
-    "check": false
-  },
-  {
-    "kanji": "出る",
-    "furigana": "deruでる",
-    "translation": "to leave; to exit; to appear; to go out",
-    "check": false
-  },
-  {
-    "kanji": "吹く",
-    "furigana": "fukuふく",
-    "translation": "to blow (of the wind)",
-    "check": false
-  },
-  {
-    "kanji": "降る",
-    "furigana": "furuふる",
-    "translation": "to fall",
-    "check": false
-  },
-  {
-    "kanji": "入る",
-    "furigana": "hairuはいる",
-    "translation": "to enter; to go into",
-    "check": false
-  },
-  {
-    "kanji": "始まる",
-    "furigana": "hajimaruはじまる",
-    "translation": "to begin",
-    "check": false
-  },
-  {
-    "kanji": "履く",
-    "furigana": "hakuはく",
-    "translation": "to wear, to put on trousers",
-    "check": false
-  },
-  {
-    "kanji": "話す",
-    "furigana": "hanasuはなす",
-    "translation": "to speak; to talk; to converse",
-    "check": false
-  },
-  {
-    "kanji": "晴れる",
-    "furigana": "hareruはれる",
-    "translation": "to be sunny",
-    "check": false
-  },
-  {
-    "kanji": "貼る",
-    "furigana": "haruはる",
-    "translation": "to stick; to paste",
-    "check": false
-  },
-  {
-    "kanji": "走る",
-    "furigana": "hashiruはしる",
-    "translation": "to run",
-    "check": false
-  },
-  {
-    "kanji": "働く",
-    "furigana": "hatarakuはたらく",
-    "translation": "to work",
-    "check": false
-  },
-  {
-    "kanji": "引く",
-    "furigana": "hikuひく",
-    "translation": "to pull",
-    "check": false
-  },
-  {
-    "kanji": "弾く",
-    "furigana": "hikuひく",
-    "translation": "to play",
-    "check": false
-  },
-  {
-    "kanji": "行く",
-    "furigana": "ikuいく",
-    "translation": "to go; to move",
-    "check": false
-  },
-  {
-    "kanji": "入れる",
-    "furigana": "ireruいれる",
-    "translation": "to put in; to let in; to take in; to bring in; to insert; to install",
-    "check": false
-  },
-  {
-    "kanji": "要る",
-    "furigana": "iruいる",
-    "translation": "to be needed",
-    "check": false
-  },
-  {
-    "kanji": "居る",
-    "furigana": "iruいる",
-    "translation": "to be, to have",
-    "check": false
-  },
-  {
-    "kanji": "言う",
-    "furigana": "iuいう",
-    "translation": "to say; to call",
-    "check": false
-  },
-  {
-    "kanji": "授業",
-    "furigana": "jugyouじゅぎょう",
-    "translation": "lesson; class work",
-    "check": false
-  },
-  {
-    "kanji": "帰る",
-    "furigana": "kaeruかえる",
-    "translation": "to go back​",
-    "check": false
-  },
-  {
-    "kanji": "返す",
-    "furigana": "kaesuかえす",
-    "translation": "to return something",
-    "check": false
-  },
-  {
-    "kanji": "掛かる",
-    "furigana": "kakaruかかる",
-    "translation": "to take (a resource, e.g. time or money)",
-    "check": false
-  },
-  {
-    "kanji": "掛ける",
-    "furigana": "kakeruかける",
-    "translation": "to hang up; to make (a call)​;",
-    "check": false
-  },
-  {
-    "kanji": "書く",
-    "furigana": "kakuかく",
-    "translation": "to write; to compose; to pen; to draw",
-    "check": false
-  },
-  {
-    "kanji": "借りる",
-    "furigana": "kariruかりる",
-    "translation": "to borrow",
-    "check": false
-  },
-  {
-    "kanji": "貸す",
-    "furigana": "kasuかす",
-    "translation": "to lend; to loan",
-    "check": false
-  },
-  {
-    "kanji": "買う",
-    "furigana": "kauかう",
-    "translation": "to buy; to purchase",
-    "check": false
-  },
-  {
-    "kanji": "結婚",
-    "furigana": "kekkonけっこん",
-    "translation": "marriage",
-    "check": false
-  },
-  {
-    "kanji": "消す",
-    "furigana": "kesuけす",
-    "translation": "to erase, to turn off power",
-    "check": false
-  },
-  {
-    "kanji": "消える",
-    "furigana": "kieruきえる",
-    "translation": "to disappear",
-    "check": false
-  },
-  {
-    "kanji": "聞く",
-    "furigana": "kikuきく",
-    "translation": "to hear; to listen (to music); to ask; to learn of",
-    "check": false
-  },
-  {
-    "kanji": "切る",
-    "furigana": "kiruきる",
-    "translation": "to cut",
-    "check": false
-  },
-  {
-    "kanji": "着る",
-    "furigana": "kiruきる",
-    "translation": "to wear",
-    "check": false
-  },
-  {
-    "kanji": "困る",
-    "furigana": "komaruこまる",
-    "translation": "to be troubled",
-    "check": false
-  },
-  {
-    "kanji": "コピー",
-    "furigana": "kopii",
-    "translation": "copy; photocopy",
-    "check": false
-  },
-  {
-    "kanji": "答える",
-    "furigana": "kotaeruこたえる",
-    "translation": "to answer",
-    "check": false
-  },
-  {
-    "kanji": "曇る",
-    "furigana": "kumoruくもる",
-    "translation": "to become cloudy, to become dim",
-    "check": false
-  },
-  {
-    "kanji": "来る",
-    "furigana": "kuruくる",
-    "translation": "to come",
-    "check": false
-  },
-  {
-    "kanji": "曲がる",
-    "furigana": "magaruまがる",
-    "translation": "to turn, to bend",
-    "check": false
-  },
-  {
-    "kanji": "待つ",
-    "furigana": "matsuまつ",
-    "translation": "to wait​",
-    "check": false
-  },
-  {
-    "kanji": "磨く",
-    "furigana": "migakuみがく",
-    "translation": "to polish; to shine; to brush (e.g. teeth)",
-    "check": false
-  },
-  {
-    "kanji": "見る",
-    "furigana": "miruみる",
-    "translation": "to see; to look; to watch; to view; to observe",
-    "check": false
-  },
-  {
-    "kanji": "見せる",
-    "furigana": "miseruみせる",
-    "translation": "to show; to display",
-    "check": false
-  },
-  {
-    "kanji": "持つ",
-    "furigana": "motsuもつ",
-    "translation": "to hold",
-    "check": false
-  },
-  {
-    "kanji": "鳴く",
-    "furigana": "nakuなく",
-    "translation": "animal noise. to chirp",
-    "check": false
-  },
-  {
-    "kanji": "無くす",
-    "furigana": "nakusuなくす",
-    "translation": "to lose (something)",
-    "check": false
-  },
-  {
-    "kanji": "並べる",
-    "furigana": "naraberuならべる",
-    "translation": "to line up,to set up",
-    "check": false
-  },
-  {
-    "kanji": "並ぶ",
-    "furigana": "narabuならぶ",
-    "translation": "to line up,to stand in a line",
-    "check": false
-  },
-  {
-    "kanji": "習う",
-    "furigana": "narauならう",
-    "translation": "to be taught; to learn (from a teacher)",
-    "check": false
-  },
-  {
-    "kanji": "寝る",
-    "furigana": "neruねる",
-    "translation": "to sleep; to go to bed; to lie down",
-    "check": false
-  },
-  {
-    "kanji": "登る",
-    "furigana": "noboruのぼる",
-    "translation": "to climb",
-    "check": false
-  },
-  {
-    "kanji": "飲む",
-    "furigana": "nomuのむ",
-    "translation": "to drink",
-    "check": false
-  },
-  {
-    "kanji": "乗る",
-    "furigana": "noruのる",
-    "translation": "to get on (train, plane, bus, ship, etc.)",
-    "check": false
-  },
-  {
-    "kanji": "脱ぐ",
-    "furigana": "nuguぬぐ",
-    "translation": "to take off clothes",
-    "check": false
-  },
-  {
-    "kanji": "覚える",
-    "furigana": "oboeruおぼえる",
-    "translation": "to remember",
-    "check": false
-  },
-  {
-    "kanji": "起きる",
-    "furigana": "okiruおきる",
-    "translation": "to get up; to wake up",
-    "check": false
-  },
-  {
-    "kanji": "置く",
-    "furigana": "okuおく",
-    "translation": "to put; to place​",
-    "check": false
-  },
-  {
-    "kanji": "降りる",
-    "furigana": "oriruおりる",
-    "translation": "to get off",
-    "check": false
-  },
-  {
-    "kanji": "教える",
-    "furigana": "oshieruおしえる",
-    "translation": "to teach",
-    "check": false
-  },
-  {
-    "kanji": "押す",
-    "furigana": "osuおす",
-    "translation": "to push; to press​",
-    "check": false
-  },
-  {
-    "kanji": "終わる",
-    "furigana": "owaruおわる",
-    "translation": "to finish; to end",
-    "check": false
-  },
-  {
-    "kanji": "泳ぐ",
-    "furigana": "oyoguおよぐ",
-    "translation": "to swim",
-    "check": false
-  },
-  {
-    "kanji": "練習",
-    "furigana": "renshuuれんしゅう",
-    "translation": "practice; practicing",
-    "check": false
-  },
-  {
-    "kanji": "旅行",
-    "furigana": "ryokouりょこう",
-    "translation": "travel; trip; journey; excursion; tour",
-    "check": false
-  },
-  {
-    "kanji": "料理",
-    "furigana": "ryouriりょうり",
-    "translation": "cuisine",
-    "check": false
-  },
-  {
-    "kanji": "咲く",
-    "furigana": "sakuさく",
-    "translation": "to bloom",
-    "check": false
-  },
-  {
-    "kanji": "散歩",
-    "furigana": "sanpoさんぽ",
-    "translation": "walk; stroll",
-    "check": false
-  },
-  {
-    "kanji": "差す",
-    "furigana": "sasuさす",
-    "translation": "to stretch out hands, to raise an umbrella",
-    "check": false
-  },
-  {
-    "kanji": "洗濯",
-    "furigana": "sentakuせんたく",
-    "translation": "washing; laundry",
-    "check": false
-  },
-  {
-    "kanji": "仕事",
-    "furigana": "shigotoしごと",
-    "translation": "work; job; business",
-    "check": false
-  },
-  {
-    "kanji": "閉まる",
-    "furigana": "shimaruしまる",
-    "translation": "to close, to be closed",
-    "check": false
-  },
-  {
-    "kanji": "閉める",
-    "furigana": "shimeruしめる",
-    "translation": "to close; to shut",
-    "check": false
-  },
-  {
-    "kanji": "締める",
-    "furigana": "shimeruしめる",
-    "translation": "to tie; to fasten; to tighten​",
-    "check": false
-  },
-  {
-    "kanji": "死ぬ",
-    "furigana": "shinuしぬ",
-    "translation": "to die",
-    "check": false
-  },
-  {
-    "kanji": "知る",
-    "furigana": "shiruしる",
-    "translation": "to know",
-    "check": false
-  },
-  {
-    "kanji": "質問",
-    "furigana": "shitsumonしつもん",
-    "translation": "question; inquiry",
-    "check": false
-  },
-  {
-    "kanji": "掃除",
-    "furigana": "soujiそうじ",
-    "translation": "to clean, to sweep",
-    "check": false
-  },
-  {
-    "kanji": "住む",
-    "furigana": "sumuすむ",
-    "translation": "to live in; to reside; to inhabit; to dwell; to abide",
-    "check": false
-  },
-  {
-    "kanji": "吸う",
-    "furigana": "suuすう",
-    "translation": "to smoke, to suck",
-    "check": false
-  },
-  {
-    "kanji": "座る",
-    "furigana": "suwaruすわる",
-    "translation": "to sit",
-    "check": false
-  },
-  {
-    "kanji": "食べる",
-    "furigana": "taberuたべる",
-    "translation": "to eat",
-    "check": false
-  },
-  {
-    "kanji": "頼む",
-    "furigana": "tanomuたのむ",
-    "translation": "to ask",
-    "check": false
-  },
-  {
-    "kanji": "立つ",
-    "furigana": "tatsuたつ",
-    "translation": "to stand; to stand up​",
-    "check": false
-  },
-  {
-    "kanji": "テスト",
-    "furigana": "tesuto",
-    "translation": "examination; quiz; test",
-    "check": false
-  },
-  {
-    "kanji": "飛ぶ",
-    "furigana": "tobuとぶ",
-    "translation": "to fly; to hop",
-    "check": false
-  },
-  {
-    "kanji": "止まる",
-    "furigana": "tomaruとまる",
-    "translation": "to stop; to come to a halt",
-    "check": false
+    "main": "上がる",
+    "kana": "あがる",
+    "meaning": "to rise",
+    "polite": "上がり",
+    "te": "上がって",
+    "volitional": "上がろう",
+    "conditional": "上がれば",
+    "potential": "上がれる",
+    "passive": "上がられる"
+  },
+  {
+    "main": "挨拶する",
+    "kana": "あいさつする",
+    "meaning": "to greet",
+    "polite": "挨拶し",
+    "te": "挨拶して",
+    "volitional": "挨拶しよう",
+    "conditional": "挨拶すれば",
+    "potential": "挨拶できる",
+    "passive": "挨拶される"
+  },
+  {
+    "main": "案内する",
+    "kana": "あんないする",
+    "meaning": "to guide",
+    "polite": "案内し",
+    "te": "案内して",
+    "volitional": "案内しよう",
+    "conditional": "案内すれば",
+    "potential": "案内できる",
+    "passive": "案内される"
+  },
+  {
+    "main": "安心する",
+    "kana": "あんしんする",
+    "meaning": "to feel peace of mind; to relax",
+    "polite": "安心し",
+    "te": "安心して",
+    "volitional": "安心しよう",
+    "conditional": "安心すれば",
+    "potential": "安心できる",
+    "passive": "安心される"
+  },
+  {
+    "main": "アルバイトする",
+    "kana": "アルバイトする",
+    "meaning": "to work a part-time job",
+    "polite": "アルバイトし",
+    "te": "アルバイトして",
+    "volitional": "アルバイトしよう",
+    "conditional": "アルバイトすれば",
+    "potential": "アルバイトできる",
+    "passive": "アルバイトされる"
+  },
+  {
+    "main": "集まる",
+    "kana": "あつまる",
+    "meaning": "gather; accumulate",
+    "polite": "集まり",
+    "te": "集まって",
+    "volitional": "集まろう",
+    "conditional": "集まれば",
+    "potential": "集まれる",
+    "passive": "集まられる"
+  },
+  {
+    "main": "集める",
+    "kana": "あつめる",
+    "meaning": "gather; pull together",
+    "polite": "集め",
+    "te": "集めて",
+    "volitional": "集めよう",
+    "conditional": "集めれば",
+    "potential": "集められる",
+    "passive": "集められる"
+  },
+  {
+    "main": "謝る",
+    "kana": "あやまる",
+    "meaning": "to apologize",
+    "polite": "謝り",
+    "te": "謝って",
+    "volitional": "謝ろう",
+    "conditional": "謝れば",
+    "potential": "謝れる",
+    "passive": "謝られる"
+  },
+  {
+    "main": "貿易する",
+    "kana": "ぼうえきする",
+    "meaning": "to trade",
+    "polite": "貿易し",
+    "te": "貿易して",
+    "volitional": "貿易しよう",
+    "conditional": "貿易すれば",
+    "potential": "貿易できる",
+    "passive": "貿易される"
+  },
+  {
+    "main": "チェックする",
+    "kana": "チェックする",
+    "meaning": "to check",
+    "polite": "チェックし",
+    "te": "チェックして",
+    "volitional": "チェックしよう",
+    "conditional": "チェックすれば",
+    "potential": "チェックできる",
+    "passive": "チェックされる"
+  },
+  {
+    "main": "注意する",
+    "kana": "ちゅういする",
+    "meaning": "to caution; to warn",
+    "polite": "注意し",
+    "te": "注意して",
+    "volitional": "注意しよう",
+    "conditional": "注意すれば",
+    "potential": "注意できる",
+    "passive": "注意される"
+  },
+  {
+    "main": "注射する",
+    "kana": "ちゅうしゃする",
+    "meaning": "to inject",
+    "polite": "注射し",
+    "te": "注射して",
+    "volitional": "注射しよう",
+    "conditional": "注射すれば",
+    "potential": "注射できる",
+    "passive": "注射される"
+  },
+  {
+    "main": "暖房する",
+    "kana": "だんぼうする",
+    "meaning": "to heat",
+    "polite": "暖房し",
+    "te": "暖房して",
+    "volitional": "暖房しよう",
+    "conditional": "暖房すれば",
+    "potential": "暖房できる",
+    "passive": "暖房される"
+  },
+  {
+    "main": "遠慮する",
+    "kana": "えんりょする",
+    "meaning": "to be reserved",
+    "polite": "遠慮し",
+    "te": "遠慮して",
+    "volitional": "遠慮しよう",
+    "conditional": "遠慮すれば",
+    "potential": "遠慮できる",
+    "passive": "遠慮される"
+  },
+  {
+    "main": "選ぶ",
+    "kana": "えらぶ",
+    "meaning": "to choose",
+    "polite": "選び",
+    "te": "選んで",
+    "volitional": "選ぼう",
+    "conditional": "選べば",
+    "potential": "選べる",
+    "passive": "選ばれる"
+  },
+  {
+    "main": "ファックスする",
+    "kana": "ファックスする",
+    "meaning": "to fax",
+    "polite": "ファックスし",
+    "te": "ファックスして",
+    "volitional": "ファックスしよう",
+    "conditional": "ファックスすれば",
+    "potential": "ファックスできる",
+    "passive": "ファックスされる"
+  },
+  {
+    "main": "増える",
+    "kana": "ふえる",
+    "meaning": "to increase",
+    "polite": "増え",
+    "te": "増えて",
+    "volitional": "増えよう",
+    "conditional": "増えれば",
+    "potential": "増えられる",
+    "passive": "増えられる"
+  },
+  {
+    "main": "復習する",
+    "kana": "ふくしゅうする",
+    "meaning": "to review",
+    "polite": "復習し",
+    "te": "復習して",
+    "volitional": "復習しよう",
+    "conditional": "復習すれば",
+    "potential": "復習できる",
+    "passive": "復習される"
+  },
+  {
+    "main": "踏む",
+    "kana": "ふむ",
+    "meaning": "to step on",
+    "polite": "踏み",
+    "te": "踏んで",
+    "volitional": "踏もう",
+    "conditional": "踏めば",
+    "potential": "踏める",
+    "passive": "踏まれる"
+  },
+  {
+    "main": "降り出す",
+    "kana": "ふりだす",
+    "meaning": "to start to rain",
+    "polite": "振り出し",
+    "te": "振り出して",
+    "volitional": "振り出そう",
+    "conditional": "振り出せば",
+    "potential": "振り出せる",
+    "passive": "振り出される"
+  },
+  {
+    "main": "太る",
+    "kana": "ふとる",
+    "meaning": "to become fat",
+    "polite": "太り",
+    "te": "太って",
+    "volitional": "太ろう",
+    "conditional": "太れば",
+    "potential": "太れる",
+    "passive": "太られる"
+  },
+  {
+    "main": "原因する",
+    "kana": "げんいんする",
+    "meaning": "to cause; be caused by",
+    "polite": "原因し",
+    "te": "原因して",
+    "volitional": "原因しよう",
+    "conditional": "原因すれば",
+    "potential": "原因できる",
+    "passive": "原因される"
+  },
+  {
+    "main": "下宿する",
+    "kana": "げしゅくする",
+    "meaning": "to lodge",
+    "polite": "下宿し",
+    "te": "下宿して",
+    "volitional": "下宿しよう",
+    "conditional": "下宿すれば",
+    "potential": "下宿できる",
+    "passive": "下宿される"
+  },
+  {
+    "main": "ごちそうする",
+    "kana": "ごちそうする",
+    "meaning": "to treat (meal)",
+    "polite": "ごちそうし",
+    "te": "ごちそうして",
+    "volitional": "ごちそうしよう",
+    "conditional": "ごちそうすれば",
+    "potential": "ごちそうできる",
+    "passive": "ごちそうされる"
+  },
+  {
+    "main": "ご覧になる",
+    "kana": "ごらんになる",
+    "meaning": "(respectful) to see",
+    "polite": "ご覧になり",
+    "te": "ご覧になって",
+    "volitional": "ご覧になろう",
+    "conditional": "ご覧になれば",
+    "potential": "ご覧になれる",
+    "passive": "ご覧になられる"
+  },
+  {
+    "main": "拝見する",
+    "kana": "はいけんする",
+    "meaning": "to see; look at",
+    "polite": "拝見し",
+    "te": "拝見して",
+    "volitional": "拝見しよう",
+    "conditional": "拝見すれば",
+    "potential": "拝見できる",
+    "passive": "拝見される"
+  },
+  {
+    "main": "運ぶ",
+    "kana": "はこぶ",
+    "meaning": "to carry",
+    "polite": "運び",
+    "te": "運んで",
+    "volitional": "運ぼう",
+    "conditional": "運べば",
+    "potential": "運べる",
+    "passive": "運ばれる"
+  },
+  {
+    "main": "花見する",
+    "kana": "はなみする",
+    "meaning": "to do flower viewing",
+    "polite": "花見し",
+    "te": "花見して",
+    "volitional": "花見しよう",
+    "conditional": "花見すれば",
+    "potential": "花見できる",
+    "passive": "花見される"
+  },
+  {
+    "main": "反対する",
+    "kana": "はんたいする",
+    "meaning": "to oppose",
+    "polite": "反対し",
+    "te": "反対して",
+    "volitional": "反対しよう",
+    "conditional": "反対すれば",
+    "potential": "反対できる",
+    "passive": "反対される"
+  },
+  {
+    "main": "払う",
+    "kana": "はらう",
+    "meaning": "to pay",
+    "polite": "払い",
+    "te": "払って",
+    "volitional": "払おう",
+    "conditional": "払えば",
+    "potential": "払える",
+    "passive": "払われる"
+  },
+  {
+    "main": "発音する",
+    "kana": "はつおんする",
+    "meaning": "to pronounce",
+    "polite": "発音し",
+    "te": "発音して",
+    "volitional": "発音しよう",
+    "conditional": "発音すれば",
+    "potential": "発音できる",
+    "passive": "発音される"
+  },
+  {
+    "main": "返事する",
+    "kana": "へんじする",
+    "meaning": "to reply; answer",
+    "polite": "返事し",
+    "te": "返事して",
+    "volitional": "返事しよう",
+    "conditional": "返事すれば",
+    "potential": "返事できる",
+    "passive": "返事される"
+  },
+  {
+    "main": "冷える",
+    "kana": "ひえる",
+    "meaning": "to grow cold",
+    "polite": "冷え",
+    "te": "冷えて",
+    "volitional": "冷えよう",
+    "conditional": "冷えれば",
+    "potential": "冷えられる",
+    "passive": "冷えられる"
+  },
+  {
+    "main": "光る",
+    "kana": "ひかる",
+    "meaning": "to shine",
+    "polite": "光り",
+    "te": "光って",
+    "volitional": "光ろう",
+    "conditional": "光れば",
+    "potential": "光れる",
+    "passive": "光られる"
+  },
+  {
+    "main": "引き出す",
+    "kana": "ひきだす",
+    "meaning": "to withdraw",
+    "polite": "引き出し",
+    "te": "引き出して",
+    "volitional": "引き出そう",
+    "conditional": "引き出せば",
+    "potential": "引き出せる",
+    "passive": "引き出される"
+  },
+  {
+    "main": "引っ越す",
+    "kana": "ひっこす",
+    "meaning": "to move house",
+    "polite": "引っ越し",
+    "te": "引っ越して",
+    "volitional": "引っ越そう",
+    "conditional": "引っ越せば",
+    "potential": "引っ越せる",
+    "passive": "引っ越される"
+  },
+  {
+    "main": "開く",
+    "kana": "ひらく",
+    "meaning": "to open; to unseal",
+    "polite": "開き",
+    "te": "開いて",
+    "volitional": "開こう",
+    "conditional": "開けば",
+    "potential": "開ける",
+    "passive": "開かれる"
+  },
+  {
+    "main": "拾う",
+    "kana": "ひろう",
+    "meaning": "to pick up",
+    "polite": "拾い",
+    "te": "拾って",
+    "volitional": "拾おう",
+    "conditional": "拾えば",
+    "potential": "拾える",
+    "passive": "拾われる"
+  },
+  {
+    "main": "褒める",
+    "kana": "ほめる",
+    "meaning": "to praise",
+    "polite": "褒め",
+    "te": "褒めて",
+    "volitional": "褒めよう",
+    "conditional": "褒めれば",
+    "potential": "褒められる",
+    "passive": "褒められる"
+  },
+  {
+    "main": "翻訳する",
+    "kana": "ほんやくする",
+    "meaning": "to translate",
+    "polite": "翻訳し",
+    "te": "翻訳して",
+    "volitional": "翻訳しよう",
+    "conditional": "翻訳すれば",
+    "potential": "翻訳できる",
+    "passive": "翻訳される"
+  },
+  {
+    "main": "放送する",
+    "kana": "ほうそうする",
+    "meaning": "to broadcast",
+    "polite": "放送し",
+    "te": "放送して",
+    "volitional": "放送しよう",
+    "conditional": "放送すれば",
+    "potential": "放送できる",
+    "passive": "放送される"
+  },
+  {
+    "main": "いじめる",
+    "kana": "いじめる",
+    "meaning": "to tease",
+    "polite": "いじめ",
+    "te": "いじめて",
+    "volitional": "いじめよう",
+    "conditional": "いじめれば",
+    "potential": "いじめられる",
+    "passive": "いじめられる"
+  },
+  {
+    "main": "意見する",
+    "kana": "いけんする",
+    "meaning": "to give opinion",
+    "polite": "意見し",
+    "te": "意見して",
+    "volitional": "意見しよう",
+    "conditional": "意見すれば",
+    "potential": "意見できる",
+    "passive": "意見される"
+  },
+  {
+    "main": "生きる",
+    "kana": "いきる",
+    "meaning": "to live",
+    "polite": "生き",
+    "te": "生きて",
+    "volitional": "生きよう",
+    "conditional": "生きれば",
+    "potential": "生きられる",
+    "passive": "生きられる"
+  },
+  {
+    "main": "祈る",
+    "kana": "いのる",
+    "meaning": "to pray",
+    "polite": "祈り",
+    "te": "祈って",
+    "volitional": "祈ろう",
+    "conditional": "祈れば",
+    "potential": "祈れる",
+    "passive": "祈られる"
+  },
+  {
+    "main": "急ぐ",
+    "kana": "いそぐ",
+    "meaning": "to hurry; to rush",
+    "polite": "急ぎ",
+    "te": "急いで",
+    "volitional": "急ごう",
+    "conditional": "急げば",
+    "potential": "急げる",
+    "passive": "急がれる"
+  },
+  {
+    "main": "頂く",
+    "kana": "いただく",
+    "meaning": "(humble) to receive",
+    "polite": "頂き",
+    "te": "頂いて",
+    "volitional": "頂こう",
+    "conditional": "頂けば",
+    "potential": "頂ける",
+    "passive": "頂かれる"
+  },
+  {
+    "main": "致す",
+    "kana": "いたす",
+    "meaning": "(humble) to do",
+    "polite": "致し",
+    "te": "致して",
+    "volitional": "致しよう",
+    "conditional": "致せば",
+    "potential": "致せる",
+    "passive": "致される"
+  },
+  {
+    "main": "準備する",
+    "kana": "じゅんびする",
+    "meaning": "to prepare",
+    "polite": "準備し",
+    "te": "準備して",
+    "volitional": "準備しよう",
+    "conditional": "準備すれば",
+    "potential": "準備できる",
+    "passive": "準備される"
+  },
+  {
+    "main": "変える",
+    "kana": "かえる",
+    "meaning": "to change; to transform",
+    "polite": "変え",
+    "te": "変えて",
+    "volitional": "変えよう",
+    "conditional": "変えれば",
+    "potential": "変えられる",
+    "passive": "変えられる"
+  },
+  {
+    "main": "会議する",
+    "kana": "かいぎする",
+    "meaning": "meeting; conference",
+    "polite": "会議し",
+    "te": "会議して",
+    "volitional": "会議しよう",
+    "conditional": "会議すれば",
+    "potential": "会議できる",
+    "passive": "会議される"
+  },
+  {
+    "main": "会話する",
+    "kana": "かいわする",
+    "meaning": "conversation",
+    "polite": "会話し",
+    "te": "会話して",
+    "volitional": "会話しよう",
+    "conditional": "会話すれば",
+    "potential": "会話できる",
+    "passive": "会話される"
+  },
+  {
+    "main": "構う",
+    "kana": "かまう",
+    "meaning": "to mind",
+    "polite": "構い",
+    "te": "構って",
+    "volitional": "構おう",
+    "conditional": "構えば",
+    "potential": "構える",
+    "passive": "構われる"
+  },
+  {
+    "main": "噛む",
+    "kana": "かむ",
+    "meaning": "to bite; to chew",
+    "polite": "噛み",
+    "te": "噛んで",
+    "volitional": "噛もう",
+    "conditional": "噛めば",
+    "potential": "噛める",
+    "passive": "噛まれる"
+  },
+  {
+    "main": "考える",
+    "kana": "かんがえる",
+    "meaning": "to think",
+    "polite": "考え",
+    "te": "考えて",
+    "volitional": "考えよう",
+    "conditional": "考えれば",
+    "potential": "考えられる",
+    "passive": "考えられる"
+  },
+  {
+    "main": "関係する",
+    "kana": "かんけいする",
+    "meaning": "to be related to",
+    "polite": "関係し",
+    "te": "関係して",
+    "volitional": "関係しよう",
+    "conditional": "関係すれば",
+    "potential": "関係できる",
+    "passive": "関係される"
+  },
+  {
+    "main": "片付ける",
+    "kana": "かたづける",
+    "meaning": "to tidy up",
+    "polite": "片付け",
+    "te": "片付けて",
+    "volitional": "片付けよう",
+    "conditional": "片付ければ",
+    "potential": "片付けられる",
+    "passive": "片付けられる"
+  },
+  {
+    "main": "勝つ",
+    "kana": "かつ",
+    "meaning": "to win",
+    "polite": "勝ち",
+    "te": "勝って",
+    "volitional": "勝とう",
+    "conditional": "勝てば",
+    "potential": "勝てる",
+    "passive": "勝たれる"
+  },
+  {
+    "main": "乾く",
+    "kana": "かわく",
+    "meaning": "to get dry",
+    "polite": "乾き",
+    "te": "乾いて",
+    "volitional": "乾こう",
+    "conditional": "乾けば",
+    "potential": "乾ける",
+    "passive": "乾かれる"
+  },
+  {
+    "main": "変わる",
+    "kana": "かわる",
+    "meaning": "to change",
+    "polite": "変わり",
+    "te": "変わって",
+    "volitional": "変わろう",
+    "conditional": "変われば",
+    "potential": "変われる",
+    "passive": "変わられる"
+  },
+  {
+    "main": "通う",
+    "kana": "かよう",
+    "meaning": "to commute",
+    "polite": "通い",
+    "te": "通って",
+    "volitional": "通おう",
+    "conditional": "通えば",
+    "potential": "通える",
+    "passive": "通われる"
+  },
+  {
+    "main": "飾る",
+    "kana": "かざる",
+    "meaning": "to decorate",
+    "polite": "飾り",
+    "te": "飾って",
+    "volitional": "飾ろう",
+    "conditional": "飾れば",
+    "potential": "飾れる",
+    "passive": "飾られる"
+  },
+  {
+    "main": "怪我する",
+    "kana": "けがする",
+    "meaning": "to injure",
+    "polite": "怪我し",
+    "te": "怪我して",
+    "volitional": "怪我しよう",
+    "conditional": "怪我すれば",
+    "potential": "怪我できる",
+    "passive": "怪我される"
+  },
+  {
+    "main": "計画する",
+    "kana": "けいかくする",
+    "meaning": "to plan",
+    "polite": "計画し",
+    "te": "計画して",
+    "volitional": "計画しよう",
+    "conditional": "計画すれば",
+    "potential": "計画できる",
+    "passive": "計画される"
+  },
+  {
+    "main": "経験する",
+    "kana": "けいけんする",
+    "meaning": "to experience",
+    "polite": "経験し",
+    "te": "経験して",
+    "volitional": "経験しよう",
+    "conditional": "経験すれば",
+    "potential": "経験できる",
+    "passive": "経験される"
+  },
+  {
+    "main": "見物する",
+    "kana": "けんぶつする",
+    "meaning": "to sightsee/ visit",
+    "polite": "見物し",
+    "te": "見物して",
+    "volitional": "見物しよう",
+    "conditional": "見物すれば",
+    "potential": "見物できる",
+    "passive": "見物される"
+  },
+  {
+    "main": "喧嘩する",
+    "kana": "けんかする",
+    "meaning": "to quarrel",
+    "polite": "喧嘩し",
+    "te": "喧嘩して",
+    "volitional": "喧嘩しよう",
+    "conditional": "喧嘩すれば",
+    "potential": "喧嘩できる",
+    "passive": "喧嘩される"
+  },
+  {
+    "main": "研究する",
+    "kana": "けんきゅうする",
+    "meaning": "research",
+    "polite": "研究し",
+    "te": "研究して",
+    "volitional": "研究しよう",
+    "conditional": "研究すれば",
+    "potential": "研究できる",
+    "passive": "研究される"
+  },
+  {
+    "main": "聞こえる",
+    "kana": "きこえる",
+    "meaning": "to be heard; to be said",
+    "polite": "聞こえ",
+    "te": "聞こえて",
+    "volitional": "聞こえよう",
+    "conditional": "聞こえれば",
+    "potential": "聞こえられる",
+    "passive": "聞こえられる"
+  },
+  {
+    "main": "決まる",
+    "kana": "きまる",
+    "meaning": "to be decided",
+    "polite": "決まり",
+    "te": "決まって",
+    "volitional": "決まろう",
+    "conditional": "決まれば",
+    "potential": "決まれる",
+    "passive": "決まられる"
+  },
+  {
+    "main": "決める",
+    "kana": "きめる",
+    "meaning": "to decide",
+    "polite": "決め",
+    "te": "決めて",
+    "volitional": "決めよう",
+    "conditional": "決めれば",
+    "potential": "決められる",
+    "passive": "決められる"
+  },
+  {
+    "main": "込む",
+    "kana": "こむ",
+    "meaning": "to be crowded",
+    "polite": "込み",
+    "te": "込んで",
+    "volitional": "込もう",
+    "conditional": "込めば",
+    "potential": "込める",
+    "passive": "込まれる"
+  },
+  {
+    "main": "故障する",
+    "kana": "こしょうする",
+    "meaning": "to break-down",
+    "polite": "故障し",
+    "te": "故障して",
+    "volitional": "故障しよう",
+    "conditional": "故障すれば",
+    "potential": "故障できる",
+    "passive": "故障される"
+  },
+  {
+    "main": "講義する",
+    "kana": "こうぎする",
+    "meaning": "to lecture on",
+    "polite": "講義し",
+    "te": "講義して",
+    "volitional": "講義しよう",
+    "conditional": "講義すれば",
+    "potential": "講義できる",
+    "passive": "講義される"
+  },
+  {
+    "main": "壊れる",
+    "kana": "こわれる",
+    "meaning": "to be broken",
+    "polite": "壊れ",
+    "te": "壊れて",
+    "volitional": "壊れよう",
+    "conditional": "壊れれば",
+    "potential": "壊れられる",
+    "passive": "壊れられる"
+  },
+  {
+    "main": "壊す",
+    "kana": "こわす",
+    "meaning": "to break",
+    "polite": "壊し",
+    "te": "壊して",
+    "volitional": "壊そう",
+    "conditional": "壊せば",
+    "potential": "壊せる",
+    "passive": "壊される"
+  },
+  {
+    "main": "下さる",
+    "kana": "くださる",
+    "meaning": "(respectful) to give",
+    "polite": "下さい",
+    "te": "下さって",
+    "volitional": "下さろう",
+    "conditional": "下されば",
+    "potential": "下される",
+    "passive": "下さられる"
+  },
+  {
+    "main": "比べる",
+    "kana": "くらべる",
+    "meaning": "to compare",
+    "polite": "比べ",
+    "te": "比べて",
+    "volitional": "比べよう",
+    "conditional": "比べれば",
+    "potential": "比べられる",
+    "passive": "比べられる"
+  },
+  {
+    "main": "暮れる",
+    "kana": "くれる",
+    "meaning": "to get dark",
+    "polite": "暮れ",
+    "te": "暮れて",
+    "volitional": "暮れよう",
+    "conditional": "暮れれば",
+    "potential": "暮れられる",
+    "passive": "暮れられる"
+  },
+  {
+    "main": "教育する",
+    "kana": "きょういくする",
+    "meaning": "to educate",
+    "polite": "教育し",
+    "te": "教育して",
+    "volitional": "教育しよう",
+    "conditional": "教育すれば",
+    "potential": "教育できる",
+    "passive": "教育される"
+  },
+  {
+    "main": "競争する",
+    "kana": "きょうそうする",
+    "meaning": "to compete",
+    "polite": "競争し",
+    "te": "競争して",
+    "volitional": "競争しよう",
+    "conditional": "競争すれば",
+    "potential": "競争できる",
+    "passive": "競争される"
+  },
+  {
+    "main": "急行する",
+    "kana": "きゅうこうする",
+    "meaning": "to rush to",
+    "polite": "急行し",
+    "te": "急行して",
+    "volitional": "急行しよう",
+    "conditional": "急行すれば",
+    "potential": "急行できる",
+    "passive": "急行される"
+  },
+  {
+    "main": "間違える",
+    "kana": "まちがえる",
+    "meaning": "to make a mistake",
+    "polite": "間違い",
+    "te": "間違えて",
+    "volitional": "間違えよう",
+    "conditional": "間違えれば",
+    "potential": "間違えられる",
+    "passive": "間違えられる"
+  },
+  {
+    "main": "参る",
+    "kana": "まいる",
+    "meaning": "(humble) to go; to come",
+    "polite": "参り",
+    "te": "参って",
+    "volitional": "参ろう",
+    "conditional": "参れば",
+    "potential": "参れる",
+    "passive": "参られる"
+  },
+  {
+    "main": "負ける",
+    "kana": "まける",
+    "meaning": "to lose",
+    "polite": "負け",
+    "te": "負けて",
+    "volitional": "負けよう",
+    "conditional": "負ければ",
+    "potential": "負けられる",
+    "passive": "負けられる"
+  },
+  {
+    "main": "間に合う",
+    "kana": "まにあう",
+    "meaning": "to be in time (for)",
+    "polite": "間に合い",
+    "te": "間に合って",
+    "volitional": "間に合おう",
+    "conditional": "間に合えば",
+    "potential": "間に合える",
+    "passive": "間に合われる"
+  },
+  {
+    "main": "回る",
+    "kana": "まわる",
+    "meaning": "to go around",
+    "polite": "回り",
+    "te": "回って",
+    "volitional": "回ろう",
+    "conditional": "回れば",
+    "potential": "回れる",
+    "passive": "回られる"
+  },
+  {
+    "main": "召し上がる",
+    "kana": "めしあがる",
+    "meaning": "to eat; to drink",
+    "polite": "召し上がり",
+    "te": "召し上がって",
+    "volitional": "召し上がろう",
+    "conditional": "召し上がれば",
+    "potential": "召し上がれる",
+    "passive": "召し上がられる"
+  },
+  {
+    "main": "見える",
+    "kana": "みえる",
+    "meaning": "to be seen; to look; to seem",
+    "polite": "見え",
+    "te": "見えて",
+    "volitional": "見えよう",
+    "conditional": "見えれば",
+    "potential": "見えられる",
+    "passive": "見えられる"
+  },
+  {
+    "main": "見つかる",
+    "kana": "みつかる",
+    "meaning": "to be found; be discovered",
+    "polite": "見つかり",
+    "te": "見つかって",
+    "volitional": "見つかろう",
+    "conditional": "見つかれば",
+    "potential": "見つかれる",
+    "passive": "見つかられる"
+  },
+  {
+    "main": "見つける",
+    "kana": "みつける",
+    "meaning": "to discover; to find",
+    "polite": "見つけ",
+    "te": "見つけて",
+    "volitional": "見つけよう",
+    "conditional": "見つければ",
+    "potential": "見つけられる",
+    "passive": "見つけられる"
+  },
+  {
+    "main": "戻る",
+    "kana": "もどる",
+    "meaning": "to turn back",
+    "polite": "戻り",
+    "te": "戻って",
+    "volitional": "戻ろう",
+    "conditional": "戻れば",
+    "potential": "戻れる",
+    "passive": "戻られる"
+  },
+  {
+    "main": "申し上げる",
+    "kana": "もうしあげる",
+    "meaning": "to say; to offer",
+    "polite": "申し上げ",
+    "te": "申し上げて",
+    "volitional": "申し上げよう",
+    "conditional": "申し上げれば",
+    "potential": "申し上げられる",
+    "passive": "申し上げられる"
+  },
+  {
+    "main": "申す",
+    "kana": "もうす",
+    "meaning": "to be called; to say",
+    "polite": "申し",
+    "te": "申して",
+    "volitional": "申そう",
+    "conditional": "申せば",
+    "potential": "申せる",
+    "passive": "申される"
+  },
+  {
+    "main": "迎える",
+    "kana": "むかえる",
+    "meaning": "to go out to meet",
+    "polite": "迎え",
+    "te": "迎えて",
+    "volitional": "迎えよう",
+    "conditional": "迎えれば",
+    "potential": "迎えられる",
+    "passive": "迎えられる"
+  },
+  {
+    "main": "向かう",
+    "kana": "むかう",
+    "meaning": "to head towards",
+    "polite": "向かい",
+    "te": "向かって",
+    "volitional": "向かおう",
+    "conditional": "向かえば",
+    "potential": "向かえる",
+    "passive": "向かわれる"
+  },
+  {
+    "main": "無理する",
+    "kana": "むりする",
+    "meaning": "to overwork; do impossible",
+    "polite": "無理し",
+    "te": "無理して",
+    "volitional": "無理しよう",
+    "conditional": "無理すれば",
+    "potential": "無理できる",
+    "passive": "無理される"
+  },
+  {
+    "main": "投げる",
+    "kana": "なげる",
+    "meaning": "to throw or cast away",
+    "polite": "投げ",
+    "te": "投げて",
+    "volitional": "投げよう",
+    "conditional": "投げれば",
+    "potential": "投げられる",
+    "passive": "投げられる"
+  },
+  {
+    "main": "泣く",
+    "kana": "なく",
+    "meaning": "to weep",
+    "polite": "泣き",
+    "te": "泣いて",
+    "volitional": "泣こう",
+    "conditional": "泣けば",
+    "potential": "泣ける",
+    "passive": "泣かれる"
+  },
+  {
+    "main": "無くなる",
+    "kana": "なくなる",
+    "meaning": "to disappear; to get lost",
+    "polite": "無くなり",
+    "te": "無くなって",
+    "volitional": "無くなろう",
+    "conditional": "無くなれば",
+    "potential": "無くなれる",
+    "passive": "無くなられる"
+  },
+  {
+    "main": "亡くなる",
+    "kana": "なくなる",
+    "meaning": "to die",
+    "polite": "亡くなり",
+    "te": "亡くなって",
+    "volitional": "亡くなろう",
+    "conditional": "亡くなれば",
+    "potential": "亡くなれる",
+    "passive": "亡くなられる"
+  },
+  {
+    "main": "直る",
+    "kana": "なおる",
+    "meaning": "to be fixed; to be repaired",
+    "polite": "直り",
+    "te": "直って",
+    "volitional": "直ろう",
+    "conditional": "直れば",
+    "potential": "直れる",
+    "passive": "直られる"
+  },
+  {
+    "main": "治る",
+    "kana": "なおる",
+    "meaning": "to be cured; to heal",
+    "polite": "治り",
+    "te": "治って",
+    "volitional": "治ろう",
+    "conditional": "治れば",
+    "potential": "治れる",
+    "passive": "治られる"
+  },
+  {
+    "main": "慣れる",
+    "kana": "なれる",
+    "meaning": "to get used to",
+    "polite": "慣れ",
+    "te": "慣れて",
+    "volitional": "慣れよう",
+    "conditional": "慣れれば",
+    "potential": "慣れられる",
+    "passive": "慣れられる"
+  },
+  {
+    "main": "鳴る",
+    "kana": "なる",
+    "meaning": "to sound; to ring",
+    "polite": "鳴り",
+    "te": "鳴って",
+    "volitional": "鳴ろう",
+    "conditional": "鳴れば",
+    "potential": "鳴れる",
+    "passive": "鳴られる"
+  },
+  {
+    "main": "寝坊する",
+    "kana": "ねぼうする",
+    "meaning": "to sleep in late",
+    "polite": "寝坊し",
+    "te": "寝坊して",
+    "volitional": "寝坊しよう",
+    "conditional": "寝坊すれば",
+    "potential": "寝坊できる",
+    "passive": "寝坊される"
+  },
+  {
+    "main": "眠る",
+    "kana": "ねむる",
+    "meaning": "to sleep",
+    "polite": "眠り",
+    "te": "眠って",
+    "volitional": "眠ろう",
+    "conditional": "眠れば",
+    "potential": "眠れる",
+    "passive": "眠られる"
+  },
+  {
+    "main": "逃げる",
+    "kana": "にげる",
+    "meaning": "to escape",
+    "polite": "逃げ",
+    "te": "逃げて",
+    "volitional": "逃げよう",
+    "conditional": "逃げれば",
+    "potential": "逃げられる",
+    "passive": "逃げられる"
+  },
+  {
+    "main": "似る",
+    "kana": "にる",
+    "meaning": "to be similar",
+    "polite": "似",
+    "te": "似て",
+    "volitional": "似よう",
+    "conditional": "似れば",
+    "potential": "似られる",
+    "passive": "似られる"
+  },
+  {
+    "main": "残る",
+    "kana": "のこる",
+    "meaning": "to remain",
+    "polite": "残り",
+    "te": "残って",
+    "volitional": "残ろう",
+    "conditional": "残れば",
+    "potential": "残れる",
+    "passive": "残られる"
+  },
+  {
+    "main": "乗り換える",
+    "kana": "のりかえる",
+    "meaning": "to change buses or trains",
+    "polite": "乗り換え",
+    "te": "乗り換えて",
+    "volitional": "乗り換えよう",
+    "conditional": "乗り換えれば",
+    "potential": "乗り換えられる",
+    "passive": "乗り換えられる"
+  },
+  {
+    "main": "濡れる",
+    "kana": "ぬれる",
+    "meaning": "to get wet",
+    "polite": "濡れ",
+    "te": "濡れて",
+    "volitional": "濡れよう",
+    "conditional": "濡れれば",
+    "potential": "濡れられる",
+    "passive": "濡れられる"
+  },
+  {
+    "main": "塗る",
+    "kana": "ぬる",
+    "meaning": "to paint; to plaster",
+    "polite": "塗り",
+    "te": "塗って",
+    "volitional": "塗ろう",
+    "conditional": "塗れば",
+    "potential": "塗れる",
+    "passive": "塗られる"
+  },
+  {
+    "main": "盗む",
+    "kana": "ぬすむ",
+    "meaning": "to steal",
+    "polite": "盗み",
+    "te": "盗んで",
+    "volitional": "盗もう",
+    "conditional": "盗めば",
+    "potential": "盗める",
+    "passive": "盗まれる"
+  },
+  {
+    "main": "入学する",
+    "kana": "にゅうがくする",
+    "meaning": "to enroll in school / uni.",
+    "polite": "入学し",
+    "te": "入学して",
+    "volitional": "入学しよう",
+    "conditional": "入学すれば",
+    "potential": "入学できる",
+    "passive": "入学される"
+  },
+  {
+    "main": "入院する",
+    "kana": "にゅういんする",
+    "meaning": "to be hospitalized",
+    "polite": "入院し",
+    "te": "入院して",
+    "volitional": "入院しよう",
+    "conditional": "入院すれば",
+    "potential": "入院できる",
+    "passive": "入院される"
+  },
+  {
+    "main": "落ちる",
+    "kana": "おちる",
+    "meaning": "to fall or drop",
+    "polite": "落ち",
+    "te": "落ちて",
+    "volitional": "落ちよう",
+    "conditional": "落ちれば",
+    "potential": "落ちられる",
+    "passive": "落ちられる"
+  },
+  {
+    "main": "驚く",
+    "kana": "おどろく",
+    "meaning": "to be surprised",
+    "polite": "驚き",
+    "te": "驚いて",
+    "volitional": "驚こう",
+    "conditional": "驚けば",
+    "potential": "驚ける",
+    "passive": "驚かれる"
+  },
+  {
+    "main": "踊る",
+    "kana": "おどる",
+    "meaning": "to dance",
+    "polite": "踊り",
+    "te": "踊って",
+    "volitional": "踊ろう",
+    "conditional": "踊れば",
+    "potential": "踊れる",
+    "passive": "踊られる"
+  },
+  {
+    "main": "お出でになる",
+    "kana": "おいでになる",
+    "meaning": "(respectful) to be",
+    "polite": "お出でになり",
+    "te": "お出でになって",
+    "volitional": "お出でになろう",
+    "conditional": "お出でになれば",
+    "potential": "お出でになれる",
+    "passive": "お出でになられる"
+  },
+  {
+    "main": "お祝いする",
+    "kana": "おいわいする",
+    "meaning": "to celebrate",
+    "polite": "お祝いし",
+    "te": "お祝いして",
+    "volitional": "お祝いしよう",
+    "conditional": "お祝いすれば",
+    "potential": "お祝いできる",
+    "passive": "お祝いされる"
+  },
+  {
+    "main": "行う",
+    "kana": "おこなう",
+    "meaning": "to perform; to do; carry out",
+    "polite": "行い",
+    "te": "行って",
+    "volitional": "行おう",
+    "conditional": "行えば",
+    "potential": "行える",
+    "passive": "行われる"
+  },
+  {
+    "main": "怒る",
+    "kana": "おこる",
+    "meaning": "to be angry",
+    "polite": "怒り",
+    "te": "怒って",
+    "volitional": "怒ろう",
+    "conditional": "怒れば",
+    "potential": "怒れる",
+    "passive": "怒られる"
+  },
+  {
+    "main": "起こす",
+    "kana": "おこす",
+    "meaning": "to wake",
+    "polite": "起こし",
+    "te": "起こして",
+    "volitional": "起こそう",
+    "conditional": "起こせば",
+    "potential": "起こせる",
+    "passive": "起こされる"
+  },
+  {
+    "main": "遅れる",
+    "kana": "おくれる",
+    "meaning": "to be late",
+    "polite": "遅れ",
+    "te": "遅れて",
+    "volitional": "遅れよう",
+    "conditional": "遅れれば",
+    "potential": "遅れられる",
+    "passive": "遅れられる"
+  },
+  {
+    "main": "送る",
+    "kana": "おくる",
+    "meaning": "to send",
+    "polite": "送り",
+    "te": "送って",
+    "volitional": "送ろう",
+    "conditional": "送れば",
+    "potential": "送れる",
+    "passive": "送られる"
+  },
+  {
+    "main": "思い出す",
+    "kana": "おもいだす",
+    "meaning": "to remember",
+    "polite": "思い出し",
+    "te": "思い出して",
+    "volitional": "思い出そう",
+    "conditional": "思い出せば",
+    "potential": "思い出せる",
+    "passive": "思い出される"
+  },
+  {
+    "main": "折れる",
+    "kana": "おれる",
+    "meaning": "to break; to be broken",
+    "polite": "折れ",
+    "te": "折れて",
+    "volitional": "折れよう",
+    "conditional": "折れれば",
+    "potential": "折れられる",
+    "passive": "折れられる"
+  },
+  {
+    "main": "下りる",
+    "kana": "おりる",
+    "meaning": "to get off",
+    "polite": "下り",
+    "te": "下りて",
+    "volitional": "下りよう",
+    "conditional": "下りれば",
+    "potential": "下りられる",
+    "passive": "下りられる"
+  },
+  {
+    "main": "折る",
+    "kana": "おる",
+    "meaning": "to break or to fold",
+    "polite": "折り",
+    "te": "折って",
+    "volitional": "折ろう",
+    "conditional": "折れば",
+    "potential": "折れる",
+    "passive": "折られる"
+  },
+  {
+    "main": "仰る",
+    "kana": "おっしゃる",
+    "meaning": "(respectful) to say",
+    "polite": "仰い",
+    "te": "仰って",
+    "volitional": "仰ろう",
+    "conditional": "仰れば",
+    "potential": "仰れる",
+    "passive": "仰られる"
+  },
+  {
+    "main": "落とす",
+    "kana": "おとす",
+    "meaning": "to drop",
+    "polite": "落とし",
+    "te": "落として",
+    "volitional": "落とそう",
+    "conditional": "落とせば",
+    "potential": "落とせる",
+    "passive": "落とされる"
+  },
+  {
+    "main": "冷房する",
+    "kana": "れいぼうする",
+    "meaning": "to cool (a.c.)",
+    "polite": "冷房し",
+    "te": "冷房して",
+    "volitional": "冷房しよう",
+    "conditional": "冷房すれば",
+    "potential": "冷房できる",
+    "passive": "冷房される"
+  },
+  {
+    "main": "連絡する",
+    "kana": "れんらくする",
+    "meaning": "to contact; to get in touch",
+    "polite": "連絡し",
+    "te": "連絡して",
+    "volitional": "連絡しよう",
+    "conditional": "連絡すれば",
+    "potential": "連絡できる",
+    "passive": "連絡される"
+  },
+  {
+    "main": "利用する",
+    "kana": "りようする",
+    "meaning": "to use; to capitalize on",
+    "polite": "利用し",
+    "te": "利用して",
+    "volitional": "利用しよう",
+    "conditional": "利用すれば",
+    "potential": "利用できる",
+    "passive": "利用される"
+  },
+  {
+    "main": "留守する",
+    "kana": "るすする",
+    "meaning": "to be absent",
+    "polite": "留守し",
+    "te": "留守して",
+    "volitional": "留守しよう",
+    "conditional": "留守すれば",
+    "potential": "留守できる",
+    "passive": "留守される"
+  },
+  {
+    "main": "下がる",
+    "kana": "さがる",
+    "meaning": "to get down",
+    "polite": "下がり",
+    "te": "下がって",
+    "volitional": "下がろう",
+    "conditional": "下がれば",
+    "potential": "下がれる",
+    "passive": "下がられる"
+  },
+  {
+    "main": "探す",
+    "kana": "さがす",
+    "meaning": "to look for",
+    "polite": "探し",
+    "te": "探して",
+    "volitional": "探そう",
+    "conditional": "探せば",
+    "potential": "探せる",
+    "passive": "探される"
+  },
+  {
+    "main": "下げる",
+    "kana": "さげる",
+    "meaning": "to lower",
+    "polite": "下げ",
+    "te": "下げて",
+    "volitional": "下げよう",
+    "conditional": "下げれば",
+    "potential": "下げられる",
+    "passive": "下げられる"
+  },
+  {
+    "main": "差し上げる",
+    "kana": "さしあげる",
+    "meaning": "to give",
+    "polite": "差し上げ",
+    "te": "差し上げて",
+    "volitional": "差し上げよう",
+    "conditional": "差し上げれば",
+    "potential": "差し上げられる",
+    "passive": "差し上げられる"
+  },
+  {
+    "main": "騒ぐ",
+    "kana": "さわぐ",
+    "meaning": "to make noise; be excited",
+    "polite": "騒ぎ",
+    "te": "騒いで",
+    "volitional": "騒ごう",
+    "conditional": "騒げば",
+    "potential": "騒げる",
+    "passive": "騒がれる"
+  },
+  {
+    "main": "触る",
+    "kana": "さわる",
+    "meaning": "to touch",
+    "polite": "触り",
+    "te": "触って",
+    "volitional": "触ろう",
+    "conditional": "触れば",
+    "potential": "触れる",
+    "passive": "触られる"
+  },
+  {
+    "main": "生活する",
+    "kana": "せいかつする",
+    "meaning": "to live",
+    "polite": "生活し",
+    "te": "生活して",
+    "volitional": "生活しよう",
+    "conditional": "生活すれば",
+    "potential": "生活できる",
+    "passive": "生活される"
+  },
+  {
+    "main": "生産する",
+    "kana": "せいさんする",
+    "meaning": "to produce",
+    "polite": "生産し",
+    "te": "生産して",
+    "volitional": "生産しよう",
+    "conditional": "生産すれば",
+    "potential": "生産できる",
+    "passive": "生産される"
+  },
+  {
+    "main": "戦争する",
+    "kana": "せんそうする",
+    "meaning": "to fight a war",
+    "polite": "戦争し",
+    "te": "戦争して",
+    "volitional": "戦争しよう",
+    "conditional": "戦争すれば",
+    "potential": "戦争できる",
+    "passive": "戦争される"
+  },
+  {
+    "main": "説明する",
+    "kana": "せつめいする",
+    "meaning": "to explain",
+    "polite": "説明し",
+    "te": "説明して",
+    "volitional": "説明しよう",
+    "conditional": "説明すれば",
+    "potential": "説明できる",
+    "passive": "説明される"
+  },
+  {
+    "main": "試合する",
+    "kana": "しあいする",
+    "meaning": "to have a",
+    "polite": "試合し",
+    "te": "試合して",
+    "volitional": "試合しよう",
+    "conditional": "試合すれば",
+    "potential": "試合できる",
+    "passive": "試合される"
+  },
+  {
+    "main": "叱る",
+    "kana": "しかる",
+    "meaning": "to scold",
+    "polite": "叱り",
+    "te": "叱って",
+    "volitional": "叱ろう",
+    "conditional": "叱れば",
+    "potential": "叱れる",
+    "passive": "叱られる"
+  },
+  {
+    "main": "試験する",
+    "kana": "しけんする",
+    "meaning": "to examine somebody",
+    "polite": "試験し",
+    "te": "試験して",
+    "volitional": "試験しよう",
+    "conditional": "試験すれば",
+    "potential": "試験できる",
+    "passive": "試験される"
+  },
+  {
+    "main": "失敗する",
+    "kana": "しっぱいする",
+    "meaning": "to fail",
+    "polite": "失敗し",
+    "te": "失敗して",
+    "volitional": "失敗しよう",
+    "conditional": "失敗すれば",
+    "potential": "失敗できる",
+    "passive": "失敗される"
+  },
+  {
+    "main": "調べる",
+    "kana": "しらべる",
+    "meaning": "to investigate",
+    "polite": "調べ",
+    "te": "調べて",
+    "volitional": "調べよう",
+    "conditional": "調べれば",
+    "potential": "調べられる",
+    "passive": "調べられる"
+  },
+  {
+    "main": "知らせる",
+    "kana": "しらせる",
+    "meaning": "to notify",
+    "polite": "知らせ",
+    "te": "知らせて",
+    "volitional": "知らせよう",
+    "conditional": "知らせれば",
+    "potential": "知らせられる",
+    "passive": "知らせられる"
+  },
+  {
+    "main": "生じる",
+    "kana": "しょうじる",
+    "meaning": "to produce",
+    "polite": "生じ",
+    "te": "生じて",
+    "volitional": "生じよう",
+    "conditional": "生じれば",
+    "potential": "生じられる",
+    "passive": "生じられる"
+  },
+  {
+    "main": "紹介する",
+    "kana": "しょうかいする",
+    "meaning": "to introduce",
+    "polite": "紹介し",
+    "te": "紹介して",
+    "volitional": "紹介しよう",
+    "conditional": "紹介すれば",
+    "potential": "紹介できる",
+    "passive": "紹介される"
+  },
+  {
+    "main": "育てる",
+    "kana": "そだてる",
+    "meaning": "to rear; to bring up",
+    "polite": "育て",
+    "te": "育てて",
+    "volitional": "育てよう",
+    "conditional": "育てれば",
+    "potential": "育てられる",
+    "passive": "育てられる"
+  },
+  {
+    "main": "卒業する",
+    "kana": "そつぎょうする",
+    "meaning": "to graduate",
+    "polite": "卒業し",
+    "te": "卒業して",
+    "volitional": "卒業しよう",
+    "conditional": "卒業すれば",
+    "potential": "卒業できる",
+    "passive": "卒業される"
+  },
+  {
+    "main": "相談する",
+    "kana": "そうだんする",
+    "meaning": "to discuss",
+    "polite": "相談し",
+    "te": "相談して",
+    "volitional": "相談しよう",
+    "conditional": "相談すれば",
+    "potential": "相談できる",
+    "passive": "相談される"
+  },
+  {
+    "main": "滑る",
+    "kana": "すべる",
+    "meaning": "to slide; to slip",
+    "polite": "滑り",
+    "te": "滑って",
+    "volitional": "滑ろう",
+    "conditional": "滑れば",
+    "potential": "滑れる",
+    "passive": "滑られる"
+  },
+  {
+    "main": "水泳する",
+    "kana": "すいえいする",
+    "meaning": "to swim",
+    "polite": "水泳し",
+    "te": "水泳して",
+    "volitional": "水泳しよう",
+    "conditional": "水泳すれば",
+    "potential": "水泳できる",
+    "passive": "水泳される"
+  },
+  {
+    "main": "空く",
+    "kana": "すく",
+    "meaning": "to be hungry",
+    "polite": "空き",
+    "te": "空いて",
+    "volitional": "空こう",
+    "conditional": "空けば",
+    "potential": "空ける",
+    "passive": "空かれる"
+  },
+  {
+    "main": "済む",
+    "kana": "すむ",
+    "meaning": "to finish",
+    "polite": "済み",
+    "te": "済んで",
+    "volitional": "済もう",
+    "conditional": "済めば",
+    "potential": "済める",
+    "passive": "済まれる"
+  },
+  {
+    "main": "進む",
+    "kana": "すすむ",
+    "meaning": "to make progress",
+    "polite": "進み",
+    "te": "進んで",
+    "volitional": "進もう",
+    "conditional": "進めば",
+    "potential": "進める",
+    "passive": "進まれる"
+  },
+  {
+    "main": "捨てる",
+    "kana": "すてる",
+    "meaning": "to throw away",
+    "polite": "捨て",
+    "te": "捨てて",
+    "volitional": "捨てよう",
+    "conditional": "捨てれば",
+    "potential": "捨てられる",
+    "passive": "捨てられる"
+  },
+  {
+    "main": "退院する",
+    "kana": "たいいんする",
+    "meaning": "to discharge from hospital",
+    "polite": "退院し",
+    "te": "退院して",
+    "volitional": "退院しよう",
+    "conditional": "退院すれば",
+    "potential": "退院できる",
+    "passive": "退院される"
+  },
+  {
+    "main": "誕生する",
+    "kana": "たんじょうする",
+    "meaning": "to be born",
+    "polite": "誕生し",
+    "te": "誕生して",
+    "volitional": "誕生しよう",
+    "conditional": "誕生すれば",
+    "potential": "誕生できる",
+    "passive": "誕生される"
+  },
+  {
+    "main": "倒れる",
+    "kana": "たおれる",
+    "meaning": "to fall",
+    "polite": "倒れ",
+    "te": "倒れて",
+    "volitional": "倒れよう",
+    "conditional": "倒れれば",
+    "potential": "倒れられる",
+    "passive": "倒れられる"
+  },
+  {
+    "main": "足りる",
+    "kana": "たりる",
+    "meaning": "to be sufficient / enough",
+    "polite": "足り",
+    "te": "足りて",
+    "volitional": "足りよう",
+    "conditional": "足りれば",
+    "potential": "足りられる",
+    "passive": "足りられる"
+  },
+  {
+    "main": "足す",
+    "kana": "たす",
+    "meaning": "to add",
+    "polite": "足し",
+    "te": "足して",
+    "volitional": "足そう",
+    "conditional": "足せば",
+    "potential": "足せる",
+    "passive": "足される"
+  },
+  {
+    "main": "建てる",
+    "kana": "たてる",
+    "meaning": "to build",
+    "polite": "建て",
+    "te": "建てて",
+    "volitional": "建てよう",
+    "conditional": "建てれば",
+    "potential": "建てられる",
+    "passive": "建てられる"
+  },
+  {
+    "main": "訪ねる",
+    "kana": "たずねる",
+    "meaning": "to visit",
+    "polite": "訪ね",
+    "te": "訪ねて",
+    "volitional": "訪ねよう",
+    "conditional": "訪ねれば",
+    "potential": "訪ねられる",
+    "passive": "訪ねられる"
+  },
+  {
+    "main": "尋ねる",
+    "kana": "たずねる",
+    "meaning": "to ask",
+    "polite": "尋ね",
+    "te": "尋ねて",
+    "volitional": "尋ねよう",
+    "conditional": "尋ねれば",
+    "potential": "尋ねられる",
+    "passive": "尋ねられる"
+  },
+  {
+    "main": "手伝う",
+    "kana": "てつだう",
+    "meaning": "to help; to assist",
+    "polite": "手伝い",
+    "te": "手伝って",
+    "volitional": "手伝おう",
+    "conditional": "手伝えば",
+    "potential": "手伝える",
+    "passive": "手伝われる"
+  },
+  {
+    "main": "届ける",
+    "kana": "とどける",
+    "meaning": "to send",
+    "polite": "届け",
+    "te": "届けて",
+    "volitional": "届けよう",
+    "conditional": "届ければ",
+    "potential": "届けられる",
+    "passive": "届けられる"
+  },
+  {
+    "main": "泊まる",
+    "kana": "とまる",
+    "meaning": "to stay at",
+    "polite": "泊まり",
+    "te": "泊まって",
+    "volitional": "泊まろう",
+    "conditional": "泊まれば",
+    "potential": "泊まれる",
+    "passive": "泊まられる"
+  },
+  {
+    "main": "止める",
+    "kana": "とめる",
+    "meaning": "to stop something",
+    "polite": "止め",
+    "te": "止めて",
+    "volitional": "止めよう",
+    "conditional": "止めれば",
+    "potential": "止められる",
+    "passive": "止められる"
+  },
+  {
+    "main": "通る",
+    "kana": "とおる",
+    "meaning": "to go through",
+    "polite": "通り",
+    "te": "通って",
+    "volitional": "通ろう",
+    "conditional": "通れば",
+    "potential": "通れる",
+    "passive": "通られる"
+  },
+  {
+    "main": "取り替える",
+    "kana": "とりかえる",
+    "meaning": "to exchange; to swap",
+    "polite": "取り替え",
+    "te": "取り替えて",
+    "volitional": "取り替えよう",
+    "conditional": "取り替えれば",
+    "potential": "取り替えられる",
+    "passive": "取り替えられる"
+  },
+  {
+    "main": "続ける",
+    "kana": "つづける",
+    "meaning": "to continue; to keep up",
+    "polite": "続け",
+    "te": "続けて",
+    "volitional": "続けよう",
+    "conditional": "続ければ",
+    "potential": "続けられる",
+    "passive": "続けられる"
+  },
+  {
+    "main": "続く",
+    "kana": "つづく",
+    "meaning": "to continue",
+    "polite": "続き",
+    "te": "続いて",
+    "volitional": "続こう",
+    "conditional": "続けば",
+    "potential": "続ける",
+    "passive": "続かれる"
+  },
+  {
+    "main": "捕まえる",
+    "kana": "つかまえる",
+    "meaning": "to catch",
+    "polite": "捕まえ",
+    "te": "捕まえて",
+    "volitional": "捕まえよう",
+    "conditional": "捕まえれば",
+    "potential": "捕まえられる",
+    "passive": "捕まえられる"
+  },
+  {
+    "main": "漬ける",
+    "kana": "つける",
+    "meaning": "to soak; to pickle",
+    "polite": "漬け",
+    "te": "漬けて",
+    "volitional": "漬けよう",
+    "conditional": "漬ければ",
+    "potential": "漬けられる",
+    "passive": "漬けられる"
+  },
+  {
+    "main": "付く",
+    "kana": "つく",
+    "meaning": "to be attached",
+    "polite": "付き",
+    "te": "付いて",
+    "volitional": "付こう",
+    "conditional": "付けば",
+    "potential": "付ける",
+    "passive": "付かれる"
+  },
+  {
+    "main": "連れる",
+    "kana": "つれる",
+    "meaning": "to take someone with",
+    "polite": "連れ",
+    "te": "連れて",
+    "volitional": "連れよう",
+    "conditional": "連れれば",
+    "potential": "連れられる",
+    "passive": "連れられる"
+  },
+  {
+    "main": "釣る",
+    "kana": "つる",
+    "meaning": "to fish",
+    "polite": "釣り",
+    "te": "釣って",
+    "volitional": "釣ろう",
+    "conditional": "釣れば",
+    "potential": "釣れる",
+    "passive": "釣られる"
+  },
+  {
+    "main": "伝える",
+    "kana": "つたえる",
+    "meaning": "to report; to tell",
+    "polite": "伝え",
+    "te": "伝えて",
+    "volitional": "伝えよう",
+    "conditional": "伝えれば",
+    "potential": "伝えられる",
+    "passive": "伝えられる"
+  },
+  {
+    "main": "包む",
+    "kana": "つつむ",
+    "meaning": "to wrap",
+    "polite": "包み",
+    "te": "包んで",
+    "volitional": "包もう",
+    "conditional": "包めば",
+    "potential": "包める",
+    "passive": "包まれる"
+  },
+  {
+    "main": "植える",
+    "kana": "うえる",
+    "meaning": "to plant; to",
+    "polite": "植え",
+    "te": "植えて",
+    "volitional": "植えよう",
+    "conditional": "植えれば",
+    "potential": "植えられる",
+    "passive": "植えられる"
+  },
+  {
+    "main": "動く",
+    "kana": "うごく",
+    "meaning": "to move",
+    "polite": "動き",
+    "te": "動いて",
+    "volitional": "動こう",
+    "conditional": "動けば",
+    "potential": "動ける",
+    "passive": "動かれる"
+  },
+  {
+    "main": "伺う",
+    "kana": "うかがう",
+    "meaning": "to visit",
+    "polite": "伺い",
+    "te": "伺って",
+    "volitional": "伺おう",
+    "conditional": "伺えば",
+    "potential": "伺える",
+    "passive": "伺われる"
+  },
+  {
+    "main": "受ける",
+    "kana": "うける",
+    "meaning": "to take a lesson or test",
+    "polite": "受け",
+    "te": "受けて",
+    "volitional": "受けよう",
+    "conditional": "受ければ",
+    "potential": "受けられる",
+    "passive": "受けられる"
+  },
+  {
+    "main": "打つ",
+    "kana": "うつ",
+    "meaning": "to hit",
+    "polite": "打ち",
+    "te": "打って",
+    "volitional": "打とう",
+    "conditional": "打てば",
+    "potential": "打てる",
+    "passive": "打たれる"
+  },
+  {
+    "main": "移る",
+    "kana": "うつる",
+    "meaning": "to move house or transfer",
+    "polite": "移り",
+    "te": "移って",
+    "volitional": "移ろう",
+    "conditional": "移れば",
+    "potential": "移れる",
+    "passive": "移られる"
+  },
+  {
+    "main": "写す",
+    "kana": "うつす",
+    "meaning": "to copy or photograph",
+    "polite": "写し",
+    "te": "写して",
+    "volitional": "写そう",
+    "conditional": "写せば",
+    "potential": "写せる",
+    "passive": "写される"
+  },
+  {
+    "main": "別れる",
+    "kana": "わかれる",
+    "meaning": "to separate",
+    "polite": "別れ",
+    "te": "別れて",
+    "volitional": "別れよう",
+    "conditional": "別れれば",
+    "potential": "別れられる",
+    "passive": "別れられる"
+  },
+  {
+    "main": "沸かす",
+    "kana": "わかす",
+    "meaning": "to boil; to heat",
+    "polite": "沸かし",
+    "te": "沸かして",
+    "volitional": "沸かそう",
+    "conditional": "沸かせば",
+    "potential": "沸かせる",
+    "passive": "沸かされる"
+  },
+  {
+    "main": "沸く",
+    "kana": "わく",
+    "meaning": "to boil",
+    "polite": "沸き",
+    "te": "沸いて",
+    "volitional": "沸こう",
+    "conditional": "沸けば",
+    "potential": "沸ける",
+    "passive": "沸かれる"
+  },
+  {
+    "main": "笑う",
+    "kana": "わらう",
+    "meaning": "to laugh; to smile",
+    "polite": "笑い",
+    "te": "笑って",
+    "volitional": "笑おう",
+    "conditional": "笑えば",
+    "potential": "笑える",
+    "passive": "笑われる"
+  },
+  {
+    "main": "割れる",
+    "kana": "われる",
+    "meaning": "to break",
+    "polite": "割れ",
+    "te": "割れて",
+    "volitional": "割れよう",
+    "conditional": "割れれば",
+    "potential": "割れられる",
+    "passive": "割れられる"
+  },
+  {
+    "main": "焼ける",
+    "kana": "やける",
+    "meaning": "to burn; to be roasted",
+    "polite": "焼け",
+    "te": "焼けて",
+    "volitional": "焼けよう",
+    "conditional": "焼ければ",
+    "potential": "焼けられる",
+    "passive": "焼けられる"
+  },
+  {
+    "main": "焼く",
+    "kana": "やく",
+    "meaning": "to bake; to grill",
+    "polite": "焼き",
+    "te": "焼いて",
+    "volitional": "焼こう",
+    "conditional": "焼けば",
+    "potential": "焼ける",
+    "passive": "焼かれる"
+  },
+  {
+    "main": "役に立つ",
+    "kana": "やくにたつ",
+    "meaning": "to be helpful",
+    "polite": "役に立ち",
+    "te": "役に立って",
+    "volitional": "役に立とう",
+    "conditional": "役に立てば",
+    "potential": "役に立てる",
+    "passive": "役に立たれる"
+  },
+  {
+    "main": "約束する",
+    "kana": "やくそくする",
+    "meaning": "to promise",
+    "polite": "約束し",
+    "te": "約束して",
+    "volitional": "約束しよう",
+    "conditional": "約束すれば",
+    "potential": "約束できる",
+    "passive": "約束される"
+  },
+  {
+    "main": "止む",
+    "kana": "やむ",
+    "meaning": "to stop",
+    "polite": "止み",
+    "te": "止んで",
+    "volitional": "止もう",
+    "conditional": "止めば",
+    "potential": "止める",
+    "passive": "止まれる"
+  },
+  {
+    "main": "痩せる",
+    "kana": "やせる",
+    "meaning": "to become thin",
+    "polite": "痩せ",
+    "te": "痩せて",
+    "volitional": "痩せよう",
+    "conditional": "痩せれば",
+    "potential": "痩せられる",
+    "passive": "痩せられる"
+  },
+  {
+    "main": "汚れる",
+    "kana": "よごれる",
+    "meaning": "to get dirty",
+    "polite": "汚れ",
+    "te": "汚れて",
+    "volitional": "汚れよう",
+    "conditional": "汚れれば",
+    "potential": "汚れられる",
+    "passive": "汚れられる"
+  },
+  {
+    "main": "喜ぶ",
+    "kana": "よろこぶ",
+    "meaning": "to be delighted",
+    "polite": "喜び",
+    "te": "喜んで",
+    "volitional": "喜ぼう",
+    "conditional": "喜べば",
+    "potential": "喜べる",
+    "passive": "喜ばれる"
+  },
+  {
+    "main": "寄る",
+    "kana": "よる",
+    "meaning": "to visit; to drop by",
+    "polite": "寄り",
+    "te": "寄って",
+    "volitional": "寄ろう",
+    "conditional": "寄れば",
+    "potential": "寄れる",
+    "passive": "寄られる"
+  },
+  {
+    "main": "予習する",
+    "kana": "よしゅうする",
+    "meaning": "to prepare for a lesson",
+    "polite": "予習し",
+    "te": "予習して",
+    "volitional": "予習しよう",
+    "conditional": "予習すれば",
+    "potential": "予習できる",
+    "passive": "予習される"
+  },
+  {
+    "main": "予定する",
+    "kana": "よていする",
+    "meaning": "plan",
+    "polite": "予定し",
+    "te": "予定して",
+    "volitional": "予定しよう",
+    "conditional": "予定すれば",
+    "potential": "予定できる",
+    "passive": "予定される"
+  },
+  {
+    "main": "用意する",
+    "kana": "よういする",
+    "meaning": "to prepare",
+    "polite": "用意し",
+    "te": "用意して",
+    "volitional": "用意しよう",
+    "conditional": "用意すれば",
+    "potential": "用意できる",
+    "passive": "用意される"
+  },
+  {
+    "main": "予約する",
+    "kana": "よやくする",
+    "meaning": "to make a reservation",
+    "polite": "予約し",
+    "te": "予約して",
+    "volitional": "予約しよう",
+    "conditional": "予約すれば",
+    "potential": "予約できる",
+    "passive": "予約される"
+  },
+  {
+    "main": "揺れる",
+    "kana": "ゆれる",
+    "meaning": "to shake",
+    "polite": "揺れ",
+    "te": "揺れて",
+    "volitional": "揺れよう",
+    "conditional": "揺れれば",
+    "potential": "揺れられる",
+    "passive": "揺れられる"
   }
 ]

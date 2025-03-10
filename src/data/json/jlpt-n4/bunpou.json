@@ -1,788 +1,526 @@
 [
   {
-    "kanji": "間",
-    "furigana": "",
-    "translation": "while; during; between",
-    "check": false
+    "main": "間",
+    "meaning": "while; during; between"
   },
   {
-    "kanji": "間に",
-    "furigana": "",
-    "translation": "while/during~ something happened",
-    "check": false
+    "main": "間に",
+    "meaning": "while/during~ something happened"
   },
   {
-    "kanji": "あまり～ない",
-    "furigana": "",
-    "translation": "not very, not much",
-    "check": false
+    "main": "あまり～ない",
+    "meaning": "not very, not much"
   },
   {
-    "kanji": "後で",
-    "furigana": "",
-    "translation": "after ~; later",
-    "check": false
+    "main": "後で",
+    "meaning": "after ~; later"
   },
   {
-    "kanji": "ば",
-    "furigana": "",
-    "translation": "conditional form; If [A] then [B]",
-    "check": false
+    "main": "ば",
+    "meaning": "conditional form; If [A] then [B]"
   },
   {
-    "kanji": "場合は",
-    "furigana": "",
-    "translation": "in the event of; in the case that",
-    "check": false
+    "main": "場合は",
+    "meaning": "in the event of; in the case that"
   },
   {
-    "kanji": "ばかり",
-    "furigana": "",
-    "translation": "only; nothing but",
-    "check": false
+    "main": "ばかり",
+    "meaning": "only; nothing but"
   },
   {
-    "kanji": "だけで",
-    "furigana": "",
-    "translation": "just by; just by doing",
-    "check": false
+    "main": "だけで",
+    "meaning": "just by; just by doing"
   },
   {
-    "kanji": "出す",
-    "furigana": "",
-    "translation": "to suddenly begin; to suddenly appear",
-    "check": false
+    "main": "出す",
+    "meaning": "to suddenly begin; to suddenly appear"
   },
   {
-    "kanji": "でございます",
-    "furigana": "",
-    "translation": "to be (honorific)",
-    "check": false
+    "main": "でございます",
+    "meaning": "to be (honorific)"
   },
   {
-    "kanji": "でも",
-    "furigana": "",
-    "translation": "... or something",
-    "check": false
+    "main": "でも",
+    "meaning": "... or something"
   },
   {
-    "kanji": "ではないか",
-    "furigana": "",
-    "translation": "right?; isn't it?",
-    "check": false
+    "main": "ではないか",
+    "meaning": "right?; isn't it?"
   },
   {
-    "kanji": "が必要",
-    "furigana": "",
-    "translation": "need; necessary",
-    "check": false
+    "main": "が必要",
+    "meaning": "need; necessary"
   },
   {
-    "kanji": "がする",
-    "furigana": "",
-    "translation": "to smell; hear; taste",
-    "check": false
+    "main": "がする",
+    "meaning": "to smell; hear; taste"
   },
   {
-    "kanji": "がり",
-    "furigana": "",
-    "translation": "personality; tend to~; sensitivity towards~",
-    "check": false
+    "main": "がり",
+    "meaning": "personality; tend to~; sensitivity towards~"
   },
   {
-    "kanji": "がる・がっている",
-    "furigana": "",
-    "translation": "to show signs of; to appear; to feel, to think",
-    "check": false
+    "main": "がる・がっている",
+    "meaning": "to show signs of; to appear; to feel, to think"
   },
   {
-    "kanji": "ございます",
-    "furigana": "",
-    "translation": "to be, to exist (the polite form of いる/ある)",
-    "check": false
+    "main": "ございます",
+    "meaning": "to be, to exist (the polite form of いる/ある)"
   },
   {
-    "kanji": "始める",
-    "furigana": "",
-    "translation": "to start; to begin to ~",
-    "check": false
+    "main": "始める",
+    "meaning": "to start; to begin to ~"
   },
   {
-    "kanji": "はずだ",
-    "furigana": "",
-    "translation": "it must be; it should be (expectation)",
-    "check": false
+    "main": "はずだ",
+    "meaning": "it must be; it should be (expectation)"
   },
   {
-    "kanji": "はずがない",
-    "furigana": "",
-    "translation": "cannot be (impossible)",
-    "check": false
+    "main": "はずがない",
+    "meaning": "cannot be (impossible)"
   },
   {
-    "kanji": "必要がある",
-    "furigana": "",
-    "translation": "need to; it is necessary to",
-    "check": false
+    "main": "必要がある",
+    "meaning": "need to; it is necessary to"
   },
   {
-    "kanji": "意向形",
-    "furigana": "",
-    "translation": "volitional form​; let's do ~",
-    "check": false
+    "main": "意向形",
+    "meaning": "volitional form​; let's do ~"
   },
   {
-    "kanji": "いらっしゃる",
-    "furigana": "",
-    "translation": "to be; to come; to go (polite version)",
-    "check": false
+    "main": "いらっしゃる",
+    "meaning": "to be; to come; to go (polite version)"
   },
   {
-    "kanji": "いたします",
-    "furigana": "",
-    "translation": "to do (polite form of する)",
-    "check": false
+    "main": "いたします",
+    "meaning": "to do (polite form of する)"
   },
   {
-    "kanji": "じゃないか",
-    "furigana": "",
-    "translation": "right? isn't it? let's~; confirmation",
-    "check": false
+    "main": "じゃないか",
+    "meaning": "right? isn't it? let's~; confirmation"
   },
   {
-    "kanji": "かどうか",
-    "furigana": "",
-    "translation": "whether or not",
-    "check": false
+    "main": "かどうか",
+    "meaning": "whether or not"
   },
   {
-    "kanji": "かしら",
-    "furigana": "",
-    "translation": "I wonder",
-    "check": false
+    "main": "かしら",
+    "meaning": "I wonder"
   },
   {
-    "kanji": "かい",
-    "furigana": "",
-    "translation": "turns a sentence into a yes/no question",
-    "check": false
+    "main": "かい",
+    "meaning": "turns a sentence into a yes/no question"
   },
   {
-    "kanji": "かもしれない",
-    "furigana": "",
-    "translation": "might; perhaps; indicates possibility",
-    "check": false
+    "main": "かもしれない",
+    "meaning": "might; perhaps; indicates possibility"
   },
   {
-    "kanji": "かな",
-    "furigana": "",
-    "translation": "I wonder; should I?",
-    "check": false
+    "main": "かな",
+    "meaning": "I wonder; should I?"
   },
   {
-    "kanji": "から作る",
-    "furigana": "",
-    "translation": "made from; made with",
-    "check": false
+    "main": "から作る",
+    "meaning": "made from; made with"
   },
   {
-    "kanji": "きっと",
-    "furigana": "",
-    "translation": "surely; undoubtedly; almost certainly; likely",
-    "check": false
+    "main": "きっと",
+    "meaning": "surely; undoubtedly; almost certainly; likely"
   },
   {
-    "kanji": "頃",
-    "furigana": "",
-    "translation": "around; about; when",
-    "check": false
+    "main": "頃",
+    "meaning": "around; about; when"
   },
   {
-    "kanji": "こと",
-    "furigana": "",
-    "translation": "Verb nominalizer",
-    "check": false
+    "main": "こと",
+    "meaning": "Verb nominalizer"
   },
   {
-    "kanji": "ことがある",
-    "furigana": "",
-    "translation": "there are times when",
-    "check": false
+    "main": "ことがある",
+    "meaning": "there are times when"
   },
   {
-    "kanji": "ことができる",
-    "furigana": "",
-    "translation": "can; able to",
-    "check": false
+    "main": "ことができる",
+    "meaning": "can; able to"
   },
   {
-    "kanji": "ことになる",
-    "furigana": "",
-    "translation": "It has been decided that..; it turns out that..",
-    "check": false
+    "main": "ことになる",
+    "meaning": "It has been decided that..; it turns out that.."
   },
   {
-    "kanji": "ことにする",
-    "furigana": "",
-    "translation": "to decide on",
-    "check": false
+    "main": "ことにする",
+    "meaning": "to decide on"
   },
   {
-    "kanji": "くする",
-    "furigana": "",
-    "translation": "to make something ~",
-    "check": false
+    "main": "くする",
+    "meaning": "to make something ~"
   },
   {
-    "kanji": "急に",
-    "furigana": "",
-    "translation": "suddenly",
-    "check": false
+    "main": "急に",
+    "meaning": "suddenly"
   },
   {
-    "kanji": "までに",
-    "furigana": "",
-    "translation": "by; by the time; indicates time limit",
-    "check": false
+    "main": "までに",
+    "meaning": "by; by the time; indicates time limit"
   },
   {
-    "kanji": "まま",
-    "furigana": "",
-    "translation": "as it is; current state; without changing",
-    "check": false
+    "main": "まま",
+    "meaning": "as it is; current state; without changing"
   },
   {
-    "kanji": "または",
-    "furigana": "",
-    "translation": "both; or; otherwise​; choice between [A] or [B]",
-    "check": false
+    "main": "または",
+    "meaning": "both; or; otherwise​; choice between [A] or [B]"
   },
   {
-    "kanji": "みたいだ",
-    "furigana": "",
-    "translation": "like, similar to, resembling",
-    "check": false
+    "main": "みたいだ",
+    "meaning": "like, similar to, resembling"
   },
   {
-    "kanji": "みたいな",
-    "furigana": "",
-    "translation": "like, similar to",
-    "check": false
+    "main": "みたいな",
+    "meaning": "like, similar to"
   },
   {
-    "kanji": "みたいに",
-    "furigana": "",
-    "translation": "like, similar to",
-    "check": false
+    "main": "みたいに",
+    "meaning": "like, similar to"
   },
   {
-    "kanji": "も",
-    "furigana": "",
-    "translation": "as many as; as much as; up to; nearly",
-    "check": false
+    "main": "も",
+    "meaning": "as many as; as much as; up to; nearly"
   },
   {
-    "kanji": "な",
-    "furigana": "",
-    "translation": "don’t ~ (order somebody to not do something)",
-    "check": false
+    "main": "な",
+    "meaning": "don’t ~ (order somebody to not do something)"
   },
   {
-    "kanji": "など",
-    "furigana": "",
-    "translation": "such as, things like",
-    "check": false
+    "main": "など",
+    "meaning": "such as, things like"
   },
   {
-    "kanji": "ながら",
-    "furigana": "",
-    "translation": "while; during; as; simultaneously",
-    "check": false
+    "main": "ながら",
+    "meaning": "while; during; as; simultaneously"
   },
   {
-    "kanji": "なかなか～ない",
-    "furigana": "",
-    "translation": "not easy to; struggling to; not able to~",
-    "check": false
+    "main": "なかなか～ない",
+    "meaning": "not easy to; struggling to; not able to~"
   },
   {
-    "kanji": "なければいけない",
-    "furigana": "",
-    "translation": "must do something; have to do something",
-    "check": false
+    "main": "なければいけない",
+    "meaning": "must do something; have to do something"
   },
   {
-    "kanji": "なければならない",
-    "furigana": "",
-    "translation": "must do something; have to do something",
-    "check": false
+    "main": "なければならない",
+    "meaning": "must do something; have to do something"
   },
   {
-    "kanji": "なら",
-    "furigana": "",
-    "translation": "if; in the case that ~",
-    "check": false
+    "main": "なら",
+    "meaning": "if; in the case that ~"
   },
   {
-    "kanji": "なさい",
-    "furigana": "",
-    "translation": "do this (soft/firm command)",
-    "check": false
+    "main": "なさい",
+    "meaning": "do this (soft/firm command)"
   },
   {
-    "kanji": "なさる",
-    "furigana": "",
-    "translation": "to do (honorific)",
-    "check": false
+    "main": "なさる",
+    "meaning": "to do (honorific)"
   },
   {
-    "kanji": "に気がつく",
-    "furigana": "",
-    "translation": "to notice; to realize",
-    "check": false
+    "main": "に気がつく",
+    "meaning": "to notice; to realize"
   },
   {
-    "kanji": "にみえる",
-    "furigana": "",
-    "translation": "to look; to seem; to appear",
-    "check": false
+    "main": "にみえる",
+    "meaning": "to look; to seem; to appear"
   },
   {
-    "kanji": "にする",
-    "furigana": "",
-    "translation": "to make something ~",
-    "check": false
+    "main": "にする",
+    "meaning": "to make something ~"
   },
   {
-    "kanji": "にくい",
-    "furigana": "",
-    "translation": "difficult to do",
-    "check": false
+    "main": "にくい",
+    "meaning": "difficult to do"
   },
   {
-    "kanji": "の中で",
-    "furigana": "",
-    "translation": "in, among",
-    "check": false
+    "main": "の中で",
+    "meaning": "in, among"
   },
   {
-    "kanji": "のに",
-    "furigana": "",
-    "translation": "although, in spite of, even though",
-    "check": false
+    "main": "のに",
+    "meaning": "although, in spite of, even though"
   },
   {
-    "kanji": "のに",
-    "furigana": "",
-    "translation": "to (do something); in order to",
-    "check": false
+    "main": "のに",
+    "meaning": "to (do something); in order to"
   },
   {
-    "kanji": "のは〜だ",
-    "furigana": "",
-    "translation": "[A] is [B]; the reason for [A] is [B]",
-    "check": false
+    "main": "のは〜だ",
+    "meaning": "[A] is [B]; the reason for [A] is [B]"
   },
   {
-    "kanji": "お～ください",
-    "furigana": "",
-    "translation": "please do (honorific)",
-    "check": false
+    "main": "お～ください",
+    "meaning": "please do (honorific)"
   },
   {
-    "kanji": "お～になる",
-    "furigana": "",
-    "translation": "to do (honorific)",
-    "check": false
+    "main": "お～になる",
+    "meaning": "to do (honorific)"
   },
   {
-    "kanji": "おきに",
-    "furigana": "",
-    "translation": "repeated at intervals, every",
-    "check": false
+    "main": "おきに",
+    "meaning": "repeated at intervals, every"
   },
   {
-    "kanji": "終わる",
-    "furigana": "",
-    "translation": "to finish; to end",
-    "check": false
+    "main": "終わる",
+    "meaning": "to finish; to end"
   },
   {
-    "kanji": "られる",
-    "furigana": "",
-    "translation": "potential form; ability/inability to do ~",
-    "check": false
+    "main": "られる",
+    "meaning": "potential form; ability/inability to do ~"
   },
   {
-    "kanji": "らしい",
-    "furigana": "",
-    "translation": "it seems like; I heard; apparently~",
-    "check": false
+    "main": "らしい",
+    "meaning": "it seems like; I heard; apparently~"
   },
   {
-    "kanji": "さ",
-    "furigana": "",
-    "translation": "-ness​ ; nominalizer for adjective",
-    "check": false
+    "main": "さ",
+    "meaning": "-ness​ ; nominalizer for adjective"
   },
   {
-    "kanji": "さっき",
-    "furigana": "",
-    "translation": "some time ago; just now",
-    "check": false
+    "main": "さっき",
+    "meaning": "some time ago; just now"
   },
   {
-    "kanji": "させられる",
-    "furigana": "",
-    "translation": "causative-passive; to be made to do something",
-    "check": false
+    "main": "させられる",
+    "meaning": "causative-passive; to be made to do something"
   },
   {
-    "kanji": "させる",
-    "furigana": "",
-    "translation": "causative form; to make/let somebody do ~",
-    "check": false
+    "main": "させる",
+    "meaning": "causative form; to make/let somebody do ~"
   },
   {
-    "kanji": "させてください",
-    "furigana": "",
-    "translation": "please let me do",
-    "check": false
+    "main": "させてください",
+    "meaning": "please let me do"
   },
   {
-    "kanji": "さすが",
-    "furigana": "",
-    "translation": "as one would expect; as is to be expected; even",
-    "check": false
+    "main": "さすが",
+    "meaning": "as one would expect; as is to be expected; even"
   },
   {
-    "kanji": "し",
-    "furigana": "",
-    "translation": "and; and what’s more; emphasis",
-    "check": false
+    "main": "し",
+    "meaning": "and; and what’s more; emphasis"
   },
   {
-    "kanji": "そんなに",
-    "furigana": "",
-    "translation": "so much; so; like that",
-    "check": false
+    "main": "そんなに",
+    "meaning": "so much; so; like that"
   },
   {
-    "kanji": "それでも",
-    "furigana": "",
-    "translation": "but still; and yet; even so",
-    "check": false
+    "main": "それでも",
+    "meaning": "but still; and yet; even so"
   },
   {
-    "kanji": "そうだ",
-    "furigana": "",
-    "translation": "I heard that; it is said that",
-    "check": false
+    "main": "そうだ",
+    "meaning": "I heard that; it is said that"
   },
   {
-    "kanji": "そうだ",
-    "furigana": "",
-    "translation": "looks like; appears like",
-    "check": false
+    "main": "そうだ",
+    "meaning": "looks like; appears like"
   },
   {
-    "kanji": "そうに・そうな",
-    "furigana": "",
-    "translation": "seems like; looks like",
-    "check": false
+    "main": "そうに・そうな",
+    "meaning": "seems like; looks like"
   },
   {
-    "kanji": "たばかり",
-    "furigana": "",
-    "translation": "just finished; something just occurred",
-    "check": false
+    "main": "たばかり",
+    "meaning": "just finished; something just occurred"
   },
   {
-    "kanji": "たところ",
-    "furigana": "",
-    "translation": "just finished doing, was just doing",
-    "check": false
+    "main": "たところ",
+    "meaning": "just finished doing, was just doing"
   },
   {
-    "kanji": "他動詞 & 自動詞",
-    "furigana": "",
-    "translation": "Transitive & Intransitive Verbs",
-    "check": false
+    "main": "他動詞 & 自動詞",
+    "meaning": "Transitive & Intransitive Verbs"
   },
   {
-    "kanji": "たがる",
-    "furigana": "",
-    "translation": "wants to do~ (third person)",
-    "check": false
+    "main": "たがる",
+    "meaning": "wants to do~ (third person)"
   },
   {
-    "kanji": "たら",
-    "furigana": "",
-    "translation": "if, after, when",
-    "check": false
+    "main": "たら",
+    "meaning": "if, after, when"
   },
   {
-    "kanji": "たらどう",
-    "furigana": "",
-    "translation": "why don't you",
-    "check": false
+    "main": "たらどう",
+    "meaning": "why don't you"
   },
   {
-    "kanji": "たらいいですか",
-    "furigana": "",
-    "translation": "what should I do?; speaker seeking instruction",
-    "check": false
+    "main": "たらいいですか",
+    "meaning": "what should I do?; speaker seeking instruction"
   },
   {
-    "kanji": "て / で",
-    "furigana": "",
-    "translation": "conjunctive particle; so; because of [A], [B]...",
-    "check": false
+    "main": "て / で",
+    "meaning": "conjunctive particle; so; because of [A], [B]..."
   },
   {
-    "kanji": "てあげる",
-    "furigana": "",
-    "translation": "to do for; to do a favor",
-    "check": false
+    "main": "てあげる",
+    "meaning": "to do for; to do a favor"
   },
   {
-    "kanji": "てほしい",
-    "furigana": "",
-    "translation": "I want you to; need you to~",
-    "check": false
+    "main": "てほしい",
+    "meaning": "I want you to; need you to~"
   },
   {
-    "kanji": "ていく",
-    "furigana": "",
-    "translation": "to start; to continue; to go on",
-    "check": false
+    "main": "ていく",
+    "meaning": "to start; to continue; to go on"
   },
   {
-    "kanji": "ていた",
-    "furigana": "",
-    "translation": "was doing something (past continuous)",
-    "check": false
+    "main": "ていた",
+    "meaning": "was doing something (past continuous)"
   },
   {
-    "kanji": "ていただけませんか",
-    "furigana": "",
-    "translation": "could you please",
-    "check": false
+    "main": "ていただけませんか",
+    "meaning": "could you please"
   },
   {
-    "kanji": "てくれる",
-    "furigana": "",
-    "translation": "to do a favor; do something for someone",
-    "check": false
+    "main": "てくれる",
+    "meaning": "to do a favor; do something for someone"
   },
   {
-    "kanji": "てくる",
-    "furigana": "",
-    "translation": "to do… and come back; to continue",
-    "check": false
+    "main": "てくる",
+    "meaning": "to do… and come back; to continue"
   },
   {
-    "kanji": "てみる",
-    "furigana": "",
-    "translation": "try doing",
-    "check": false
+    "main": "てみる",
+    "meaning": "try doing"
   },
   {
-    "kanji": "てもらう",
-    "furigana": "",
-    "translation": "to get somebody to do something",
-    "check": false
+    "main": "てもらう",
+    "meaning": "to get somebody to do something"
   },
   {
-    "kanji": "ておく",
-    "furigana": "",
-    "translation": "to do something in advance",
-    "check": false
+    "main": "ておく",
+    "meaning": "to do something in advance"
   },
   {
-    "kanji": "てしまう / ちゃう",
-    "furigana": "",
-    "translation": "to do something by accident, to finish",
-    "check": false
+    "main": "てしまう / ちゃう",
+    "meaning": "to do something by accident, to finish"
   },
   {
-    "kanji": "てすみません",
-    "furigana": "",
-    "translation": "I’m sorry for",
-    "check": false
+    "main": "てすみません",
+    "meaning": "I’m sorry for"
   },
   {
-    "kanji": "てやる",
-    "furigana": "",
-    "translation": "to do for; to do a favor (casual)",
-    "check": false
+    "main": "てやる",
+    "meaning": "to do for; to do a favor (casual)"
   },
   {
-    "kanji": "てよかった",
-    "furigana": "",
-    "translation": "I’m glad that..",
-    "check": false
+    "main": "てよかった",
+    "meaning": "I’m glad that.."
   },
   {
-    "kanji": "ているところ",
-    "furigana": "",
-    "translation": "in the process of doing",
-    "check": false
+    "main": "ているところ",
+    "meaning": "in the process of doing"
   },
   {
-    "kanji": "ても",
-    "furigana": "",
-    "translation": "even; even if; even though",
-    "check": false
+    "main": "ても",
+    "meaning": "even; even if; even though"
   },
   {
-    "kanji": "と",
-    "furigana": "",
-    "translation": "whenever [A] happens, [B] also happens",
-    "check": false
+    "main": "と",
+    "meaning": "whenever [A] happens, [B] also happens"
   },
   {
-    "kanji": "と言ってもいい",
-    "furigana": "",
-    "translation": "you could say; one might say; I'd say",
-    "check": false
+    "main": "と言ってもいい",
+    "meaning": "you could say; one might say; I'd say"
   },
   {
-    "kanji": "という",
-    "furigana": "",
-    "translation": "called; named; that",
-    "check": false
+    "main": "という",
+    "meaning": "called; named; that"
   },
   {
-    "kanji": "ということ",
-    "furigana": "",
-    "translation": "convert phrase into noun",
-    "check": false
+    "main": "ということ",
+    "meaning": "convert phrase into noun"
   },
   {
-    "kanji": "と言われている",
-    "furigana": "",
-    "translation": "it is said that...",
-    "check": false
+    "main": "と言われている",
+    "meaning": "it is said that..."
   },
   {
-    "kanji": "と聞いた",
-    "furigana": "",
-    "translation": "I heard...",
-    "check": false
+    "main": "と聞いた",
+    "meaning": "I heard..."
   },
   {
-    "kanji": "と思う",
-    "furigana": "",
-    "translation": "to think…; I think…; you think…",
-    "check": false
+    "main": "と思う",
+    "meaning": "to think…; I think…; you think…"
   },
   {
-    "kanji": "とか～とか",
-    "furigana": "",
-    "translation": "among other things; such as; like",
-    "check": false
+    "main": "とか～とか",
+    "meaning": "among other things; such as; like"
   },
   {
-    "kanji": "ところ",
-    "furigana": "",
-    "translation": "just about to; on the verge of doing something",
-    "check": false
+    "main": "ところ",
+    "meaning": "just about to; on the verge of doing something"
   },
   {
-    "kanji": "続ける",
-    "furigana": "",
-    "translation": "continue to; keen on",
-    "check": false
+    "main": "続ける",
+    "meaning": "continue to; keen on"
   },
   {
-    "kanji": "って",
-    "furigana": "",
-    "translation": "named; called",
-    "check": false
+    "main": "って",
+    "meaning": "named; called"
   },
   {
-    "kanji": "受身形",
-    "furigana": "",
-    "translation": "passive form; passive voice",
-    "check": false
+    "main": "受身形",
+    "meaning": "passive form; passive voice"
   },
   {
-    "kanji": "は〜が… は",
-    "furigana": "",
-    "translation": "[A] but [B]; however; comparison",
-    "check": false
+    "main": "は〜が… は",
+    "meaning": "[A] but [B]; however; comparison"
   },
   {
-    "kanji": "やすい",
-    "furigana": "",
-    "translation": "easy to; likely to; prone to; have a tendency to",
-    "check": false
+    "main": "やすい",
+    "meaning": "easy to; likely to; prone to; have a tendency to"
   },
   {
-    "kanji": "やっと",
-    "furigana": "",
-    "translation": "at last; finally; barely; narrowly",
-    "check": false
+    "main": "やっと",
+    "meaning": "at last; finally; barely; narrowly"
   },
   {
-    "kanji": "より",
-    "furigana": "",
-    "translation": "than; rather than; more than",
-    "check": false
+    "main": "より",
+    "meaning": "than; rather than; more than"
   },
   {
-    "kanji": "予定だ",
-    "furigana": "",
-    "translation": "plan to, intend to",
-    "check": false
+    "main": "予定だ",
+    "meaning": "plan to, intend to"
   },
   {
-    "kanji": "ようだ",
-    "furigana": "",
-    "translation": "appears; seems; looks as if",
-    "check": false
+    "main": "ようだ",
+    "meaning": "appears; seems; looks as if"
   },
   {
-    "kanji": "ように / ような",
-    "furigana": "",
-    "translation": "like; as; similar to",
-    "check": false
+    "main": "ように / ような",
+    "meaning": "like; as; similar to"
   },
   {
-    "kanji": "ようになる",
-    "furigana": "",
-    "translation": "to reach the point that; to turn into",
-    "check": false
+    "main": "ようになる",
+    "meaning": "to reach the point that; to turn into"
   },
   {
-    "kanji": "ようにする",
-    "furigana": "",
-    "translation": "to try to; to make sure that",
-    "check": false
+    "main": "ようにする",
+    "meaning": "to try to; to make sure that"
   },
   {
-    "kanji": "ようと思う",
-    "furigana": "",
-    "translation": "thinking of doing; planning to",
-    "check": false
+    "main": "ようと思う",
+    "meaning": "thinking of doing; planning to"
   },
   {
-    "kanji": "ぜひ",
-    "furigana": "",
-    "translation": "by all means; certainly; definitely",
-    "check": false
+    "main": "ぜひ",
+    "meaning": "by all means; certainly; definitely"
   },
   {
-    "kanji": "全然～ない",
-    "furigana": "",
-    "translation": "(not) at all",
-    "check": false
+    "main": "全然～ない",
+    "meaning": "(not) at all"
   },
   {
-    "kanji": "づらい",
-    "furigana": "",
-    "translation": "difficult to do",
-    "check": false
+    "main": "づらい",
+    "meaning": "difficult to do"
   }
 ]

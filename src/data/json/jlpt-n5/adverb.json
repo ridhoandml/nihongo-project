@@ -1,212 +1,194 @@
 [
   {
-    "kanji": "ちょっと",
-    "furigana": "",
-    "translation": "a little",
-    "check": false
+    "main": "ちょっと",
+    "romaji": "chotto",
+    "meaning": "a little"
   },
   {
-    "kanji": "丁度",
-    "furigana": "ちょうど",
-    "translation": "exactly",
-    "check": false
+    "main": "丁度",
+    "kana": "ちょうど",
+    "romaji": "choudo",
+    "meaning": "exactly"
   },
   {
-    "kanji": "大丈夫",
-    "furigana": "だいじょうぶ",
-    "translation": "OK; okay; alright",
-    "check": false
+    "main": "大丈夫",
+    "kana": "だいじょうぶ",
+    "romaji": "daijoubu",
+    "meaning": "OK; okay; alright"
   },
   {
-    "kanji": "だんだん",
-    "furigana": "",
-    "translation": "gradually",
-    "check": false
+    "main": "だんだん",
+    "romaji": "dandan",
+    "meaning": "gradually"
   },
   {
-    "kanji": "どう",
-    "furigana": "",
-    "translation": "how (about); in what way",
-    "check": false
+    "main": "どう",
+    "romaji": "dou",
+    "meaning": "how (about); in what way"
   },
   {
-    "kanji": "どうも",
-    "furigana": "",
-    "translation": "much (thanks); very (sorry)",
-    "check": false
+    "main": "どうも",
+    "romaji": "doumo",
+    "meaning": "much (thanks); very (sorry)"
   },
   {
-    "kanji": "どうして",
-    "furigana": "",
-    "translation": "why; for what reason",
-    "check": false
+    "main": "どうして",
+    "romaji": "doushite",
+    "meaning": "why; for what reason"
   },
   {
-    "kanji": "どうぞ",
-    "furigana": "",
-    "translation": "please",
-    "check": false
+    "main": "どうぞ",
+    "romaji": "douzo",
+    "meaning": "please"
   },
   {
-    "kanji": "初めて",
-    "furigana": "はじめて",
-    "translation": "for the first time",
-    "check": false
+    "main": "初めて",
+    "kana": "はじめて",
+    "romaji": "hajimete",
+    "meaning": "for the first time"
   },
   {
-    "kanji": "一人",
-    "furigana": "ひとり",
-    "translation": "by oneself; alone",
-    "check": false
+    "main": "一人",
+    "kana": "ひとり",
+    "romaji": "hitori",
+    "meaning": "by oneself; alone"
   },
   {
-    "kanji": "一番",
-    "furigana": "いちばん",
-    "translation": "number one; 1st, best; most",
-    "check": false
+    "main": "一番",
+    "kana": "いちばん",
+    "romaji": "ichiban",
+    "meaning": "number one; 1st, best; most"
   },
   {
-    "kanji": "いかが",
-    "furigana": "",
-    "translation": "how about; in what way",
-    "check": false
+    "main": "いかが",
+    "romaji": "ikaga",
+    "meaning": "how about; in what way"
   },
   {
-    "kanji": "いくら",
-    "furigana": "",
-    "translation": "how much?; how many?",
-    "check": false
+    "main": "いくら",
+    "romaji": "ikura",
+    "meaning": "how much?; how many?"
   },
   {
-    "kanji": "いくつ",
-    "furigana": "",
-    "translation": "how many?, how old?",
-    "check": false
+    "main": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "how many?, how old?"
   },
   {
-    "kanji": "色々",
-    "furigana": "いろいろ",
-    "translation": "various",
-    "check": false
+    "main": "色々",
+    "kana": "いろいろ",
+    "romaji": "iroiro",
+    "meaning": "various"
   },
   {
-    "kanji": "一緒に",
-    "furigana": "いっしょに",
-    "translation": "together",
-    "check": false
+    "main": "一緒に",
+    "kana": "いっしょに",
+    "romaji": "issho ni",
+    "meaning": "together"
   },
   {
-    "kanji": "いつも",
-    "furigana": "",
-    "translation": "always; usually",
-    "check": false
+    "main": "いつも",
+    "romaji": "itsumo",
+    "meaning": "always; usually"
   },
   {
-    "kanji": "結構",
-    "furigana": "けっこう",
-    "translation": "splendid, enough",
-    "check": false
+    "main": "結構",
+    "kana": "けっこう",
+    "romaji": "kekkou",
+    "meaning": "splendid, enough"
   },
   {
-    "kanji": "まだ",
-    "furigana": "",
-    "translation": "still; not yet",
-    "check": false
+    "main": "まだ",
+    "romaji": "mada",
+    "meaning": "still; not yet"
   },
   {
-    "kanji": "まだ～ていません",
-    "furigana": "",
-    "translation": "have not yet~",
-    "check": false
+    "main": "まだ～ていません",
+    "romaji": "mada ~te imasen",
+    "meaning": "have not yet~"
   },
   {
-    "kanji": "前に",
-    "furigana": "まえに",
-    "translation": "before; in front of~",
-    "check": false
+    "main": "前に",
+    "kana": "まえに",
+    "romaji": "mae ni",
+    "meaning": "before; in front of~"
   },
   {
-    "kanji": "真っ直ぐ",
-    "furigana": "まっすぐ",
-    "translation": "straight ahead, direct",
-    "check": false
+    "main": "真っ直ぐ",
+    "kana": "まっすぐ",
+    "romaji": "massugu",
+    "meaning": "straight ahead, direct"
   },
   {
-    "kanji": "みんな",
-    "furigana": "",
-    "translation": "all; everyone; everybody",
-    "check": false
+    "main": "みんな",
+    "romaji": "minna",
+    "meaning": "all; everyone; everybody"
   },
   {
-    "kanji": "もっと",
-    "furigana": "",
-    "translation": "more; longer; further",
-    "check": false
+    "main": "もっと",
+    "romaji": "motto",
+    "meaning": "more; longer; further"
   },
   {
-    "kanji": "もう",
-    "furigana": "",
-    "translation": "already; anymore; again",
-    "check": false
+    "main": "もう",
+    "romaji": "mou",
+    "meaning": "already; anymore; again"
   },
   {
-    "kanji": "何故",
-    "furigana": "なぜ",
-    "translation": "why; how",
-    "check": false
+    "main": "何故",
+    "kana": "なぜ",
+    "romaji": "naze",
+    "meaning": "why; how"
   },
   {
-    "kanji": "同じ",
-    "furigana": "おなじ",
-    "translation": "same",
-    "check": false
+    "main": "同じ",
+    "kana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "same"
   },
   {
-    "kanji": "直ぐに",
-    "furigana": "すぐに",
-    "translation": "immediately; instantly",
-    "check": false
+    "main": "直ぐに",
+    "kana": "すぐに",
+    "romaji": "sugu ni",
+    "meaning": "immediately; instantly"
   },
   {
-    "kanji": "少し",
-    "furigana": "すこし",
-    "translation": "a little (bit); few;",
-    "check": false
+    "main": "少し",
+    "kana": "すこし",
+    "romaji": "sukoshi",
+    "meaning": "a little (bit); few;"
   },
   {
-    "kanji": "多分",
-    "furigana": "たぶん",
-    "translation": "perhaps; probably",
-    "check": false
+    "main": "多分",
+    "kana": "たぶん",
+    "romaji": "tabun",
+    "meaning": "perhaps; probably"
   },
   {
-    "kanji": "大変",
-    "furigana": "たいへん",
-    "translation": "very; greatly; terribly",
-    "check": false
+    "main": "大変",
+    "kana": "たいへん",
+    "romaji": "taihen",
+    "meaning": "very; greatly; terribly"
   },
   {
-    "kanji": "時々",
-    "furigana": "ときどき",
-    "translation": "sometimes; at times",
-    "check": false
+    "main": "時々",
+    "kana": "ときどき",
+    "romaji": "tokidoki",
+    "meaning": "sometimes; at times"
   },
   {
-    "kanji": "とても",
-    "furigana": "",
-    "translation": "very; exceedingly",
-    "check": false
+    "main": "とても",
+    "romaji": "totemo",
+    "meaning": "very; exceedingly"
   },
   {
-    "kanji": "よく",
-    "furigana": "",
-    "translation": "often, well",
-    "check": false
+    "main": "よく",
+    "romaji": "yoku",
+    "meaning": "often, well"
   },
   {
-    "kanji": "ゆっくり",
-    "furigana": "",
-    "translation": "slowly",
-    "check": false
+    "main": "ゆっくり",
+    "romaji": "yukkuri",
+    "meaning": "slowly"
   }
 ]

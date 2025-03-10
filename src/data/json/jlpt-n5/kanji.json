@@ -1,482 +1,482 @@
 [
   {
-    "kanji": "日",
-    "furigana": "On: nichi, jitsu\r\n ニチ, ジツ;\n Kun: hi, -bi, -ka ひ, -び, -か;",
-    "translation": "day, sun, Japan, counter for days",
-    "check": false
+    "main": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "day, sun, Japan, counter for days"
   },
   {
-    "kanji": "一",
-    "furigana": "On: ichi\r\n イチ;\n Kun: hito(tsu)\r\n ひと(つ);",
-    "translation": "one",
-    "check": false
+    "main": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning": "one"
   },
   {
-    "kanji": "国",
-    "furigana": "On: koku\r\n コク;\n Kun: kuni\r\n くに;",
-    "translation": "country",
-    "check": false
+    "main": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "country"
   },
   {
-    "kanji": "人",
-    "furigana": "On: jin, nin\r\n ジン、ニン;\n Kun: hito\r\n ひと;",
-    "translation": "person",
-    "check": false
+    "main": "人",
+    "onyomi": "ジン、ニン",
+    "kunyomi": "ひと",
+    "meaning": "person"
   },
   {
-    "kanji": "年",
-    "furigana": "On: nen\r\n ネン;\n Kun: toshi\r\n とし;",
-    "translation": "year, counter for years",
-    "check": false
+    "main": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "year, counter for years"
   },
   {
-    "kanji": "大",
-    "furigana": "On: dai, tai\r\n ダイ、タイ;\n Kun: oo(kii)\r\n おお(きい);",
-    "translation": "large, big",
-    "check": false
+    "main": "大",
+    "onyomi": "ダイ、タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "large, big"
   },
   {
-    "kanji": "十",
-    "furigana": "On: juu\r\n ジュウ;\n Kun: tou, to\r\n とお、と;",
-    "translation": "ten, 10",
-    "check": false
+    "main": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお、と",
+    "meaning": "ten, 10"
   },
   {
-    "kanji": "二",
-    "furigana": "On: ni, ji\r\n ニ、ジ;\n Kun: futa(tsu), futatabi\r\n ふた(つ)、ふたたび;",
-    "translation": "two, 2",
-    "check": false
+    "main": "二",
+    "onyomi": "ニ、ジ",
+    "kunyomi": "ふた(つ)、ふたたび",
+    "meaning": "two, 2"
   },
   {
-    "kanji": "本",
-    "furigana": "On: hon\r\n ホン;\n Kun: moto\r\n もと;",
-    "translation": "book, present, true, counter for long cylindrical things",
-    "check": false
+    "main": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "book, present, true, counter for long cylindrical things"
   },
   {
-    "kanji": "中",
-    "furigana": "On: chuu\r\n チュウ;\n Kun: naka, uchi\r\n なか、うち;",
-    "translation": "in, inside, middle, mean, center",
-    "check": false
+    "main": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか、うち",
+    "meaning": "in, inside, middle, mean, center"
   },
   {
-    "kanji": "長",
-    "furigana": "On: chou\r\n チョウ;\n Kun: naga(i), osa\r\n なが(い)、おさ;",
-    "translation": "long, leader, superior, senior",
-    "check": false
+    "main": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い)、おさ",
+    "meaning": "long, leader, superior, senior"
   },
   {
-    "kanji": "出",
-    "furigana": "On: shutsu, sui\r\n シュツ、スイ;\n Kun: de(ru), da(su)\r\n で(る)、だ(す);",
-    "translation": "exit, leave, go out",
-    "check": false
+    "main": "出",
+    "onyomi": "シュツ、スイ",
+    "kunyomi": "で(る)、だ(す)",
+    "meaning": "exit, leave, go out"
   },
   {
-    "kanji": "三",
-    "furigana": "On: san\r\n サン;\n Kun: mi(tsu)\r\n み(つ);",
-    "translation": "three, 3",
-    "check": false
+    "main": "三",
+    "onyomi": "サン",
+    "kunyomi": "み(つ)",
+    "meaning": "three, 3"
   },
   {
-    "kanji": "時",
-    "furigana": "On: ji\r\n ジ;\n Kun: toki, doki\r\n とき、 -どき;",
-    "translation": "time, hour",
-    "check": false
+    "main": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき、 -どき",
+    "meaning": "time, hour"
   },
   {
-    "kanji": "行",
-    "furigana": "On: kou, gyou\r\n コウ、ギョウ;\n Kun: i(ku), yu(ku), okona(u) い(く)、ゆ(く)、おこな(う);",
-    "translation": "going, journey, carry out, line, row",
-    "check": false
+    "main": "行",
+    "onyomi": "コウ、ギョウ",
+    "kunyomi": "い(く)、ゆ(く)、おこな(う)",
+    "meaning": "going, journey, carry out, line, row"
   },
   {
-    "kanji": "見",
-    "furigana": "On: ken\r\n ケン;\n Kun: mi(ru), mi(seru)\r\n み(る)、み(せる);",
-    "translation": "see, hopes, chances, idea, opinion, visible",
-    "check": false
+    "main": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る)、み(せる)",
+    "meaning": "see, hopes, chances, idea, opinion, visible"
   },
   {
-    "kanji": "月",
-    "furigana": "On: getsu, gatsu\r\n ゲツ、ガツ;\n Kun: tsuki\r\n つき;",
-    "translation": "month, moon",
-    "check": false
+    "main": "月",
+    "onyomi": "ゲツ、ガツ",
+    "kunyomi": "つき",
+    "meaning": "month, moon"
   },
   {
-    "kanji": "分",
-    "furigana": "On: bun, fun, bu\r\n ブン、フン、ブ;\n Kun: wa(keru)\r\n わ(ける);",
-    "translation": "part, minute of time, understand",
-    "check": false
+    "main": "分",
+    "onyomi": "ブン、フン、ブ",
+    "kunyomi": "わ(ける)",
+    "meaning": "part, minute of time, understand"
   },
   {
-    "kanji": "後",
-    "furigana": "On: go, kou\r\n ゴ、コウ;\n Kun: nochi, ushi(ro), ato\r\n のち、うし(ろ)、あと;",
-    "translation": "behind, back, later",
-    "check": false
+    "main": "後",
+    "onyomi": "ゴ、コウ",
+    "kunyomi": "のち、うし(ろ)、あと",
+    "meaning": "behind, back, later"
   },
   {
-    "kanji": "前",
-    "furigana": "On: zen\r\n ゼン;\n Kun: mae\r\n まえ;",
-    "translation": "in front, before",
-    "check": false
+    "main": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "meaning": "in front, before"
   },
   {
-    "kanji": "生",
-    "furigana": "On: sei, shou\r\n セイ、ショウ;\n Kun: i(kiru), u(mu), o(u), ha(eru), nama\r\n い(きる)、う(む)、お(う)、は(える)、なま;",
-    "translation": "life, genuine, birth",
-    "check": false
+    "main": "生",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "い(きる)、う(む)、お(う)、は(える)、なま",
+    "meaning": "life, genuine, birth"
   },
   {
-    "kanji": "五",
-    "furigana": "On: go\r\n ゴ;\n Kun: itsu(tsu)\r\n いつ(つ);",
-    "translation": "five, 5",
-    "check": false
+    "main": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "five, 5"
   },
   {
-    "kanji": "間",
-    "furigana": "On: kan, ken\r\n カン、ケン;\n Kun: aida, ma, ai\r\n あいだ、ま、あい;",
-    "translation": "interval, space",
-    "check": false
+    "main": "間",
+    "onyomi": "カン、ケン",
+    "kunyomi": "あいだ、ま、あい",
+    "meaning": "interval, space"
   },
   {
-    "kanji": "上",
-    "furigana": "On: jou, shou, shan\r\n ジョウ、ショウ、シャン;\n Kun: ue, uwa, kami, a(geru), nobo(ru)\r\n うえ、うわ-、かみ、あ(げる)、のぼ(る);",
-    "translation": "above, up",
-    "check": false
+    "main": "上",
+    "onyomi": "ジョウ、ショウ、シャン",
+    "kunyomi": "うえ、うわ-、かみ、あ(げる)、のぼ(る)",
+    "meaning": "above, up"
   },
   {
-    "kanji": "東",
-    "furigana": "On: tou\r\n トウ;\n Kun: higashi\r\n ひがし;",
-    "translation": "east",
-    "check": false
+    "main": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "east"
   },
   {
-    "kanji": "四",
-    "furigana": "On: shi\r\n シ;\n Kun: yo(tsu), yon\r\n よ(つ)、よん;",
-    "translation": "four, 4",
-    "check": false
+    "main": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ)、よん",
+    "meaning": "four, 4"
   },
   {
-    "kanji": "今",
-    "furigana": "On: kon, kin\r\n コン、キン;\n Kun: ima\r\n いま;",
-    "translation": "now; the present",
-    "check": false
+    "main": "今",
+    "onyomi": "コン、キン",
+    "kunyomi": "いま",
+    "meaning": "now; the present"
   },
   {
-    "kanji": "金",
-    "furigana": "On: kin, kon, gon\r\n キン、コン、ゴン;\n Kun: kane, kana, gane\r\n かね、かな-、 -がね;",
-    "translation": "gold",
-    "check": false
+    "main": "金",
+    "onyomi": "キン、コン、ゴン",
+    "kunyomi": "かね、かな-、 -がね",
+    "meaning": "gold"
   },
   {
-    "kanji": "九",
-    "furigana": "On: kyuu, ku\r\n キュウ、ク;\n Kun: kokono(tsu)\r\n ここの(つ);",
-    "translation": "nine, 9",
-    "check": false
+    "main": "九",
+    "onyomi": "キュウ、ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "nine, 9"
   },
   {
-    "kanji": "入",
-    "furigana": "On: nyuu\r\n ニュウ;\n Kun: i(ru), hai(ru)\r\n い(る)、はい(る);",
-    "translation": "enter, insert",
-    "check": false
+    "main": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る)、はい(る)",
+    "meaning": "enter, insert"
   },
   {
-    "kanji": "学",
-    "furigana": "On: gaku\r\n ガク;\n Kun: mana(bu) まな(ぶ);",
-    "translation": "study, learning, science",
-    "check": false
+    "main": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "study, learning, science"
   },
   {
-    "kanji": "高",
-    "furigana": "On: kou\r\n コウ;\n Kun: taka(i)\r\n たか(い);",
-    "translation": "tall, high, expensive",
-    "check": false
+    "main": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "tall, high, expensive"
   },
   {
-    "kanji": "円",
-    "furigana": "On: en\r\n エン;\n Kun: maru(i)\r\n まる(い);",
-    "translation": "circle, yen, round",
-    "check": false
+    "main": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "circle, yen, round"
   },
   {
-    "kanji": "子",
-    "furigana": "On: shi, su, tsu\r\n シ、ス、ツ;\n Kun: ko, ne\r\n こ、ね;",
-    "translation": "child",
-    "check": false
+    "main": "子",
+    "onyomi": "シ、ス、ツ",
+    "kunyomi": "こ、ね",
+    "meaning": "child"
   },
   {
-    "kanji": "外",
-    "furigana": "On: gai, ge\r\n ガイ、ゲ;\n Kun: soto, hoka, hazu(su)\r\n そと、ほか、はず(す);",
-    "translation": "outside",
-    "check": false
+    "main": "外",
+    "onyomi": "ガイ、ゲ",
+    "kunyomi": "そと、ほか、はず(す)",
+    "meaning": "outside"
   },
   {
-    "kanji": "八",
-    "furigana": "On: hachi\r\n ハチ;\n Kun: ya(tsu), you\r\n や(つ)、よう;",
-    "translation": "eight, 8",
-    "check": false
+    "main": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ)、よう",
+    "meaning": "eight, 8"
   },
   {
-    "kanji": "六",
-    "furigana": "On: roku\r\n ロク;\n Kun: mu(tsu), mui\r\n む(つ)、むい;",
-    "translation": "six, 6",
-    "check": false
+    "main": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ)、むい",
+    "meaning": "six, 6"
   },
   {
-    "kanji": "下",
-    "furigana": "On: ka, ge\r\n カ、ゲ;\n Kun: shita, shimo, moto, sa(geru), kuda(ru), o(rosu);",
-    "translation": "below, down, descend, give, low, inferior",
-    "check": false
+    "main": "下",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "した、しも、もと、さ(げる)、くだ(る)、お(ろす)",
+    "meaning": "below, down, descend, give, low, inferior"
   },
   {
-    "kanji": "来",
-    "furigana": "On: rai, tai\r\n ライ、タイ;\n Kun: kuru, ki, ko\r\n く(る)、き、こ;",
-    "translation": "come, due, next, cause, become",
-    "check": false
+    "main": "来",
+    "onyomi": "ライ、タイ",
+    "kunyomi": "く(る)、き、こ",
+    "meaning": "come, due, next, cause, become"
   },
   {
-    "kanji": "気",
-    "furigana": "On: ki, ke\r\n キ、ケ;\n Kun: iki\r\n いき;",
-    "translation": "spirit, mind, air,\r\n atmosphere, mood",
-    "check": false
+    "main": "気",
+    "onyomi": "キ、ケ",
+    "kunyomi": "いき",
+    "meaning": "spirit, mind, air,\n atmosphere, mood"
   },
   {
-    "kanji": "小",
-    "furigana": "On: shou\r\n ショウ;\n Kun: chii(sai), ko\r\n ちい(さい)、こ;",
-    "translation": "little, small",
-    "check": false
+    "main": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい)、こ",
+    "meaning": "little, small"
   },
   {
-    "kanji": "七",
-    "furigana": "On: shichi\r\n シチ;\n Kun: nana(tsu), nano\r\n なな(つ)、なの;",
-    "translation": "seven, 7",
-    "check": false
+    "main": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ)、なの",
+    "meaning": "seven, 7"
   },
   {
-    "kanji": "山",
-    "furigana": "On: san, sen\r\n サン、セン;\n Kun: yama\r\n やま;",
-    "translation": "mountain",
-    "check": false
+    "main": "山",
+    "onyomi": "サン、セン",
+    "kunyomi": "やま",
+    "meaning": "mountain"
   },
   {
-    "kanji": "話",
-    "furigana": "On: wa\r\n ワ;\n Kun: hana(su), hanashi\r\n はな(す)、はなし;",
-    "translation": "tale, talk",
-    "check": false
+    "main": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す)、はなし",
+    "meaning": "tale, talk"
   },
   {
-    "kanji": "女",
-    "furigana": "On: jo\r\n ジョ;\n Kun: onnna, me\r\n おんな、め;",
-    "translation": "woman, female",
-    "check": false
+    "main": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな、め",
+    "meaning": "woman, female"
   },
   {
-    "kanji": "北",
-    "furigana": "On: hoku\r\n ホク;\n Kun: kita\r\n きた;",
-    "translation": "north",
-    "check": false
+    "main": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "north"
   },
   {
-    "kanji": "午",
-    "furigana": "On: go\r\n ゴ;\n Kun: uma うま;",
-    "translation": "noon, sign of the horse",
-    "check": false
+    "main": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "noon, sign of the horse"
   },
   {
-    "kanji": "百",
-    "furigana": "On: hyaku, byaku\r\n ヒャク、ビャク;\n Kun: momo もも;",
-    "translation": "hundred",
-    "check": false
+    "main": "百",
+    "onyomi": "ヒャク、ビャク",
+    "kunyomi": "もも",
+    "meaning": "hundred"
   },
   {
-    "kanji": "書",
-    "furigana": "On: sho\r\n ショ;\n Kun: kaku か(く);",
-    "translation": "write",
-    "check": false
+    "main": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "write"
   },
   {
-    "kanji": "先",
-    "furigana": "On: sen\r\n セン;\n Kun: saki, ma(zu)\r\n さき、ま(ず);",
-    "translation": "before, ahead, previous, future, precedence",
-    "check": false
+    "main": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき、ま(ず)",
+    "meaning": "before, ahead, previous, future, precedence"
   },
   {
-    "kanji": "名",
-    "furigana": "On: mei, myou\r\n メイ、ミョウ;\n Kun: na\r\n な;",
-    "translation": "name, noted,\r\n distinguished, reputation",
-    "check": false
+    "main": "名",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "な",
+    "meaning": "name, noted,\n distinguished, reputation"
   },
   {
-    "kanji": "川",
-    "furigana": "On: sen\r\n セン;\n Kun: kawa\r\n かわ;",
-    "translation": "river, stream",
-    "check": false
+    "main": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "river, stream"
   },
   {
-    "kanji": "千",
-    "furigana": "On: sen\r\n セン;\n Kun: chi\r\n ち;",
-    "translation": "thousand",
-    "check": false
+    "main": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "thousand"
   },
   {
-    "kanji": "聞",
-    "furigana": "On: bun, mon\r\n ブン、モン;\n Kun: ki(ku) き(く);",
-    "translation": "to hear; to listen; to ask",
-    "check": false
+    "main": "聞",
+    "onyomi": "ブン、モン",
+    "kunyomi": "き(く)",
+    "meaning": "to hear; to listen; to ask"
   },
   {
-    "kanji": "水",
-    "furigana": "On: sui\r\n スイ;\n Kun: mizu\r\n みず;",
-    "translation": "water",
-    "check": false
+    "main": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "water"
   },
   {
-    "kanji": "半",
-    "furigana": "On: han\r\n ハン;\n Kun: naka(ba)\r\n なか(ば);",
-    "translation": "half, middle, odd number, semi-",
-    "check": false
+    "main": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "half, middle, odd number, semi-"
   },
   {
-    "kanji": "男",
-    "furigana": "On: dan, nan\r\n ダン、ナン;\n Kun: otoko, o\r\n おとこ、お;",
-    "translation": "male; man",
-    "check": false
+    "main": "男",
+    "onyomi": "ダン、ナン",
+    "kunyomi": "おとこ、お",
+    "meaning": "male; man"
   },
   {
-    "kanji": "西",
-    "furigana": "On: sei, sai\r\n セイ、サイ;\n Kun: nishi\r\n にし;",
-    "translation": "west",
-    "check": false
+    "main": "西",
+    "onyomi": "セイ、サイ",
+    "kunyomi": "にし",
+    "meaning": "west"
   },
   {
-    "kanji": "電",
-    "furigana": "On: den\r\n デン;\n Kun: undefined;",
-    "translation": "electricity; electric\r\n powered",
-    "check": false
+    "main": "電",
+    "onyomi": "デン",
+    "kunyomi": "-",
+    "meaning": "electricity; electric\n powered"
   },
   {
-    "kanji": "語",
-    "furigana": "On: go\r\n ゴ;\n Kun: kata(ru)\r\n かた(る);",
-    "translation": "word, speech, language",
-    "check": false
+    "main": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "word, speech, language"
   },
   {
-    "kanji": "土",
-    "furigana": "On: do, to\r\n ド、ト;\n Kun: tsuchi\r\n つち;",
-    "translation": "soil, earth, ground",
-    "check": false
+    "main": "土",
+    "onyomi": "ド、ト",
+    "kunyomi": "つち",
+    "meaning": "soil, earth, ground"
   },
   {
-    "kanji": "木",
-    "furigana": "On: boku, moku\r\n ボク、モク;\n Kun: ki, ko\r\n き、こ-;",
-    "translation": "tree, wood",
-    "check": false
+    "main": "木",
+    "onyomi": "ボク、モク",
+    "kunyomi": "き、こ-",
+    "meaning": "tree, wood"
   },
   {
-    "kanji": "食",
-    "furigana": "On: shoku, jiki\r\n ショク、ジキ;\n Kun: k(u), ta(beru)\r\n く(う)、た(べる);",
-    "translation": "eat, food",
-    "check": false
+    "main": "食",
+    "onyomi": "ショク、ジキ",
+    "kunyomi": "く(う)、た(べる)",
+    "meaning": "eat, food"
   },
   {
-    "kanji": "車",
-    "furigana": "On: sha\r\n シャ;\n Kun: kuruma\r\n くるま;",
-    "translation": "car, wheel",
-    "check": false
+    "main": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "car, wheel"
   },
   {
-    "kanji": "何",
-    "furigana": "On: ka\r\n カ;\n Kun: nani, nan\r\n なに、なん;",
-    "translation": "what",
-    "check": false
+    "main": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに、なん",
+    "meaning": "what"
   },
   {
-    "kanji": "南",
-    "furigana": "On: nan, na\r\n ナン、ナ;\n Kun: minami\r\n みなみ;",
-    "translation": "south",
-    "check": false
+    "main": "南",
+    "onyomi": "ナン、ナ",
+    "kunyomi": "みなみ",
+    "meaning": "south"
   },
   {
-    "kanji": "万",
-    "furigana": "On: man, ban\r\n マン、バン;\n Kun: undefined;",
-    "translation": "ten thousand, 10,000",
-    "check": false
+    "main": "万",
+    "onyomi": "マン、バン",
+    "kunyomi": "-",
+    "meaning": "ten thousand, 10,000"
   },
   {
-    "kanji": "校",
-    "furigana": "On: kou\r\n コウ;\n Kun: undefined;",
-    "translation": "school, exam",
-    "check": false
+    "main": "校",
+    "onyomi": "コウ",
+    "kunyomi": "-",
+    "meaning": "school, exam"
   },
   {
-    "kanji": "毎",
-    "furigana": "On: mai\r\n マイ;\n Kun: goto(ni)\r\n ごと(に);",
-    "translation": "every",
-    "check": false
+    "main": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと(に)",
+    "meaning": "every"
   },
   {
-    "kanji": "白",
-    "furigana": "On: haku, byaku\r\n ハク、ビャク;\n Kun: shiro(i)\r\n しろ(い);",
-    "translation": "white",
-    "check": false
+    "main": "白",
+    "onyomi": "ハク、ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "white"
   },
   {
-    "kanji": "天",
-    "furigana": "On: ten\r\n テン;\n Kun: amatsu\r\n あまつ;",
-    "translation": "heavens, sky, imperial",
-    "check": false
+    "main": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "heavens, sky, imperial"
   },
   {
-    "kanji": "母",
-    "furigana": "On: bo\r\n ボ;\n Kun: haha, kaa\r\n はは、かあ;",
-    "translation": "mother",
-    "check": false
+    "main": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは、かあ",
+    "meaning": "mother"
   },
   {
-    "kanji": "火",
-    "furigana": "On: ka\r\n カ;\n Kun: hi, bi, ho\r\n ひ、 -び、ほ-;",
-    "translation": "fire",
-    "check": false
+    "main": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ、 -び、ほ-",
+    "meaning": "fire"
   },
   {
-    "kanji": "右",
-    "furigana": "On: u, yuu\r\n ウ、ユウ;\n Kun: migi\r\n みぎ;",
-    "translation": "right (direction)",
-    "check": false
+    "main": "右",
+    "onyomi": "ウ、ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "right (direction)"
   },
   {
-    "kanji": "読",
-    "furigana": "On: doku, toku, tou\r\n ドク、トク、トウ;\n Kun: yo(mu) よ(む);",
-    "translation": "to read",
-    "check": false
+    "main": "読",
+    "onyomi": "ドク、トク、トウ",
+    "kunyomi": "よ(む)",
+    "meaning": "to read"
   },
   {
-    "kanji": "友",
-    "furigana": "On: yuu\r\n ユウ;\n Kun: tomo\r\n とも;",
-    "translation": "friend",
-    "check": false
+    "main": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "friend"
   },
   {
-    "kanji": "左",
-    "furigana": "On: sa, sha\r\n サ、シャ;\n Kun: hidari\r\n ひだり;",
-    "translation": "left",
-    "check": false
+    "main": "左",
+    "onyomi": "サ、シャ",
+    "kunyomi": "ひだり",
+    "meaning": "left"
   },
   {
-    "kanji": "休",
-    "furigana": "On: kyuu\r\n キュウ;\n Kun: yasu(mu)\r\n やす(む);",
-    "translation": "rest, day off, retire, sleep",
-    "check": false
+    "main": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "rest, day off, retire, sleep"
   },
   {
-    "kanji": "父",
-    "furigana": "On: fu\r\n フ;\n Kun: chichi, tou\r\n ちち、とう;",
-    "translation": "father",
-    "check": false
+    "main": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち、とう",
+    "meaning": "father"
   },
   {
-    "kanji": "雨",
-    "furigana": "On: u ウ;\n Kun: ame, ama\r\n あめ、あま;",
-    "translation": "rain",
-    "check": false
+    "main": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ、あま",
+    "meaning": "rain"
   }
 ]

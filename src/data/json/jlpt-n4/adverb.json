@@ -1,272 +1,196 @@
 [
   {
-    "kanji": "ああ",
-    "furigana": "",
-    "translation": "ah; yes",
-    "check": false
+    "main": "ああ",
+    "meaning": "ah; yes"
   },
   {
-    "kanji": "間に",
-    "furigana": "あいだに",
-    "translation": "while; during (the time when)",
-    "check": false
+    "main": "間に",
+    "kana": "あいだに",
+    "meaning": "while; during (the time when)"
   },
   {
-    "kanji": "あまり～ない",
-    "furigana": "",
-    "translation": "not very, not much~",
-    "check": false
+    "main": "あまり～ない",
+    "meaning": "not very, not much~"
   },
   {
-    "kanji": "後で",
-    "furigana": "あとで",
-    "translation": "after~; later",
-    "check": false
+    "main": "後で",
+    "kana": "あとで",
+    "meaning": "after~; later"
   },
   {
-    "kanji": "びっくり",
-    "furigana": "",
-    "translation": "to be surprised",
-    "check": false
+    "main": "びっくり",
+    "meaning": "to be surprised"
   },
   {
-    "kanji": "大分",
-    "furigana": "だいぶ",
-    "translation": "considerably; greatly; a lot",
-    "check": false
+    "main": "大分",
+    "kana": "だいぶ",
+    "meaning": "considerably; greatly; a lot"
   },
   {
-    "kanji": "できるだけ",
-    "furigana": "",
-    "translation": "as much as possible",
-    "check": false
+    "main": "できるだけ",
+    "meaning": "as much as possible"
   },
   {
-    "kanji": "どんどん",
-    "furigana": "",
-    "translation": "rapidly; more and more",
-    "check": false
+    "main": "どんどん",
+    "meaning": "rapidly; more and more"
   },
   {
-    "kanji": "普通",
-    "furigana": "ふつう",
-    "translation": "usually",
-    "check": false
+    "main": "普通",
+    "kana": "ふつう",
+    "meaning": "usually"
   },
   {
-    "kanji": "はっきり",
-    "furigana": "",
-    "translation": "clearly",
-    "check": false
+    "main": "はっきり",
+    "meaning": "clearly"
   },
   {
-    "kanji": "非常に",
-    "furigana": "ひじょうに",
-    "translation": "extremely",
-    "check": false
+    "main": "非常に",
+    "kana": "ひじょうに",
+    "meaning": "extremely"
   },
   {
-    "kanji": "いっぱい",
-    "furigana": "",
-    "translation": "full",
-    "check": false
+    "main": "いっぱい",
+    "meaning": "full"
   },
   {
-    "kanji": "十分",
-    "furigana": "じゅうぶん",
-    "translation": "enough; sufficient; plenty",
-    "check": false
+    "main": "十分",
+    "kana": "じゅうぶん",
+    "meaning": "enough; sufficient; plenty"
   },
   {
-    "kanji": "かどうか",
-    "furigana": "",
-    "translation": "whether or not~",
-    "check": false
+    "main": "かどうか",
+    "meaning": "whether or not~"
   },
   {
-    "kanji": "必ず",
-    "furigana": "かならず",
-    "translation": "always; certainly",
-    "check": false
+    "main": "必ず",
+    "kana": "かならず",
+    "meaning": "always; certainly"
   },
   {
-    "kanji": "きっと",
-    "furigana": "",
-    "translation": "surely; undoubtedly; most likely",
-    "check": false
+    "main": "きっと",
+    "meaning": "surely; undoubtedly; most likely"
   },
   {
-    "kanji": "こう",
-    "furigana": "",
-    "translation": "this way",
-    "check": false
+    "main": "こう",
+    "meaning": "this way"
   },
   {
-    "kanji": "くする",
-    "furigana": "",
-    "translation": "to make something ~",
-    "check": false
+    "main": "くする",
+    "meaning": "to make something ~"
   },
   {
-    "kanji": "急に",
-    "furigana": "きゅうに",
-    "translation": "quickly; immediately; abruptly",
-    "check": false
+    "main": "急に",
+    "kana": "きゅうに",
+    "meaning": "quickly; immediately; abruptly"
   },
   {
-    "kanji": "までに",
-    "furigana": "",
-    "translation": "by; by the time",
-    "check": false
+    "main": "までに",
+    "meaning": "by; by the time"
   },
   {
-    "kanji": "まず",
-    "furigana": "",
-    "translation": "first of all",
-    "check": false
+    "main": "まず",
+    "meaning": "first of all"
   },
   {
-    "kanji": "みたいに",
-    "furigana": "",
-    "translation": "like; similar to~",
-    "check": false
+    "main": "みたいに",
+    "meaning": "like; similar to~"
   },
   {
-    "kanji": "もし",
-    "furigana": "",
-    "translation": "if; in case; supposing",
-    "check": false
+    "main": "もし",
+    "meaning": "if; in case; supposing"
   },
   {
-    "kanji": "もうすぐ",
-    "furigana": "",
-    "translation": "soon",
-    "check": false
+    "main": "もうすぐ",
+    "meaning": "soon"
   },
   {
-    "kanji": "なかなか～ない",
-    "furigana": "",
-    "translation": "not easy to; struggling to~",
-    "check": false
+    "main": "なかなか～ない",
+    "meaning": "not easy to; struggling to~"
   },
   {
-    "kanji": "なるほど",
-    "furigana": "",
-    "translation": "that’s right; indeed",
-    "check": false
+    "main": "なるほど",
+    "meaning": "that’s right; indeed"
   },
   {
-    "kanji": "の中で",
-    "furigana": "のなかで",
-    "translation": "in; among~",
-    "check": false
+    "main": "の中で",
+    "kana": "のなかで",
+    "meaning": "in; among~"
   },
   {
-    "kanji": "さすが",
-    "furigana": "",
-    "translation": "as is to be expected; even~",
-    "check": false
+    "main": "さすが",
+    "meaning": "as is to be expected; even~"
   },
   {
-    "kanji": "しっかり",
-    "furigana": "",
-    "translation": "firmly; steadily",
-    "check": false
+    "main": "しっかり",
+    "meaning": "firmly; steadily"
   },
   {
-    "kanji": "そんなに",
-    "furigana": "",
-    "translation": "so much; so; like that",
-    "check": false
+    "main": "そんなに",
+    "meaning": "so much; so; like that"
   },
   {
-    "kanji": "それほど",
-    "furigana": "",
-    "translation": "to that extent",
-    "check": false
+    "main": "それほど",
+    "meaning": "to that extent"
   },
   {
-    "kanji": "そろそろ",
-    "furigana": "",
-    "translation": "gradually; soon",
-    "check": false
+    "main": "そろそろ",
+    "meaning": "gradually; soon"
   },
   {
-    "kanji": "そうだ",
-    "furigana": "",
-    "translation": "looks like; appears like; seeming~",
-    "check": false
+    "main": "そうだ",
+    "meaning": "looks like; appears like; seeming~"
   },
   {
-    "kanji": "すっかり",
-    "furigana": "",
-    "translation": "completely",
-    "check": false
+    "main": "すっかり",
+    "meaning": "completely"
   },
   {
-    "kanji": "たいてい",
-    "furigana": "",
-    "translation": "usually",
-    "check": false
+    "main": "たいてい",
+    "meaning": "usually"
   },
   {
-    "kanji": "たまに",
-    "furigana": "",
-    "translation": "occasionally",
-    "check": false
+    "main": "たまに",
+    "meaning": "occasionally"
   },
   {
-    "kanji": "特に",
-    "furigana": "とくに",
-    "translation": "particularly; especially",
-    "check": false
+    "main": "特に",
+    "kana": "とくに",
+    "meaning": "particularly; especially"
   },
   {
-    "kanji": "到頭",
-    "furigana": "とうとう",
-    "translation": "finally, after all",
-    "check": false
+    "main": "到頭",
+    "kana": "とうとう",
+    "meaning": "finally, after all"
   },
   {
-    "kanji": "都合",
-    "furigana": "つごう",
-    "translation": "convenience",
-    "check": false
+    "main": "都合",
+    "kana": "つごう",
+    "meaning": "convenience"
   },
   {
-    "kanji": "やっぱり",
-    "furigana": "",
-    "translation": "as I thought",
-    "check": false
+    "main": "やっぱり",
+    "meaning": "as I thought"
   },
   {
-    "kanji": "やっと",
-    "furigana": "",
-    "translation": "at last; finally; barely; narrowly~",
-    "check": false
+    "main": "やっと",
+    "meaning": "at last; finally; barely; narrowly~"
   },
   {
-    "kanji": "より",
-    "furigana": "",
-    "translation": "more",
-    "check": false
+    "main": "より",
+    "meaning": "more"
   },
   {
-    "kanji": "ぜひ",
-    "furigana": "",
-    "translation": "by all means; certainly; definitely~",
-    "check": false
+    "main": "ぜひ",
+    "meaning": "by all means; certainly; definitely~"
   },
   {
-    "kanji": "全然",
-    "furigana": "ぜんぜん",
-    "translation": "not entirely (used in neg. sentence)",
-    "check": false
+    "main": "全然",
+    "kana": "ぜんぜん",
+    "meaning": "not entirely (used in neg. sentence)"
   },
   {
-    "kanji": "全然～ない",
-    "furigana": "ぜんぜん～ない",
-    "translation": "(not) at all",
-    "check": false
+    "main": "全然～ない",
+    "kana": "ぜんぜん～ない",
+    "meaning": "(not) at all"
   }
 ]

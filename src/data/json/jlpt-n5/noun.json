@@ -1,2528 +1,2455 @@
 [
   {
-    "kanji": "赤",
-    "furigana": "あか",
-    "translation": "red; crimson; scarlet",
-    "check": false
+    "main": "赤",
+    "kana": "あか",
+    "romaji": "aka",
+    "meaning": "red; crimson; scarlet"
   },
   {
-    "kanji": "秋",
-    "furigana": "あき",
-    "translation": "autumn; fall",
-    "check": false
+    "main": "秋",
+    "kana": "あき",
+    "romaji": "aki",
+    "meaning": "autumn; fall"
   },
   {
-    "kanji": "飴",
-    "furigana": "あめ",
-    "translation": "candy",
-    "check": false
+    "main": "飴",
+    "kana": "あめ",
+    "romaji": "ame",
+    "meaning": "candy"
   },
   {
-    "kanji": "雨",
-    "furigana": "あめ",
-    "translation": "rain",
-    "check": false
+    "main": "雨",
+    "kana": "あめ",
+    "romaji": "ame",
+    "meaning": "rain"
   },
   {
-    "kanji": "姉",
-    "furigana": "あね",
-    "translation": "elder sister",
-    "check": false
+    "main": "姉",
+    "kana": "あね",
+    "romaji": "ane",
+    "meaning": "elder sister"
   },
   {
-    "kanji": "兄",
-    "furigana": "あに",
-    "translation": "elder brother",
-    "check": false
+    "main": "兄",
+    "kana": "あに",
+    "romaji": "ani",
+    "meaning": "elder brother"
   },
   {
-    "kanji": "青",
-    "furigana": "あお",
-    "translation": "blue; azure",
-    "check": false
+    "main": "青",
+    "kana": "あお",
+    "romaji": "ao",
+    "meaning": "blue; azure"
   },
   {
-    "kanji": "アパート",
-    "furigana": "",
-    "translation": "apartment",
-    "check": false
+    "main": "アパート",
+    "romaji": "apaato",
+    "meaning": "apartment"
   },
   {
-    "kanji": "朝",
-    "furigana": "あさ",
-    "translation": "morning",
-    "check": false
+    "main": "朝",
+    "kana": "あさ",
+    "romaji": "asa",
+    "meaning": "morning"
   },
   {
-    "kanji": "朝ご飯",
-    "furigana": "あさごはん",
-    "translation": "breakfast",
-    "check": false
+    "main": "朝ご飯",
+    "kana": "あさごはん",
+    "romaji": "asagohan",
+    "meaning": "breakfast"
   },
   {
-    "kanji": "明後日",
-    "furigana": "あさって",
-    "translation": "day after tomorrow",
-    "check": false
+    "main": "明後日",
+    "kana": "あさって",
+    "romaji": "asatte",
+    "meaning": "day after tomorrow"
   },
   {
-    "kanji": "足",
-    "furigana": "あし",
-    "translation": "foot; leg; paw; arm",
-    "check": false
+    "main": "足",
+    "kana": "あし",
+    "romaji": "ashi",
+    "meaning": "foot; leg; paw; arm"
   },
   {
-    "kanji": "明日",
-    "furigana": "あした",
-    "translation": "tomorrow",
-    "check": false
+    "main": "明日",
+    "kana": "あした",
+    "romaji": "ashita",
+    "meaning": "tomorrow"
   },
   {
-    "kanji": "頭",
-    "furigana": "あたま",
-    "translation": "head",
-    "check": false
+    "main": "頭",
+    "kana": "あたま",
+    "romaji": "atama",
+    "meaning": "head"
   },
   {
-    "kanji": "後",
-    "furigana": "あと",
-    "translation": "behind; after; left; also",
-    "check": false
+    "main": "後",
+    "kana": "あと",
+    "romaji": "ato",
+    "meaning": "behind; after; left; also"
   },
   {
-    "kanji": "晩ご飯",
-    "furigana": "ばんごはん",
-    "translation": "dinner; evening meal",
-    "check": false
+    "main": "晩ご飯",
+    "kana": "ばんごはん",
+    "romaji": "bangohan",
+    "meaning": "dinner; evening meal"
   },
   {
-    "kanji": "番号",
-    "furigana": "ばんごう",
-    "translation": "number",
-    "check": false
+    "main": "番号",
+    "kana": "ばんごう",
+    "romaji": "bangou",
+    "meaning": "number"
   },
   {
-    "kanji": "バス",
-    "furigana": "",
-    "translation": "bus",
-    "check": false
+    "main": "バス",
+    "romaji": "basu",
+    "meaning": "bus"
   },
   {
-    "kanji": "バター",
-    "furigana": "",
-    "translation": "butter",
-    "check": false
+    "main": "バター",
+    "romaji": "bataa",
+    "meaning": "butter"
   },
   {
-    "kanji": "ベッド",
-    "furigana": "",
-    "translation": "bed",
-    "check": false
+    "main": "ベッド",
+    "romaji": "beddo",
+    "meaning": "bed"
   },
   {
-    "kanji": "勉強",
-    "furigana": "べんきょう",
-    "translation": "to study",
-    "check": false
+    "main": "勉強",
+    "kana": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "to study"
   },
   {
-    "kanji": "ボールペン",
-    "furigana": "",
-    "translation": "ball-point pen",
-    "check": false
+    "main": "ボールペン",
+    "romaji": "boorupen",
+    "meaning": "ball-point pen"
   },
   {
-    "kanji": "ボタン",
-    "furigana": "",
-    "translation": "button",
-    "check": false
+    "main": "ボタン",
+    "romaji": "botan",
+    "meaning": "button"
   },
   {
-    "kanji": "帽子",
-    "furigana": "ぼうし",
-    "translation": "hat; cap",
-    "check": false
+    "main": "帽子",
+    "kana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "hat; cap"
   },
   {
-    "kanji": "文章",
-    "furigana": "ぶんしょう",
-    "translation": "sentence",
-    "check": false
+    "main": "文章",
+    "kana": "ぶんしょう",
+    "romaji": "bunshou",
+    "meaning": "sentence"
   },
   {
-    "kanji": "豚肉",
-    "furigana": "ぶたにく",
-    "translation": "pork",
-    "check": false
+    "main": "豚肉",
+    "kana": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "pork"
   },
   {
-    "kanji": "病院",
-    "furigana": "びょういん",
-    "translation": "hospital",
-    "check": false
+    "main": "病院",
+    "kana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "hospital"
   },
   {
-    "kanji": "病気",
-    "furigana": "びょうき",
-    "translation": "illness; disease; sickness",
-    "check": false
+    "main": "病気",
+    "kana": "びょうき",
+    "romaji": "byouki",
+    "meaning": "illness; disease; sickness"
   },
   {
-    "kanji": "茶色",
-    "furigana": "ちゃいろ",
-    "translation": "brown",
-    "check": false
+    "main": "茶色",
+    "kana": "ちゃいろ",
+    "romaji": "chairo",
+    "meaning": "brown"
   },
   {
-    "kanji": "茶碗",
-    "furigana": "ちゃわん",
-    "translation": "rice bowl; tea cup; teacup",
-    "check": false
+    "main": "茶碗",
+    "kana": "ちゃわん",
+    "romaji": "chawan",
+    "meaning": "rice bowl; tea cup; teacup"
   },
   {
-    "kanji": "父",
-    "furigana": "ちち",
-    "translation": "father",
-    "check": false
+    "main": "父",
+    "kana": "ちち",
+    "romaji": "chichi",
+    "meaning": "father"
   },
   {
-    "kanji": "地下鉄",
-    "furigana": "ちかてつ",
-    "translation": "subway; underground train",
-    "check": false
+    "main": "地下鉄",
+    "kana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "meaning": "subway; underground train"
   },
   {
-    "kanji": "地図",
-    "furigana": "ちず",
-    "translation": "map",
-    "check": false
+    "main": "地図",
+    "kana": "ちず",
+    "romaji": "chizu",
+    "meaning": "map"
   },
   {
-    "kanji": "台所",
-    "furigana": "だいどころ",
-    "translation": "kitchen",
-    "check": false
+    "main": "台所",
+    "kana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "kitchen"
   },
   {
-    "kanji": "大学",
-    "furigana": "だいがく",
-    "translation": "university; college",
-    "check": false
+    "main": "大学",
+    "kana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "university; college"
   },
   {
-    "kanji": "出口",
-    "furigana": "でぐち",
-    "translation": "exit; gateway; way out",
-    "check": false
+    "main": "出口",
+    "kana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "exit; gateway; way out"
   },
   {
-    "kanji": "電気",
-    "furigana": "でんき",
-    "translation": "electricity",
-    "check": false
+    "main": "電気",
+    "kana": "でんき",
+    "romaji": "denki",
+    "meaning": "electricity"
   },
   {
-    "kanji": "電車",
-    "furigana": "でんしゃ",
-    "translation": "train; electric train",
-    "check": false
+    "main": "電車",
+    "kana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "train; electric train"
   },
   {
-    "kanji": "電話",
-    "furigana": "でんわ",
-    "translation": "telephone (call / device)l",
-    "check": false
+    "main": "電話",
+    "kana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telephone (call / device)l"
   },
   {
-    "kanji": "デパート",
-    "furigana": "",
-    "translation": "department store",
-    "check": false
+    "main": "デパート",
+    "romaji": "depaato",
+    "meaning": "department store"
   },
   {
-    "kanji": "ドア",
-    "furigana": "",
-    "translation": "door",
-    "check": false
+    "main": "ドア",
+    "romaji": "doa",
+    "meaning": "door"
   },
   {
-    "kanji": "どなた",
-    "furigana": "",
-    "translation": "who",
-    "check": false
+    "main": "どなた",
+    "romaji": "donata",
+    "meaning": "who"
   },
   {
-    "kanji": "動物",
-    "furigana": "どうぶつ",
-    "translation": "animal",
-    "check": false
+    "main": "動物",
+    "kana": "どうぶつ",
+    "romaji": "doubutsu",
+    "meaning": "animal"
   },
   {
-    "kanji": "土曜日",
-    "furigana": "どようび",
-    "translation": "Saturday",
-    "check": false
+    "main": "土曜日",
+    "kana": "どようび",
+    "romaji": "doyoubi",
+    "meaning": "Saturday"
   },
   {
-    "kanji": "絵",
-    "furigana": "え",
-    "translation": "picture",
-    "check": false
+    "main": "絵",
+    "kana": "え",
+    "romaji": "e",
+    "meaning": "picture"
   },
   {
-    "kanji": "ええ",
-    "furigana": "",
-    "translation": "yes; that is correct; right",
-    "check": false
+    "main": "ええ",
+    "romaji": "ee",
+    "meaning": "yes; that is correct; right"
   },
   {
-    "kanji": "映画",
-    "furigana": "えいが",
-    "translation": "movie; film",
-    "check": false
+    "main": "映画",
+    "kana": "えいが",
+    "romaji": "eiga",
+    "meaning": "movie; film"
   },
   {
-    "kanji": "映画館",
-    "furigana": "えいがかん",
-    "translation": "movie theater; cinema",
-    "check": false
+    "main": "映画館",
+    "kana": "えいがかん",
+    "romaji": "eigakan",
+    "meaning": "movie theater; cinema"
   },
   {
-    "kanji": "英語",
-    "furigana": "えいご",
-    "translation": "English language",
-    "check": false
+    "main": "英語",
+    "kana": "えいご",
+    "romaji": "eigo",
+    "meaning": "English language"
   },
   {
-    "kanji": "駅",
-    "furigana": "えき",
-    "translation": "station",
-    "check": false
+    "main": "駅",
+    "kana": "えき",
+    "romaji": "eki",
+    "meaning": "station"
   },
   {
-    "kanji": "鉛筆",
-    "furigana": "えんぴつ",
-    "translation": "pencil",
-    "check": false
+    "main": "鉛筆",
+    "kana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pencil"
   },
   {
-    "kanji": "エレベーター",
-    "furigana": "",
-    "translation": "elevator",
-    "check": false
+    "main": "エレベーター",
+    "romaji": "erebeetaa",
+    "meaning": "elevator"
   },
   {
-    "kanji": "フィルム",
-    "furigana": "",
-    "translation": "film",
-    "check": false
+    "main": "フィルム",
+    "romaji": "firumu",
+    "meaning": "film"
   },
   {
-    "kanji": "フォーク",
-    "furigana": "",
-    "translation": "fork",
-    "check": false
+    "main": "フォーク",
+    "romaji": "fooku",
+    "meaning": "fork"
   },
   {
-    "kanji": "服",
-    "furigana": "ふく",
-    "translation": "clothes",
-    "check": false
+    "main": "服",
+    "kana": "ふく",
+    "romaji": "fuku",
+    "meaning": "clothes"
   },
   {
-    "kanji": "二人",
-    "furigana": "ふたり",
-    "translation": "two people; pair; couple",
-    "check": false
+    "main": "二人",
+    "kana": "ふたり",
+    "romaji": "futari",
+    "meaning": "two people; pair; couple"
   },
   {
-    "kanji": "二つ",
-    "furigana": "ふたつ",
-    "translation": "two; 2",
-    "check": false
+    "main": "二つ",
+    "kana": "ふたつ",
+    "romaji": "futatsu",
+    "meaning": "two; 2"
   },
   {
-    "kanji": "二日",
-    "furigana": "ふつか",
-    "translation": "2nd day of month / 2 days",
-    "check": false
+    "main": "二日",
+    "kana": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "2nd day of month / 2 days"
   },
   {
-    "kanji": "封筒",
-    "furigana": "ふうとう",
-    "translation": "envelope",
-    "check": false
+    "main": "封筒",
+    "kana": "ふうとう",
+    "romaji": "fuutou",
+    "meaning": "envelope"
   },
   {
-    "kanji": "冬",
-    "furigana": "ふゆ",
-    "translation": "winter",
-    "check": false
+    "main": "冬",
+    "kana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "winter"
   },
   {
-    "kanji": "外国",
-    "furigana": "がいこく",
-    "translation": "foreign country",
-    "check": false
+    "main": "外国",
+    "kana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "foreign country"
   },
   {
-    "kanji": "外国人",
-    "furigana": "がいこくじん",
-    "translation": "foreigner",
-    "check": false
+    "main": "外国人",
+    "kana": "がいこくじん",
+    "romaji": "gaikokujin",
+    "meaning": "foreigner"
   },
   {
-    "kanji": "学校",
-    "furigana": "がっこう",
-    "translation": "school",
-    "check": false
+    "main": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "school"
   },
   {
-    "kanji": "学生",
-    "furigana": "がくせい",
-    "translation": "student",
-    "check": false
+    "main": "学生",
+    "kana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "student"
   },
   {
-    "kanji": "玄関",
-    "furigana": "げんかん",
-    "translation": "entrance",
-    "check": false
+    "main": "玄関",
+    "kana": "げんかん",
+    "romaji": "genkan",
+    "meaning": "entrance"
   },
   {
-    "kanji": "元気",
-    "furigana": "げんき",
-    "translation": "lively; energetic; healthy",
-    "check": false
+    "main": "元気",
+    "kana": "げんき",
+    "romaji": "genki",
+    "meaning": "lively; energetic; healthy"
   },
   {
-    "kanji": "月曜日",
-    "furigana": "げつようび",
-    "translation": "Monday",
-    "check": false
+    "main": "月曜日",
+    "kana": "げつようび",
+    "romaji": "getsuyoubi",
+    "meaning": "Monday"
   },
   {
-    "kanji": "銀行",
-    "furigana": "ぎんこう",
-    "translation": "bank",
-    "check": false
+    "main": "銀行",
+    "kana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank"
   },
   {
-    "kanji": "ギター",
-    "furigana": "",
-    "translation": "guitar",
-    "check": false
+    "main": "ギター",
+    "romaji": "gitaa",
+    "meaning": "guitar"
   },
   {
-    "kanji": "五",
-    "furigana": "ご",
-    "translation": "five; 5",
-    "check": false
+    "main": "五",
+    "kana": "ご",
+    "romaji": "go",
+    "meaning": "five; 5"
   },
   {
-    "kanji": "午後",
-    "furigana": "ごご",
-    "translation": "afternoon; p.m.",
-    "check": false
+    "main": "午後",
+    "kana": "ごご",
+    "romaji": "gogo",
+    "meaning": "afternoon; p.m."
   },
   {
-    "kanji": "ご飯",
-    "furigana": "ごはん",
-    "translation": "cooked rice, meal",
-    "check": false
+    "main": "ご飯",
+    "kana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "cooked rice, meal"
   },
   {
-    "kanji": "午前",
-    "furigana": "ごぜん",
-    "translation": "morning; a.m.",
-    "check": false
+    "main": "午前",
+    "kana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "morning; a.m."
   },
   {
-    "kanji": "グラム",
-    "furigana": "",
-    "translation": "gram",
-    "check": false
+    "main": "グラム",
+    "romaji": "guramu",
+    "meaning": "gram"
   },
   {
-    "kanji": "牛肉",
-    "furigana": "ぎゅうにく",
-    "translation": "beef",
-    "check": false
+    "main": "牛肉",
+    "kana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "beef"
   },
   {
-    "kanji": "牛乳",
-    "furigana": "ぎゅうにゅう",
-    "translation": "(cow's) milk",
-    "check": false
+    "main": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "meaning": "(cow's) milk"
   },
   {
-    "kanji": "歯",
-    "furigana": "は",
-    "translation": "tooth",
-    "check": false
+    "main": "歯",
+    "kana": "は",
+    "romaji": "ha",
+    "meaning": "tooth"
   },
   {
-    "kanji": "八",
-    "furigana": "はち",
-    "translation": "eight: 8",
-    "check": false
+    "main": "八",
+    "kana": "はち",
+    "romaji": "hachi",
+    "meaning": "eight: 8"
   },
   {
-    "kanji": "葉書",
-    "furigana": "はがき",
-    "translation": "postcard",
-    "check": false
+    "main": "葉書",
+    "kana": "はがき",
+    "romaji": "hagaki",
+    "meaning": "postcard"
   },
   {
-    "kanji": "母",
-    "furigana": "はは",
-    "translation": "mother",
-    "check": false
+    "main": "母",
+    "kana": "はは",
+    "romaji": "haha",
+    "meaning": "mother"
   },
   {
-    "kanji": "はい",
-    "furigana": "",
-    "translation": "yes; that is correct",
-    "check": false
+    "main": "はい",
+    "romaji": "hai",
+    "meaning": "yes; that is correct"
   },
   {
-    "kanji": "灰皿",
-    "furigana": "はいざら",
-    "translation": "ashtray",
-    "check": false
+    "main": "灰皿",
+    "kana": "はいざら",
+    "romaji": "haizara",
+    "meaning": "ashtray"
   },
   {
-    "kanji": "箱",
-    "furigana": "はこ",
-    "translation": "box; crate",
-    "check": false
+    "main": "箱",
+    "kana": "はこ",
+    "romaji": "hako",
+    "meaning": "box; crate"
   },
   {
-    "kanji": "半",
-    "furigana": "はん",
-    "translation": "half; semi-; half-past",
-    "check": false
+    "main": "半",
+    "kana": "はん",
+    "romaji": "han",
+    "meaning": "half; semi-; half-past"
   },
   {
-    "kanji": "花",
-    "furigana": "はな",
-    "translation": "flower",
-    "check": false
+    "main": "花",
+    "kana": "はな",
+    "romaji": "hana",
+    "meaning": "flower"
   },
   {
-    "kanji": "鼻",
-    "furigana": "はな",
-    "translation": "nose",
-    "check": false
+    "main": "鼻",
+    "kana": "はな",
+    "romaji": "hana",
+    "meaning": "nose"
   },
   {
-    "kanji": "話",
-    "furigana": "はなし",
-    "translation": "talk; speech; conversation",
-    "check": false
+    "main": "話",
+    "kana": "はなし",
+    "romaji": "hanashi",
+    "meaning": "talk; speech; conversation"
   },
   {
-    "kanji": "半分",
-    "furigana": "はんぶん",
-    "translation": "half",
-    "check": false
+    "main": "半分",
+    "kana": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "half"
   },
   {
-    "kanji": "ハンカチ",
-    "furigana": "",
-    "translation": "handkerchief",
-    "check": false
+    "main": "ハンカチ",
+    "romaji": "hankachi",
+    "meaning": "handkerchief"
   },
   {
-    "kanji": "晴れ",
-    "furigana": "はれ",
-    "translation": "clear weather",
-    "check": false
+    "main": "晴れ",
+    "kana": "はれ",
+    "romaji": "hare",
+    "meaning": "clear weather"
   },
   {
-    "kanji": "春",
-    "furigana": "はる",
-    "translation": "spring; springtime",
-    "check": false
+    "main": "春",
+    "kana": "はる",
+    "romaji": "haru",
+    "meaning": "spring; springtime"
   },
   {
-    "kanji": "箸",
-    "furigana": "はし",
-    "translation": "chopsticks",
-    "check": false
+    "main": "箸",
+    "kana": "はし",
+    "romaji": "hashi",
+    "meaning": "chopsticks"
   },
   {
-    "kanji": "橋",
-    "furigana": "はし",
-    "translation": "bridge",
-    "check": false
+    "main": "橋",
+    "kana": "はし",
+    "romaji": "hashi",
+    "meaning": "bridge"
   },
   {
-    "kanji": "二十歳",
-    "furigana": "はたち",
-    "translation": "20 years old",
-    "check": false
+    "main": "二十歳",
+    "kana": "はたち",
+    "romaji": "hatachi",
+    "meaning": "20 years old"
   },
   {
-    "kanji": "二十日",
-    "furigana": "はつか",
-    "translation": "20th day of month",
-    "check": false
+    "main": "二十日",
+    "kana": "はつか",
+    "romaji": "hatsuka",
+    "meaning": "20th day of month"
   },
   {
-    "kanji": "辺",
-    "furigana": "へん",
-    "translation": "area",
-    "check": false
+    "main": "辺",
+    "kana": "へん",
+    "romaji": "hen",
+    "meaning": "area"
   },
   {
-    "kanji": "下手",
-    "furigana": "へた",
-    "translation": "unskillful; poor; awkward",
-    "check": false
+    "main": "下手",
+    "kana": "へた",
+    "romaji": "heta",
+    "meaning": "unskillful; poor; awkward"
   },
   {
-    "kanji": "部屋",
-    "furigana": "へや",
-    "translation": "room",
-    "check": false
+    "main": "部屋",
+    "kana": "へや",
+    "romaji": "heya",
+    "meaning": "room"
   },
   {
-    "kanji": "左",
-    "furigana": "ひだり",
-    "translation": "left; left hand side",
-    "check": false
+    "main": "左",
+    "kana": "ひだり",
+    "romaji": "hidari",
+    "meaning": "left; left hand side"
   },
   {
-    "kanji": "東",
-    "furigana": "ひがし",
-    "translation": "east",
-    "check": false
+    "main": "東",
+    "kana": "ひがし",
+    "romaji": "higashi",
+    "meaning": "east"
   },
   {
-    "kanji": "飛行機",
-    "furigana": "ひこうき",
-    "translation": "airplane; aircraft",
-    "check": false
+    "main": "飛行機",
+    "kana": "ひこうき",
+    "romaji": "hikouki",
+    "meaning": "airplane; aircraft"
   },
   {
-    "kanji": "暇",
-    "furigana": "ひま",
-    "translation": "free time",
-    "check": false
+    "main": "暇",
+    "kana": "ひま",
+    "romaji": "hima",
+    "meaning": "free time"
   },
   {
-    "kanji": "昼",
-    "furigana": "ひる",
-    "translation": "noon; midday; lunch",
-    "check": false
+    "main": "昼",
+    "kana": "ひる",
+    "romaji": "hiru",
+    "meaning": "noon; midday; lunch"
   },
   {
-    "kanji": "昼ご飯",
-    "furigana": "ひるごはん",
-    "translation": "lunch",
-    "check": false
+    "main": "昼ご飯",
+    "kana": "ひるごはん",
+    "romaji": "hirugohan",
+    "meaning": "lunch"
   },
   {
-    "kanji": "人",
-    "furigana": "ひと",
-    "translation": "person; human",
-    "check": false
+    "main": "人",
+    "kana": "ひと",
+    "romaji": "hito",
+    "meaning": "person; human"
   },
   {
-    "kanji": "一人",
-    "furigana": "ひとり",
-    "translation": "one person; alone; single",
-    "check": false
+    "main": "一人",
+    "kana": "ひとり",
+    "romaji": "hitori",
+    "meaning": "one person; alone; single"
   },
   {
-    "kanji": "一つ",
-    "furigana": "ひとつ",
-    "translation": "one thing; only",
-    "check": false
+    "main": "一つ",
+    "kana": "ひとつ",
+    "romaji": "hitotsu",
+    "meaning": "one thing; only"
   },
   {
-    "kanji": "ほか",
-    "furigana": "",
-    "translation": "other (place, thing, person)",
-    "check": false
+    "main": "ほか",
+    "romaji": "hoka",
+    "meaning": "other (place, thing, person)"
   },
   {
-    "kanji": "本",
-    "furigana": "ほん",
-    "translation": "book; volume; script",
-    "check": false
+    "main": "本",
+    "kana": "ほん",
+    "romaji": "hon",
+    "meaning": "book; volume; script"
   },
   {
-    "kanji": "本棚",
-    "furigana": "ほんだな",
-    "translation": "bookshelf; bookcase",
-    "check": false
+    "main": "本棚",
+    "kana": "ほんだな",
+    "romaji": "hondana",
+    "meaning": "bookshelf; bookcase"
   },
   {
-    "kanji": "本当",
-    "furigana": "ほんとう",
-    "translation": "truth; reality; actuality; fact",
-    "check": false
+    "main": "本当",
+    "kana": "ほんとう",
+    "romaji": "hontou",
+    "meaning": "truth; reality; actuality; fact"
   },
   {
-    "kanji": "ホテル",
-    "furigana": "",
-    "translation": "hotel",
-    "check": false
+    "main": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel"
   },
   {
-    "kanji": "百",
-    "furigana": "ひゃく",
-    "translation": "100; hundred",
-    "check": false
+    "main": "百",
+    "kana": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "100; hundred"
   },
   {
-    "kanji": "一",
-    "furigana": "いち",
-    "translation": "one; best; first; foremost",
-    "check": false
+    "main": "一",
+    "kana": "いち",
+    "romaji": "ichi",
+    "meaning": "one; best; first; foremost"
   },
   {
-    "kanji": "一番",
-    "furigana": "いちばん",
-    "translation": "number one; 1st; best",
-    "check": false
+    "main": "一番",
+    "kana": "いちばん",
+    "romaji": "ichiban",
+    "meaning": "number one; 1st; best"
   },
   {
-    "kanji": "一日",
-    "furigana": "いちにち",
-    "translation": "one day, all day",
-    "check": false
+    "main": "一日",
+    "kana": "いちにち",
+    "romaji": "ichinichi",
+    "meaning": "one day, all day"
   },
   {
-    "kanji": "家",
-    "furigana": "いえ",
-    "translation": "house, residence, family",
-    "check": false
+    "main": "家",
+    "kana": "いえ",
+    "romaji": "ie",
+    "meaning": "house, residence, family"
   },
   {
-    "kanji": "池",
-    "furigana": "いけ",
-    "translation": "pond",
-    "check": false
+    "main": "池",
+    "kana": "いけ",
+    "romaji": "ike",
+    "meaning": "pond"
   },
   {
-    "kanji": "いくら",
-    "furigana": "",
-    "translation": "how much?; how many?",
-    "check": false
+    "main": "いくら",
+    "romaji": "ikura",
+    "meaning": "how much?; how many?"
   },
   {
-    "kanji": "今",
-    "furigana": "いま",
-    "translation": "now; soon",
-    "check": false
+    "main": "今",
+    "kana": "いま",
+    "romaji": "ima",
+    "meaning": "now; soon"
   },
   {
-    "kanji": "意味",
-    "furigana": "いみ",
-    "translation": "meaning; significance",
-    "check": false
+    "main": "意味",
+    "kana": "いみ",
+    "romaji": "imi",
+    "meaning": "meaning; significance"
   },
   {
-    "kanji": "妹",
-    "furigana": "いもうと",
-    "translation": "younger sister",
-    "check": false
+    "main": "妹",
+    "kana": "いもうと",
+    "romaji": "imouto",
+    "meaning": "younger sister"
   },
   {
-    "kanji": "犬",
-    "furigana": "いぬ",
-    "translation": "dog",
-    "check": false
+    "main": "犬",
+    "kana": "いぬ",
+    "romaji": "inu",
+    "meaning": "dog"
   },
   {
-    "kanji": "入口",
-    "furigana": "いりぐち",
-    "translation": "entrance; entry; gate",
-    "check": false
+    "main": "入口",
+    "kana": "いりぐち",
+    "romaji": "iriguchi",
+    "meaning": "entrance; entry; gate"
   },
   {
-    "kanji": "色",
-    "furigana": "いろ",
-    "translation": "colour; color",
-    "check": false
+    "main": "色",
+    "kana": "いろ",
+    "romaji": "iro",
+    "meaning": "colour; color"
   },
   {
-    "kanji": "色々",
-    "furigana": "いろいろ",
-    "translation": "various",
-    "check": false
+    "main": "色々",
+    "kana": "いろいろ",
+    "romaji": "iroiro",
+    "meaning": "various"
   },
   {
-    "kanji": "医者",
-    "furigana": "いしゃ",
-    "translation": "(medical) doctor; physician",
-    "check": false
+    "main": "医者",
+    "kana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "(medical) doctor; physician"
   },
   {
-    "kanji": "一緒",
-    "furigana": "いっしょ",
-    "translation": "together; same",
-    "check": false
+    "main": "一緒",
+    "kana": "いっしょ",
+    "romaji": "issho",
+    "meaning": "together; same"
   },
   {
-    "kanji": "椅子",
-    "furigana": "いす",
-    "translation": "chair",
-    "check": false
+    "main": "椅子",
+    "kana": "いす",
+    "romaji": "isu",
+    "meaning": "chair"
   },
   {
-    "kanji": "五日",
-    "furigana": "いつか",
-    "translation": "the fifth day of the month",
-    "check": false
+    "main": "五日",
+    "kana": "いつか",
+    "romaji": "itsuka",
+    "meaning": "the fifth day of the month"
   },
   {
-    "kanji": "五つ",
-    "furigana": "いつつ",
-    "translation": "five; 5",
-    "check": false
+    "main": "五つ",
+    "kana": "いつつ",
+    "romaji": "itsutsu",
+    "meaning": "five; 5"
   },
   {
-    "kanji": "嫌",
-    "furigana": "いや",
-    "translation": "unpleasant",
-    "check": false
+    "main": "嫌",
+    "kana": "いや",
+    "romaji": "iya",
+    "meaning": "unpleasant"
   },
   {
-    "kanji": "字引",
-    "furigana": "じびき",
-    "translation": "dictionary",
-    "check": false
+    "main": "字引",
+    "kana": "じびき",
+    "romaji": "jibiki",
+    "meaning": "dictionary"
   },
   {
-    "kanji": "自動車",
-    "furigana": "じどうしゃ",
-    "translation": "automobile",
-    "check": false
+    "main": "自動車",
+    "kana": "じどうしゃ",
+    "romaji": "jidousha",
+    "meaning": "automobile"
   },
   {
-    "kanji": "時間",
-    "furigana": "じかん",
-    "translation": "time; hour(s)",
-    "check": false
+    "main": "時間",
+    "kana": "じかん",
+    "romaji": "jikan",
+    "meaning": "time; hour(s)"
   },
   {
-    "kanji": "辞書",
-    "furigana": "じしょ",
-    "translation": "dictionary",
-    "check": false
+    "main": "辞書",
+    "kana": "じしょ",
+    "romaji": "jisho",
+    "meaning": "dictionary"
   },
   {
-    "kanji": "自転車",
-    "furigana": "じてんしゃ",
-    "translation": "bicycle",
-    "check": false
+    "main": "自転車",
+    "kana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "bicycle"
   },
   {
-    "kanji": "上手",
-    "furigana": "じょうず",
-    "translation": "skillful; skilled; good (at)",
-    "check": false
+    "main": "上手",
+    "kana": "じょうず",
+    "romaji": "jouzu",
+    "meaning": "skillful; skilled; good (at)"
   },
   {
-    "kanji": "授業",
-    "furigana": "じゅぎょう",
-    "translation": "lesson; class work",
-    "check": false
+    "main": "授業",
+    "kana": "じゅぎょう",
+    "romaji": "jugyou",
+    "meaning": "lesson; class work"
   },
   {
-    "kanji": "十",
-    "furigana": "じゅう",
-    "translation": "ten; 10",
-    "check": false
+    "main": "十",
+    "kana": "じゅう",
+    "romaji": "juu",
+    "meaning": "ten; 10"
   },
   {
-    "kanji": "かばん",
-    "furigana": "",
-    "translation": "bag; basket",
-    "check": false
+    "main": "かばん",
+    "romaji": "kaban",
+    "meaning": "bag; basket"
   },
   {
-    "kanji": "花瓶",
-    "furigana": "かびん",
-    "translation": "a vase",
-    "check": false
+    "main": "花瓶",
+    "kana": "かびん",
+    "romaji": "kabin",
+    "meaning": "a vase"
   },
   {
-    "kanji": "角",
-    "furigana": "かど",
-    "translation": "a corner; angle",
-    "check": false
+    "main": "角",
+    "kana": "かど",
+    "romaji": "kado",
+    "meaning": "a corner; angle"
   },
   {
-    "kanji": "鍵",
-    "furigana": "かぎ",
-    "translation": "key",
-    "check": false
+    "main": "鍵",
+    "kana": "かぎ",
+    "romaji": "kagi",
+    "meaning": "key"
   },
   {
-    "kanji": "階段",
-    "furigana": "かいだん",
-    "translation": "stairs; stairway; staircase",
-    "check": false
+    "main": "階段",
+    "kana": "かいだん",
+    "romaji": "kaidan",
+    "meaning": "stairs; stairway; staircase"
   },
   {
-    "kanji": "買い物",
-    "furigana": "かいもの",
-    "translation": "shopping",
-    "check": false
+    "main": "買い物",
+    "kana": "かいもの",
+    "romaji": "kaimono",
+    "meaning": "shopping"
   },
   {
-    "kanji": "会社",
-    "furigana": "かいしゃ",
-    "translation": "company; corporation",
-    "check": false
+    "main": "会社",
+    "kana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "company; corporation"
   },
   {
-    "kanji": "カメラ",
-    "furigana": "",
-    "translation": "camera",
-    "check": false
+    "main": "カメラ",
+    "romaji": "kamera",
+    "meaning": "camera"
   },
   {
-    "kanji": "紙",
-    "furigana": "かみ",
-    "translation": "paper",
-    "check": false
+    "main": "紙",
+    "kana": "かみ",
+    "romaji": "kami",
+    "meaning": "paper"
   },
   {
-    "kanji": "漢字",
-    "furigana": "かんじ",
-    "translation": "kanji",
-    "check": false
+    "main": "漢字",
+    "kana": "かんじ",
+    "romaji": "kanji",
+    "meaning": "kanji"
   },
   {
-    "kanji": "カップ",
-    "furigana": "",
-    "translation": "cup",
-    "check": false
+    "main": "カップ",
+    "romaji": "kappu",
+    "meaning": "cup"
   },
   {
-    "kanji": "体",
-    "furigana": "からだ",
-    "translation": "body",
-    "check": false
+    "main": "体",
+    "kana": "からだ",
+    "romaji": "karada",
+    "meaning": "body"
   },
   {
-    "kanji": "カレー",
-    "furigana": "",
-    "translation": "curry",
-    "check": false
+    "main": "カレー",
+    "romaji": "karee",
+    "meaning": "curry"
   },
   {
-    "kanji": "カレンダー",
-    "furigana": "",
-    "translation": "calendar",
-    "check": false
+    "main": "カレンダー",
+    "romaji": "karendaa",
+    "meaning": "calendar"
   },
   {
-    "kanji": "傘",
-    "furigana": "かさ",
-    "translation": "umbrella",
-    "check": false
+    "main": "傘",
+    "kana": "かさ",
+    "romaji": "kasa",
+    "meaning": "umbrella"
   },
   {
-    "kanji": "方",
-    "furigana": "かた",
-    "translation": "way of doing something",
-    "check": false
+    "main": "方",
+    "kana": "かた",
+    "romaji": "kata",
+    "meaning": "way of doing something"
   },
   {
-    "kanji": "家庭",
-    "furigana": "かてい",
-    "translation": "household",
-    "check": false
+    "main": "家庭",
+    "kana": "かてい",
+    "romaji": "katei",
+    "meaning": "household"
   },
   {
-    "kanji": "川",
-    "furigana": "かわ",
-    "translation": "river; stream",
-    "check": false
+    "main": "川",
+    "kana": "かわ",
+    "romaji": "kawa",
+    "meaning": "river; stream"
   },
   {
-    "kanji": "火曜日",
-    "furigana": "かようび",
-    "translation": "Tuesday",
-    "check": false
+    "main": "火曜日",
+    "kana": "かようび",
+    "romaji": "kayoubi",
+    "meaning": "Tuesday"
   },
   {
-    "kanji": "風邪",
-    "furigana": "かぜ",
-    "translation": "a cold",
-    "check": false
+    "main": "風邪",
+    "kana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "a cold"
   },
   {
-    "kanji": "風",
-    "furigana": "かぜ",
-    "translation": "wind",
-    "check": false
+    "main": "風",
+    "kana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "wind"
   },
   {
-    "kanji": "家族",
-    "furigana": "かぞく",
-    "translation": "family",
-    "check": false
+    "main": "家族",
+    "kana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "family"
   },
   {
-    "kanji": "警官",
-    "furigana": "けいかん",
-    "translation": "policeman; police officer",
-    "check": false
+    "main": "警官",
+    "kana": "けいかん",
+    "romaji": "keikan",
+    "meaning": "policeman; police officer"
   },
   {
-    "kanji": "結婚",
-    "furigana": "けっこん",
-    "translation": "marriage",
-    "check": false
+    "main": "結婚",
+    "kana": "けっこん",
+    "romaji": "kekkon",
+    "meaning": "marriage"
   },
   {
-    "kanji": "結構",
-    "furigana": "けっこう",
-    "translation": "splendid, enough",
-    "check": false
+    "main": "結構",
+    "kana": "けっこう",
+    "romaji": "kekkou",
+    "meaning": "splendid, enough"
   },
   {
-    "kanji": "今朝",
-    "furigana": "けさ",
-    "translation": "this morning",
-    "check": false
+    "main": "今朝",
+    "kana": "けさ",
+    "romaji": "kesa",
+    "meaning": "this morning"
   },
   {
-    "kanji": "木",
-    "furigana": "き",
-    "translation": "tree; wood; timber",
-    "check": false
+    "main": "木",
+    "kana": "き",
+    "romaji": "ki",
+    "meaning": "tree; wood; timber"
   },
   {
-    "kanji": "昨日",
-    "furigana": "きのう",
-    "translation": "yesterday",
-    "check": false
+    "main": "昨日",
+    "kana": "きのう",
+    "romaji": "kinou",
+    "meaning": "yesterday"
   },
   {
-    "kanji": "金曜日",
-    "furigana": "きんようび",
-    "translation": "Friday",
-    "check": false
+    "main": "金曜日",
+    "kana": "きんようび",
+    "romaji": "kinyoubi",
+    "meaning": "Friday"
   },
   {
-    "kanji": "切符",
-    "furigana": "きっぷ",
-    "translation": "ticket",
-    "check": false
+    "main": "切符",
+    "kana": "きっぷ",
+    "romaji": "kippu",
+    "meaning": "ticket"
   },
   {
-    "kanji": "嫌い",
-    "furigana": "きらい",
-    "translation": "hate",
-    "check": false
+    "main": "嫌い",
+    "kana": "きらい",
+    "romaji": "kirai",
+    "meaning": "hate"
   },
   {
-    "kanji": "キログラム",
-    "furigana": "",
-    "translation": "kilogram",
-    "check": false
+    "main": "キログラム",
+    "romaji": "kiro guramu",
+    "meaning": "kilogram"
   },
   {
-    "kanji": "キロメートル",
-    "furigana": "",
-    "translation": "kilometer",
-    "check": false
+    "main": "キロメートル",
+    "romaji": "kiro meetoru",
+    "meaning": "kilometer"
   },
   {
-    "kanji": "喫茶店",
-    "furigana": "きっさてん",
-    "translation": "coffee shop; tearoom; cafe",
-    "check": false
+    "main": "喫茶店",
+    "kana": "きっさてん",
+    "romaji": "kissaten",
+    "meaning": "coffee shop; tearoom; cafe"
   },
   {
-    "kanji": "北",
-    "furigana": "きた",
-    "translation": "north",
-    "check": false
+    "main": "北",
+    "kana": "きた",
+    "romaji": "kita",
+    "meaning": "north"
   },
   {
-    "kanji": "切手",
-    "furigana": "きって",
-    "translation": "stamp (postage)",
-    "check": false
+    "main": "切手",
+    "kana": "きって",
+    "romaji": "kitte",
+    "meaning": "stamp (postage)"
   },
   {
-    "kanji": "こっち",
-    "furigana": "",
-    "translation": "this person or way",
-    "check": false
+    "main": "こっち",
+    "romaji": "kocchi",
+    "meaning": "this person or way"
   },
   {
-    "kanji": "こちら",
-    "furigana": "",
-    "translation": "this way; this direction",
-    "check": false
+    "main": "こちら",
+    "romaji": "kochira",
+    "meaning": "this way; this direction"
   },
   {
-    "kanji": "子供",
-    "furigana": "こども",
-    "translation": "child",
-    "check": false
+    "main": "子供",
+    "kana": "こども",
+    "romaji": "kodomo",
+    "meaning": "child"
   },
   {
-    "kanji": "声",
-    "furigana": "こえ",
-    "translation": "voice",
-    "check": false
+    "main": "声",
+    "kana": "こえ",
+    "romaji": "koe",
+    "meaning": "voice"
   },
   {
-    "kanji": "九日",
-    "furigana": "ここのか",
-    "translation": "ninth day of the month",
-    "check": false
+    "main": "九日",
+    "kana": "ここのか",
+    "romaji": "kokonoka",
+    "meaning": "ninth day of the month"
   },
   {
-    "kanji": "九つ",
-    "furigana": "ここのつ",
-    "translation": "nine; 9",
-    "check": false
+    "main": "九つ",
+    "kana": "ここのつ",
+    "romaji": "kokonotsu",
+    "meaning": "nine; 9"
   },
   {
-    "kanji": "今晩",
-    "furigana": "こんばん",
-    "translation": "tonight; this evening",
-    "check": false
+    "main": "今晩",
+    "kana": "こんばん",
+    "romaji": "konban",
+    "meaning": "tonight; this evening"
   },
   {
-    "kanji": "今月",
-    "furigana": "こんげつ",
-    "translation": "this month",
-    "check": false
+    "main": "今月",
+    "kana": "こんげつ",
+    "romaji": "kongetsu",
+    "meaning": "this month"
   },
   {
-    "kanji": "今週",
-    "furigana": "こんしゅう",
-    "translation": "this week",
-    "check": false
+    "main": "今週",
+    "kana": "こんしゅう",
+    "romaji": "konshuu",
+    "meaning": "this week"
   },
   {
-    "kanji": "コーヒー",
-    "furigana": "",
-    "translation": "Coffee",
-    "check": false
+    "main": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "Coffee"
   },
   {
-    "kanji": "コート",
-    "furigana": "",
-    "translation": "coat",
-    "check": false
+    "main": "コート",
+    "romaji": "kooto",
+    "meaning": "coat"
   },
   {
-    "kanji": "コピー",
-    "furigana": "",
-    "translation": "copy; photocopy",
-    "check": false
+    "main": "コピー",
+    "romaji": "kopii",
+    "meaning": "copy; photocopy"
   },
   {
-    "kanji": "コップ",
-    "furigana": "",
-    "translation": "glass (drinking vessel)",
-    "check": false
+    "main": "コップ",
+    "romaji": "koppu",
+    "meaning": "glass (drinking vessel)"
   },
   {
-    "kanji": "言葉",
-    "furigana": "ことば",
-    "translation": "word; words",
-    "check": false
+    "main": "言葉",
+    "kana": "ことば",
+    "romaji": "kotoba",
+    "meaning": "word; words"
   },
   {
-    "kanji": "今年",
-    "furigana": "ことし",
-    "translation": "this year",
-    "check": false
+    "main": "今年",
+    "kana": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "this year"
   },
   {
-    "kanji": "交番",
-    "furigana": "こうばん",
-    "translation": "police box",
-    "check": false
+    "main": "交番",
+    "kana": "こうばん",
+    "romaji": "kouban",
+    "meaning": "police box"
   },
   {
-    "kanji": "紅茶",
-    "furigana": "こうちゃ",
-    "translation": "black tea",
-    "check": false
+    "main": "紅茶",
+    "kana": "こうちゃ",
+    "romaji": "koucha",
+    "meaning": "black tea"
   },
   {
-    "kanji": "公園",
-    "furigana": "こうえん",
-    "translation": "park",
-    "check": false
+    "main": "公園",
+    "kana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "park"
   },
   {
-    "kanji": "交差点",
-    "furigana": "こうさてん",
-    "translation": "intersection",
-    "check": false
+    "main": "交差点",
+    "kana": "こうさてん",
+    "romaji": "kousaten",
+    "meaning": "intersection"
   },
   {
-    "kanji": "口",
-    "furigana": "くち",
-    "translation": "mouth, opening",
-    "check": false
+    "main": "口",
+    "kana": "くち",
+    "romaji": "kuchi",
+    "meaning": "mouth, opening"
   },
   {
-    "kanji": "果物",
-    "furigana": "くだもの",
-    "translation": "fruit",
-    "check": false
+    "main": "果物",
+    "kana": "くだもの",
+    "romaji": "kudamono",
+    "meaning": "fruit"
   },
   {
-    "kanji": "曇り",
-    "furigana": "くもり",
-    "translation": "cloudiness; cloudy weather",
-    "check": false
+    "main": "曇り",
+    "kana": "くもり",
+    "romaji": "kumori",
+    "meaning": "cloudiness; cloudy weather"
   },
   {
-    "kanji": "国",
-    "furigana": "くに",
-    "translation": "country; state; region",
-    "check": false
+    "main": "国",
+    "kana": "くに",
+    "romaji": "kuni",
+    "meaning": "country; state; region"
   },
   {
-    "kanji": "クラス",
-    "furigana": "",
-    "translation": "class",
-    "check": false
+    "main": "クラス",
+    "romaji": "kurasu",
+    "meaning": "class"
   },
   {
-    "kanji": "黒",
-    "furigana": "くろ",
-    "translation": "black",
-    "check": false
+    "main": "黒",
+    "kana": "くろ",
+    "romaji": "kuro",
+    "meaning": "black"
   },
   {
-    "kanji": "車",
-    "furigana": "くるま",
-    "translation": "car; automobile; vehicle",
-    "check": false
+    "main": "車",
+    "kana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "car; automobile; vehicle"
   },
   {
-    "kanji": "薬",
-    "furigana": "くすり",
-    "translation": "medicine",
-    "check": false
+    "main": "薬",
+    "kana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "medicine"
   },
   {
-    "kanji": "靴",
-    "furigana": "くつ",
-    "translation": "shoes",
-    "check": false
+    "main": "靴",
+    "kana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "shoes"
   },
   {
-    "kanji": "靴下",
-    "furigana": "くつした",
-    "translation": "socks",
-    "check": false
+    "main": "靴下",
+    "kana": "くつした",
+    "romaji": "kutsushita",
+    "meaning": "socks"
   },
   {
-    "kanji": "去年",
-    "furigana": "きょねん",
-    "translation": "last year",
-    "check": false
+    "main": "去年",
+    "kana": "きょねん",
+    "romaji": "kyonen",
+    "meaning": "last year"
   },
   {
-    "kanji": "今日",
-    "furigana": "きょう",
-    "translation": "today; this day",
-    "check": false
+    "main": "今日",
+    "kana": "きょう",
+    "romaji": "kyou",
+    "meaning": "today; this day"
   },
   {
-    "kanji": "兄弟",
-    "furigana": "きょうだい",
-    "translation": "siblings",
-    "check": false
+    "main": "兄弟",
+    "kana": "きょうだい",
+    "romaji": "kyoudai",
+    "meaning": "siblings"
   },
   {
-    "kanji": "教室",
-    "furigana": "きょうしつ",
-    "translation": "classroom",
-    "check": false
+    "main": "教室",
+    "kana": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "classroom"
   },
   {
-    "kanji": "九",
-    "furigana": "きゅう",
-    "translation": "nine; 9",
-    "check": false
+    "main": "九",
+    "kana": "きゅう",
+    "romaji": "kyuu",
+    "meaning": "nine; 9"
   },
   {
-    "kanji": "マッチ",
-    "furigana": "",
-    "translation": "match",
-    "check": false
+    "main": "マッチ",
+    "romaji": "macchi",
+    "meaning": "match"
   },
   {
-    "kanji": "町",
-    "furigana": "まち",
-    "translation": "town; block; neighborhood",
-    "check": false
+    "main": "町",
+    "kana": "まち",
+    "romaji": "machi",
+    "meaning": "town; block; neighborhood"
   },
   {
-    "kanji": "窓",
-    "furigana": "まど",
-    "translation": "window",
-    "check": false
+    "main": "窓",
+    "kana": "まど",
+    "romaji": "mado",
+    "meaning": "window"
   },
   {
-    "kanji": "前",
-    "furigana": "まえ",
-    "translation": "previous; before; in front",
-    "check": false
+    "main": "前",
+    "kana": "まえ",
+    "romaji": "mae",
+    "meaning": "previous; before; in front"
   },
   {
-    "kanji": "毎朝",
-    "furigana": "まいあさ",
-    "translation": "every morning",
-    "check": false
+    "main": "毎朝",
+    "kana": "まいあさ",
+    "romaji": "maiasa",
+    "meaning": "every morning"
   },
   {
-    "kanji": "毎晩",
-    "furigana": "まいばん",
-    "translation": "every night",
-    "check": false
+    "main": "毎晩",
+    "kana": "まいばん",
+    "romaji": "maiban",
+    "meaning": "every night"
   },
   {
-    "kanji": "毎日",
-    "furigana": "まいにち",
-    "translation": "every day",
-    "check": false
+    "main": "毎日",
+    "kana": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "every day"
   },
   {
-    "kanji": "毎週",
-    "furigana": "まいしゅう",
-    "translation": "every week",
-    "check": false
+    "main": "毎週",
+    "kana": "まいしゅう",
+    "romaji": "maishuu",
+    "meaning": "every week"
   },
   {
-    "kanji": "毎年",
-    "furigana": "まいとし",
-    "translation": "every year; yearly; annually",
-    "check": false
+    "main": "毎年",
+    "kana": "まいとし",
+    "romaji": "maitoshi",
+    "meaning": "every year; yearly; annually"
   },
   {
-    "kanji": "毎月",
-    "furigana": "まいつき",
-    "translation": "every month; monthly",
-    "check": false
+    "main": "毎月",
+    "kana": "まいつき",
+    "romaji": "maitsuki",
+    "meaning": "every month; monthly"
   },
   {
-    "kanji": "万",
-    "furigana": "まん",
-    "translation": "10,000; ten thousand",
-    "check": false
+    "main": "万",
+    "kana": "まん",
+    "romaji": "man",
+    "meaning": "10,000; ten thousand"
   },
   {
-    "kanji": "万年筆",
-    "furigana": "まんねんひつ",
-    "translation": "fountain pen",
-    "check": false
+    "main": "万年筆",
+    "kana": "まんねんひつ",
+    "romaji": "mannenhitsu",
+    "meaning": "fountain pen"
   },
   {
-    "kanji": "真っ直ぐ",
-    "furigana": "まっすぐ",
-    "translation": "straight ahead, direct",
-    "check": false
+    "main": "真っ直ぐ",
+    "kana": "まっすぐ",
+    "romaji": "massugu",
+    "meaning": "straight ahead, direct"
   },
   {
-    "kanji": "目",
-    "furigana": "め",
-    "translation": "eye",
-    "check": false
+    "main": "目",
+    "kana": "め",
+    "romaji": "me",
+    "meaning": "eye"
   },
   {
-    "kanji": "メートル",
-    "furigana": "",
-    "translation": "meter",
-    "check": false
+    "main": "メートル",
+    "romaji": "meetoru",
+    "meaning": "meter"
   },
   {
-    "kanji": "眼鏡",
-    "furigana": "めがね",
-    "translation": "glasses",
-    "check": false
+    "main": "眼鏡",
+    "kana": "めがね",
+    "romaji": "megane",
+    "meaning": "glasses"
   },
   {
-    "kanji": "道",
-    "furigana": "みち",
-    "translation": "road; street",
-    "check": false
+    "main": "道",
+    "kana": "みち",
+    "romaji": "michi",
+    "meaning": "road; street"
   },
   {
-    "kanji": "緑",
-    "furigana": "みどり",
-    "translation": "green",
-    "check": false
+    "main": "緑",
+    "kana": "みどり",
+    "romaji": "midori",
+    "meaning": "green"
   },
   {
-    "kanji": "右",
-    "furigana": "みぎ",
-    "translation": "right; right hand side",
-    "check": false
+    "main": "右",
+    "kana": "みぎ",
+    "romaji": "migi",
+    "meaning": "right; right hand side"
   },
   {
-    "kanji": "三日",
-    "furigana": "みっか",
-    "translation": "the third day of the month",
-    "check": false
+    "main": "三日",
+    "kana": "みっか",
+    "romaji": "mikka",
+    "meaning": "the third day of the month"
   },
   {
-    "kanji": "耳",
-    "furigana": "みみ",
-    "translation": "ear; hearing",
-    "check": false
+    "main": "耳",
+    "kana": "みみ",
+    "romaji": "mimi",
+    "meaning": "ear; hearing"
   },
   {
-    "kanji": "南",
-    "furigana": "みなみ",
-    "translation": "south",
-    "check": false
+    "main": "南",
+    "kana": "みなみ",
+    "romaji": "minami",
+    "meaning": "south"
   },
   {
-    "kanji": "皆さん",
-    "furigana": "みなさん",
-    "translation": "everyone",
-    "check": false
+    "main": "皆さん",
+    "kana": "みなさん",
+    "romaji": "minasan",
+    "meaning": "everyone"
   },
   {
-    "kanji": "みんな",
-    "furigana": "",
-    "translation": "all; everyone; everybody",
-    "check": false
+    "main": "みんな",
+    "romaji": "minna",
+    "meaning": "all; everyone; everybody"
   },
   {
-    "kanji": "店",
-    "furigana": "みせ",
-    "translation": "store; shop",
-    "check": false
+    "main": "店",
+    "kana": "みせ",
+    "romaji": "mise",
+    "meaning": "store; shop"
   },
   {
-    "kanji": "三つ",
-    "furigana": "みっつ",
-    "translation": "three; 3",
-    "check": false
+    "main": "三つ",
+    "kana": "みっつ",
+    "romaji": "mittsu",
+    "meaning": "three; 3"
   },
   {
-    "kanji": "水",
-    "furigana": "みず",
-    "translation": "water; fluid; liquid",
-    "check": false
+    "main": "水",
+    "kana": "みず",
+    "romaji": "mizu",
+    "meaning": "water; fluid; liquid"
   },
   {
-    "kanji": "木曜日",
-    "furigana": "もくようび",
-    "translation": "Thursday",
-    "check": false
+    "main": "木曜日",
+    "kana": "もくようび",
+    "romaji": "mokuyoubi",
+    "meaning": "Thursday"
   },
   {
-    "kanji": "門",
-    "furigana": "もん",
-    "translation": "gate",
-    "check": false
+    "main": "門",
+    "kana": "もん",
+    "romaji": "mon",
+    "meaning": "gate"
   },
   {
-    "kanji": "問題",
-    "furigana": "もんだい",
-    "translation": "problem; question",
-    "check": false
+    "main": "問題",
+    "kana": "もんだい",
+    "romaji": "mondai",
+    "meaning": "problem; question"
   },
   {
-    "kanji": "物",
-    "furigana": "もの",
-    "translation": "thing",
-    "check": false
+    "main": "物",
+    "kana": "もの",
+    "romaji": "mono",
+    "meaning": "thing"
   },
   {
-    "kanji": "六日",
-    "furigana": "むいか",
-    "translation": "sixth day of the month",
-    "check": false
+    "main": "六日",
+    "kana": "むいか",
+    "romaji": "muika",
+    "meaning": "sixth day of the month"
   },
   {
-    "kanji": "向こう",
-    "furigana": "むこう",
-    "translation": "over there",
-    "check": false
+    "main": "向こう",
+    "kana": "むこう",
+    "romaji": "mukou",
+    "meaning": "over there"
   },
   {
-    "kanji": "村",
-    "furigana": "むら",
-    "translation": "village",
-    "check": false
+    "main": "村",
+    "kana": "むら",
+    "romaji": "mura",
+    "meaning": "village"
   },
   {
-    "kanji": "六つ",
-    "furigana": "むっつ",
-    "translation": "six; 6",
-    "check": false
+    "main": "六つ",
+    "kana": "むっつ",
+    "romaji": "muttsu",
+    "meaning": "six; 6"
   },
   {
-    "kanji": "ナイフ",
-    "furigana": "",
-    "translation": "knife",
-    "check": false
+    "main": "ナイフ",
+    "romaji": "naifu",
+    "meaning": "knife"
   },
   {
-    "kanji": "中",
-    "furigana": "なか",
-    "translation": "inside; in; within; center",
-    "check": false
+    "main": "中",
+    "kana": "なか",
+    "romaji": "naka",
+    "meaning": "inside; in; within; center"
   },
   {
-    "kanji": "名前",
-    "furigana": "なまえ",
-    "translation": "name; full name",
-    "check": false
+    "main": "名前",
+    "kana": "なまえ",
+    "romaji": "namae",
+    "meaning": "name; full name"
   },
   {
-    "kanji": "七つ",
-    "furigana": "ななつ",
-    "translation": "seven; 7",
-    "check": false
+    "main": "七つ",
+    "kana": "ななつ",
+    "romaji": "nanatsu",
+    "meaning": "seven; 7"
   },
   {
-    "kanji": "七日",
-    "furigana": "なのか",
-    "translation": "seventh day of the month",
-    "check": false
+    "main": "七日",
+    "kana": "なのか",
+    "romaji": "nanoka",
+    "meaning": "seventh day of the month"
   },
   {
-    "kanji": "夏",
-    "furigana": "なつ",
-    "translation": "summer",
-    "check": false
+    "main": "夏",
+    "kana": "なつ",
+    "romaji": "natsu",
+    "meaning": "summer"
   },
   {
-    "kanji": "夏休み",
-    "furigana": "なつやすみ",
-    "translation": "summer vacation / holiday",
-    "check": false
+    "main": "夏休み",
+    "kana": "なつやすみ",
+    "romaji": "natsuyasumi",
+    "meaning": "summer vacation / holiday"
   },
   {
-    "kanji": "猫",
-    "furigana": "ねこ",
-    "translation": "cat",
-    "check": false
+    "main": "猫",
+    "kana": "ねこ",
+    "romaji": "neko",
+    "meaning": "cat"
   },
   {
-    "kanji": "ネクタイ",
-    "furigana": "",
-    "translation": "tie; necktie",
-    "check": false
+    "main": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "tie; necktie"
   },
   {
-    "kanji": "二",
-    "furigana": "に",
-    "translation": "two; 2",
-    "check": false
+    "main": "二",
+    "kana": "に",
+    "romaji": "ni",
+    "meaning": "two; 2"
   },
   {
-    "kanji": "日曜日",
-    "furigana": "にちようび",
-    "translation": "Sunday",
-    "check": false
+    "main": "日曜日",
+    "kana": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Sunday"
   },
   {
-    "kanji": "日記",
-    "furigana": "にっき",
-    "translation": "diary; journal",
-    "check": false
+    "main": "日記",
+    "kana": "にっき",
+    "romaji": "nikki",
+    "meaning": "diary; journal"
   },
   {
-    "kanji": "肉",
-    "furigana": "にく",
-    "translation": "meat",
-    "check": false
+    "main": "肉",
+    "kana": "にく",
+    "romaji": "niku",
+    "meaning": "meat"
   },
   {
-    "kanji": "荷物",
-    "furigana": "にもつ",
-    "translation": "luggage; baggage",
-    "check": false
+    "main": "荷物",
+    "kana": "にもつ",
+    "romaji": "nimotsu",
+    "meaning": "luggage; baggage"
   },
   {
-    "kanji": "西",
-    "furigana": "にし",
-    "translation": "west",
-    "check": false
+    "main": "西",
+    "kana": "にし",
+    "romaji": "nishi",
+    "meaning": "west"
   },
   {
-    "kanji": "庭",
-    "furigana": "にわ",
-    "translation": "garden",
-    "check": false
+    "main": "庭",
+    "kana": "にわ",
+    "romaji": "niwa",
+    "meaning": "garden"
   },
   {
-    "kanji": "飲み物",
-    "furigana": "のみもの",
-    "translation": "drink; beverage",
-    "check": false
+    "main": "飲み物",
+    "kana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "drink; beverage"
   },
   {
-    "kanji": "ノート",
-    "furigana": "",
-    "translation": "notebook",
-    "check": false
+    "main": "ノート",
+    "romaji": "nooto",
+    "meaning": "notebook"
   },
   {
-    "kanji": "ニュース",
-    "furigana": "",
-    "translation": "news",
-    "check": false
+    "main": "ニュース",
+    "romaji": "nyuusu",
+    "meaning": "news"
   },
   {
-    "kanji": "おばあさん",
-    "furigana": "",
-    "translation": "grandmother",
-    "check": false
+    "main": "おばあさん",
+    "romaji": "obaasan",
+    "meaning": "grandmother"
   },
   {
-    "kanji": "伯母さん",
-    "furigana": "おばさん",
-    "translation": "aunt; old lady",
-    "check": false
+    "main": "伯母さん",
+    "kana": "おばさん",
+    "romaji": "obasan",
+    "meaning": "aunt; old lady"
   },
   {
-    "kanji": "お弁当",
-    "furigana": "おべんとう",
-    "translation": "lunch box",
-    "check": false
+    "main": "お弁当",
+    "kana": "おべんとう",
+    "romaji": "obentou",
+    "meaning": "lunch box"
   },
   {
-    "kanji": "お茶",
-    "furigana": "おちゃ",
-    "translation": "tea",
-    "check": false
+    "main": "お茶",
+    "kana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "tea"
   },
   {
-    "kanji": "お風呂",
-    "furigana": "おふろ",
-    "translation": "bath",
-    "check": false
+    "main": "お風呂",
+    "kana": "おふろ",
+    "romaji": "ofuro",
+    "meaning": "bath"
   },
   {
-    "kanji": "伯父さん",
-    "furigana": "おじさん",
-    "translation": "uncle; old man; mister",
-    "check": false
+    "main": "伯父さん",
+    "kana": "おじさん",
+    "romaji": "ojisan",
+    "meaning": "uncle; old man; mister"
   },
   {
-    "kanji": "お母さん",
-    "furigana": "おかあさん",
-    "translation": "mother; mom; mum; ma",
-    "check": false
+    "main": "お母さん",
+    "kana": "おかあさん",
+    "romaji": "okaasan",
+    "meaning": "mother; mom; mum; ma"
   },
   {
-    "kanji": "お金",
-    "furigana": "おかね",
-    "translation": "money",
-    "check": false
+    "main": "お金",
+    "kana": "おかね",
+    "romaji": "okane",
+    "meaning": "money"
   },
   {
-    "kanji": "お菓子",
-    "furigana": "おかし",
-    "translation": "confections; sweets; candy",
-    "check": false
+    "main": "お菓子",
+    "kana": "おかし",
+    "romaji": "okashi",
+    "meaning": "confections; sweets; candy"
   },
   {
-    "kanji": "奥さん",
-    "furigana": "おくさん",
-    "translation": "wife; your wife; his wife",
-    "check": false
+    "main": "奥さん",
+    "kana": "おくさん",
+    "romaji": "okusan",
+    "meaning": "wife; your wife; his wife"
   },
   {
-    "kanji": "お巡りさん",
-    "furigana": "おまわりさん",
-    "translation": "police officer",
-    "check": false
+    "main": "お巡りさん",
+    "kana": "おまわりさん",
+    "romaji": "omawari san",
+    "meaning": "police officer"
   },
   {
-    "kanji": "同じ",
-    "furigana": "おなじ",
-    "translation": "same",
-    "check": false
+    "main": "同じ",
+    "kana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "same"
   },
   {
-    "kanji": "お腹",
-    "furigana": "おなか",
-    "translation": "stomach",
-    "check": false
+    "main": "お腹",
+    "kana": "おなか",
+    "romaji": "onaka",
+    "meaning": "stomach"
   },
   {
-    "kanji": "お姉さん",
-    "furigana": "おねえさん",
-    "translation": "elder sister; miss; ma'am",
-    "check": false
+    "main": "お姉さん",
+    "kana": "おねえさん",
+    "romaji": "oneesan",
+    "meaning": "elder sister; miss; ma'am"
   },
   {
-    "kanji": "音楽",
-    "furigana": "おんがく",
-    "translation": "music",
-    "check": false
+    "main": "音楽",
+    "kana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "music"
   },
   {
-    "kanji": "お兄さん",
-    "furigana": "おにいさん",
-    "translation": "elder brother; young man",
-    "check": false
+    "main": "お兄さん",
+    "kana": "おにいさん",
+    "romaji": "oniisan",
+    "meaning": "elder brother; young man"
   },
   {
-    "kanji": "女",
-    "furigana": "おんな",
-    "translation": "woman; female sex",
-    "check": false
+    "main": "女",
+    "kana": "おんな",
+    "romaji": "onna",
+    "meaning": "woman; female sex"
   },
   {
-    "kanji": "女の子",
-    "furigana": "おんなのこ",
-    "translation": "girl; young women",
-    "check": false
+    "main": "女の子",
+    "kana": "おんなのこ",
+    "romaji": "onnanoko",
+    "meaning": "girl; young women"
   },
   {
-    "kanji": "大勢",
-    "furigana": "おおぜい",
-    "translation": "crowd of people",
-    "check": false
+    "main": "大勢",
+    "kana": "おおぜい",
+    "romaji": "oozei",
+    "meaning": "crowd of people"
   },
   {
-    "kanji": "お酒",
-    "furigana": "おさけ",
-    "translation": "alcohol",
-    "check": false
+    "main": "お酒",
+    "kana": "おさけ",
+    "romaji": "osake",
+    "meaning": "alcohol"
   },
   {
-    "kanji": "お皿",
-    "furigana": "おさら",
-    "translation": "plate, dish",
-    "check": false
+    "main": "お皿",
+    "kana": "おさら",
+    "romaji": "osara",
+    "meaning": "plate, dish"
   },
   {
-    "kanji": "お手洗い",
-    "furigana": "おてあらい",
-    "translation": "toilet; restroom; bathroom",
-    "check": false
+    "main": "お手洗い",
+    "kana": "おてあらい",
+    "romaji": "otearai",
+    "meaning": "toilet; restroom; bathroom"
   },
   {
-    "kanji": "男",
-    "furigana": "おとこ",
-    "translation": "man; male",
-    "check": false
+    "main": "男",
+    "kana": "おとこ",
+    "romaji": "otoko",
+    "meaning": "man; male"
   },
   {
-    "kanji": "男の子",
-    "furigana": "おとこのこ",
-    "translation": "boy; male child; baby boy",
-    "check": false
+    "main": "男の子",
+    "kana": "おとこのこ",
+    "romaji": "otokonoko",
+    "meaning": "boy; male child; baby boy"
   },
   {
-    "kanji": "大人",
-    "furigana": "おとな",
-    "translation": "adult",
-    "check": false
+    "main": "大人",
+    "kana": "おとな",
+    "romaji": "otona",
+    "meaning": "adult"
   },
   {
-    "kanji": "一昨日",
-    "furigana": "おととい",
-    "translation": "day before yesterday",
-    "check": false
+    "main": "一昨日",
+    "kana": "おととい",
+    "romaji": "ototoi",
+    "meaning": "day before yesterday"
   },
   {
-    "kanji": "一昨年",
-    "furigana": "おととし",
-    "translation": "year before last",
-    "check": false
+    "main": "一昨年",
+    "kana": "おととし",
+    "romaji": "ototoshi",
+    "meaning": "year before last"
   },
   {
-    "kanji": "お父さん",
-    "furigana": "おとうさん",
-    "translation": "father; dad",
-    "check": false
+    "main": "お父さん",
+    "kana": "おとうさん",
+    "romaji": "otousan",
+    "meaning": "father; dad"
   },
   {
-    "kanji": "弟",
-    "furigana": "おとうと",
-    "translation": "younger brother",
-    "check": false
+    "main": "弟",
+    "kana": "おとうと",
+    "romaji": "otouto",
+    "meaning": "younger brother"
   },
   {
-    "kanji": "パーティー",
-    "furigana": "",
-    "translation": "party",
-    "check": false
+    "main": "パーティー",
+    "romaji": "paatii",
+    "meaning": "party"
   },
   {
-    "kanji": "パン",
-    "furigana": "",
-    "translation": "bread",
-    "check": false
+    "main": "パン",
+    "romaji": "pan",
+    "meaning": "bread"
   },
   {
-    "kanji": "ページ",
-    "furigana": "",
-    "translation": "page",
-    "check": false
+    "main": "ページ",
+    "romaji": "peeji",
+    "meaning": "page"
   },
   {
-    "kanji": "ペン",
-    "furigana": "",
-    "translation": "pen",
-    "check": false
+    "main": "ペン",
+    "romaji": "pen",
+    "meaning": "pen"
   },
   {
-    "kanji": "ペット",
-    "furigana": "",
-    "translation": "pet",
-    "check": false
+    "main": "ペット",
+    "romaji": "petto",
+    "meaning": "pet"
   },
   {
-    "kanji": "ポケット",
-    "furigana": "",
-    "translation": "pocket",
-    "check": false
+    "main": "ポケット",
+    "romaji": "poketto",
+    "meaning": "pocket"
   },
   {
-    "kanji": "ポスト",
-    "furigana": "",
-    "translation": "post",
-    "check": false
+    "main": "ポスト",
+    "romaji": "posuto",
+    "meaning": "post"
   },
   {
-    "kanji": "プール",
-    "furigana": "",
-    "translation": "swimming pool",
-    "check": false
+    "main": "プール",
+    "romaji": "puuru",
+    "meaning": "swimming pool"
   },
   {
-    "kanji": "来月",
-    "furigana": "らいげつ",
-    "translation": "next month",
-    "check": false
+    "main": "来月",
+    "kana": "らいげつ",
+    "romaji": "raigetsu",
+    "meaning": "next month"
   },
   {
-    "kanji": "来年",
-    "furigana": "らいねん",
-    "translation": "next year",
-    "check": false
+    "main": "来年",
+    "kana": "らいねん",
+    "romaji": "rainen",
+    "meaning": "next year"
   },
   {
-    "kanji": "来週",
-    "furigana": "らいしゅう",
-    "translation": "next week",
-    "check": false
+    "main": "来週",
+    "kana": "らいしゅう",
+    "romaji": "raishuu",
+    "meaning": "next week"
   },
   {
-    "kanji": "ラジオ",
-    "furigana": "",
-    "translation": "radio",
-    "check": false
+    "main": "ラジオ",
+    "romaji": "rajiio",
+    "meaning": "radio"
   },
   {
-    "kanji": "零",
-    "furigana": "れい",
-    "translation": "zero",
-    "check": false
+    "main": "零",
+    "kana": "れい",
+    "romaji": "rei",
+    "meaning": "zero"
   },
   {
-    "kanji": "冷蔵庫",
-    "furigana": "れいぞうこ",
-    "translation": "refrigerator",
-    "check": false
+    "main": "冷蔵庫",
+    "kana": "れいぞうこ",
+    "romaji": "reizouko",
+    "meaning": "refrigerator"
   },
   {
-    "kanji": "レコード",
-    "furigana": "",
-    "translation": "record",
-    "check": false
+    "main": "レコード",
+    "romaji": "rekoodo",
+    "meaning": "record"
   },
   {
-    "kanji": "練習",
-    "furigana": "れんしゅう",
-    "translation": "practice; practicing",
-    "check": false
+    "main": "練習",
+    "kana": "れんしゅう",
+    "romaji": "renshuu",
+    "meaning": "practice; practicing"
   },
   {
-    "kanji": "レストラン",
-    "furigana": "",
-    "translation": "restaurant",
-    "check": false
+    "main": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restaurant"
   },
   {
-    "kanji": "六",
-    "furigana": "ろく",
-    "translation": "six; 6",
-    "check": false
+    "main": "六",
+    "kana": "ろく",
+    "romaji": "roku",
+    "meaning": "six; 6"
   },
   {
-    "kanji": "廊下",
-    "furigana": "ろうか",
-    "translation": "corridor; hallway",
-    "check": false
+    "main": "廊下",
+    "kana": "ろうか",
+    "romaji": "rouka",
+    "meaning": "corridor; hallway"
   },
   {
-    "kanji": "旅行",
-    "furigana": "りょこう",
-    "translation": "travel; trip; journey",
-    "check": false
+    "main": "旅行",
+    "kana": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "travel; trip; journey"
   },
   {
-    "kanji": "料理",
-    "furigana": "りょうり",
-    "translation": "cuisine; food",
-    "check": false
+    "main": "料理",
+    "kana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "cuisine; food"
   },
   {
-    "kanji": "両親",
-    "furigana": "りょうしん",
-    "translation": "parents; both parents",
-    "check": false
+    "main": "両親",
+    "kana": "りょうしん",
+    "romaji": "ryoushin",
+    "meaning": "parents; both parents"
   },
   {
-    "kanji": "留学生",
-    "furigana": "りゅうがくせい",
-    "translation": "exchange student",
-    "check": false
+    "main": "留学生",
+    "kana": "りゅうがくせい",
+    "romaji": "ryuugakusei",
+    "meaning": "exchange student"
   },
   {
-    "kanji": "財布",
-    "furigana": "さいふ",
-    "translation": "purse; wallet",
-    "check": false
+    "main": "財布",
+    "kana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "purse; wallet"
   },
   {
-    "kanji": "魚",
-    "furigana": "さかな",
-    "translation": "fish",
-    "check": false
+    "main": "魚",
+    "kana": "さかな",
+    "romaji": "sakana",
+    "meaning": "fish"
   },
   {
-    "kanji": "先",
-    "furigana": "さき",
-    "translation": "previous; prior; first; earlier",
-    "check": false
+    "main": "先",
+    "kana": "さき",
+    "romaji": "saki",
+    "meaning": "previous; prior; first; earlier"
   },
   {
-    "kanji": "作文",
-    "furigana": "さくぶん",
-    "translation": "writing; composition",
-    "check": false
+    "main": "作文",
+    "kana": "さくぶん",
+    "romaji": "sakubun",
+    "meaning": "writing; composition"
   },
   {
-    "kanji": "三",
-    "furigana": "さん",
-    "translation": "three; 3",
-    "check": false
+    "main": "三",
+    "kana": "さん",
+    "romaji": "san",
+    "meaning": "three; 3"
   },
   {
-    "kanji": "散歩",
-    "furigana": "さんぽ",
-    "translation": "walk; stroll",
-    "check": false
+    "main": "散歩",
+    "kana": "さんぽ",
+    "romaji": "sanpo",
+    "meaning": "walk; stroll"
   },
   {
-    "kanji": "再来年",
-    "furigana": "さらいねん",
-    "translation": "year after next",
-    "check": false
+    "main": "再来年",
+    "kana": "さらいねん",
+    "romaji": "sarainen",
+    "meaning": "year after next"
   },
   {
-    "kanji": "砂糖",
-    "furigana": "さとう",
-    "translation": "sugar",
-    "check": false
+    "main": "砂糖",
+    "kana": "さとう",
+    "romaji": "satou",
+    "meaning": "sugar"
   },
   {
-    "kanji": "背",
-    "furigana": "せ",
-    "translation": "height; stature; back; spine",
-    "check": false
+    "main": "背",
+    "kana": "せ",
+    "romaji": "se",
+    "meaning": "height; stature; back; spine"
   },
   {
-    "kanji": "背広",
-    "furigana": "せびろ",
-    "translation": "business suit",
-    "check": false
+    "main": "背広",
+    "kana": "せびろ",
+    "romaji": "sebiro",
+    "meaning": "business suit"
   },
   {
-    "kanji": "セーター",
-    "furigana": "",
-    "translation": "sweater; jumper",
-    "check": false
+    "main": "セーター",
+    "romaji": "seetaa",
+    "meaning": "sweater; jumper"
   },
   {
-    "kanji": "生徒",
-    "furigana": "せいと",
-    "translation": "pupil; student",
-    "check": false
+    "main": "生徒",
+    "kana": "せいと",
+    "romaji": "seito",
+    "meaning": "pupil; student"
   },
   {
-    "kanji": "石鹼",
-    "furigana": "せっけん",
-    "translation": "soap",
-    "check": false
+    "main": "石鹼",
+    "kana": "せっけん",
+    "romaji": "sekken",
+    "meaning": "soap"
   },
   {
-    "kanji": "千",
-    "furigana": "せん",
-    "translation": "1,000; thousand",
-    "check": false
+    "main": "千",
+    "kana": "せん",
+    "romaji": "sen",
+    "meaning": "1,000; thousand"
   },
   {
-    "kanji": "先月",
-    "furigana": "せんげつ",
-    "translation": "last month",
-    "check": false
+    "main": "先月",
+    "kana": "せんげつ",
+    "romaji": "sengetsu",
+    "meaning": "last month"
   },
   {
-    "kanji": "先生",
-    "furigana": "せんせい",
-    "translation": "teacher; instructor; master",
-    "check": false
+    "main": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "teacher; instructor; master"
   },
   {
-    "kanji": "先週",
-    "furigana": "せんしゅう",
-    "translation": "last week",
-    "check": false
+    "main": "先週",
+    "kana": "せんしゅう",
+    "romaji": "senshuu",
+    "meaning": "last week"
   },
   {
-    "kanji": "洗濯",
-    "furigana": "せんたく",
-    "translation": "washing; laundry",
-    "check": false
+    "main": "洗濯",
+    "kana": "せんたく",
+    "romaji": "sentaku",
+    "meaning": "washing; laundry"
   },
   {
-    "kanji": "写真",
-    "furigana": "しゃしん",
-    "translation": "photograph; photo",
-    "check": false
+    "main": "写真",
+    "kana": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "photograph; photo"
   },
   {
-    "kanji": "シャツ",
-    "furigana": "",
-    "translation": "shirt",
-    "check": false
+    "main": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "shirt"
   },
   {
-    "kanji": "シャワー",
-    "furigana": "",
-    "translation": "shower",
-    "check": false
+    "main": "シャワー",
+    "romaji": "shawaa",
+    "meaning": "shower"
   },
   {
-    "kanji": "四",
-    "furigana": "し",
-    "translation": "four; 4",
-    "check": false
+    "main": "四",
+    "kana": "し",
+    "romaji": "shi",
+    "meaning": "four; 4"
   },
   {
-    "kanji": "七",
-    "furigana": "しち",
-    "translation": "seven; 7",
-    "check": false
+    "main": "七",
+    "kana": "しち",
+    "romaji": "shichi",
+    "meaning": "seven; 7"
   },
   {
-    "kanji": "仕事",
-    "furigana": "しごと",
-    "translation": "work; job; business",
-    "check": false
+    "main": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "work; job; business"
   },
   {
-    "kanji": "新聞",
-    "furigana": "しんぶん",
-    "translation": "newspaper",
-    "check": false
+    "main": "新聞",
+    "kana": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "newspaper"
   },
   {
-    "kanji": "塩",
-    "furigana": "しお",
-    "translation": "salt",
-    "check": false
+    "main": "塩",
+    "kana": "しお",
+    "romaji": "shio",
+    "meaning": "salt"
   },
   {
-    "kanji": "白",
-    "furigana": "しろ",
-    "translation": "white; innocence",
-    "check": false
+    "main": "白",
+    "kana": "しろ",
+    "romaji": "shiro",
+    "meaning": "white; innocence"
   },
   {
-    "kanji": "下",
-    "furigana": "した",
-    "translation": "below; down; under",
-    "check": false
+    "main": "下",
+    "kana": "した",
+    "romaji": "shita",
+    "meaning": "below; down; under"
   },
   {
-    "kanji": "質問",
-    "furigana": "しつもん",
-    "translation": "question; inquiry",
-    "check": false
+    "main": "質問",
+    "kana": "しつもん",
+    "romaji": "shitsumon",
+    "meaning": "question; inquiry"
   },
   {
-    "kanji": "食堂",
-    "furigana": "しょくどう",
-    "translation": "cafeteria; dining room",
-    "check": false
+    "main": "食堂",
+    "kana": "しょくどう",
+    "romaji": "shokudou",
+    "meaning": "cafeteria; dining room"
   },
   {
-    "kanji": "醬油",
-    "furigana": "しょうゆ",
-    "translation": "soy sauce",
-    "check": false
+    "main": "醬油",
+    "kana": "しょうゆ",
+    "romaji": "shouyu",
+    "meaning": "soy sauce"
   },
   {
-    "kanji": "宿題",
-    "furigana": "しゅくだい",
-    "translation": "homework; assignment",
-    "check": false
+    "main": "宿題",
+    "kana": "しゅくだい",
+    "romaji": "shukudai",
+    "meaning": "homework; assignment"
   },
   {
-    "kanji": "そば",
-    "furigana": "",
-    "translation": "near; beside",
-    "check": false
+    "main": "そば",
+    "romaji": "soba",
+    "meaning": "near; beside"
   },
   {
-    "kanji": "空",
-    "furigana": "そら",
-    "translation": "sky; the air",
-    "check": false
+    "main": "空",
+    "kana": "そら",
+    "romaji": "sora",
+    "meaning": "sky; the air"
   },
   {
-    "kanji": "外",
-    "furigana": "そと",
-    "translation": "outside; exterior;",
-    "check": false
+    "main": "外",
+    "kana": "そと",
+    "romaji": "soto",
+    "meaning": "outside; exterior;"
   },
   {
-    "kanji": "掃除",
-    "furigana": "そうじ",
-    "translation": "to clean, to sweep",
-    "check": false
+    "main": "掃除",
+    "kana": "そうじ",
+    "romaji": "souji",
+    "meaning": "to clean, to sweep"
   },
   {
-    "kanji": "水曜日",
-    "furigana": "すいようび",
-    "translation": "Wednesday",
-    "check": false
+    "main": "水曜日",
+    "kana": "すいようび",
+    "romaji": "suiyoubi",
+    "meaning": "Wednesday"
   },
   {
-    "kanji": "スカート",
-    "furigana": "",
-    "translation": "skirt",
-    "check": false
+    "main": "スカート",
+    "romaji": "sukaato",
+    "meaning": "skirt"
   },
   {
-    "kanji": "好き",
-    "furigana": "すき",
-    "translation": "like",
-    "check": false
+    "main": "好き",
+    "kana": "すき",
+    "romaji": "suki",
+    "meaning": "like"
   },
   {
-    "kanji": "少し",
-    "furigana": "すこし",
-    "translation": "a little (bit); small quantity",
-    "check": false
+    "main": "少し",
+    "kana": "すこし",
+    "romaji": "sukoshi",
+    "meaning": "a little (bit); small quantity"
   },
   {
-    "kanji": "スポーツ",
-    "furigana": "",
-    "translation": "sport; sports",
-    "check": false
+    "main": "スポーツ",
+    "romaji": "supootsu",
+    "meaning": "sport; sports"
   },
   {
-    "kanji": "スプーン",
-    "furigana": "",
-    "translation": "spoon",
-    "check": false
+    "main": "スプーン",
+    "romaji": "supuun",
+    "meaning": "spoon"
   },
   {
-    "kanji": "スリッパ",
-    "furigana": "",
-    "translation": "slipper; slippers",
-    "check": false
+    "main": "スリッパ",
+    "romaji": "surippa",
+    "meaning": "slipper; slippers"
   },
   {
-    "kanji": "ストーブ",
-    "furigana": "",
-    "translation": "heater; stove",
-    "check": false
+    "main": "ストーブ",
+    "romaji": "sutoobu",
+    "meaning": "heater; stove"
   },
   {
-    "kanji": "たばこ",
-    "furigana": "",
-    "translation": "tobacco; cigarette",
-    "check": false
+    "main": "たばこ",
+    "romaji": "tabako",
+    "meaning": "tobacco; cigarette"
   },
   {
-    "kanji": "大変",
-    "furigana": "たいへん",
-    "translation": "very; greatly; difficult",
-    "check": false
+    "main": "大変",
+    "kana": "たいへん",
+    "romaji": "taihen",
+    "meaning": "very; greatly; difficult"
   },
   {
-    "kanji": "大切",
-    "furigana": "たいせつ",
-    "translation": "important; indispensable",
-    "check": false
+    "main": "大切",
+    "kana": "たいせつ",
+    "romaji": "taisetsu",
+    "meaning": "important; indispensable"
   },
   {
-    "kanji": "大使館",
-    "furigana": "たいしかん",
-    "translation": "embassy",
-    "check": false
+    "main": "大使館",
+    "kana": "たいしかん",
+    "romaji": "taishikan",
+    "meaning": "embassy"
   },
   {
-    "kanji": "沢山",
-    "furigana": "たくさん",
-    "translation": "many",
-    "check": false
+    "main": "沢山",
+    "kana": "たくさん",
+    "romaji": "takusan",
+    "meaning": "many"
   },
   {
-    "kanji": "タクシー",
-    "furigana": "",
-    "translation": "taxi",
-    "check": false
+    "main": "タクシー",
+    "romaji": "takushii",
+    "meaning": "taxi"
   },
   {
-    "kanji": "卵",
-    "furigana": "たまご",
-    "translation": "eggs; egg",
-    "check": false
+    "main": "卵",
+    "kana": "たまご",
+    "romaji": "tamago",
+    "meaning": "eggs; egg"
   },
   {
-    "kanji": "誕生日",
-    "furigana": "たんじょうび",
-    "translation": "birthday",
-    "check": false
+    "main": "誕生日",
+    "kana": "たんじょうび",
+    "romaji": "tanjoubi",
+    "meaning": "birthday"
   },
   {
-    "kanji": "縦",
-    "furigana": "たて",
-    "translation": "length; height",
-    "check": false
+    "main": "縦",
+    "kana": "たて",
+    "romaji": "tate",
+    "meaning": "length; height"
   },
   {
-    "kanji": "建物",
-    "furigana": "たてもの",
-    "translation": "building",
-    "check": false
+    "main": "建物",
+    "kana": "たてもの",
+    "romaji": "tatemono",
+    "meaning": "building"
   },
   {
-    "kanji": "手",
-    "furigana": "て",
-    "translation": "hand; arm",
-    "check": false
+    "main": "手",
+    "kana": "て",
+    "romaji": "te",
+    "meaning": "hand; arm"
   },
   {
-    "kanji": "テーブル",
-    "furigana": "",
-    "translation": "table",
-    "check": false
+    "main": "テーブル",
+    "romaji": "teeburu",
+    "meaning": "table"
   },
   {
-    "kanji": "テープ",
-    "furigana": "",
-    "translation": "tape",
-    "check": false
+    "main": "テープ",
+    "romaji": "teepu",
+    "meaning": "tape"
   },
   {
-    "kanji": "テープレコーダー",
-    "furigana": "",
-    "translation": "tape recorder",
-    "check": false
+    "main": "テープレコーダー",
+    "romaji": "teepu rekoodaa",
+    "meaning": "tape recorder"
   },
   {
-    "kanji": "手紙",
-    "furigana": "てがみ",
-    "translation": "Letter (message)",
-    "check": false
+    "main": "手紙",
+    "kana": "てがみ",
+    "romaji": "tegami",
+    "meaning": "Letter (message)"
   },
   {
-    "kanji": "天気",
-    "furigana": "てんき",
-    "translation": "weather; the elements",
-    "check": false
+    "main": "天気",
+    "kana": "てんき",
+    "romaji": "tenki",
+    "meaning": "weather; the elements"
   },
   {
-    "kanji": "テレビ",
-    "furigana": "",
-    "translation": "television; TV",
-    "check": false
+    "main": "テレビ",
+    "romaji": "terebi",
+    "meaning": "television; TV"
   },
   {
-    "kanji": "テスト",
-    "furigana": "",
-    "translation": "examination; quiz; test",
-    "check": false
+    "main": "テスト",
+    "romaji": "tesuto",
+    "meaning": "examination; quiz; test"
   },
   {
-    "kanji": "戸",
-    "furigana": "と",
-    "translation": "Japanese style door",
-    "check": false
+    "main": "戸",
+    "kana": "と",
+    "romaji": "to",
+    "meaning": "Japanese style door"
   },
   {
-    "kanji": "トイレ",
-    "furigana": "",
-    "translation": "toilet",
-    "check": false
+    "main": "トイレ",
+    "romaji": "toire",
+    "meaning": "toilet"
   },
   {
-    "kanji": "時計",
-    "furigana": "とけい",
-    "translation": "watch; clock; timepiece",
-    "check": false
+    "main": "時計",
+    "kana": "とけい",
+    "romaji": "tokei",
+    "meaning": "watch; clock; timepiece"
   },
   {
-    "kanji": "時",
-    "furigana": "とき",
-    "translation": "time; moment",
-    "check": false
+    "main": "時",
+    "kana": "とき",
+    "romaji": "toki",
+    "meaning": "time; moment"
   },
   {
-    "kanji": "時々",
-    "furigana": "ときどき",
-    "translation": "sometimes; at times",
-    "check": false
+    "main": "時々",
+    "kana": "ときどき",
+    "romaji": "tokidoki",
+    "meaning": "sometimes; at times"
   },
   {
-    "kanji": "所",
-    "furigana": "ところ",
-    "translation": "place",
-    "check": false
+    "main": "所",
+    "kana": "ところ",
+    "romaji": "tokoro",
+    "meaning": "place"
   },
   {
-    "kanji": "友達",
-    "furigana": "ともだち",
-    "translation": "friend; companion",
-    "check": false
+    "main": "友達",
+    "kana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "friend; companion"
   },
   {
-    "kanji": "隣",
-    "furigana": "となり",
-    "translation": "next door to",
-    "check": false
+    "main": "隣",
+    "kana": "となり",
+    "romaji": "tonari",
+    "meaning": "next door to"
   },
   {
-    "kanji": "十日",
-    "furigana": "とおか",
-    "translation": "tenth day of the month",
-    "check": false
+    "main": "十日",
+    "kana": "とおか",
+    "romaji": "tooka",
+    "meaning": "tenth day of the month"
   },
   {
-    "kanji": "鳥",
-    "furigana": "とり",
-    "translation": "bird",
-    "check": false
+    "main": "鳥",
+    "kana": "とり",
+    "romaji": "tori",
+    "meaning": "bird"
   },
   {
-    "kanji": "鶏肉",
-    "furigana": "とりにく",
-    "translation": "chicken meat",
-    "check": false
+    "main": "鶏肉",
+    "kana": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "chicken meat"
   },
   {
-    "kanji": "年",
-    "furigana": "とし",
-    "translation": "year; age",
-    "check": false
+    "main": "年",
+    "kana": "とし",
+    "romaji": "toshi",
+    "meaning": "year; age"
   },
   {
-    "kanji": "図書館",
-    "furigana": "としょかん",
-    "translation": "library",
-    "check": false
+    "main": "図書館",
+    "kana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "library"
   },
   {
-    "kanji": "次",
-    "furigana": "つぎ",
-    "translation": "next",
-    "check": false
+    "main": "次",
+    "kana": "つぎ",
+    "romaji": "tsugi",
+    "meaning": "next"
   },
   {
-    "kanji": "一日",
-    "furigana": "ついたち",
-    "translation": "first day of the month",
-    "check": false
+    "main": "一日",
+    "kana": "ついたち",
+    "romaji": "tsuitachi",
+    "meaning": "first day of the month"
   },
   {
-    "kanji": "机",
-    "furigana": "つくえ",
-    "translation": "desk",
-    "check": false
+    "main": "机",
+    "kana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "desk"
   },
   {
-    "kanji": "上",
-    "furigana": "うえ",
-    "translation": "above; up; over; top",
-    "check": false
+    "main": "上",
+    "kana": "うえ",
+    "romaji": "ue",
+    "meaning": "above; up; over; top"
   },
   {
-    "kanji": "海",
-    "furigana": "うみ",
-    "translation": "sea",
-    "check": false
+    "main": "海",
+    "kana": "うみ",
+    "romaji": "umi",
+    "meaning": "sea"
   },
   {
-    "kanji": "後ろ",
-    "furigana": "うしろ",
-    "translation": "back; behind; rear",
-    "check": false
+    "main": "後ろ",
+    "kana": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "back; behind; rear"
   },
   {
-    "kanji": "歌",
-    "furigana": "うた",
-    "translation": "song",
-    "check": false
+    "main": "歌",
+    "kana": "うた",
+    "romaji": "uta",
+    "meaning": "song"
   },
   {
-    "kanji": "上着",
-    "furigana": "うわぎ",
-    "translation": "coat; jacket",
-    "check": false
+    "main": "上着",
+    "kana": "うわぎ",
+    "romaji": "uwagi",
+    "meaning": "coat; jacket"
   },
   {
-    "kanji": "ワイシャツ",
-    "furigana": "",
-    "translation": "shirt",
-    "check": false
+    "main": "ワイシャツ",
+    "romaji": "wai shatsu",
+    "meaning": "shirt"
   },
   {
-    "kanji": "山",
-    "furigana": "やま",
-    "translation": "mountain; hill",
-    "check": false
+    "main": "山",
+    "kana": "やま",
+    "romaji": "yama",
+    "meaning": "mountain; hill"
   },
   {
-    "kanji": "八百屋",
-    "furigana": "やおや",
-    "translation": "greengrocer",
-    "check": false
+    "main": "八百屋",
+    "kana": "やおや",
+    "romaji": "yaoya",
+    "meaning": "greengrocer"
   },
   {
-    "kanji": "野菜",
-    "furigana": "やさい",
-    "translation": "vegetable",
-    "check": false
+    "main": "野菜",
+    "kana": "やさい",
+    "romaji": "yasai",
+    "meaning": "vegetable"
   },
   {
-    "kanji": "休み",
-    "furigana": "やすみ",
-    "translation": "rest; vacation; holiday",
-    "check": false
+    "main": "休み",
+    "kana": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "rest; vacation; holiday"
   },
   {
-    "kanji": "八つ",
-    "furigana": "やっつ",
-    "translation": "eight: 8",
-    "check": false
+    "main": "八つ",
+    "kana": "やっつ",
+    "romaji": "yattsu",
+    "meaning": "eight: 8"
   },
   {
-    "kanji": "四日",
-    "furigana": "よっか",
-    "translation": "fourth day of the month",
-    "check": false
+    "main": "四日",
+    "kana": "よっか",
+    "romaji": "yokka",
+    "meaning": "fourth day of the month"
   },
   {
-    "kanji": "横",
-    "furigana": "よこ",
-    "translation": "beside,side,width",
-    "check": false
+    "main": "横",
+    "kana": "よこ",
+    "romaji": "yoko",
+    "meaning": "beside,side,width"
   },
   {
-    "kanji": "夜",
-    "furigana": "よる",
-    "translation": "evening; night",
-    "check": false
+    "main": "夜",
+    "kana": "よる",
+    "romaji": "yoru",
+    "meaning": "evening; night"
   },
   {
-    "kanji": "四つ",
-    "furigana": "よつ",
-    "translation": "four; 4",
-    "check": false
+    "main": "四つ",
+    "kana": "よつ",
+    "romaji": "yotsu",
+    "meaning": "four; 4"
   },
   {
-    "kanji": "洋服",
-    "furigana": "ようふく",
-    "translation": "western clothes",
-    "check": false
+    "main": "洋服",
+    "kana": "ようふく",
+    "romaji": "youfuku",
+    "meaning": "western clothes"
   },
   {
-    "kanji": "八日",
-    "furigana": "ようか",
-    "translation": "eighth day of the month",
-    "check": false
+    "main": "八日",
+    "kana": "ようか",
+    "romaji": "youka",
+    "meaning": "eighth day of the month"
   },
   {
-    "kanji": "雪",
-    "furigana": "ゆき",
-    "translation": "snow",
-    "check": false
+    "main": "雪",
+    "kana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "snow"
   },
   {
-    "kanji": "昨夜",
-    "furigana": "ゆうべ",
-    "translation": "last night",
-    "check": false
+    "main": "昨夜",
+    "kana": "ゆうべ",
+    "romaji": "yuube",
+    "meaning": "last night"
   },
   {
-    "kanji": "郵便局",
-    "furigana": "ゆうびんきょく",
-    "translation": "post office",
-    "check": false
+    "main": "郵便局",
+    "kana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaning": "post office"
   },
   {
-    "kanji": "夕方",
-    "furigana": "ゆうがた",
-    "translation": "evening; dusk",
-    "check": false
+    "main": "夕方",
+    "kana": "ゆうがた",
+    "romaji": "yuugata",
+    "meaning": "evening; dusk"
   },
   {
-    "kanji": "夕飯",
-    "furigana": "ゆうはん",
-    "translation": "evening meal",
-    "check": false
+    "main": "夕飯",
+    "kana": "ゆうはん",
+    "romaji": "yuuhan",
+    "meaning": "evening meal"
   },
   {
-    "kanji": "有名",
-    "furigana": "ゆうめい",
-    "translation": "famous",
-    "check": false
+    "main": "有名",
+    "kana": "ゆうめい",
+    "romaji": "yuumei",
+    "meaning": "famous"
   },
   {
-    "kanji": "雑誌",
-    "furigana": "ざっし",
-    "translation": "magazine",
-    "check": false
+    "main": "雑誌",
+    "kana": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "magazine"
   },
   {
-    "kanji": "全部",
-    "furigana": "ぜんぶ",
-    "translation": "all",
-    "check": false
+    "main": "全部",
+    "kana": "ぜんぶ",
+    "romaji": "zenbu",
+    "meaning": "all"
   },
   {
-    "kanji": "ゼロ",
-    "furigana": "",
-    "translation": "zero",
-    "check": false
+    "main": "ゼロ",
+    "romaji": "zero",
+    "meaning": "zero"
   },
   {
-    "kanji": "ズボン",
-    "furigana": "",
-    "translation": "trousers; pants",
-    "check": false
+    "main": "ズボン",
+    "romaji": "zubon",
+    "meaning": "trousers; pants"
   }
 ]

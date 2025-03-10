@@ -1,242 +1,162 @@
 [
   {
-    "kanji": "アフリカ",
-    "furigana": "",
-    "translation": "Africa",
-    "check": false
+    "main": "アフリカ",
+    "meaning": "Africa"
   },
   {
-    "kanji": "アジア",
-    "furigana": "",
-    "translation": "Asia",
-    "check": false
+    "main": "アジア",
+    "meaning": "Asia"
   },
   {
-    "kanji": "アクセサリー",
-    "furigana": "",
-    "translation": "accessory",
-    "check": false
+    "main": "アクセサリー",
+    "meaning": "accessory"
   },
   {
-    "kanji": "アメリカ",
-    "furigana": "",
-    "translation": "America",
-    "check": false
+    "main": "アメリカ",
+    "meaning": "America"
   },
   {
-    "kanji": "アナウンサー",
-    "furigana": "",
-    "translation": "announcer",
-    "check": false
+    "main": "アナウンサー",
+    "meaning": "announcer"
   },
   {
-    "kanji": "アルバイト",
-    "furigana": "",
-    "translation": "part-time job",
-    "check": false
+    "main": "アルバイト",
+    "meaning": "part-time job"
   },
   {
-    "kanji": "アルコール",
-    "furigana": "",
-    "translation": "alcohol",
-    "check": false
+    "main": "アルコール",
+    "meaning": "alcohol"
   },
   {
-    "kanji": "ベル",
-    "furigana": "",
-    "translation": "bell",
-    "check": false
+    "main": "ベル",
+    "meaning": "bell"
   },
   {
-    "kanji": "ビル",
-    "furigana": "",
-    "translation": "building",
-    "check": false
+    "main": "ビル",
+    "meaning": "building"
   },
   {
-    "kanji": "チェック",
-    "furigana": "",
-    "translation": "to check",
-    "check": false
+    "main": "チェック",
+    "meaning": "to check"
   },
   {
-    "kanji": "エスカレーター",
-    "furigana": "",
-    "translation": "escalator",
-    "check": false
+    "main": "エスカレーター",
+    "meaning": "escalator"
   },
   {
-    "kanji": "ファックス",
-    "furigana": "",
-    "translation": "fax",
-    "check": false
+    "main": "ファックス",
+    "meaning": "fax"
   },
   {
-    "kanji": "ガラス",
-    "furigana": "",
-    "translation": "a glass",
-    "check": false
+    "main": "ガラス",
+    "meaning": "a glass"
   },
   {
-    "kanji": "ガソリン",
-    "furigana": "",
-    "translation": "gasoline; petrol",
-    "check": false
+    "main": "ガソリン",
+    "meaning": "gasoline; petrol"
   },
   {
-    "kanji": "ガソリンスタンド",
-    "furigana": "",
-    "translation": "petrol station",
-    "check": false
+    "main": "ガソリンスタンド",
+    "meaning": "petrol station"
   },
   {
-    "kanji": "ガス",
-    "furigana": "",
-    "translation": "petrol",
-    "check": false
+    "main": "ガス",
+    "meaning": "petrol"
   },
   {
-    "kanji": "ごみ",
-    "furigana": "",
-    "translation": "rubbish",
-    "check": false
+    "main": "ごみ",
+    "meaning": "rubbish"
   },
   {
-    "kanji": "ハンドバッグ",
-    "furigana": "",
-    "translation": "handbag",
-    "check": false
+    "main": "ハンドバッグ",
+    "meaning": "handbag"
   },
   {
-    "kanji": "ジャム",
-    "furigana": "",
-    "translation": "jam",
-    "check": false
+    "main": "ジャム",
+    "meaning": "jam"
   },
   {
-    "kanji": "カーテン",
-    "furigana": "",
-    "translation": "curtain",
-    "check": false
+    "main": "カーテン",
+    "meaning": "curtain"
   },
   {
-    "kanji": "ケーキ",
-    "furigana": "",
-    "translation": "cake",
-    "check": false
+    "main": "ケーキ",
+    "meaning": "cake"
   },
   {
-    "kanji": "コンピュータ",
-    "furigana": "",
-    "translation": "computer",
-    "check": false
+    "main": "コンピュータ",
+    "meaning": "computer"
   },
   {
-    "kanji": "コンサート",
-    "furigana": "",
-    "translation": "concert",
-    "check": false
+    "main": "コンサート",
+    "meaning": "concert"
   },
   {
-    "kanji": "オートバイ",
-    "furigana": "",
-    "translation": "motorcycle",
-    "check": false
+    "main": "オートバイ",
+    "meaning": "motorcycle"
   },
   {
-    "kanji": "パート",
-    "furigana": "",
-    "translation": "part; part time",
-    "check": false
+    "main": "パート",
+    "meaning": "part; part time"
   },
   {
-    "kanji": "ピアノ",
-    "furigana": "",
-    "translation": "piano",
-    "check": false
+    "main": "ピアノ",
+    "meaning": "piano"
   },
   {
-    "kanji": "プレゼント",
-    "furigana": "",
-    "translation": "present; gift",
-    "check": false
+    "main": "プレゼント",
+    "meaning": "present; gift"
   },
   {
-    "kanji": "レジ",
-    "furigana": "",
-    "translation": "cashier",
-    "check": false
+    "main": "レジ",
+    "meaning": "cashier"
   },
   {
-    "kanji": "サンダル",
-    "furigana": "",
-    "translation": "sandal",
-    "check": false
+    "main": "サンダル",
+    "meaning": "sandal"
   },
   {
-    "kanji": "サンドイッチ",
-    "furigana": "",
-    "translation": "sandwich",
-    "check": false
+    "main": "サンドイッチ",
+    "meaning": "sandwich"
   },
   {
-    "kanji": "サラダ",
-    "furigana": "",
-    "translation": "salad",
-    "check": false
+    "main": "サラダ",
+    "meaning": "salad"
   },
   {
-    "kanji": "ソフト",
-    "furigana": "",
-    "translation": "soft",
-    "check": false
+    "main": "ソフト",
+    "meaning": "soft"
   },
   {
-    "kanji": "スクリーン",
-    "furigana": "",
-    "translation": "screen",
-    "check": false
+    "main": "スクリーン",
+    "meaning": "screen"
   },
   {
-    "kanji": "スーツケース",
-    "furigana": "",
-    "translation": "suitcase",
-    "check": false
+    "main": "スーツケース",
+    "meaning": "suitcase"
   },
   {
-    "kanji": "ステーキ",
-    "furigana": "",
-    "translation": "steak",
-    "check": false
+    "main": "ステーキ",
+    "meaning": "steak"
   },
   {
-    "kanji": "ステレオ",
-    "furigana": "",
-    "translation": "stereo",
-    "check": false
+    "main": "ステレオ",
+    "meaning": "stereo"
   },
   {
-    "kanji": "スーツ",
-    "furigana": "",
-    "translation": "suit",
-    "check": false
+    "main": "スーツ",
+    "meaning": "suit"
   },
   {
-    "kanji": "タイプ",
-    "furigana": "",
-    "translation": "type,style",
-    "check": false
+    "main": "タイプ",
+    "meaning": "type,style"
   },
   {
-    "kanji": "テニス",
-    "furigana": "",
-    "translation": "tennis",
-    "check": false
+    "main": "テニス",
+    "meaning": "tennis"
   },
   {
-    "kanji": "ワープロ",
-    "furigana": "",
-    "translation": "word processor",
-    "check": false
+    "main": "ワープロ",
+    "meaning": "word processor"
   }
 ]

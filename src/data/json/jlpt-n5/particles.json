@@ -1,152 +1,127 @@
 [
   {
-    "kanji": "だけ",
-    "furigana": "",
-    "translation": "only; just; as much as~",
-    "check": false
+    "main": "だけ",
+    "romaji": "dake",
+    "meaning": "only; just; as much as~"
   },
   {
-    "kanji": "が",
-    "furigana": "",
-    "translation": "subject marker; however; but~",
-    "check": false
+    "main": "が",
+    "romaji": "ga",
+    "meaning": "subject marker; however; but~"
   },
   {
-    "kanji": "か",
-    "furigana": "",
-    "translation": "question particle",
-    "check": false
+    "main": "か",
+    "romaji": "ka",
+    "meaning": "question particle"
   },
   {
-    "kanji": "か～か",
-    "furigana": "",
-    "translation": "or",
-    "check": false
+    "main": "か～か",
+    "romaji": "ka~ka",
+    "meaning": "or"
   },
   {
-    "kanji": "から",
-    "furigana": "",
-    "translation": "because; since; from",
-    "check": false
+    "main": "から",
+    "romaji": "kara",
+    "meaning": "because; since; from"
   },
   {
-    "kanji": "けど",
-    "furigana": "",
-    "translation": "but; however; although~",
-    "check": false
+    "main": "けど",
+    "romaji": "kedo",
+    "meaning": "but; however; although~"
   },
   {
-    "kanji": "けれども",
-    "furigana": "",
-    "translation": "but; however; although~",
-    "check": false
+    "main": "けれども",
+    "romaji": "keredo mo",
+    "meaning": "but; however; although~"
   },
   {
-    "kanji": "まで",
-    "furigana": "",
-    "translation": "until; as far as; even~",
-    "check": false
+    "main": "まで",
+    "romaji": "made",
+    "meaning": "until; as far as; even~"
   },
   {
-    "kanji": "も",
-    "furigana": "",
-    "translation": "too; also; as well",
-    "check": false
+    "main": "も",
+    "romaji": "mo",
+    "meaning": "too; also; as well"
   },
   {
-    "kanji": "なあ",
-    "furigana": "",
-    "translation": "sentence ending; confirm; admiration",
-    "check": false
+    "main": "なあ",
+    "romaji": "naa",
+    "meaning": "sentence ending; confirm; admiration"
   },
   {
-    "kanji": "んです",
-    "furigana": "",
-    "translation": "to explain something; emphasis",
-    "check": false
+    "main": "んです",
+    "romaji": "ndesu",
+    "meaning": "to explain something; emphasis"
   },
   {
-    "kanji": "ね",
-    "furigana": "",
-    "translation": "isn't it? right? eh?",
-    "check": false
+    "main": "ね",
+    "romaji": "ne",
+    "meaning": "isn't it? right? eh?"
   },
   {
-    "kanji": "に",
-    "furigana": "",
-    "translation": "destination particle; in/at/on/to",
-    "check": false
+    "main": "に",
+    "romaji": "ni",
+    "meaning": "destination particle; in/at/on/to"
   },
   {
-    "kanji": "に/へ",
-    "furigana": "",
-    "translation": "to (direction / destination)",
-    "check": false
+    "main": "に/へ",
+    "romaji": "ni/e",
+    "meaning": "to (direction / destination)"
   },
   {
-    "kanji": "の",
-    "furigana": "",
-    "translation": "possessive particle",
-    "check": false
+    "main": "の",
+    "romaji": "no",
+    "meaning": "possessive particle"
   },
   {
-    "kanji": "のです",
-    "furigana": "",
-    "translation": "to explain something; emphasis",
-    "check": false
+    "main": "のです",
+    "romaji": "no desu",
+    "meaning": "to explain something; emphasis"
   },
   {
-    "kanji": "ので",
-    "furigana": "",
-    "translation": "because of; given that; since",
-    "check": false
+    "main": "ので",
+    "romaji": "node",
+    "meaning": "because of; given that; since"
   },
   {
-    "kanji": "お / ご",
-    "furigana": "",
-    "translation": "polite marker; honorific prefix",
-    "check": false
+    "main": "お / ご",
+    "romaji": "o / go",
+    "meaning": "polite marker; honorific prefix"
   },
   {
-    "kanji": "を",
-    "furigana": "",
-    "translation": "object marker particle",
-    "check": false
+    "main": "を",
+    "romaji": "o / wo",
+    "meaning": "object marker particle"
   },
   {
-    "kanji": "たり～たり",
-    "furigana": "",
-    "translation": "do such things as A and B",
-    "check": false
+    "main": "たり～たり",
+    "romaji": "tari~tari",
+    "meaning": "do such things as A and B"
   },
   {
-    "kanji": "と",
-    "furigana": "",
-    "translation": "and; with; connecting particle",
-    "check": false
+    "main": "と",
+    "romaji": "to",
+    "meaning": "and; with; connecting particle"
   },
   {
-    "kanji": "は",
-    "furigana": "",
-    "translation": "topic marker",
-    "check": false
+    "main": "は",
+    "romaji": "wa",
+    "meaning": "topic marker"
   },
   {
-    "kanji": "や",
-    "furigana": "",
-    "translation": "and; or; connecting particle",
-    "check": false
+    "main": "や",
+    "romaji": "ya",
+    "meaning": "and; or; connecting particle"
   },
   {
-    "kanji": "よ",
-    "furigana": "",
-    "translation": "you know; ending emphasis",
-    "check": false
+    "main": "よ",
+    "romaji": "yo",
+    "meaning": "you know; ending emphasis"
   },
   {
-    "kanji": "より～ほうが",
-    "furigana": "",
-    "translation": "[A] is more than [B]",
-    "check": false
+    "main": "より～ほうが",
+    "romaji": "yori ~hou ga",
+    "meaning": "[A] is more than [B]"
   }
 ]

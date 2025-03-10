@@ -1,146 +1,120 @@
 [
   {
-    "kanji": "安心",
-    "furigana": "あんしん",
-    "translation": "relief; peace of mind",
-    "check": false
+    "main": "安心",
+    "kana": "あんしん",
+    "meaning": "relief; peace of mind"
   },
   {
-    "kanji": "安全",
-    "furigana": "あんぜん",
-    "translation": "safety; security​",
-    "check": false
+    "main": "安全",
+    "kana": "あんぜん",
+    "meaning": "safety; security​"
   },
   {
-    "kanji": "大事",
-    "furigana": "だいじ",
-    "translation": "important; serious; crucial",
-    "check": false
+    "main": "大事",
+    "kana": "だいじ",
+    "meaning": "important; serious; crucial"
   },
   {
-    "kanji": "不便",
-    "furigana": "ふべん",
-    "translation": "inconvenient",
-    "check": false
+    "main": "不便",
+    "kana": "ふべん",
+    "meaning": "inconvenient"
   },
   {
-    "kanji": "複雑",
-    "furigana": "ふくざつ",
-    "translation": "complexity; complication",
-    "check": false
+    "main": "複雑",
+    "kana": "ふくざつ",
+    "meaning": "complexity; complication"
   },
   {
-    "kanji": "反対",
-    "furigana": "はんたい",
-    "translation": "opposition",
-    "check": false
+    "main": "反対",
+    "kana": "はんたい",
+    "meaning": "opposition"
   },
   {
-    "kanji": "変",
-    "furigana": "へん",
-    "translation": "strange; peculiar; weird",
-    "check": false
+    "main": "変",
+    "kana": "へん",
+    "meaning": "strange; peculiar; weird"
   },
   {
-    "kanji": "久しぶり",
-    "furigana": "ひさしぶり",
-    "translation": "after a long time",
-    "check": false
+    "main": "久しぶり",
+    "kana": "ひさしぶり",
+    "meaning": "after a long time"
   },
   {
-    "kanji": "いっぱい",
-    "furigana": "",
-    "translation": "full",
-    "check": false
+    "main": "いっぱい",
+    "meaning": "full"
   },
   {
-    "kanji": "一生懸命",
-    "furigana": "いっしょうけんめい",
-    "translation": "very hard; with utmost effort",
-    "check": false
+    "main": "一生懸命",
+    "kana": "いっしょうけんめい",
+    "meaning": "very hard; with utmost effort"
   },
   {
-    "kanji": "自由",
-    "furigana": "じゆう",
-    "translation": "freedom",
-    "check": false
+    "main": "自由",
+    "kana": "じゆう",
+    "meaning": "freedom"
   },
   {
-    "kanji": "十分",
-    "furigana": "じゅうぶん",
-    "translation": "enough; sufficient; plenty",
-    "check": false
+    "main": "十分",
+    "kana": "じゅうぶん",
+    "meaning": "enough; sufficient; plenty"
   },
   {
-    "kanji": "簡単",
-    "furigana": "かんたん",
-    "translation": "simple; easy",
-    "check": false
+    "main": "簡単",
+    "kana": "かんたん",
+    "meaning": "simple; easy"
   },
   {
-    "kanji": "危険",
-    "furigana": "きけん",
-    "translation": "dangerous",
-    "check": false
+    "main": "危険",
+    "kana": "きけん",
+    "meaning": "dangerous"
   },
   {
-    "kanji": "急",
-    "furigana": "きゅう",
-    "translation": "sudden; abrupt; unexpected",
-    "check": false
+    "main": "急",
+    "kana": "きゅう",
+    "meaning": "sudden; abrupt; unexpected"
   },
   {
-    "kanji": "無理",
-    "furigana": "むり",
-    "translation": "impossible",
-    "check": false
+    "main": "無理",
+    "kana": "むり",
+    "meaning": "impossible"
   },
   {
-    "kanji": "盛ん",
-    "furigana": "さかん",
-    "translation": "popularity; prosperous",
-    "check": false
+    "main": "盛ん",
+    "kana": "さかん",
+    "meaning": "popularity; prosperous"
   },
   {
-    "kanji": "親切",
-    "furigana": "しんせつ",
-    "translation": "kind",
-    "check": false
+    "main": "親切",
+    "kana": "しんせつ",
+    "meaning": "kind"
   },
   {
-    "kanji": "たいてい",
-    "furigana": "",
-    "translation": "usually",
-    "check": false
+    "main": "たいてい",
+    "meaning": "usually"
   },
   {
-    "kanji": "楽しみ",
-    "furigana": "たのしみ",
-    "translation": "looking forward to​",
-    "check": false
+    "main": "楽しみ",
+    "kana": "たのしみ",
+    "meaning": "looking forward to​"
   },
   {
-    "kanji": "丁寧",
-    "furigana": "ていねい",
-    "translation": "polite",
-    "check": false
+    "main": "丁寧",
+    "kana": "ていねい",
+    "meaning": "polite"
   },
   {
-    "kanji": "適当",
-    "furigana": "てきとう",
-    "translation": "suitable",
-    "check": false
+    "main": "適当",
+    "kana": "てきとう",
+    "meaning": "suitable"
   },
   {
-    "kanji": "特別",
-    "furigana": "とくべつ",
-    "translation": "special; particular; extraordinary",
-    "check": false
+    "main": "特別",
+    "kana": "とくべつ",
+    "meaning": "special; particular; extraordinary"
   },
   {
-    "kanji": "残念",
-    "furigana": "ざんねん",
-    "translation": "regrettable; unfortunate",
-    "check": false
+    "main": "残念",
+    "kana": "ざんねん",
+    "meaning": "regrettable; unfortunate"
   }
 ]
