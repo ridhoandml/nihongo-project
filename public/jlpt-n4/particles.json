@@ -1,146 +1,98 @@
 [
   {
-    "kanji": "ば",
-    "furigana": "",
-    "translation": "conditional form; If [A] then [B]",
-    "check": false
+    "main": "ば",
+    "meaning": "conditional form; If [A] then [B]"
   },
   {
-    "kanji": "ばかり",
-    "furigana": "",
-    "translation": "only; nothing but~",
-    "check": false
+    "main": "ばかり",
+    "meaning": "only; nothing but~"
   },
   {
-    "kanji": "でも",
-    "furigana": "",
-    "translation": "... or something; how about~",
-    "check": false
+    "main": "でも",
+    "meaning": "... or something; how about~"
   },
   {
-    "kanji": "かしら",
-    "furigana": "",
-    "translation": "I wonder~",
-    "check": false
+    "main": "かしら",
+    "meaning": "I wonder~"
   },
   {
-    "kanji": "かい",
-    "furigana": "",
-    "translation": "turns a sentence into a yes/no ?",
-    "check": false
+    "main": "かい",
+    "meaning": "turns a sentence into a yes/no ?"
   },
   {
-    "kanji": "かな",
-    "furigana": "",
-    "translation": "I wonder; should I?",
-    "check": false
+    "main": "かな",
+    "meaning": "I wonder; should I?"
   },
   {
-    "kanji": "も",
-    "furigana": "",
-    "translation": "as many as; as much as; nearly~",
-    "check": false
+    "main": "も",
+    "meaning": "as many as; as much as; nearly~"
   },
   {
-    "kanji": "な",
-    "furigana": "",
-    "translation": "don’t ~ (order somebody to not do)",
-    "check": false
+    "main": "な",
+    "meaning": "don’t ~ (order somebody to not do)"
   },
   {
-    "kanji": "など",
-    "furigana": "",
-    "translation": "such as, things like~",
-    "check": false
+    "main": "など",
+    "meaning": "such as, things like~"
   },
   {
-    "kanji": "ながら",
-    "furigana": "",
-    "translation": "while; during; as; simultaneously",
-    "check": false
+    "main": "ながら",
+    "meaning": "while; during; as; simultaneously"
   },
   {
-    "kanji": "なら",
-    "furigana": "",
-    "translation": "if; in the case that~",
-    "check": false
+    "main": "なら",
+    "meaning": "if; in the case that~"
   },
   {
-    "kanji": "のに",
-    "furigana": "",
-    "translation": "although, in spite of, even though~",
-    "check": false
+    "main": "のに",
+    "meaning": "although, in spite of, even though~"
   },
   {
-    "kanji": "のに",
-    "furigana": "",
-    "translation": "to (do something); in order to~",
-    "check": false
+    "main": "のに",
+    "meaning": "to (do something); in order to~"
   },
   {
-    "kanji": "のは〜だ",
-    "furigana": "",
-    "translation": "[A] is [B]; the reason for [A] is [B]",
-    "check": false
+    "main": "のは〜だ",
+    "meaning": "[A] is [B]; the reason for [A] is [B]"
   },
   {
-    "kanji": "し",
-    "furigana": "",
-    "translation": "and; and what’s more; emphasis~",
-    "check": false
+    "main": "し",
+    "meaning": "and; and what’s more; emphasis~"
   },
   {
-    "kanji": "たばかり",
-    "furigana": "",
-    "translation": "just finished/occurred",
-    "check": false
+    "main": "たばかり",
+    "meaning": "just finished/occurred"
   },
   {
-    "kanji": "たら",
-    "furigana": "",
-    "translation": "if; after; when~",
-    "check": false
+    "main": "たら",
+    "meaning": "if; after; when~"
   },
   {
-    "kanji": "て / で",
-    "furigana": "",
-    "translation": "conjunction; so; because of [A], [B]~",
-    "check": false
+    "main": "て / で",
+    "meaning": "conjunction; so; because of [A], [B]~"
   },
   {
-    "kanji": "ても",
-    "furigana": "",
-    "translation": "even; even if; even though~",
-    "check": false
+    "main": "ても",
+    "meaning": "even; even if; even though~"
   },
   {
-    "kanji": "と",
-    "furigana": "",
-    "translation": "whenever [A] happens, [B] ~",
-    "check": false
+    "main": "と",
+    "meaning": "whenever [A] happens, [B] ~"
   },
   {
-    "kanji": "という",
-    "furigana": "",
-    "translation": "called; named; that~",
-    "check": false
+    "main": "という",
+    "meaning": "called; named; that~"
   },
   {
-    "kanji": "とか～とか",
-    "furigana": "",
-    "translation": "among other things; such as; like~",
-    "check": false
+    "main": "とか～とか",
+    "meaning": "among other things; such as; like~"
   },
   {
-    "kanji": "って",
-    "furigana": "",
-    "translation": "named; called~",
-    "check": false
+    "main": "って",
+    "meaning": "named; called~"
   },
   {
-    "kanji": "より",
-    "furigana": "",
-    "translation": "than; rather than; more than~",
-    "check": false
+    "main": "より",
+    "meaning": "than; rather than; more than~"
   }
 ]

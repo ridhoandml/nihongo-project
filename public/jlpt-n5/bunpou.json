@@ -1,506 +1,422 @@
 [
   {
-    "kanji": "ちゃいけない",
-    "furigana": "",
-    "translation": "must not do (spoken Japanese)",
-    "check": false
+    "main": "ちゃいけない",
+    "romaji": "cha ikenai / ja ikenai",
+    "meaning": "must not do (spoken Japanese)"
   },
   {
-    "kanji": "だ・です",
-    "furigana": "",
-    "translation": "to be (am, is, are, were, used to)",
-    "check": false
+    "main": "だ・です",
+    "romaji": "da / desu",
+    "meaning": "to be (am, is, are, were, used to)"
   },
   {
-    "kanji": "だけ",
-    "furigana": "",
-    "translation": "only; just; as much as",
-    "check": false
+    "main": "だけ",
+    "romaji": "dake",
+    "meaning": "only; just; as much as"
   },
   {
-    "kanji": "だろう",
-    "furigana": "",
-    "translation": "I think; it seems; probably; right?",
-    "check": false
+    "main": "だろう",
+    "romaji": "darou",
+    "meaning": "I think; it seems; probably; right?"
   },
   {
-    "kanji": "で",
-    "furigana": "",
-    "translation": "in; at; on; by; with; via",
-    "check": false
+    "main": "で",
+    "romaji": "de",
+    "meaning": "in; at; on; by; with; via"
   },
   {
-    "kanji": "でも",
-    "furigana": "",
-    "translation": "but; however",
-    "check": false
+    "main": "でも",
+    "romaji": "demo",
+    "meaning": "but; however"
   },
   {
-    "kanji": "でしょう",
-    "furigana": "",
-    "translation": "I think; it seems; probably; right?",
-    "check": false
+    "main": "でしょう",
+    "romaji": "deshou",
+    "meaning": "I think; it seems; probably; right?"
   },
   {
-    "kanji": "どんな",
-    "furigana": "",
-    "translation": "what kind of; what sort of",
-    "check": false
+    "main": "どんな",
+    "romaji": "donna",
+    "meaning": "what kind of; what sort of"
   },
   {
-    "kanji": "どうして",
-    "furigana": "",
-    "translation": "why; for what reason; how",
-    "check": false
+    "main": "どうして",
+    "romaji": "doushite",
+    "meaning": "why; for what reason; how"
   },
   {
-    "kanji": "どうやって",
-    "furigana": "",
-    "translation": "how; in what way; by what means​",
-    "check": false
+    "main": "どうやって",
+    "romaji": "douyatte",
+    "meaning": "how; in what way; by what means​"
   },
   {
-    "kanji": "が",
-    "furigana": "",
-    "translation": "subject marker; however; but",
-    "check": false
+    "main": "が",
+    "romaji": "ga",
+    "meaning": "subject marker; however; but"
   },
   {
-    "kanji": "があります",
-    "furigana": "",
-    "translation": "there is; is (non-living things)",
-    "check": false
+    "main": "があります",
+    "romaji": "ga arimasu",
+    "meaning": "there is; is (non-living things)"
   },
   {
-    "kanji": "がほしい",
-    "furigana": "",
-    "translation": "to want something",
-    "check": false
+    "main": "がほしい",
+    "romaji": "ga hoshii",
+    "meaning": "to want something"
   },
   {
-    "kanji": "がいます",
-    "furigana": "",
-    "translation": "there is; to be; is (living things)",
-    "check": false
+    "main": "がいます",
+    "romaji": "ga imasu",
+    "meaning": "there is; to be; is (living things)"
   },
   {
-    "kanji": "ほうがいい",
-    "furigana": "",
-    "translation": "had better; it'd be better to; should~",
-    "check": false
+    "main": "ほうがいい",
+    "romaji": "hou ga ii",
+    "meaning": "had better; it'd be better to; should~"
   },
   {
-    "kanji": "い-adjectives",
-    "furigana": "",
-    "translation": "i-adjectives",
-    "check": false
+    "main": "い-adjectives",
+    "romaji": "i-adjectives",
+    "meaning": "i-adjectives"
   },
   {
-    "kanji": "一番",
-    "furigana": "",
-    "translation": "the most; the best",
-    "check": false
+    "main": "一番",
+    "romaji": "ichiban",
+    "meaning": "the most; the best"
   },
   {
-    "kanji": "一緒に",
-    "furigana": "",
-    "translation": "together",
-    "check": false
+    "main": "一緒に",
+    "romaji": "issho ni",
+    "meaning": "together"
   },
   {
-    "kanji": "いつも",
-    "furigana": "",
-    "translation": "always; usually; habitually",
-    "check": false
+    "main": "いつも",
+    "romaji": "itsumo",
+    "meaning": "always; usually; habitually"
   },
   {
-    "kanji": "じゃない",
-    "furigana": "",
-    "translation": "to not be (am not; is not; are not)",
-    "check": false
+    "main": "じゃない",
+    "romaji": "janai / dewa nai",
+    "meaning": "to not be (am not; is not; are not)"
   },
   {
-    "kanji": "か",
-    "furigana": "",
-    "translation": "question particle",
-    "check": false
+    "main": "か",
+    "romaji": "ka",
+    "meaning": "question particle"
   },
   {
-    "kanji": "か～か",
-    "furigana": "",
-    "translation": "or",
-    "check": false
+    "main": "か～か",
+    "romaji": "ka~ka",
+    "meaning": "or"
   },
   {
-    "kanji": "から",
-    "furigana": "",
-    "translation": "because; since; from",
-    "check": false
+    "main": "から",
+    "romaji": "kara",
+    "meaning": "because; since; from"
   },
   {
-    "kanji": "方",
-    "furigana": "",
-    "translation": "way of doing something; how to do",
-    "check": false
+    "main": "方",
+    "romaji": "kata",
+    "meaning": "way of doing something; how to do"
   },
   {
-    "kanji": "けど",
-    "furigana": "",
-    "translation": "but; however; although",
-    "check": false
+    "main": "けど",
+    "romaji": "kedo",
+    "meaning": "but; however; although"
   },
   {
-    "kanji": "けれども",
-    "furigana": "",
-    "translation": "but; however; although",
-    "check": false
+    "main": "けれども",
+    "romaji": "keredo mo",
+    "meaning": "but; however; although"
   },
   {
-    "kanji": "まだ",
-    "furigana": "",
-    "translation": "still; not yet",
-    "check": false
+    "main": "まだ",
+    "romaji": "mada",
+    "meaning": "still; not yet"
   },
   {
-    "kanji": "まだ～ていません",
-    "furigana": "",
-    "translation": "have not yet",
-    "check": false
+    "main": "まだ～ていません",
+    "romaji": "mada ~te imasen",
+    "meaning": "have not yet"
   },
   {
-    "kanji": "まで",
-    "furigana": "",
-    "translation": "until ~; as far as ~; to (an extent)",
-    "check": false
+    "main": "まで",
+    "romaji": "made",
+    "meaning": "until ~; as far as ~; to (an extent)"
   },
   {
-    "kanji": "前に",
-    "furigana": "",
-    "translation": "before ~; in front of ~",
-    "check": false
+    "main": "前に",
+    "romaji": "mae ni",
+    "meaning": "before ~; in front of ~"
   },
   {
-    "kanji": "ませんか",
-    "furigana": "",
-    "translation": "would you; do you want to; shall we~",
-    "check": false
+    "main": "ませんか",
+    "romaji": "masen ka",
+    "meaning": "would you; do you want to; shall we~"
   },
   {
-    "kanji": "ましょう",
-    "furigana": "",
-    "translation": "let's ~; shall we ~",
-    "check": false
+    "main": "ましょう",
+    "romaji": "mashou",
+    "meaning": "let's ~; shall we ~"
   },
   {
-    "kanji": "ましょうか",
-    "furigana": "",
-    "translation": "shall I ~; used to offer help",
-    "check": false
+    "main": "ましょうか",
+    "romaji": "mashouka",
+    "meaning": "shall I ~; used to offer help"
   },
   {
-    "kanji": "も",
-    "furigana": "",
-    "translation": "too; also; as well",
-    "check": false
+    "main": "も",
+    "romaji": "mo",
+    "meaning": "too; also; as well"
   },
   {
-    "kanji": "もう",
-    "furigana": "",
-    "translation": "already; anymore; again; other",
-    "check": false
+    "main": "もう",
+    "romaji": "mou",
+    "meaning": "already; anymore; again; other"
   },
   {
-    "kanji": "な-adjectives",
-    "furigana": "",
-    "translation": "na-adjectives",
-    "check": false
+    "main": "な-adjectives",
+    "romaji": "na-adjectives",
+    "meaning": "na-adjectives"
   },
   {
-    "kanji": "なあ",
-    "furigana": "",
-    "translation": "confirmation; admiration, etc",
-    "check": false
+    "main": "なあ",
+    "romaji": "naa",
+    "meaning": "confirmation; admiration, etc"
   },
   {
-    "kanji": "ないで",
-    "furigana": "",
-    "translation": "without doing~",
-    "check": false
+    "main": "ないで",
+    "romaji": "naide",
+    "meaning": "without doing~"
   },
   {
-    "kanji": "ないでください",
-    "furigana": "",
-    "translation": "please don't do",
-    "check": false
+    "main": "ないでください",
+    "romaji": "naide kudasai",
+    "meaning": "please don't do"
   },
   {
-    "kanji": "ないといけない",
-    "furigana": "",
-    "translation": "must do; have an obligation to do",
-    "check": false
+    "main": "ないといけない",
+    "romaji": "naito ikenai",
+    "meaning": "must do; have an obligation to do"
   },
   {
-    "kanji": "なくてもいい",
-    "furigana": "",
-    "translation": "don't have to",
-    "check": false
+    "main": "なくてもいい",
+    "romaji": "naku temo ii",
+    "meaning": "don't have to"
   },
   {
-    "kanji": "なくちゃ",
-    "furigana": "",
-    "translation": "must do; need to; gotta do",
-    "check": false
+    "main": "なくちゃ",
+    "romaji": "nakucha",
+    "meaning": "must do; need to; gotta do"
   },
   {
-    "kanji": "なくてはいけない",
-    "furigana": "",
-    "translation": "must do; need to do",
-    "check": false
+    "main": "なくてはいけない",
+    "romaji": "nakute wa ikenai",
+    "meaning": "must do; need to do"
   },
   {
-    "kanji": "なくてはならない",
-    "furigana": "",
-    "translation": "must do; need to do",
-    "check": false
+    "main": "なくてはならない",
+    "romaji": "nakute wa naranai",
+    "meaning": "must do; need to do"
   },
   {
-    "kanji": "なる",
-    "furigana": "",
-    "translation": "to become",
-    "check": false
+    "main": "なる",
+    "romaji": "naru",
+    "meaning": "to become"
   },
   {
-    "kanji": "んです",
-    "furigana": "",
-    "translation": "to explain something; emphasis",
-    "check": false
+    "main": "んです",
+    "romaji": "ndesu",
+    "meaning": "to explain something; emphasis"
   },
   {
-    "kanji": "ね",
-    "furigana": "",
-    "translation": "isn't it? right? eh?",
-    "check": false
+    "main": "ね",
+    "romaji": "ne",
+    "meaning": "isn't it? right? eh?"
   },
   {
-    "kanji": "に",
-    "furigana": "",
-    "translation": "destination particle; in; at; on; to",
-    "check": false
+    "main": "に",
+    "romaji": "ni",
+    "meaning": "destination particle; in; at; on; to"
   },
   {
-    "kanji": "にいく",
-    "furigana": "",
-    "translation": "go to do",
-    "check": false
+    "main": "にいく",
+    "romaji": "ni iku",
+    "meaning": "go to do"
   },
   {
-    "kanji": "にする",
-    "furigana": "",
-    "translation": "to decide on",
-    "check": false
+    "main": "にする",
+    "romaji": "ni suru",
+    "meaning": "to decide on"
   },
   {
-    "kanji": "に/へ",
-    "furigana": "",
-    "translation": "to (indicates direction / destination)",
-    "check": false
+    "main": "に/へ",
+    "romaji": "ni/e",
+    "meaning": "to (indicates direction / destination)"
   },
   {
-    "kanji": "の",
-    "furigana": "",
-    "translation": "possessive particle",
-    "check": false
+    "main": "の",
+    "romaji": "no",
+    "meaning": "possessive particle"
   },
   {
-    "kanji": "のです",
-    "furigana": "",
-    "translation": "to explain something; emphasis",
-    "check": false
+    "main": "のです",
+    "romaji": "no desu",
+    "meaning": "to explain something; emphasis"
   },
   {
-    "kanji": "のが下手",
-    "furigana": "",
-    "translation": "to be bad at doing something",
-    "check": false
+    "main": "のが下手",
+    "romaji": "no ga heta",
+    "meaning": "to be bad at doing something"
   },
   {
-    "kanji": "のが上手",
-    "furigana": "",
-    "translation": "to be good at",
-    "check": false
+    "main": "のが上手",
+    "romaji": "no ga jouzu",
+    "meaning": "to be good at"
   },
   {
-    "kanji": "のが好き",
-    "furigana": "",
-    "translation": "to like doing something",
-    "check": false
+    "main": "のが好き",
+    "romaji": "no ga suki",
+    "meaning": "to like doing something"
   },
   {
-    "kanji": "の中で[A]が一番",
-    "furigana": "",
-    "translation": "out of this group, [A] is best",
-    "check": false
+    "main": "の中で[A]が一番",
+    "romaji": "no naka de [A] ga ichiban",
+    "meaning": "out of this group, [A] is best"
   },
   {
-    "kanji": "ので",
-    "furigana": "",
-    "translation": "because of; given that; since",
-    "check": false
+    "main": "ので",
+    "romaji": "node",
+    "meaning": "because of; given that; since"
   },
   {
-    "kanji": "お / ご",
-    "furigana": "",
-    "translation": "polite marker; honorific prefix particle",
-    "check": false
+    "main": "お / ご",
+    "romaji": "o / go",
+    "meaning": "polite marker; honorific prefix particle"
   },
   {
-    "kanji": "を",
-    "furigana": "",
-    "translation": "object marker particle",
-    "check": false
+    "main": "を",
+    "romaji": "o / wo",
+    "meaning": "object marker particle"
   },
   {
-    "kanji": "をください",
-    "furigana": "",
-    "translation": "please give me~",
-    "check": false
+    "main": "をください",
+    "romaji": "o kudasai",
+    "meaning": "please give me~"
   },
   {
-    "kanji": "しかし",
-    "furigana": "",
-    "translation": "but; however",
-    "check": false
+    "main": "しかし",
+    "romaji": "shikashi",
+    "meaning": "but; however"
   },
   {
-    "kanji": "それから",
-    "furigana": "",
-    "translation": "and then; after that; since then",
-    "check": false
+    "main": "それから",
+    "romaji": "sore kara",
+    "meaning": "and then; after that; since then"
   },
   {
-    "kanji": "そして",
-    "furigana": "",
-    "translation": "and then; thus; and now~",
-    "check": false
+    "main": "そして",
+    "romaji": "soshite",
+    "meaning": "and then; thus; and now~"
   },
   {
-    "kanji": "すぎる",
-    "furigana": "",
-    "translation": "too much",
-    "check": false
+    "main": "すぎる",
+    "romaji": "sugiru",
+    "meaning": "too much"
   },
   {
-    "kanji": "たことがある",
-    "furigana": "",
-    "translation": "to have done something before",
-    "check": false
+    "main": "たことがある",
+    "romaji": "ta koto ga aru",
+    "meaning": "to have done something before"
   },
   {
-    "kanji": "たい",
-    "furigana": "",
-    "translation": "want to do something",
-    "check": false
+    "main": "たい",
+    "romaji": "tai",
+    "meaning": "want to do something"
   },
   {
-    "kanji": "たり～たり",
-    "furigana": "",
-    "translation": "do such things as A and B",
-    "check": false
+    "main": "たり～たり",
+    "romaji": "tari~tari",
+    "meaning": "do such things as A and B"
   },
   {
-    "kanji": "てある",
-    "furigana": "",
-    "translation": "is/has been done (resulting state)",
-    "check": false
+    "main": "てある",
+    "romaji": "te aru",
+    "meaning": "is/has been done (resulting state)"
   },
   {
-    "kanji": "ている",
-    "furigana": "",
-    "translation": "ongoing action or current state",
-    "check": false
+    "main": "ている",
+    "romaji": "te iru",
+    "meaning": "ongoing action or current state"
   },
   {
-    "kanji": "てから",
-    "furigana": "",
-    "translation": "after doing~",
-    "check": false
+    "main": "てから",
+    "romaji": "te kara",
+    "meaning": "after doing~"
   },
   {
-    "kanji": "てください",
-    "furigana": "",
-    "translation": "please do",
-    "check": false
+    "main": "てください",
+    "romaji": "te kudasai",
+    "meaning": "please do"
   },
   {
-    "kanji": "てはいけない",
-    "furigana": "",
-    "translation": "must not; may not; cannot",
-    "check": false
+    "main": "てはいけない",
+    "romaji": "te wa ikenai",
+    "meaning": "must not; may not; cannot"
   },
   {
-    "kanji": "てもいいです",
-    "furigana": "",
-    "translation": "is OK to..; is alright to..; may I..?",
-    "check": false
+    "main": "てもいいです",
+    "romaji": "temo ii desu",
+    "meaning": "is OK to..; is alright to..; may I..?"
   },
   {
-    "kanji": "と",
-    "furigana": "",
-    "translation": "and; with; as; connecting particle",
-    "check": false
+    "main": "と",
+    "romaji": "to",
+    "meaning": "and; with; as; connecting particle"
   },
   {
-    "kanji": "とき",
-    "furigana": "",
-    "translation": "when; at this time",
-    "check": false
+    "main": "とき",
+    "romaji": "toki",
+    "meaning": "when; at this time"
   },
   {
-    "kanji": "とても",
-    "furigana": "",
-    "translation": "very; awfully; exceedingly​",
-    "check": false
+    "main": "とても",
+    "romaji": "totemo",
+    "meaning": "very; awfully; exceedingly​"
   },
   {
-    "kanji": "つもり",
-    "furigana": "",
-    "translation": "plan to ~; intend to ~",
-    "check": false
+    "main": "つもり",
+    "romaji": "tsumori",
+    "meaning": "plan to ~; intend to ~"
   },
   {
-    "kanji": "は",
-    "furigana": "",
-    "translation": "topic marker",
-    "check": false
+    "main": "は",
+    "romaji": "wa - topic marker",
+    "meaning": "topic marker"
   },
   {
-    "kanji": "は〜より・・・です",
-    "furigana": "",
-    "translation": "[A] is more ~ than [B]",
-    "check": false
+    "main": "は〜より・・・です",
+    "romaji": "wa ~yori... desu",
+    "meaning": "[A] is more ~ than [B]"
   },
   {
-    "kanji": "はどうですか",
-    "furigana": "",
-    "translation": "how about; how is",
-    "check": false
+    "main": "はどうですか",
+    "romaji": "wa dou desu ka",
+    "meaning": "how about; how is"
   },
   {
-    "kanji": "や",
-    "furigana": "",
-    "translation": "and; or; connecting particle",
-    "check": false
+    "main": "や",
+    "romaji": "ya",
+    "meaning": "and; or; connecting particle"
   },
   {
-    "kanji": "よ",
-    "furigana": "",
-    "translation": "you know; emphasis (ending particle)",
-    "check": false
+    "main": "よ",
+    "romaji": "yo",
+    "meaning": "you know; emphasis (ending particle)"
   },
   {
-    "kanji": "より～ほうが",
-    "furigana": "",
-    "translation": "[A] is more than [B]",
-    "check": false
+    "main": "より～ほうが",
+    "romaji": "yori ~hou ga",
+    "meaning": "[A] is more than [B]"
   }
 ]

@@ -1,602 +1,602 @@
 [
   {
-    "kanji": "浴びる",
-    "furigana": "abiruあびる",
-    "translation": "to bathe, to shower",
-    "check": false
+    "main": "浴びる",
+    "kana": "あびる",
+    "romaji": "abiru",
+    "meaning": "to bathe, to shower"
   },
   {
-    "kanji": "上げる",
-    "furigana": "ageruあげる",
-    "translation": "to raise; to elevate; to give",
-    "check": false
+    "main": "上げる",
+    "kana": "あげる",
+    "romaji": "ageru",
+    "meaning": "to raise; to elevate; to give"
   },
   {
-    "kanji": "開ける",
-    "furigana": "akeruあける",
-    "translation": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
-    "check": false
+    "main": "開ける",
+    "kana": "あける",
+    "romaji": "akeru",
+    "meaning": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock"
   },
   {
-    "kanji": "開く",
-    "furigana": "akuあく",
-    "translation": "to open (e.g. doors, business, etc)",
-    "check": false
+    "main": "開く",
+    "kana": "あく",
+    "romaji": "aku",
+    "meaning": "to open (e.g. doors, business, etc)"
   },
   {
-    "kanji": "洗う",
-    "furigana": "arauあらう",
-    "translation": "to wash",
-    "check": false
+    "main": "洗う",
+    "kana": "あらう",
+    "romaji": "arau",
+    "meaning": "to wash"
   },
   {
-    "kanji": "ある",
-    "furigana": "aru",
-    "translation": "to be, to have",
-    "check": false
+    "main": "ある",
+    "kana": "ある",
+    "romaji": "aru",
+    "meaning": "to be, to have"
   },
   {
-    "kanji": "歩く",
-    "furigana": "arukuあるく",
-    "translation": "to walk",
-    "check": false
+    "main": "歩く",
+    "kana": "あるく",
+    "romaji": "aruku",
+    "meaning": "to walk"
   },
   {
-    "kanji": "遊ぶ",
-    "furigana": "asobuあそぶ",
-    "translation": "to play; to enjoy oneself",
-    "check": false
+    "main": "遊ぶ",
+    "kana": "あそぶ",
+    "romaji": "asobu",
+    "meaning": "to play; to enjoy oneself"
   },
   {
-    "kanji": "会う",
-    "furigana": "auあう",
-    "translation": "to meet; to encounter; to see",
-    "check": false
+    "main": "会う",
+    "kana": "あう",
+    "romaji": "au",
+    "meaning": "to meet; to encounter; to see"
   },
   {
-    "kanji": "勉強",
-    "furigana": "benkyouべんきょう",
-    "translation": "to study",
-    "check": false
+    "main": "勉強",
+    "kana": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "to study"
   },
   {
-    "kanji": "違う",
-    "furigana": "chigauちがう",
-    "translation": "to differ",
-    "check": false
+    "main": "違う",
+    "kana": "ちがう",
+    "romaji": "chigau",
+    "meaning": "to differ"
   },
   {
-    "kanji": "出す",
-    "furigana": "dasuだす",
-    "translation": "to take out; to get out; to put out; to reveal",
-    "check": false
+    "main": "出す",
+    "kana": "だす",
+    "romaji": "dasu",
+    "meaning": "to take out; to get out; to put out; to reveal"
   },
   {
-    "kanji": "出かける",
-    "furigana": "dekakeruでかける",
-    "translation": "to go out; to leave; to depart",
-    "check": false
+    "main": "出かける",
+    "kana": "でかける",
+    "romaji": "dekakeru",
+    "meaning": "to go out; to leave; to depart"
   },
   {
-    "kanji": "電話",
-    "furigana": "denwaでんわ",
-    "translation": "telephone (call / device)l; phone call",
-    "check": false
+    "main": "電話",
+    "kana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telephone (call / device)l; phone call"
   },
   {
-    "kanji": "出る",
-    "furigana": "deruでる",
-    "translation": "to leave; to exit; to appear; to go out",
-    "check": false
+    "main": "出る",
+    "kana": "でる",
+    "romaji": "deru",
+    "meaning": "to leave; to exit; to appear; to go out"
   },
   {
-    "kanji": "吹く",
-    "furigana": "fukuふく",
-    "translation": "to blow (of the wind)",
-    "check": false
+    "main": "吹く",
+    "kana": "ふく",
+    "romaji": "fuku",
+    "meaning": "to blow (of the wind)"
   },
   {
-    "kanji": "降る",
-    "furigana": "furuふる",
-    "translation": "to fall",
-    "check": false
+    "main": "降る",
+    "kana": "ふる",
+    "romaji": "furu",
+    "meaning": "to fall"
   },
   {
-    "kanji": "入る",
-    "furigana": "hairuはいる",
-    "translation": "to enter; to go into",
-    "check": false
+    "main": "入る",
+    "kana": "はいる",
+    "romaji": "hairu",
+    "meaning": "to enter; to go into"
   },
   {
-    "kanji": "始まる",
-    "furigana": "hajimaruはじまる",
-    "translation": "to begin",
-    "check": false
+    "main": "始まる",
+    "kana": "はじまる",
+    "romaji": "hajimaru",
+    "meaning": "to begin"
   },
   {
-    "kanji": "履く",
-    "furigana": "hakuはく",
-    "translation": "to wear, to put on trousers",
-    "check": false
+    "main": "履く",
+    "kana": "はく",
+    "romaji": "haku",
+    "meaning": "to wear, to put on trousers"
   },
   {
-    "kanji": "話す",
-    "furigana": "hanasuはなす",
-    "translation": "to speak; to talk; to converse",
-    "check": false
+    "main": "話す",
+    "kana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "to speak; to talk; to converse"
   },
   {
-    "kanji": "晴れる",
-    "furigana": "hareruはれる",
-    "translation": "to be sunny",
-    "check": false
+    "main": "晴れる",
+    "kana": "はれる",
+    "romaji": "hareru",
+    "meaning": "to be sunny"
   },
   {
-    "kanji": "貼る",
-    "furigana": "haruはる",
-    "translation": "to stick; to paste",
-    "check": false
+    "main": "貼る",
+    "kana": "はる",
+    "romaji": "haru",
+    "meaning": "to stick; to paste"
   },
   {
-    "kanji": "走る",
-    "furigana": "hashiruはしる",
-    "translation": "to run",
-    "check": false
+    "main": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "to run"
   },
   {
-    "kanji": "働く",
-    "furigana": "hatarakuはたらく",
-    "translation": "to work",
-    "check": false
+    "main": "働く",
+    "kana": "はたらく",
+    "romaji": "hataraku",
+    "meaning": "to work"
   },
   {
-    "kanji": "引く",
-    "furigana": "hikuひく",
-    "translation": "to pull",
-    "check": false
+    "main": "引く",
+    "kana": "ひく",
+    "romaji": "hiku",
+    "meaning": "to pull"
   },
   {
-    "kanji": "弾く",
-    "furigana": "hikuひく",
-    "translation": "to play",
-    "check": false
+    "main": "弾く",
+    "kana": "ひく",
+    "romaji": "hiku",
+    "meaning": "to play"
   },
   {
-    "kanji": "行く",
-    "furigana": "ikuいく",
-    "translation": "to go; to move",
-    "check": false
+    "main": "行く",
+    "kana": "いく",
+    "romaji": "iku",
+    "meaning": "to go; to move"
   },
   {
-    "kanji": "入れる",
-    "furigana": "ireruいれる",
-    "translation": "to put in; to let in; to take in; to bring in; to insert; to install",
-    "check": false
+    "main": "入れる",
+    "kana": "いれる",
+    "romaji": "ireru",
+    "meaning": "to put in; to let in; to take in; to bring in; to insert; to install"
   },
   {
-    "kanji": "要る",
-    "furigana": "iruいる",
-    "translation": "to be needed",
-    "check": false
+    "main": "要る",
+    "kana": "いる",
+    "romaji": "iru",
+    "meaning": "to be needed"
   },
   {
-    "kanji": "居る",
-    "furigana": "iruいる",
-    "translation": "to be, to have",
-    "check": false
+    "main": "居る",
+    "kana": "いる",
+    "romaji": "iru",
+    "meaning": "to be, to have"
   },
   {
-    "kanji": "言う",
-    "furigana": "iuいう",
-    "translation": "to say; to call",
-    "check": false
+    "main": "言う",
+    "kana": "いう",
+    "romaji": "iu",
+    "meaning": "to say; to call"
   },
   {
-    "kanji": "授業",
-    "furigana": "jugyouじゅぎょう",
-    "translation": "lesson; class work",
-    "check": false
+    "main": "授業",
+    "kana": "じゅぎょう",
+    "romaji": "jugyou",
+    "meaning": "lesson; class work"
   },
   {
-    "kanji": "帰る",
-    "furigana": "kaeruかえる",
-    "translation": "to go back​",
-    "check": false
+    "main": "帰る",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "to go back​"
   },
   {
-    "kanji": "返す",
-    "furigana": "kaesuかえす",
-    "translation": "to return something",
-    "check": false
+    "main": "返す",
+    "kana": "かえす",
+    "romaji": "kaesu",
+    "meaning": "to return something"
   },
   {
-    "kanji": "掛かる",
-    "furigana": "kakaruかかる",
-    "translation": "to take (a resource, e.g. time or money)",
-    "check": false
+    "main": "掛かる",
+    "kana": "かかる",
+    "romaji": "kakaru",
+    "meaning": "to take (a resource, e.g. time or money)"
   },
   {
-    "kanji": "掛ける",
-    "furigana": "kakeruかける",
-    "translation": "to hang up; to make (a call)​;",
-    "check": false
+    "main": "掛ける",
+    "kana": "かける",
+    "romaji": "kakeru",
+    "meaning": "to hang up; to make (a call)​;"
   },
   {
-    "kanji": "書く",
-    "furigana": "kakuかく",
-    "translation": "to write; to compose; to pen; to draw",
-    "check": false
+    "main": "書く",
+    "kana": "かく",
+    "romaji": "kaku",
+    "meaning": "to write; to compose; to pen; to draw"
   },
   {
-    "kanji": "借りる",
-    "furigana": "kariruかりる",
-    "translation": "to borrow",
-    "check": false
+    "main": "借りる",
+    "kana": "かりる",
+    "romaji": "kariru",
+    "meaning": "to borrow"
   },
   {
-    "kanji": "貸す",
-    "furigana": "kasuかす",
-    "translation": "to lend; to loan",
-    "check": false
+    "main": "貸す",
+    "kana": "かす",
+    "romaji": "kasu",
+    "meaning": "to lend; to loan"
   },
   {
-    "kanji": "買う",
-    "furigana": "kauかう",
-    "translation": "to buy; to purchase",
-    "check": false
+    "main": "買う",
+    "kana": "かう",
+    "romaji": "kau",
+    "meaning": "to buy; to purchase"
   },
   {
-    "kanji": "結婚",
-    "furigana": "kekkonけっこん",
-    "translation": "marriage",
-    "check": false
+    "main": "結婚",
+    "kana": "けっこん",
+    "romaji": "kekkon",
+    "meaning": "marriage"
   },
   {
-    "kanji": "消す",
-    "furigana": "kesuけす",
-    "translation": "to erase, to turn off power",
-    "check": false
+    "main": "消す",
+    "kana": "けす",
+    "romaji": "kesu",
+    "meaning": "to erase, to turn off power"
   },
   {
-    "kanji": "消える",
-    "furigana": "kieruきえる",
-    "translation": "to disappear",
-    "check": false
+    "main": "消える",
+    "kana": "きえる",
+    "romaji": "kieru",
+    "meaning": "to disappear"
   },
   {
-    "kanji": "聞く",
-    "furigana": "kikuきく",
-    "translation": "to hear; to listen (to music); to ask; to learn of",
-    "check": false
+    "main": "聞く",
+    "kana": "きく",
+    "romaji": "kiku",
+    "meaning": "to hear; to listen (to music); to ask; to learn of"
   },
   {
-    "kanji": "切る",
-    "furigana": "kiruきる",
-    "translation": "to cut",
-    "check": false
+    "main": "切る",
+    "kana": "きる",
+    "romaji": "kiru",
+    "meaning": "to cut"
   },
   {
-    "kanji": "着る",
-    "furigana": "kiruきる",
-    "translation": "to wear",
-    "check": false
+    "main": "着る",
+    "kana": "きる",
+    "romaji": "kiru",
+    "meaning": "to wear"
   },
   {
-    "kanji": "困る",
-    "furigana": "komaruこまる",
-    "translation": "to be troubled",
-    "check": false
+    "main": "困る",
+    "kana": "こまる",
+    "romaji": "komaru",
+    "meaning": "to be troubled"
   },
   {
-    "kanji": "コピー",
-    "furigana": "kopii",
-    "translation": "copy; photocopy",
-    "check": false
+    "main": "コピー",
+    "kana": "コピ",
+    "romaji": "kopii",
+    "meaning": "copy; photocopy"
   },
   {
-    "kanji": "答える",
-    "furigana": "kotaeruこたえる",
-    "translation": "to answer",
-    "check": false
+    "main": "答える",
+    "kana": "こたえる",
+    "romaji": "kotaeru",
+    "meaning": "to answer"
   },
   {
-    "kanji": "曇る",
-    "furigana": "kumoruくもる",
-    "translation": "to become cloudy, to become dim",
-    "check": false
+    "main": "曇る",
+    "kana": "くもる",
+    "romaji": "kumoru",
+    "meaning": "to become cloudy, to become dim"
   },
   {
-    "kanji": "来る",
-    "furigana": "kuruくる",
-    "translation": "to come",
-    "check": false
+    "main": "来る",
+    "kana": "くる",
+    "romaji": "kuru",
+    "meaning": "to come"
   },
   {
-    "kanji": "曲がる",
-    "furigana": "magaruまがる",
-    "translation": "to turn, to bend",
-    "check": false
+    "main": "曲がる",
+    "kana": "まがる",
+    "romaji": "magaru",
+    "meaning": "to turn, to bend"
   },
   {
-    "kanji": "待つ",
-    "furigana": "matsuまつ",
-    "translation": "to wait​",
-    "check": false
+    "main": "待つ",
+    "kana": "まつ",
+    "romaji": "matsu",
+    "meaning": "to wait​"
   },
   {
-    "kanji": "磨く",
-    "furigana": "migakuみがく",
-    "translation": "to polish; to shine; to brush (e.g. teeth)",
-    "check": false
+    "main": "磨く",
+    "kana": "みがく",
+    "romaji": "migaku",
+    "meaning": "to polish; to shine; to brush (e.g. teeth)"
   },
   {
-    "kanji": "見る",
-    "furigana": "miruみる",
-    "translation": "to see; to look; to watch; to view; to observe",
-    "check": false
+    "main": "見る",
+    "kana": "みる",
+    "romaji": "miru",
+    "meaning": "to see; to look; to watch; to view; to observe"
   },
   {
-    "kanji": "見せる",
-    "furigana": "miseruみせる",
-    "translation": "to show; to display",
-    "check": false
+    "main": "見せる",
+    "kana": "みせる",
+    "romaji": "miseru",
+    "meaning": "to show; to display"
   },
   {
-    "kanji": "持つ",
-    "furigana": "motsuもつ",
-    "translation": "to hold",
-    "check": false
+    "main": "持つ",
+    "kana": "もつ",
+    "romaji": "motsu",
+    "meaning": "to hold"
   },
   {
-    "kanji": "鳴く",
-    "furigana": "nakuなく",
-    "translation": "animal noise. to chirp",
-    "check": false
+    "main": "鳴く",
+    "kana": "なく",
+    "romaji": "naku",
+    "meaning": "animal noise. to chirp"
   },
   {
-    "kanji": "無くす",
-    "furigana": "nakusuなくす",
-    "translation": "to lose (something)",
-    "check": false
+    "main": "無くす",
+    "kana": "なくす",
+    "romaji": "nakusu",
+    "meaning": "to lose (something)"
   },
   {
-    "kanji": "並べる",
-    "furigana": "naraberuならべる",
-    "translation": "to line up,to set up",
-    "check": false
+    "main": "並べる",
+    "kana": "ならべる",
+    "romaji": "naraberu",
+    "meaning": "to line up,to set up"
   },
   {
-    "kanji": "並ぶ",
-    "furigana": "narabuならぶ",
-    "translation": "to line up,to stand in a line",
-    "check": false
+    "main": "並ぶ",
+    "kana": "ならぶ",
+    "romaji": "narabu",
+    "meaning": "to line up,to stand in a line"
   },
   {
-    "kanji": "習う",
-    "furigana": "narauならう",
-    "translation": "to be taught; to learn (from a teacher)",
-    "check": false
+    "main": "習う",
+    "kana": "ならう",
+    "romaji": "narau",
+    "meaning": "to be taught; to learn (from a teacher)"
   },
   {
-    "kanji": "寝る",
-    "furigana": "neruねる",
-    "translation": "to sleep; to go to bed; to lie down",
-    "check": false
+    "main": "寝る",
+    "kana": "ねる",
+    "romaji": "neru",
+    "meaning": "to sleep; to go to bed; to lie down"
   },
   {
-    "kanji": "登る",
-    "furigana": "noboruのぼる",
-    "translation": "to climb",
-    "check": false
+    "main": "登る",
+    "kana": "のぼる",
+    "romaji": "noboru",
+    "meaning": "to climb"
   },
   {
-    "kanji": "飲む",
-    "furigana": "nomuのむ",
-    "translation": "to drink",
-    "check": false
+    "main": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "meaning": "to drink"
   },
   {
-    "kanji": "乗る",
-    "furigana": "noruのる",
-    "translation": "to get on (train, plane, bus, ship, etc.)",
-    "check": false
+    "main": "乗る",
+    "kana": "のる",
+    "romaji": "noru",
+    "meaning": "to get on (train, plane, bus, ship, etc.)"
   },
   {
-    "kanji": "脱ぐ",
-    "furigana": "nuguぬぐ",
-    "translation": "to take off clothes",
-    "check": false
+    "main": "脱ぐ",
+    "kana": "ぬぐ",
+    "romaji": "nugu",
+    "meaning": "to take off clothes"
   },
   {
-    "kanji": "覚える",
-    "furigana": "oboeruおぼえる",
-    "translation": "to remember",
-    "check": false
+    "main": "覚える",
+    "kana": "おぼえる",
+    "romaji": "oboeru",
+    "meaning": "to remember"
   },
   {
-    "kanji": "起きる",
-    "furigana": "okiruおきる",
-    "translation": "to get up; to wake up",
-    "check": false
+    "main": "起きる",
+    "kana": "おきる",
+    "romaji": "okiru",
+    "meaning": "to get up; to wake up"
   },
   {
-    "kanji": "置く",
-    "furigana": "okuおく",
-    "translation": "to put; to place​",
-    "check": false
+    "main": "置く",
+    "kana": "おく",
+    "romaji": "oku",
+    "meaning": "to put; to place​"
   },
   {
-    "kanji": "降りる",
-    "furigana": "oriruおりる",
-    "translation": "to get off",
-    "check": false
+    "main": "降りる",
+    "kana": "おりる",
+    "romaji": "oriru",
+    "meaning": "to get off"
   },
   {
-    "kanji": "教える",
-    "furigana": "oshieruおしえる",
-    "translation": "to teach",
-    "check": false
+    "main": "教える",
+    "kana": "おしえる",
+    "romaji": "oshieru",
+    "meaning": "to teach"
   },
   {
-    "kanji": "押す",
-    "furigana": "osuおす",
-    "translation": "to push; to press​",
-    "check": false
+    "main": "押す",
+    "kana": "おす",
+    "romaji": "osu",
+    "meaning": "to push; to press​"
   },
   {
-    "kanji": "終わる",
-    "furigana": "owaruおわる",
-    "translation": "to finish; to end",
-    "check": false
+    "main": "終わる",
+    "kana": "おわる",
+    "romaji": "owaru",
+    "meaning": "to finish; to end"
   },
   {
-    "kanji": "泳ぐ",
-    "furigana": "oyoguおよぐ",
-    "translation": "to swim",
-    "check": false
+    "main": "泳ぐ",
+    "kana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "to swim"
   },
   {
-    "kanji": "練習",
-    "furigana": "renshuuれんしゅう",
-    "translation": "practice; practicing",
-    "check": false
+    "main": "練習",
+    "kana": "れんしゅう",
+    "romaji": "renshuu",
+    "meaning": "practice; practicing"
   },
   {
-    "kanji": "旅行",
-    "furigana": "ryokouりょこう",
-    "translation": "travel; trip; journey; excursion; tour",
-    "check": false
+    "main": "旅行",
+    "kana": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "travel; trip; journey; excursion; tour"
   },
   {
-    "kanji": "料理",
-    "furigana": "ryouriりょうり",
-    "translation": "cuisine",
-    "check": false
+    "main": "料理",
+    "kana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "cuisine"
   },
   {
-    "kanji": "咲く",
-    "furigana": "sakuさく",
-    "translation": "to bloom",
-    "check": false
+    "main": "咲く",
+    "kana": "さく",
+    "romaji": "saku",
+    "meaning": "to bloom"
   },
   {
-    "kanji": "散歩",
-    "furigana": "sanpoさんぽ",
-    "translation": "walk; stroll",
-    "check": false
+    "main": "散歩",
+    "kana": "さんぽ",
+    "romaji": "sanpo",
+    "meaning": "walk; stroll"
   },
   {
-    "kanji": "差す",
-    "furigana": "sasuさす",
-    "translation": "to stretch out hands, to raise an umbrella",
-    "check": false
+    "main": "差す",
+    "kana": "さす",
+    "romaji": "sasu",
+    "meaning": "to stretch out hands, to raise an umbrella"
   },
   {
-    "kanji": "洗濯",
-    "furigana": "sentakuせんたく",
-    "translation": "washing; laundry",
-    "check": false
+    "main": "洗濯",
+    "kana": "せんたく",
+    "romaji": "sentaku",
+    "meaning": "washing; laundry"
   },
   {
-    "kanji": "仕事",
-    "furigana": "shigotoしごと",
-    "translation": "work; job; business",
-    "check": false
+    "main": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "work; job; business"
   },
   {
-    "kanji": "閉まる",
-    "furigana": "shimaruしまる",
-    "translation": "to close, to be closed",
-    "check": false
+    "main": "閉まる",
+    "kana": "しまる",
+    "romaji": "shimaru",
+    "meaning": "to close, to be closed"
   },
   {
-    "kanji": "閉める",
-    "furigana": "shimeruしめる",
-    "translation": "to close; to shut",
-    "check": false
+    "main": "閉める",
+    "kana": "しめる",
+    "romaji": "shimeru",
+    "meaning": "to close; to shut"
   },
   {
-    "kanji": "締める",
-    "furigana": "shimeruしめる",
-    "translation": "to tie; to fasten; to tighten​",
-    "check": false
+    "main": "締める",
+    "kana": "しめる",
+    "romaji": "shimeru",
+    "meaning": "to tie; to fasten; to tighten​"
   },
   {
-    "kanji": "死ぬ",
-    "furigana": "shinuしぬ",
-    "translation": "to die",
-    "check": false
+    "main": "死ぬ",
+    "kana": "しぬ",
+    "romaji": "shinu",
+    "meaning": "to die"
   },
   {
-    "kanji": "知る",
-    "furigana": "shiruしる",
-    "translation": "to know",
-    "check": false
+    "main": "知る",
+    "kana": "しる",
+    "romaji": "shiru",
+    "meaning": "to know"
   },
   {
-    "kanji": "質問",
-    "furigana": "shitsumonしつもん",
-    "translation": "question; inquiry",
-    "check": false
+    "main": "質問",
+    "kana": "しつもん",
+    "romaji": "shitsumon",
+    "meaning": "question; inquiry"
   },
   {
-    "kanji": "掃除",
-    "furigana": "soujiそうじ",
-    "translation": "to clean, to sweep",
-    "check": false
+    "main": "掃除",
+    "kana": "そうじ",
+    "romaji": "souji",
+    "meaning": "to clean, to sweep"
   },
   {
-    "kanji": "住む",
-    "furigana": "sumuすむ",
-    "translation": "to live in; to reside; to inhabit; to dwell; to abide",
-    "check": false
+    "main": "住む",
+    "kana": "すむ",
+    "romaji": "sumu",
+    "meaning": "to live in; to reside; to inhabit; to dwell; to abide"
   },
   {
-    "kanji": "吸う",
-    "furigana": "suuすう",
-    "translation": "to smoke, to suck",
-    "check": false
+    "main": "吸う",
+    "kana": "すう",
+    "romaji": "suu",
+    "meaning": "to smoke, to suck"
   },
   {
-    "kanji": "座る",
-    "furigana": "suwaruすわる",
-    "translation": "to sit",
-    "check": false
+    "main": "座る",
+    "kana": "すわる",
+    "romaji": "suwaru",
+    "meaning": "to sit"
   },
   {
-    "kanji": "食べる",
-    "furigana": "taberuたべる",
-    "translation": "to eat",
-    "check": false
+    "main": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "meaning": "to eat"
   },
   {
-    "kanji": "頼む",
-    "furigana": "tanomuたのむ",
-    "translation": "to ask",
-    "check": false
+    "main": "頼む",
+    "kana": "たのむ",
+    "romaji": "tanomu",
+    "meaning": "to ask"
   },
   {
-    "kanji": "立つ",
-    "furigana": "tatsuたつ",
-    "translation": "to stand; to stand up​",
-    "check": false
+    "main": "立つ",
+    "kana": "たつ",
+    "romaji": "tatsu",
+    "meaning": "to stand; to stand up​"
   },
   {
-    "kanji": "テスト",
-    "furigana": "tesuto",
-    "translation": "examination; quiz; test",
-    "check": false
+    "main": "テスト",
+    "kana": "テスト",
+    "romaji": "tesuto",
+    "meaning": "examination; quiz; test"
   },
   {
-    "kanji": "飛ぶ",
-    "furigana": "tobuとぶ",
-    "translation": "to fly; to hop",
-    "check": false
+    "main": "飛ぶ",
+    "kana": "とぶ",
+    "romaji": "tobu",
+    "meaning": "to fly; to hop"
   },
   {
-    "kanji": "止まる",
-    "furigana": "tomaruとまる",
-    "translation": "to stop; to come to a halt",
-    "check": false
+    "main": "止まる",
+    "kana": "とまる",
+    "romaji": "tomaru",
+    "meaning": "to stop; to come to a halt"
   }
 ]

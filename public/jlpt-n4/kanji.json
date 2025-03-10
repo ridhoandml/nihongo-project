@@ -1,837 +1,789 @@
 [
   {
-    "kanji": "会",
-    "furigana": "On: カイ;\n Kun: あ(う);",
-    "check": false
+    "main": "会",
+    "onyomi": "カイ",
+    "kunyomi": "あ(う)"
   },
   {
-    "kanji": "同",
-    "furigana": "On: ドウ;\n Kun: おな(じ);",
-    "check": false
+    "main": "同",
+    "onyomi": "ドウ",
+    "kunyomi": "おな(じ)"
   },
   {
-    "kanji": "事",
-    "furigana": "On: ジ;\n Kun: こと;",
-    "check": false
+    "main": "事",
+    "onyomi": "ジ",
+    "kunyomi": "こと"
   },
   {
-    "kanji": "自",
-    "furigana": "On: ジ、シ;\n Kun: みずか(ら);",
-    "check": false
+    "main": "自",
+    "onyomi": "ジ、シ",
+    "kunyomi": "みずか(ら)"
   },
   {
-    "kanji": "社",
-    "furigana": "On: シャ;\n Kun: やしろ;",
-    "check": false
+    "main": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ"
   },
   {
-    "kanji": "発",
-    "furigana": "On: ハツ、ホツ;\n Kun: undefined;",
-    "check": false
+    "main": "発",
+    "onyomi": "ハツ、ホツ"
   },
   {
-    "kanji": "者",
-    "furigana": "On: シャ;\n Kun: もの;",
-    "check": false
+    "main": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの"
   },
   {
-    "kanji": "地",
-    "furigana": "On: チ、ジ;\n Kun: undefined;",
-    "check": false
+    "main": "地",
+    "onyomi": "チ、ジ"
   },
   {
-    "kanji": "業",
-    "furigana": "On: ギョウ;\n Kun: わざ;",
-    "check": false
+    "main": "業",
+    "onyomi": "ギョウ",
+    "kunyomi": "わざ"
   },
   {
-    "kanji": "方",
-    "furigana": "On: ホウ;\n Kun: かた;",
-    "check": false
+    "main": "方",
+    "onyomi": "ホウ",
+    "kunyomi": "かた"
   },
   {
-    "kanji": "新",
-    "furigana": "On: シン;\n Kun: あたら(しい)、あら(た);",
-    "check": false
+    "main": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい)、あら(た)"
   },
   {
-    "kanji": "場",
-    "furigana": "On: ジョウ;\n Kun: ば;",
-    "check": false
+    "main": "場",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば"
   },
   {
-    "kanji": "員",
-    "furigana": "On: イン;\n Kun: undefined;",
-    "check": false
+    "main": "員",
+    "onyomi": "イン"
   },
   {
-    "kanji": "立",
-    "furigana": "On: リツ;\n Kun: た(つ);",
-    "check": false
+    "main": "立",
+    "onyomi": "リツ",
+    "kunyomi": "た(つ)"
   },
   {
-    "kanji": "開",
-    "furigana": "On: カイ;\n Kun: ひら(く)、あ(ける);",
-    "check": false
+    "main": "開",
+    "onyomi": "カイ",
+    "kunyomi": "ひら(く)、あ(ける)"
   },
   {
-    "kanji": "手",
-    "furigana": "On: シュ;\n Kun: て;",
-    "check": false
+    "main": "手",
+    "onyomi": "シュ",
+    "kunyomi": "て"
   },
   {
-    "kanji": "力",
-    "furigana": "On: リョク、リキ;\n Kun: ちから;",
-    "check": false
+    "main": "力",
+    "onyomi": "リョク、リキ",
+    "kunyomi": "ちから"
   },
   {
-    "kanji": "問",
-    "furigana": "On: モン;\n Kun: と(う);",
-    "check": false
+    "main": "問",
+    "onyomi": "モン",
+    "kunyomi": "と(う)"
   },
   {
-    "kanji": "代",
-    "furigana": "On: ダイ;\n Kun: か(わり);",
-    "check": false
+    "main": "代",
+    "onyomi": "ダイ",
+    "kunyomi": "か(わり)"
   },
   {
-    "kanji": "明",
-    "furigana": "On: メイ、ミョウ;\n Kun: あか(るい);",
-    "check": false
+    "main": "明",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "あか(るい)"
   },
   {
-    "kanji": "動",
-    "furigana": "On: ドウ;\n Kun: undefined;",
-    "check": false
+    "main": "動",
+    "onyomi": "ドウ"
   },
   {
-    "kanji": "京",
-    "furigana": "On: キョウ、ケイ、キン;\n Kun: みやこ;",
-    "check": false
+    "main": "京",
+    "onyomi": "キョウ、ケイ、キン",
+    "kunyomi": "みやこ"
   },
   {
-    "kanji": "目",
-    "furigana": "On: モク、ボク;\n Kun: め;",
-    "check": false
+    "main": "目",
+    "onyomi": "モク、ボク",
+    "kunyomi": "め"
   },
   {
-    "kanji": "通",
-    "furigana": "On: ツウ;\n Kun: とお(る)、かよ(う);",
-    "check": false
+    "main": "通",
+    "onyomi": "ツウ",
+    "kunyomi": "とお(る)、かよ(う)"
   },
   {
-    "kanji": "言",
-    "furigana": "On: ゲン、ゴン;\n Kun: い（う）、こと;",
-    "check": false
+    "main": "言",
+    "onyomi": "ゲン、ゴン",
+    "kunyomi": "い（う）、こと"
   },
   {
-    "kanji": "理",
-    "furigana": "On: リ;\n Kun: undefined;",
-    "check": false
+    "main": "理",
+    "onyomi": "リ"
   },
   {
-    "kanji": "体",
-    "furigana": "On: タイ;\n Kun: からだ;",
-    "check": false
+    "main": "体",
+    "onyomi": "タイ",
+    "kunyomi": "からだ"
   },
   {
-    "kanji": "田",
-    "furigana": "On: デン;\n Kun: た;",
-    "check": false
+    "main": "田",
+    "onyomi": "デン",
+    "kunyomi": "た"
   },
   {
-    "kanji": "主",
-    "furigana": "On: シュ;\n Kun: ぬし、おも;",
-    "check": false
+    "main": "主",
+    "onyomi": "シュ",
+    "kunyomi": "ぬし、おも"
   },
   {
-    "kanji": "題",
-    "furigana": "On: ダイ;\n Kun: undefined;",
-    "check": false
+    "main": "題",
+    "onyomi": "ダイ"
   },
   {
-    "kanji": "意",
-    "furigana": "On: イ;\n Kun: undefined;",
-    "check": false
+    "main": "意",
+    "onyomi": "イ"
   },
   {
-    "kanji": "不",
-    "furigana": "On: フ、ブ;\n Kun: undefined;",
-    "check": false
+    "main": "不",
+    "onyomi": "フ、ブ"
   },
   {
-    "kanji": "作",
-    "furigana": "On: サク、サ;\n Kun: つく(る);",
-    "check": false
+    "main": "作",
+    "onyomi": "サク、サ",
+    "kunyomi": "つく(る)"
   },
   {
-    "kanji": "用",
-    "furigana": "On: ヨウ;\n Kun: もち(いる);",
-    "check": false
+    "main": "用",
+    "onyomi": "ヨウ",
+    "kunyomi": "もち(いる)"
   },
   {
-    "kanji": "度",
-    "furigana": "On: ド、タク;\n Kun: たび、た(い);",
-    "check": false
+    "main": "度",
+    "onyomi": "ド、タク",
+    "kunyomi": "たび、た(い)"
   },
   {
-    "kanji": "強",
-    "furigana": "On: キョウ、ゴウ;\n Kun: つよ(い);",
-    "check": false
+    "main": "強",
+    "onyomi": "キョウ、ゴウ",
+    "kunyomi": "つよ(い)"
   },
   {
-    "kanji": "公",
-    "furigana": "On: コウ;\n Kun: undefined;",
-    "check": false
+    "main": "公",
+    "onyomi": "コウ"
   },
   {
-    "kanji": "持",
-    "furigana": "On: ジ;\n Kun: undefined;",
-    "check": false
+    "main": "持",
+    "onyomi": "ジ"
   },
   {
-    "kanji": "野",
-    "furigana": "On: ヤ;\n Kun: の;",
-    "check": false
+    "main": "野",
+    "onyomi": "ヤ",
+    "kunyomi": "の"
   },
   {
-    "kanji": "以",
-    "furigana": "On: イ;\n Kun: もっ(て);",
-    "check": false
+    "main": "以",
+    "onyomi": "イ",
+    "kunyomi": "もっ(て)"
   },
   {
-    "kanji": "思",
-    "furigana": "On: シ;\n Kun: undefined;",
-    "check": false
+    "main": "思",
+    "onyomi": "シ"
   },
   {
-    "kanji": "家",
-    "furigana": "On: カ;\n Kun: いえ、や、うち;",
-    "check": false
+    "main": "家",
+    "onyomi": "カ",
+    "kunyomi": "いえ、や、うち"
   },
   {
-    "kanji": "世",
-    "furigana": "On: セイ、セ;\n Kun: よ;",
-    "check": false
+    "main": "世",
+    "onyomi": "セイ、セ",
+    "kunyomi": "よ"
   },
   {
-    "kanji": "多",
-    "furigana": "On: タ;\n Kun: おお(い);",
-    "check": false
+    "main": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)"
   },
   {
-    "kanji": "正",
-    "furigana": "On: セイ、ショウ;\n Kun: ただ(しい)、まさ(に);",
-    "check": false
+    "main": "正",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "ただ(しい)、まさ(に)"
   },
   {
-    "kanji": "安",
-    "furigana": "On: アン;\n Kun: やす(い);",
-    "check": false
+    "main": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす(い)"
   },
   {
-    "kanji": "院",
-    "furigana": "On: イン;\n Kun: undefined;",
-    "check": false
+    "main": "院",
+    "onyomi": "イン"
   },
   {
-    "kanji": "心",
-    "furigana": "On: シン;\n Kun: こころ;",
-    "check": false
+    "main": "心",
+    "onyomi": "シン",
+    "kunyomi": "こころ"
   },
   {
-    "kanji": "界",
-    "furigana": "On: カイ;\n Kun: undefined;",
-    "check": false
+    "main": "界",
+    "onyomi": "カイ"
   },
   {
-    "kanji": "教",
-    "furigana": "On: キョウ;\n Kun: おし(える)、おそ(わる);",
-    "check": false
+    "main": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おし(える)、おそ(わる)"
   },
   {
-    "kanji": "文",
-    "furigana": "On: ブン、モン;\n Kun: ふみ;",
-    "check": false
+    "main": "文",
+    "onyomi": "ブン、モン",
+    "kunyomi": "ふみ"
   },
   {
-    "kanji": "元",
-    "furigana": "On: ゲン、ガン;\n Kun: もと;",
-    "check": false
+    "main": "元",
+    "onyomi": "ゲン、ガン",
+    "kunyomi": "もと"
   },
   {
-    "kanji": "重",
-    "furigana": "On: ジュウ、チョウ;\n Kun: おも(い)、かさ(ねる);",
-    "check": false
+    "main": "重",
+    "onyomi": "ジュウ、チョウ",
+    "kunyomi": "おも(い)、かさ(ねる)"
   },
   {
-    "kanji": "近",
-    "furigana": "On: キン;\n Kun: ちか(い);",
-    "check": false
+    "main": "近",
+    "onyomi": "キン",
+    "kunyomi": "ちか(い)"
   },
   {
-    "kanji": "考",
-    "furigana": "On: コウ;\n Kun: かんが(える);",
-    "check": false
+    "main": "考",
+    "onyomi": "コウ",
+    "kunyomi": "かんが(える)"
   },
   {
-    "kanji": "画",
-    "furigana": "On: ガ、カク;\n Kun: かく(する);",
-    "check": false
+    "main": "画",
+    "onyomi": "ガ、カク",
+    "kunyomi": "かく(する)"
   },
   {
-    "kanji": "海",
-    "furigana": "On: カイ;\n Kun: うみ;",
-    "check": false
+    "main": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ"
   },
   {
-    "kanji": "売",
-    "furigana": "On: バイ;\n Kun: undefined;",
-    "check": false
+    "main": "売",
+    "onyomi": "バイ"
   },
   {
-    "kanji": "知",
-    "furigana": "On: チ;\n Kun: undefined;",
-    "check": false
+    "main": "知",
+    "onyomi": "チ"
   },
   {
-    "kanji": "道",
-    "furigana": "On: ドウ;\n Kun: みち;",
-    "check": false
+    "main": "道",
+    "onyomi": "ドウ",
+    "kunyomi": "みち"
   },
   {
-    "kanji": "集",
-    "furigana": "On: シュウ;\n Kun: あつ(める);",
-    "check": false
+    "main": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ(める)"
   },
   {
-    "kanji": "別",
-    "furigana": "On: ベツ;\n Kun: わか(れる)、わ(ける);",
-    "check": false
+    "main": "別",
+    "onyomi": "ベツ",
+    "kunyomi": "わか(れる)、わ(ける)"
   },
   {
-    "kanji": "物",
-    "furigana": "On: ブツ、モツ;\n Kun: もの;",
-    "check": false
+    "main": "物",
+    "onyomi": "ブツ、モツ",
+    "kunyomi": "もの"
   },
   {
-    "kanji": "使",
-    "furigana": "On: シ;\n Kun: つか(う);",
-    "check": false
+    "main": "使",
+    "onyomi": "シ",
+    "kunyomi": "つか(う)"
   },
   {
-    "kanji": "品",
-    "furigana": "On: ヒン;\n Kun: しな;",
-    "check": false
+    "main": "品",
+    "onyomi": "ヒン",
+    "kunyomi": "しな"
   },
   {
-    "kanji": "計",
-    "furigana": "On: ケイ;\n Kun: はか(る);",
-    "check": false
+    "main": "計",
+    "onyomi": "ケイ",
+    "kunyomi": "はか(る)"
   },
   {
-    "kanji": "死",
-    "furigana": "On: シ;\n Kun: undefined;",
-    "check": false
+    "main": "死",
+    "onyomi": "シ"
   },
   {
-    "kanji": "特",
-    "furigana": "On: トク;\n Kun: undefined;",
-    "check": false
+    "main": "特",
+    "onyomi": "トク"
   },
   {
-    "kanji": "私",
-    "furigana": "On: シ;\n Kun: わたくし、わたし;",
-    "check": false
+    "main": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたくし、わたし"
   },
   {
-    "kanji": "始",
-    "furigana": "On: シ;\n Kun: はじ(める);",
-    "check": false
+    "main": "始",
+    "onyomi": "シ",
+    "kunyomi": "はじ(める)"
   },
   {
-    "kanji": "朝",
-    "furigana": "On: チョウ;\n Kun: あさ;",
-    "check": false
+    "main": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ"
   },
   {
-    "kanji": "運",
-    "furigana": "On: ウン;\n Kun: はこ(ぶ);",
-    "check": false
+    "main": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこ(ぶ)"
   },
   {
-    "kanji": "終",
-    "furigana": "On: シュウ;\n Kun: お(わる);",
-    "check": false
+    "main": "終",
+    "onyomi": "シュウ",
+    "kunyomi": "お(わる)"
   },
   {
-    "kanji": "台",
-    "furigana": "On: ダイ、タイ;\n Kun: うてな;",
-    "check": false
+    "main": "台",
+    "onyomi": "ダイ、タイ",
+    "kunyomi": "うてな"
   },
   {
-    "kanji": "広",
-    "furigana": "On: コウ;\n Kun: ひろ(い);",
-    "check": false
+    "main": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろ(い)"
   },
   {
-    "kanji": "住",
-    "furigana": "On: ジュウ、チュウ;\n Kun: undefined;",
-    "check": false
+    "main": "住",
+    "onyomi": "ジュウ、チュウ"
   },
   {
-    "kanji": "無",
-    "furigana": "On: ム、ブ;\n Kun: な(い);",
-    "check": false
+    "main": "無",
+    "onyomi": "ム、ブ",
+    "kunyomi": "な(い)"
   },
   {
-    "kanji": "真",
-    "furigana": "On: シン;\n Kun: ま、まこと;",
-    "check": false
+    "main": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま、まこと"
   },
   {
-    "kanji": "有",
-    "furigana": "On: ユウ、ウ;\n Kun: あ(る);",
-    "check": false
+    "main": "有",
+    "onyomi": "ユウ、ウ",
+    "kunyomi": "あ(る)"
   },
   {
-    "kanji": "口",
-    "furigana": "On: コウ;\n Kun: くち;",
-    "check": false
+    "main": "口",
+    "onyomi": "コウ",
+    "kunyomi": "くち"
   },
   {
-    "kanji": "少",
-    "furigana": "On: ショウ;\n Kun: すく(ない)、すこ(し);",
-    "check": false
+    "main": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく(ない)、すこ(し)"
   },
   {
-    "kanji": "町",
-    "furigana": "On: チョウ;\n Kun: まち;",
-    "check": false
+    "main": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち"
   },
   {
-    "kanji": "料",
-    "furigana": "On: リョウ;\n Kun: undefined;",
-    "check": false
+    "main": "料",
+    "onyomi": "リョウ"
   },
   {
-    "kanji": "工",
-    "furigana": "On: コウ、ク、グ;\n Kun: undefined;",
-    "check": false
+    "main": "工",
+    "onyomi": "コウ、ク、グ"
   },
   {
-    "kanji": "建",
-    "furigana": "On: ケン、コン;\n Kun: た(てる);",
-    "check": false
+    "main": "建",
+    "onyomi": "ケン、コン",
+    "kunyomi": "た(てる)"
   },
   {
-    "kanji": "空",
-    "furigana": "On: クウ;\n Kun: そら、から、あ(く)、す(く)、むな(しい);",
-    "check": false
+    "main": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら、から、あ(く)、す(く)、むな(しい)"
   },
   {
-    "kanji": "急",
-    "furigana": "On: キュウ;\n Kun: いそ(ぐ);",
-    "check": false
+    "main": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ(ぐ)"
   },
   {
-    "kanji": "止",
-    "furigana": "On: シ;\n Kun: と(まる)、とど(まる)、や(める)、よ(す);",
-    "check": false
+    "main": "止",
+    "onyomi": "シ",
+    "kunyomi": "と(まる)、とど(まる)、や(める)、よ(す)"
   },
   {
-    "kanji": "送",
-    "furigana": "On: ソウ;\n Kun: undefined;",
-    "check": false
+    "main": "送",
+    "onyomi": "ソウ"
   },
   {
-    "kanji": "切",
-    "furigana": "On: セツ、サイ;\n Kun: き(る);",
-    "check": false
+    "main": "切",
+    "onyomi": "セツ、サイ",
+    "kunyomi": "き(る)"
   },
   {
-    "kanji": "転",
-    "furigana": "On: テン;\n Kun: ころ(がる);",
-    "check": false
+    "main": "転",
+    "onyomi": "テン",
+    "kunyomi": "ころ(がる)"
   },
   {
-    "kanji": "研",
-    "furigana": "On: ケン;\n Kun: undefined;",
-    "check": false
+    "main": "研",
+    "onyomi": "ケン"
   },
   {
-    "kanji": "足",
-    "furigana": "On: ソク;\n Kun: あし、た(りる);",
-    "check": false
+    "main": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし、た(りる)"
   },
   {
-    "kanji": "究",
-    "furigana": "On: キュウ;\n Kun: undefined;",
-    "check": false
+    "main": "究",
+    "onyomi": "キュウ"
   },
   {
-    "kanji": "楽",
-    "furigana": "On: ガク、ラク;\n Kun: たの(しい);",
-    "check": false
+    "main": "楽",
+    "onyomi": "ガク、ラク",
+    "kunyomi": "たの(しい)"
   },
   {
-    "kanji": "起",
-    "furigana": "On: キ;\n Kun: お(きる)、おこ(す);",
-    "check": false
+    "main": "起",
+    "onyomi": "キ",
+    "kunyomi": "お(きる)、おこ(す)"
   },
   {
-    "kanji": "着",
-    "furigana": "On: チャク;\n Kun: き(る)、つ(く);",
-    "check": false
+    "main": "着",
+    "onyomi": "チャク",
+    "kunyomi": "き(る)、つ(く)"
   },
   {
-    "kanji": "店",
-    "furigana": "On: テン;\n Kun: みせ;",
-    "check": false
+    "main": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ"
   },
   {
-    "kanji": "病",
-    "furigana": "On: ビョウ;\n Kun: undefined;",
-    "check": false
+    "main": "病",
+    "onyomi": "ビョウ"
   },
   {
-    "kanji": "質",
-    "furigana": "On: シツ、シチ;\n Kun: たち、ただ(す);",
-    "check": false
+    "main": "質",
+    "onyomi": "シツ、シチ",
+    "kunyomi": "たち、ただ(す)"
   },
   {
-    "kanji": "待",
-    "furigana": "On: タイ;\n Kun: undefined;",
-    "check": false
+    "main": "待",
+    "onyomi": "タイ"
   },
   {
-    "kanji": "試",
-    "furigana": "On: シ;\n Kun: こころ(みる)、ため(す);",
-    "check": false
+    "main": "試",
+    "onyomi": "シ",
+    "kunyomi": "こころ(みる)、ため(す)"
   },
   {
-    "kanji": "族",
-    "furigana": "On: ゾク;\n Kun: undefined;",
-    "check": false
+    "main": "族",
+    "onyomi": "ゾク"
   },
   {
-    "kanji": "銀",
-    "furigana": "On: ギン;\n Kun: undefined;",
-    "check": false
+    "main": "銀",
+    "onyomi": "ギン"
   },
   {
-    "kanji": "早",
-    "furigana": "On: ソウ、サッ;\n Kun: はや(い);",
-    "check": false
+    "main": "早",
+    "onyomi": "ソウ、サッ",
+    "kunyomi": "はや(い)"
   },
   {
-    "kanji": "映",
-    "furigana": "On: エイ;\n Kun: うつ(る)、は(える);",
-    "check": false
+    "main": "映",
+    "onyomi": "エイ",
+    "kunyomi": "うつ(る)、は(える)"
   },
   {
-    "kanji": "親",
-    "furigana": "On: シン;\n Kun: おや、した(しい);",
-    "check": false
+    "main": "親",
+    "onyomi": "シン",
+    "kunyomi": "おや、した(しい)"
   },
   {
-    "kanji": "験",
-    "furigana": "On: ケン;\n Kun: undefined;",
-    "check": false
+    "main": "験",
+    "onyomi": "ケン"
   },
   {
-    "kanji": "英",
-    "furigana": "On: エイ;\n Kun: undefined;",
-    "check": false
+    "main": "英",
+    "onyomi": "エイ"
   },
   {
-    "kanji": "医",
-    "furigana": "On: イ;\n Kun: undefined;",
-    "check": false
+    "main": "医",
+    "onyomi": "イ"
   },
   {
-    "kanji": "仕",
-    "furigana": "On: シ;\n Kun: undefined;",
-    "check": false
+    "main": "仕",
+    "onyomi": "シ"
   },
   {
-    "kanji": "去",
-    "furigana": "On: キョ、コ;\n Kun: undefined;",
-    "check": false
+    "main": "去",
+    "onyomi": "キョ、コ"
   },
   {
-    "kanji": "味",
-    "furigana": "On: undefined;\n Kun: あじ;",
-    "check": false
+    "main": "味",
+    "kunyomi": "あじ"
   },
   {
-    "kanji": "写",
-    "furigana": "On: シャ;\n Kun: undefined;",
-    "check": false
+    "main": "写",
+    "onyomi": "シャ"
   },
   {
-    "kanji": "字",
-    "furigana": "On: ジ;\n Kun: undefined;",
-    "check": false
+    "main": "字",
+    "onyomi": "ジ"
   },
   {
-    "kanji": "答",
-    "furigana": "On: トウ;\n Kun: こた(える);",
-    "check": false
+    "main": "答",
+    "onyomi": "トウ",
+    "kunyomi": "こた(える)"
   },
   {
-    "kanji": "夜",
-    "furigana": "On: ヤ;\n Kun: よ、よる;",
-    "check": false
+    "main": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よ、よる"
   },
   {
-    "kanji": "音",
-    "furigana": "On: オン;\n Kun: おと、ね;",
-    "check": false
+    "main": "音",
+    "onyomi": "オン",
+    "kunyomi": "おと、ね"
   },
   {
-    "kanji": "注",
-    "furigana": "On: チュウ;\n Kun: そそ(ぐ)、さ(す)、つ(ぐ);",
-    "check": false
+    "main": "注",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ(ぐ)、さ(す)、つ(ぐ)"
   },
   {
-    "kanji": "帰",
-    "furigana": "On: キ;\n Kun: かえ(る)、かえ(す);",
-    "check": false
+    "main": "帰",
+    "onyomi": "キ",
+    "kunyomi": "かえ(る)、かえ(す)"
   },
   {
-    "kanji": "古",
-    "furigana": "On: コ;\n Kun: ふる(い);",
-    "check": false
+    "main": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)"
   },
   {
-    "kanji": "歌",
-    "furigana": "On: カ;\n Kun: うた、うた(う);",
-    "check": false
+    "main": "歌",
+    "onyomi": "カ",
+    "kunyomi": "うた、うた(う)"
   },
   {
-    "kanji": "買",
-    "furigana": "On: バイ;\n Kun: undefined;",
-    "check": false
+    "main": "買",
+    "onyomi": "バイ"
   },
   {
-    "kanji": "悪",
-    "furigana": "On: アク;\n Kun: わる(い);",
-    "check": false
+    "main": "悪",
+    "onyomi": "アク",
+    "kunyomi": "わる(い)"
   },
   {
-    "kanji": "図",
-    "furigana": "On: ズ、ト;\n Kun: はか(る);",
-    "check": false
+    "main": "図",
+    "onyomi": "ズ、ト",
+    "kunyomi": "はか(る)"
   },
   {
-    "kanji": "週",
-    "furigana": "On: シュウ;\n Kun: undefined;",
-    "check": false
+    "main": "週",
+    "onyomi": "シュウ"
   },
   {
-    "kanji": "室",
-    "furigana": "On: シツ;\n Kun: むろ;",
-    "check": false
+    "main": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ"
   },
   {
-    "kanji": "歩",
-    "furigana": "On: ホ、ブ;\n Kun: ある(く)、あゆ(む);",
-    "check": false
+    "main": "歩",
+    "onyomi": "ホ、ブ",
+    "kunyomi": "ある(く)、あゆ(む)"
   },
   {
-    "kanji": "風",
-    "furigana": "On: フウ、フ;\n Kun: かぜ、かざ-;",
-    "check": false
+    "main": "風",
+    "onyomi": "フウ、フ",
+    "kunyomi": "かぜ、かざ-"
   },
   {
-    "kanji": "紙",
-    "furigana": "On: シ;\n Kun: かみ;",
-    "check": false
+    "main": "紙",
+    "onyomi": "シ",
+    "kunyomi": "かみ"
   },
   {
-    "kanji": "黒",
-    "furigana": "On: コク;\n Kun: くろ;",
-    "check": false
+    "main": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ"
   },
   {
-    "kanji": "花",
-    "furigana": "On: カ、ケ;\n Kun: はな;",
-    "check": false
+    "main": "花",
+    "onyomi": "カ、ケ",
+    "kunyomi": "はな"
   },
   {
-    "kanji": "春",
-    "furigana": "On: シュン;\n Kun: はる;",
-    "check": false
+    "main": "春",
+    "onyomi": "シュン",
+    "kunyomi": "はる"
   },
   {
-    "kanji": "赤",
-    "furigana": "On: セキ、シャク;\n Kun: あか(い);",
-    "check": false
+    "main": "赤",
+    "onyomi": "セキ、シャク",
+    "kunyomi": "あか(い)"
   },
   {
-    "kanji": "青",
-    "furigana": "On: セイ、ショウ;\n Kun: あお(い);",
-    "check": false
+    "main": "青",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "あお(い)"
   },
   {
-    "kanji": "館",
-    "furigana": "On: カン;\n Kun: やかた;",
-    "check": false
+    "main": "館",
+    "onyomi": "カン",
+    "kunyomi": "やかた"
   },
   {
-    "kanji": "屋",
-    "furigana": "On: オク;\n Kun: や;",
-    "check": false
+    "main": "屋",
+    "onyomi": "オク",
+    "kunyomi": "や"
   },
   {
-    "kanji": "色",
-    "furigana": "On: ショク、シキ;\n Kun: いろ;",
-    "check": false
+    "main": "色",
+    "onyomi": "ショク、シキ",
+    "kunyomi": "いろ"
   },
   {
-    "kanji": "走",
-    "furigana": "On: undefined;\n Kun: はし(る);",
-    "check": false
+    "main": "走",
+    "kunyomi": "はし(る)"
   },
   {
-    "kanji": "秋",
-    "furigana": "On: シュウ;\n Kun: あき;",
-    "check": false
+    "main": "秋",
+    "onyomi": "シュウ",
+    "kunyomi": "あき"
   },
   {
-    "kanji": "夏",
-    "furigana": "On: カ、ゲ;\n Kun: なつ;",
-    "check": false
+    "main": "夏",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "なつ"
   },
   {
-    "kanji": "習",
-    "furigana": "On: シュウ;\n Kun: undefined;",
-    "check": false
+    "main": "習",
+    "onyomi": "シュウ"
   },
   {
-    "kanji": "駅",
-    "furigana": "On: エキ;\n Kun: undefined;",
-    "check": false
+    "main": "駅",
+    "onyomi": "エキ"
   },
   {
-    "kanji": "洋",
-    "furigana": "On: ヨウ;\n Kun: undefined;",
-    "check": false
+    "main": "洋",
+    "onyomi": "ヨウ"
   },
   {
-    "kanji": "旅",
-    "furigana": "On: リョ;\n Kun: たび;",
-    "check": false
+    "main": "旅",
+    "onyomi": "リョ",
+    "kunyomi": "たび"
   },
   {
-    "kanji": "服",
-    "furigana": "On: フク;\n Kun: undefined;",
-    "check": false
+    "main": "服",
+    "onyomi": "フク"
   },
   {
-    "kanji": "夕",
-    "furigana": "On: セキ;\n Kun: ゆう;",
-    "check": false
+    "main": "夕",
+    "onyomi": "セキ",
+    "kunyomi": "ゆう"
   },
   {
-    "kanji": "借",
-    "furigana": "On: シャク;\n Kun: か(りる);",
-    "check": false
+    "main": "借",
+    "onyomi": "シャク",
+    "kunyomi": "か(りる)"
   },
   {
-    "kanji": "曜",
-    "furigana": "On: ヨウ;\n Kun: undefined;",
-    "check": false
+    "main": "曜",
+    "onyomi": "ヨウ"
   },
   {
-    "kanji": "飲",
-    "furigana": "On: イン;\n Kun: undefined;",
-    "check": false
+    "main": "飲",
+    "onyomi": "イン"
   },
   {
-    "kanji": "肉",
-    "furigana": "On: ニク;\n Kun: undefined;",
-    "check": false
+    "main": "肉",
+    "onyomi": "ニク"
   },
   {
-    "kanji": "貸",
-    "furigana": "On: タイ;\n Kun: か(す)、かし;",
-    "check": false
+    "main": "貸",
+    "onyomi": "タイ",
+    "kunyomi": "か(す)、かし"
   },
   {
-    "kanji": "堂",
-    "furigana": "On: ドウ;\n Kun: undefined;",
-    "check": false
+    "main": "堂",
+    "onyomi": "ドウ"
   },
   {
-    "kanji": "鳥",
-    "furigana": "On: チョウ;\n Kun: とり;",
-    "check": false
+    "main": "鳥",
+    "onyomi": "チョウ",
+    "kunyomi": "とり"
   },
   {
-    "kanji": "飯",
-    "furigana": "On: ハン;\n Kun: めし;",
-    "check": false
+    "main": "飯",
+    "onyomi": "ハン",
+    "kunyomi": "めし"
   },
   {
-    "kanji": "勉",
-    "furigana": "On: ベン;\n Kun: つと(める);",
-    "check": false
+    "main": "勉",
+    "onyomi": "ベン",
+    "kunyomi": "つと(める)"
   },
   {
-    "kanji": "冬",
-    "furigana": "On: トウ;\n Kun: ふゆ;",
-    "check": false
+    "main": "冬",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ"
   },
   {
-    "kanji": "昼",
-    "furigana": "On: チュウ;\n Kun: ひる;",
-    "check": false
+    "main": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる"
   },
   {
-    "kanji": "茶",
-    "furigana": "On: チャ、サ;\n Kun: undefined;",
-    "check": false
+    "main": "茶",
+    "onyomi": "チャ、サ"
   },
   {
-    "kanji": "弟",
-    "furigana": "On: テイ、ダイ、デ;\n Kun: おとうと;",
-    "check": false
+    "main": "弟",
+    "onyomi": "テイ、ダイ、デ",
+    "kunyomi": "おとうと"
   },
   {
-    "kanji": "牛",
-    "furigana": "On: ギュウ;\n Kun: うし;",
-    "check": false
+    "main": "牛",
+    "onyomi": "ギュウ",
+    "kunyomi": "うし"
   },
   {
-    "kanji": "魚",
-    "furigana": "On: ギョ;\n Kun: うお、さかな;",
-    "check": false
+    "main": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお、さかな"
   },
   {
-    "kanji": "兄",
-    "furigana": "On: キョウ、ケイ;\n Kun: あに;",
-    "check": false
+    "main": "兄",
+    "onyomi": "キョウ、ケイ",
+    "kunyomi": "あに"
   },
   {
-    "kanji": "犬",
-    "furigana": "On: ケン;\n Kun: いぬ;",
-    "check": false
+    "main": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ"
   },
   {
-    "kanji": "妹",
-    "furigana": "On: マイ;\n Kun: いもうと;",
-    "check": false
+    "main": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと"
   },
   {
-    "kanji": "姉",
-    "furigana": "On: シ;\n Kun: あね;",
-    "check": false
+    "main": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね"
   },
   {
-    "kanji": "漢",
-    "furigana": "On: カン;\n Kun: undefined;",
-    "check": false
+    "main": "漢",
+    "onyomi": "カン"
   }
 ]

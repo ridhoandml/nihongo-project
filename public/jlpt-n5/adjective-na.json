@@ -1,146 +1,146 @@
 [
   {
-    "kanji": "便利",
-    "furigana": "べんり",
-    "translation": "convenient; handy; useful",
-    "check": false
+    "main": "便利",
+    "kana": "べんり",
+    "romaji": "benri",
+    "meaning": "convenient; handy; useful"
   },
   {
-    "kanji": "大丈夫",
-    "furigana": "だいじょうぶ",
-    "translation": "OK; alright",
-    "check": false
+    "main": "大丈夫",
+    "kana": "だいじょうぶ",
+    "romaji": "daijoubu",
+    "meaning": "OK; alright"
   },
   {
-    "kanji": "大好き",
-    "furigana": "だいすき",
-    "translation": "love; like; like very much",
-    "check": false
+    "main": "大好き",
+    "kana": "だいすき",
+    "romaji": "daisuki",
+    "meaning": "love; like; like very much"
   },
   {
-    "kanji": "元気",
-    "furigana": "げんき",
-    "translation": "lively; energetic; healthy",
-    "check": false
+    "main": "元気",
+    "kana": "げんき",
+    "romaji": "genki",
+    "meaning": "lively; energetic; healthy"
   },
   {
-    "kanji": "下手",
-    "furigana": "へた",
-    "translation": "unskillful; poor; awkward",
-    "check": false
+    "main": "下手",
+    "kana": "へた",
+    "romaji": "heta",
+    "meaning": "unskillful; poor; awkward"
   },
   {
-    "kanji": "暇",
-    "furigana": "ひま",
-    "translation": "free time",
-    "check": false
+    "main": "暇",
+    "kana": "ひま",
+    "romaji": "hima",
+    "meaning": "free time"
   },
   {
-    "kanji": "本当",
-    "furigana": "ほんとう",
-    "translation": "truth; reality; fact",
-    "check": false
+    "main": "本当",
+    "kana": "ほんとう",
+    "romaji": "hontou",
+    "meaning": "truth; reality; fact"
   },
   {
-    "kanji": "色々",
-    "furigana": "いろいろ",
-    "translation": "various",
-    "check": false
+    "main": "色々",
+    "kana": "いろいろ",
+    "romaji": "iroiro",
+    "meaning": "various"
   },
   {
-    "kanji": "嫌",
-    "furigana": "いや",
-    "translation": "unpleasant",
-    "check": false
+    "main": "嫌",
+    "kana": "いや",
+    "romaji": "iya",
+    "meaning": "unpleasant"
   },
   {
-    "kanji": "丈夫",
-    "furigana": "じょうぶ",
-    "translation": "strong, durable",
-    "check": false
+    "main": "丈夫",
+    "kana": "じょうぶ",
+    "romaji": "joubu",
+    "meaning": "strong, durable"
   },
   {
-    "kanji": "上手",
-    "furigana": "じょうず",
-    "translation": "skillful; skilled; good (at)",
-    "check": false
+    "main": "上手",
+    "kana": "じょうず",
+    "romaji": "jouzu",
+    "meaning": "skillful; skilled; good (at)"
   },
   {
-    "kanji": "結構",
-    "furigana": "けっこう",
-    "translation": "splendid, enough",
-    "check": false
+    "main": "結構",
+    "kana": "けっこう",
+    "romaji": "kekkou",
+    "meaning": "splendid, enough"
   },
   {
-    "kanji": "嫌い",
-    "furigana": "きらい",
-    "translation": "hate",
-    "check": false
+    "main": "嫌い",
+    "kana": "きらい",
+    "romaji": "kirai",
+    "meaning": "hate"
   },
   {
-    "kanji": "綺麗",
-    "furigana": "きれい",
-    "translation": "pretty; lovely; beautiful",
-    "check": false
+    "main": "綺麗",
+    "kana": "きれい",
+    "romaji": "kirei",
+    "meaning": "pretty; lovely; beautiful"
   },
   {
-    "kanji": "真っ直ぐ",
-    "furigana": "まっすぐ",
-    "translation": "straight ahead,direct",
-    "check": false
+    "main": "真っ直ぐ",
+    "kana": "まっすぐ",
+    "romaji": "massugu",
+    "meaning": "straight ahead,direct"
   },
   {
-    "kanji": "賑やか",
-    "furigana": "にぎやか",
-    "translation": "bustling, busy",
-    "check": false
+    "main": "賑やか",
+    "kana": "にぎやか",
+    "romaji": "nigiyaka",
+    "meaning": "bustling, busy"
   },
   {
-    "kanji": "立派",
-    "furigana": "りっぱ",
-    "translation": "splendid",
-    "check": false
+    "main": "立派",
+    "kana": "りっぱ",
+    "romaji": "rippa",
+    "meaning": "splendid"
   },
   {
-    "kanji": "静か",
-    "furigana": "しずか",
-    "translation": "quiet",
-    "check": false
+    "main": "静か",
+    "kana": "しずか",
+    "romaji": "shizuka",
+    "meaning": "quiet"
   },
   {
-    "kanji": "好き",
-    "furigana": "すき",
-    "translation": "like",
-    "check": false
+    "main": "好き",
+    "kana": "すき",
+    "romaji": "suki",
+    "meaning": "like"
   },
   {
-    "kanji": "多分",
-    "furigana": "たぶん",
-    "translation": "perhaps; probably",
-    "check": false
+    "main": "多分",
+    "kana": "たぶん",
+    "romaji": "tabun",
+    "meaning": "perhaps; probably"
   },
   {
-    "kanji": "大変",
-    "furigana": "たいへん",
-    "translation": "very; greatly; difficult",
-    "check": false
+    "main": "大変",
+    "kana": "たいへん",
+    "romaji": "taihen",
+    "meaning": "very; greatly; difficult"
   },
   {
-    "kanji": "大切",
-    "furigana": "たいせつ",
-    "translation": "important; beloved",
-    "check": false
+    "main": "大切",
+    "kana": "たいせつ",
+    "romaji": "taisetsu",
+    "meaning": "important; beloved"
   },
   {
-    "kanji": "沢山",
-    "furigana": "たくさん",
-    "translation": "many",
-    "check": false
+    "main": "沢山",
+    "kana": "たくさん",
+    "romaji": "takusan",
+    "meaning": "many"
   },
   {
-    "kanji": "有名",
-    "furigana": "ゆうめい",
-    "translation": "famous",
-    "check": false
+    "main": "有名",
+    "kana": "ゆうめい",
+    "romaji": "yuumei",
+    "meaning": "famous"
   }
 ]
