@@ -2,788 +2,955 @@
   {
     "main": "会",
     "onyomi": "カイ",
-    "kunyomi": "あ(う)"
+    "kunyomi": "あ(う)",
+    "meaning": "meeting; meet"
   },
   {
     "main": "同",
     "onyomi": "ドウ",
-    "kunyomi": "おな(じ)"
+    "kunyomi": "おな(じ)",
+    "meaning": "same, agree, equal"
   },
   {
     "main": "事",
     "onyomi": "ジ",
-    "kunyomi": "こと"
+    "kunyomi": "こと",
+    "meaning": "matter, thing, fact, business, reason, possibly"
   },
   {
     "main": "自",
     "onyomi": "ジ、シ",
-    "kunyomi": "みずか(ら)"
+    "kunyomi": "みずか(ら)",
+    "meaning": "oneself"
   },
   {
     "main": "社",
     "onyomi": "シャ",
-    "kunyomi": "やしろ"
+    "kunyomi": "やしろ",
+    "meaning": "company, firm, office, association, shrine"
   },
   {
     "main": "発",
-    "onyomi": "ハツ、ホツ"
+    "onyomi": "ハツ、ホツ",
+    "meaning": "departure, discharge, emit, start from"
   },
   {
     "main": "者",
     "onyomi": "シャ",
-    "kunyomi": "もの"
+    "kunyomi": "もの",
+    "meaning": "someone, person"
   },
   {
     "main": "地",
-    "onyomi": "チ、ジ"
+    "onyomi": "チ、ジ",
+    "meaning": "ground, earth"
   },
   {
     "main": "業",
     "onyomi": "ギョウ",
-    "kunyomi": "わざ"
+    "kunyomi": "わざ",
+    "meaning": "business, vocation, arts, performance"
   },
   {
     "main": "方",
     "onyomi": "ホウ",
-    "kunyomi": "かた"
+    "kunyomi": "かた",
+    "meaning": "direction, person, alternative"
   },
   {
     "main": "新",
     "onyomi": "シン",
-    "kunyomi": "あたら(しい)、あら(た)"
+    "kunyomi": "あたら(しい)、あら(た)",
+    "meaning": "new"
   },
   {
     "main": "場",
     "onyomi": "ジョウ",
-    "kunyomi": "ば"
+    "kunyomi": "ば",
+    "meaning": "location, place"
   },
   {
     "main": "員",
-    "onyomi": "イン"
+    "onyomi": "イン",
+    "meaning": "employee, member, number, the one in charge"
   },
   {
     "main": "立",
     "onyomi": "リツ",
-    "kunyomi": "た(つ)"
+    "kunyomi": "た(つ)",
+    "meaning": "stand up, rise"
   },
   {
     "main": "開",
     "onyomi": "カイ",
-    "kunyomi": "ひら(く)、あ(ける)"
+    "kunyomi": "ひら(く)、あ(ける)",
+    "meaning": "open, unfold, unseal"
   },
   {
     "main": "手",
     "onyomi": "シュ",
-    "kunyomi": "て"
+    "kunyomi": "て",
+    "meaning": "hand"
   },
   {
     "main": "力",
     "onyomi": "リョク、リキ",
-    "kunyomi": "ちから"
+    "kunyomi": "ちから",
+    "meaning": "power, strength, strong, strain, bear up, exert"
   },
   {
     "main": "問",
     "onyomi": "モン",
-    "kunyomi": "と(う)"
+    "kunyomi": "と(う)",
+    "meaning": "question, ask, problem"
   },
   {
     "main": "代",
     "onyomi": "ダイ",
-    "kunyomi": "か(わり)"
+    "kunyomi": "か(わり)",
+    "meaning": "substitute, change, convert, replace, period"
   },
   {
     "main": "明",
     "onyomi": "メイ、ミョウ",
-    "kunyomi": "あか(るい)"
+    "kunyomi": "あか(るい)",
+    "meaning": "bright, light"
   },
   {
     "main": "動",
-    "onyomi": "ドウ"
+    "onyomi": "ドウ",
+    "meaning": "move, motion, change"
   },
   {
     "main": "京",
     "onyomi": "キョウ、ケイ、キン",
-    "kunyomi": "みやこ"
+    "kunyomi": "みやこ",
+    "meaning": "capital"
   },
   {
     "main": "目",
     "onyomi": "モク、ボク",
-    "kunyomi": "め"
+    "kunyomi": "め",
+    "meaning": "eye, class, look, insight, experience"
   },
   {
     "main": "通",
     "onyomi": "ツウ",
-    "kunyomi": "とお(る)、かよ(う)"
+    "kunyomi": "とお(る)、かよ(う)",
+    "meaning": "traffic, pass through, avenue, commute"
   },
   {
     "main": "言",
     "onyomi": "ゲン、ゴン",
-    "kunyomi": "い（う）、こと"
+    "kunyomi": "い（う）、こと",
+    "meaning": "say, word"
   },
   {
     "main": "理",
-    "onyomi": "リ"
+    "onyomi": "リ",
+    "meaning": "logic, arrangement, reason, justice, truth"
   },
   {
     "main": "体",
     "onyomi": "タイ",
-    "kunyomi": "からだ"
+    "kunyomi": "からだ",
+    "meaning": "body, substance, object, reality"
   },
   {
     "main": "田",
     "onyomi": "デン",
-    "kunyomi": "た"
+    "kunyomi": "た",
+    "meaning": "rice field, rice paddy"
   },
   {
     "main": "主",
     "onyomi": "シュ",
-    "kunyomi": "ぬし、おも"
+    "kunyomi": "ぬし、おも",
+    "meaning": "lord, chief, master, main thing, principal"
   },
   {
     "main": "題",
-    "onyomi": "ダイ"
+    "onyomi": "ダイ",
+    "meaning": "topic, subject"
   },
   {
     "main": "意",
-    "onyomi": "イ"
+    "onyomi": "イ",
+    "meaning": "idea, mind, heart, taste, thought"
   },
   {
     "main": "不",
-    "onyomi": "フ、ブ"
+    "onyomi": "フ、ブ",
+    "meaning": "negative, non-, bad"
   },
   {
     "main": "作",
     "onyomi": "サク、サ",
-    "kunyomi": "つく(る)"
+    "kunyomi": "つく(る)",
+    "meaning": "make, production, prepare, build"
   },
   {
     "main": "用",
     "onyomi": "ヨウ",
-    "kunyomi": "もち(いる)"
+    "kunyomi": "もち(いる)",
+    "meaning": "utilize, business, service, use, employ"
   },
   {
     "main": "度",
     "onyomi": "ド、タク",
-    "kunyomi": "たび、た(い)"
+    "kunyomi": "たび、た(い)",
+    "meaning": "degrees, occurrence, time, counter for occurrences"
   },
   {
     "main": "強",
     "onyomi": "キョウ、ゴウ",
-    "kunyomi": "つよ(い)"
+    "kunyomi": "つよ(い)",
+    "meaning": "strong"
   },
   {
     "main": "公",
-    "onyomi": "コウ"
+    "onyomi": "コウ",
+    "meaning": "public, prince, official, governmental"
   },
   {
     "main": "持",
-    "onyomi": "ジ"
+    "onyomi": "ジ",
+    "meaning": "hold, have"
   },
   {
     "main": "野",
     "onyomi": "ヤ",
-    "kunyomi": "の"
+    "kunyomi": "の",
+    "meaning": "plains, field, rustic, civilian life"
   },
   {
     "main": "以",
     "onyomi": "イ",
-    "kunyomi": "もっ(て)"
+    "kunyomi": "もっ(て)",
+    "meaning": "by means of, because, in view of, compared with"
   },
   {
     "main": "思",
-    "onyomi": "シ"
+    "onyomi": "シ",
+    "meaning": "think"
   },
   {
     "main": "家",
     "onyomi": "カ",
-    "kunyomi": "いえ、や、うち"
+    "kunyomi": "いえ、や、うち",
+    "meaning": "house, home, family, professional, expert"
   },
   {
     "main": "世",
     "onyomi": "セイ、セ",
-    "kunyomi": "よ"
+    "kunyomi": "よ",
+    "meaning": "generation, world, society, public"
   },
   {
     "main": "多",
     "onyomi": "タ",
-    "kunyomi": "おお(い)"
+    "kunyomi": "おお(い)",
+    "meaning": "many, frequent, much"
   },
   {
     "main": "正",
     "onyomi": "セイ、ショウ",
-    "kunyomi": "ただ(しい)、まさ(に)"
+    "kunyomi": "ただ(しい)、まさ(に)",
+    "meaning": "correct, justice, righteous"
   },
   {
     "main": "安",
     "onyomi": "アン",
-    "kunyomi": "やす(い)"
+    "kunyomi": "やす(い)",
+    "meaning": "safe, peaceful, cheap"
   },
   {
     "main": "院",
-    "onyomi": "イン"
+    "onyomi": "イン",
+    "meaning": "institution, temple, mansion, school"
   },
   {
     "main": "心",
     "onyomi": "シン",
-    "kunyomi": "こころ"
+    "kunyomi": "こころ",
+    "meaning": "heart, mind, spirit"
   },
   {
     "main": "界",
-    "onyomi": "カイ"
+    "onyomi": "カイ",
+    "meaning": "world, boundary"
   },
   {
     "main": "教",
     "onyomi": "キョウ",
-    "kunyomi": "おし(える)、おそ(わる)"
+    "kunyomi": "おし(える)、おそ(わる)",
+    "meaning": "teach, faith, doctrine"
   },
   {
     "main": "文",
     "onyomi": "ブン、モン",
-    "kunyomi": "ふみ"
+    "kunyomi": "ふみ",
+    "meaning": "sentence, literature, style, art"
   },
   {
     "main": "元",
     "onyomi": "ゲン、ガン",
-    "kunyomi": "もと"
+    "kunyomi": "もと",
+    "meaning": "beginning, former time, origin"
   },
   {
     "main": "重",
     "onyomi": "ジュウ、チョウ",
-    "kunyomi": "おも(い)、かさ(ねる)"
+    "kunyomi": "おも(い)、かさ(ねる)",
+    "meaning": "heavy, important, esteem, respect"
   },
   {
     "main": "近",
     "onyomi": "キン",
-    "kunyomi": "ちか(い)"
+    "kunyomi": "ちか(い)",
+    "meaning": "near, early, akin, tantamount"
   },
   {
     "main": "考",
     "onyomi": "コウ",
-    "kunyomi": "かんが(える)"
+    "kunyomi": "かんが(える)",
+    "meaning": "consider, think over"
   },
   {
     "main": "画",
     "onyomi": "ガ、カク",
-    "kunyomi": "かく(する)"
+    "kunyomi": "かく(する)",
+    "meaning": "brush-stroke, picture"
   },
   {
     "main": "海",
     "onyomi": "カイ",
-    "kunyomi": "うみ"
+    "kunyomi": "うみ",
+    "meaning": "sea, ocean"
   },
   {
     "main": "売",
-    "onyomi": "バイ"
+    "onyomi": "バイ",
+    "meaning": "Sell"
   },
   {
     "main": "知",
-    "onyomi": "チ"
+    "onyomi": "チ",
+    "meaning": "know, wisdom"
   },
   {
     "main": "道",
     "onyomi": "ドウ",
-    "kunyomi": "みち"
+    "kunyomi": "みち",
+    "meaning": "road-way, street, district, journey, course"
   },
   {
     "main": "集",
     "onyomi": "シュウ",
-    "kunyomi": "あつ(める)"
+    "kunyomi": "あつ(める)",
+    "meaning": "gather, meet"
   },
   {
     "main": "別",
     "onyomi": "ベツ",
-    "kunyomi": "わか(れる)、わ(ける)"
+    "kunyomi": "わか(れる)、わ(ける)",
+    "meaning": "separate, branch off, diverge"
   },
   {
     "main": "物",
     "onyomi": "ブツ、モツ",
-    "kunyomi": "もの"
+    "kunyomi": "もの",
+    "meaning": "thing, object, matter"
   },
   {
     "main": "使",
     "onyomi": "シ",
-    "kunyomi": "つか(う)"
+    "kunyomi": "つか(う)",
+    "meaning": "use, order, messenger, ambassador"
   },
   {
     "main": "品",
     "onyomi": "ヒン",
-    "kunyomi": "しな"
+    "kunyomi": "しな",
+    "meaning": "goods, refinement, dignity, article"
   },
   {
     "main": "計",
     "onyomi": "ケイ",
-    "kunyomi": "はか(る)"
+    "kunyomi": "はか(る)",
+    "meaning": "plot, plan, scheme, measure"
   },
   {
     "main": "死",
-    "onyomi": "シ"
+    "onyomi": "シ",
+    "meaning": "death, die"
   },
   {
     "main": "特",
-    "onyomi": "トク"
+    "onyomi": "トク",
+    "meaning": "special"
   },
   {
     "main": "私",
     "onyomi": "シ",
-    "kunyomi": "わたくし、わたし"
+    "kunyomi": "わたくし、わたし",
+    "meaning": "private, I, me"
   },
   {
     "main": "始",
     "onyomi": "シ",
-    "kunyomi": "はじ(める)"
+    "kunyomi": "はじ(める)",
+    "meaning": "commence, begin"
   },
   {
     "main": "朝",
     "onyomi": "チョウ",
-    "kunyomi": "あさ"
+    "kunyomi": "あさ",
+    "meaning": "morning"
   },
   {
     "main": "運",
     "onyomi": "ウン",
-    "kunyomi": "はこ(ぶ)"
+    "kunyomi": "はこ(ぶ)",
+    "meaning": "carry, luck, destiny, fate, transport"
   },
   {
     "main": "終",
     "onyomi": "シュウ",
-    "kunyomi": "お(わる)"
+    "kunyomi": "お(わる)",
+    "meaning": "end, finish"
   },
   {
     "main": "台",
     "onyomi": "ダイ、タイ",
-    "kunyomi": "うてな"
+    "kunyomi": "うてな",
+    "meaning": "pedestal, a stand, counter for machines and vehicles"
   },
   {
     "main": "広",
     "onyomi": "コウ",
-    "kunyomi": "ひろ(い)"
+    "kunyomi": "ひろ(い)",
+    "meaning": "wide, broad, spacious"
   },
   {
     "main": "住",
-    "onyomi": "ジュウ、チュウ"
+    "onyomi": "ジュウ、チュウ",
+    "meaning": "dwell, reside, live, inhabit"
   },
   {
     "main": "無",
     "onyomi": "ム、ブ",
-    "kunyomi": "な(い)"
+    "kunyomi": "な(い)",
+    "meaning": "nothingness, none, ain't, nothing, nil, not"
   },
   {
     "main": "真",
     "onyomi": "シン",
-    "kunyomi": "ま、まこと"
+    "kunyomi": "ま、まこと",
+    "meaning": "true, reality, Buddhist sect"
   },
   {
     "main": "有",
     "onyomi": "ユウ、ウ",
-    "kunyomi": "あ(る)"
+    "kunyomi": "あ(る)",
+    "meaning": "possess, have, exist, happen"
   },
   {
     "main": "口",
     "onyomi": "コウ",
-    "kunyomi": "くち"
+    "kunyomi": "くち",
+    "meaning": "mouth"
   },
   {
     "main": "少",
     "onyomi": "ショウ",
-    "kunyomi": "すく(ない)、すこ(し)"
+    "kunyomi": "すく(ない)、すこ(し)",
+    "meaning": "few, little"
   },
   {
     "main": "町",
     "onyomi": "チョウ",
-    "kunyomi": "まち"
+    "kunyomi": "まち",
+    "meaning": "town, village, block, street"
   },
   {
     "main": "料",
-    "onyomi": "リョウ"
+    "onyomi": "リョウ",
+    "meaning": "fee, materials"
   },
   {
     "main": "工",
-    "onyomi": "コウ、ク、グ"
+    "onyomi": "コウ、ク、グ",
+    "meaning": "craft, construction"
   },
   {
     "main": "建",
     "onyomi": "ケン、コン",
-    "kunyomi": "た(てる)"
+    "kunyomi": "た(てる)",
+    "meaning": "build"
   },
   {
     "main": "空",
     "onyomi": "クウ",
-    "kunyomi": "そら、から、あ(く)、す(く)、むな(しい)"
+    "kunyomi": "そら、から、あ(く)、す(く)、むな(しい)",
+    "meaning": "empty, sky, void, vacant, vacuum"
   },
   {
     "main": "急",
     "onyomi": "キュウ",
-    "kunyomi": "いそ(ぐ)"
+    "kunyomi": "いそ(ぐ)",
+    "meaning": "hurry, emergency, sudden, steep"
   },
   {
     "main": "止",
     "onyomi": "シ",
-    "kunyomi": "と(まる)、とど(まる)、や(める)、よ(す)"
+    "kunyomi": "と(まる)、とど(まる)、や(める)、よ(す)",
+    "meaning": "stop, halt"
   },
   {
     "main": "送",
-    "onyomi": "ソウ"
+    "onyomi": "ソウ",
+    "meaning": "escort, send"
   },
   {
     "main": "切",
     "onyomi": "セツ、サイ",
-    "kunyomi": "き(る)"
+    "kunyomi": "き(る)",
+    "meaning": "cut, cutoff, be sharp"
   },
   {
     "main": "転",
     "onyomi": "テン",
-    "kunyomi": "ころ(がる)"
+    "kunyomi": "ころ(がる)",
+    "meaning": "revolve, turn around, change"
   },
   {
     "main": "研",
-    "onyomi": "ケン"
+    "onyomi": "ケン",
+    "meaning": "polish, study of, sharpen"
   },
   {
     "main": "足",
     "onyomi": "ソク",
-    "kunyomi": "あし、た(りる)"
+    "kunyomi": "あし、た(りる)",
+    "meaning": "leg, foot, be sufficient"
   },
   {
     "main": "究",
-    "onyomi": "キュウ"
+    "onyomi": "キュウ",
+    "meaning": "research, study"
   },
   {
     "main": "楽",
     "onyomi": "ガク、ラク",
-    "kunyomi": "たの(しい)"
+    "kunyomi": "たの(しい)",
+    "meaning": "music, comfort, ease"
   },
   {
     "main": "起",
     "onyomi": "キ",
-    "kunyomi": "お(きる)、おこ(す)"
+    "kunyomi": "お(きる)、おこ(す)",
+    "meaning": "wake up, get up; rouse"
   },
   {
     "main": "着",
     "onyomi": "チャク",
-    "kunyomi": "き(る)、つ(く)"
+    "kunyomi": "き(る)、つ(く)",
+    "meaning": "arrive, wear, counter for suits of clothing"
   },
   {
     "main": "店",
     "onyomi": "テン",
-    "kunyomi": "みせ"
+    "kunyomi": "みせ",
+    "meaning": "store, shop"
   },
   {
     "main": "病",
-    "onyomi": "ビョウ"
+    "onyomi": "ビョウ",
+    "meaning": "ill, sick"
   },
   {
     "main": "質",
     "onyomi": "シツ、シチ",
-    "kunyomi": "たち、ただ(す)"
+    "kunyomi": "たち、ただ(す)",
+    "meaning": "substance, quality, matter, temperament"
   },
   {
     "main": "待",
-    "onyomi": "タイ"
+    "onyomi": "タイ",
+    "meaning": "wait, depend on"
   },
   {
     "main": "試",
     "onyomi": "シ",
-    "kunyomi": "こころ(みる)、ため(す)"
+    "kunyomi": "こころ(みる)、ため(す)",
+    "meaning": "test, try, attempt, experiment"
   },
   {
     "main": "族",
-    "onyomi": "ゾク"
+    "onyomi": "ゾク",
+    "meaning": "tribe, family"
   },
   {
     "main": "銀",
-    "onyomi": "ギン"
+    "onyomi": "ギン",
+    "meaning": "silver"
   },
   {
     "main": "早",
     "onyomi": "ソウ、サッ",
-    "kunyomi": "はや(い)"
+    "kunyomi": "はや(い)",
+    "meaning": "early, fast"
   },
   {
     "main": "映",
     "onyomi": "エイ",
-    "kunyomi": "うつ(る)、は(える)"
+    "kunyomi": "うつ(る)、は(える)",
+    "meaning": "reflect, reflection, projection"
   },
   {
     "main": "親",
     "onyomi": "シン",
-    "kunyomi": "おや、した(しい)"
+    "kunyomi": "おや、した(しい)",
+    "meaning": "parent, intimacy, relative, familiarity"
   },
   {
     "main": "験",
-    "onyomi": "ケン"
+    "onyomi": "ケン",
+    "meaning": "verification, effect, testing"
   },
   {
     "main": "英",
-    "onyomi": "エイ"
+    "onyomi": "エイ",
+    "meaning": "England, English, hero, outstanding"
   },
   {
     "main": "医",
-    "onyomi": "イ"
+    "onyomi": "イ",
+    "meaning": "doctor, medicine"
   },
   {
     "main": "仕",
-    "onyomi": "シ"
+    "onyomi": "シ",
+    "meaning": "attend, doing, official, serve"
   },
   {
     "main": "去",
-    "onyomi": "キョ、コ"
+    "onyomi": "キョ、コ",
+    "meaning": "gone, past, quit, leave, elapse, eliminate"
   },
   {
     "main": "味",
-    "kunyomi": "あじ"
+    "kunyomi": "あじ",
+    "meaning": "flavor, taste"
   },
   {
     "main": "写",
-    "onyomi": "シャ"
+    "onyomi": "シャ",
+    "meaning": "copy, be photographed, describe"
   },
   {
     "main": "字",
-    "onyomi": "ジ"
+    "onyomi": "ジ",
+    "meaning": "character, letter, word"
   },
   {
     "main": "答",
     "onyomi": "トウ",
-    "kunyomi": "こた(える)"
+    "kunyomi": "こた(える)",
+    "meaning": "solution, answer"
   },
   {
     "main": "夜",
     "onyomi": "ヤ",
-    "kunyomi": "よ、よる"
+    "kunyomi": "よ、よる",
+    "meaning": "night, evening"
   },
   {
     "main": "音",
     "onyomi": "オン",
-    "kunyomi": "おと、ね"
+    "kunyomi": "おと、ね",
+    "meaning": "sound, noise"
   },
   {
     "main": "注",
     "onyomi": "チュウ",
-    "kunyomi": "そそ(ぐ)、さ(す)、つ(ぐ)"
+    "kunyomi": "そそ(ぐ)、さ(す)、つ(ぐ)",
+    "meaning": "pour, irrigate, shed (tears), flow into, concentrate on"
   },
   {
     "main": "帰",
     "onyomi": "キ",
-    "kunyomi": "かえ(る)、かえ(す)"
+    "kunyomi": "かえ(る)、かえ(す)",
+    "meaning": "homecoming, arrive at, lead to, result in"
   },
   {
     "main": "古",
     "onyomi": "コ",
-    "kunyomi": "ふる(い)"
+    "kunyomi": "ふる(い)",
+    "meaning": "old"
   },
   {
     "main": "歌",
     "onyomi": "カ",
-    "kunyomi": "うた、うた(う)"
+    "kunyomi": "うた、うた(う)",
+    "meaning": "song, sing"
   },
   {
     "main": "買",
-    "onyomi": "バイ"
+    "onyomi": "バイ",
+    "meaning": "buy"
   },
   {
     "main": "悪",
     "onyomi": "アク",
-    "kunyomi": "わる(い)"
+    "kunyomi": "わる(い)",
+    "meaning": "bad, evil, wrong"
   },
   {
     "main": "図",
     "onyomi": "ズ、ト",
-    "kunyomi": "はか(る)"
+    "kunyomi": "はか(る)",
+    "meaning": "map, drawing, plan, extraordinary"
   },
   {
     "main": "週",
-    "onyomi": "シュウ"
+    "onyomi": "シュウ",
+    "meaning": "week"
   },
   {
     "main": "室",
     "onyomi": "シツ",
-    "kunyomi": "むろ"
+    "kunyomi": "むろ",
+    "meaning": "room, apartment, chamber, cellar"
   },
   {
     "main": "歩",
     "onyomi": "ホ、ブ",
-    "kunyomi": "ある(く)、あゆ(む)"
+    "kunyomi": "ある(く)、あゆ(む)",
+    "meaning": "walk, counter for steps"
   },
   {
     "main": "風",
     "onyomi": "フウ、フ",
-    "kunyomi": "かぜ、かざ-"
+    "kunyomi": "かぜ、かざ-",
+    "meaning": "wind, air, style, manner"
   },
   {
     "main": "紙",
     "onyomi": "シ",
-    "kunyomi": "かみ"
+    "kunyomi": "かみ",
+    "meaning": "paper"
   },
   {
     "main": "黒",
     "onyomi": "コク",
-    "kunyomi": "くろ"
+    "kunyomi": "くろ",
+    "meaning": "black"
   },
   {
     "main": "花",
     "onyomi": "カ、ケ",
-    "kunyomi": "はな"
+    "kunyomi": "はな",
+    "meaning": "flower"
   },
   {
     "main": "春",
     "onyomi": "シュン",
-    "kunyomi": "はる"
+    "kunyomi": "はる",
+    "meaning": "spring"
   },
   {
     "main": "赤",
     "onyomi": "セキ、シャク",
-    "kunyomi": "あか(い)"
+    "kunyomi": "あか(い)",
+    "meaning": "red"
   },
   {
     "main": "青",
     "onyomi": "セイ、ショウ",
-    "kunyomi": "あお(い)"
+    "kunyomi": "あお(い)",
+    "meaning": "blue"
   },
   {
     "main": "館",
     "onyomi": "カン",
-    "kunyomi": "やかた"
+    "kunyomi": "やかた",
+    "meaning": "building, mansion, large building, palace"
   },
   {
     "main": "屋",
     "onyomi": "オク",
-    "kunyomi": "や"
+    "kunyomi": "や",
+    "meaning": "roof, house, shop, dealer, seller"
   },
   {
     "main": "色",
     "onyomi": "ショク、シキ",
-    "kunyomi": "いろ"
+    "kunyomi": "いろ",
+    "meaning": "color"
   },
   {
     "main": "走",
-    "kunyomi": "はし(る)"
+    "kunyomi": "はし(る)",
+    "meaning": "Run"
   },
   {
     "main": "秋",
     "onyomi": "シュウ",
-    "kunyomi": "あき"
+    "kunyomi": "あき",
+    "meaning": "autumn, fall"
   },
   {
     "main": "夏",
     "onyomi": "カ、ゲ",
-    "kunyomi": "なつ"
+    "kunyomi": "なつ",
+    "meaning": "summer"
   },
   {
     "main": "習",
-    "onyomi": "シュウ"
+    "onyomi": "シュウ",
+    "meaning": "learn"
   },
   {
     "main": "駅",
-    "onyomi": "エキ"
+    "onyomi": "エキ",
+    "meaning": "station"
   },
   {
     "main": "洋",
-    "onyomi": "ヨウ"
+    "onyomi": "ヨウ",
+    "meaning": "ocean, sea, foreign, Western style"
   },
   {
     "main": "旅",
     "onyomi": "リョ",
-    "kunyomi": "たび"
+    "kunyomi": "たび",
+    "meaning": "trip, travel"
   },
   {
     "main": "服",
-    "onyomi": "フク"
+    "onyomi": "フク",
+    "meaning": "clothing, admit, obey"
   },
   {
     "main": "夕",
     "onyomi": "セキ",
-    "kunyomi": "ゆう"
+    "kunyomi": "ゆう",
+    "meaning": "evening"
   },
   {
     "main": "借",
     "onyomi": "シャク",
-    "kunyomi": "か(りる)"
+    "kunyomi": "か(りる)",
+    "meaning": "borrow, rent"
   },
   {
     "main": "曜",
-    "onyomi": "ヨウ"
+    "onyomi": "ヨウ",
+    "meaning": "weekday"
   },
   {
     "main": "飲",
-    "onyomi": "イン"
+    "onyomi": "イン",
+    "meaning": "drink"
   },
   {
     "main": "肉",
-    "onyomi": "ニク"
+    "onyomi": "ニク",
+    "meaning": "meat"
   },
   {
     "main": "貸",
     "onyomi": "タイ",
-    "kunyomi": "か(す)、かし"
+    "kunyomi": "か(す)、かし",
+    "meaning": "lend"
   },
   {
     "main": "堂",
-    "onyomi": "ドウ"
+    "onyomi": "ドウ",
+    "meaning": "public chamber, hall"
   },
   {
     "main": "鳥",
     "onyomi": "チョウ",
-    "kunyomi": "とり"
+    "kunyomi": "とり",
+    "meaning": "bird, chicken"
   },
   {
     "main": "飯",
     "onyomi": "ハン",
-    "kunyomi": "めし"
+    "kunyomi": "めし",
+    "meaning": "meal, rice"
   },
   {
     "main": "勉",
     "onyomi": "ベン",
-    "kunyomi": "つと(める)"
+    "kunyomi": "つと(める)",
+    "meaning": "exertion, endeavor, effort"
   },
   {
     "main": "冬",
     "onyomi": "トウ",
-    "kunyomi": "ふゆ"
+    "kunyomi": "ふゆ",
+    "meaning": "winter"
   },
   {
     "main": "昼",
     "onyomi": "チュウ",
-    "kunyomi": "ひる"
+    "kunyomi": "ひる",
+    "meaning": "daytime, noon"
   },
   {
     "main": "茶",
-    "onyomi": "チャ、サ"
+    "onyomi": "チャ、サ",
+    "meaning": "tea"
   },
   {
     "main": "弟",
     "onyomi": "テイ、ダイ、デ",
-    "kunyomi": "おとうと"
+    "kunyomi": "おとうと",
+    "meaning": "younger brother"
   },
   {
     "main": "牛",
     "onyomi": "ギュウ",
-    "kunyomi": "うし"
+    "kunyomi": "うし",
+    "meaning": "cow"
   },
   {
     "main": "魚",
     "onyomi": "ギョ",
-    "kunyomi": "うお、さかな"
+    "kunyomi": "うお、さかな",
+    "meaning": "fish"
   },
   {
     "main": "兄",
     "onyomi": "キョウ、ケイ",
-    "kunyomi": "あに"
+    "kunyomi": "あに",
+    "meaning": "elder brother"
   },
   {
     "main": "犬",
     "onyomi": "ケン",
-    "kunyomi": "いぬ"
+    "kunyomi": "いぬ",
+    "meaning": "dog"
   },
   {
     "main": "妹",
     "onyomi": "マイ",
-    "kunyomi": "いもうと"
+    "kunyomi": "いもうと",
+    "meaning": "younger sister"
   },
   {
     "main": "姉",
     "onyomi": "シ",
-    "kunyomi": "あね"
+    "kunyomi": "あね",
+    "meaning": "elder sister"
   },
   {
     "main": "漢",
-    "onyomi": "カン"
+    "onyomi": "カン",
+    "meaning": "China"
   }
 ]
