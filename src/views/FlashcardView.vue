@@ -49,6 +49,9 @@
 import { ref, onMounted, computed } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import type { JLPTLevel, TypeFlashCard } from './FlashcardSelector.vue';
+import { useConfig } from '@/store/config';
+import { storeToRefs } from 'pinia';
+import shuffleArray from '@/utils/shuffle-array';
 
 type JLPTN5 = JLPTN5NounInterface | JLPTN5ParticlesInterface | JLPTN5KatakanaNounInterface | JLPTN5AdjectiveIInterface | JLPTN5AdverbInterface | JLPTN5AdjectiveNaInterface | JLPTN5KanjiInterface | JLPTN5GrammarInterface | JLPTN5VerbInterface
 
@@ -60,6 +63,9 @@ const router = useRouter();
 const route = useRoute();
 const level = route.params.level as JLPTLevel;
 const type = route.params.type as TypeFlashCard;
+
+const config = useConfig()
+const { getGlobalConfigFromLocal: globalConfig } = storeToRefs(config)
 
 const jsonPath = `/jlpt-${level}/${type}.json`;
 
@@ -73,7 +79,8 @@ async function loadCards() {
   const res = await fetch(jsonPath)
   const rememberedCards = loadSelection()
   const json = await res.json() as JLPT[]
-  cards.value = rememberedCards ? json.filter(item => !rememberedCards[item.main]) : json
+  const filteredCard = rememberedCards ? json.filter(item => !rememberedCards[item.main]) : json
+  cards.value = globalConfig.value['is-shuffle'] ? shuffleArray(filteredCard) : filteredCard
 }
 
 function nextCard() {

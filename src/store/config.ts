@@ -1,13 +1,18 @@
 import type { JLPTLevel } from "@/views/FlashcardSelector.vue";
 import { defineStore } from "pinia";
 
+export type GlobalConfigKeys = "level" | "is-shuffle"
 export type ConfigKeys = "show-furigana" | "show-meaning"
+export type GlobalConfig = Record<GlobalConfigKeys, boolean | JLPTLevel>
 export type Config = Record<ConfigKeys, boolean>
 
 export const useConfig = defineStore('config', {
   state: () => {
     return {
-      level: "n5" as JLPTLevel,
+      globalConfigs: {
+        "level": "n5" as JLPTLevel,
+        "is-shuffle": false,
+      } as GlobalConfig,
       configs: {
         "show-furigana": false,
         "show-meaning": true
@@ -15,9 +20,14 @@ export const useConfig = defineStore('config', {
     }
   },
   actions: {
-    setLevel (value: JLPTLevel) {
-      this.level = value
-      localStorage.setItem('level', JSON.stringify(this.level))
+    setGlobalConfig (key: GlobalConfigKeys, value: JLPTLevel | boolean) {
+      this.globalConfigs[key] = value
+      localStorage.removeItem('level')
+      localStorage.setItem('saved-global-config', JSON.stringify(this.globalConfigs))
+    },
+    setAllGlobalConfig(configs: GlobalConfig) {
+      this.globalConfigs = configs
+      localStorage.setItem('saved-global-config', JSON.stringify(this.globalConfigs))
     },
     setConfig(key: ConfigKeys, value: boolean) {
       this.configs[key] = value
@@ -29,17 +39,17 @@ export const useConfig = defineStore('config', {
     }
   },
   getters: {
-    getLevel(state) {
-      return state.level
+    getGlobalConfig(state) {
+      return state.globalConfigs
     },
-    getLevelFromLocal(state) {
-      const data = localStorage.getItem(`level`)
+    getGlobalConfigFromLocal(state) {
+      const data = localStorage.getItem(`saved-global-config`)
       if (!data) {
-        localStorage.setItem('level', JSON.stringify(state.level))
-        return state.level
+        localStorage.setItem('level', JSON.stringify(state.globalConfigs))
+        return state.globalConfigs
       }
-      state.level = JSON.parse(data) as JLPTLevel
-      return state.level
+      state.globalConfigs = JSON.parse(data) as GlobalConfig
+      return state.globalConfigs
     },
     getConfig(state) {
       return state.configs

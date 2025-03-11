@@ -37,13 +37,13 @@ export type JLPTLevel = "n5" | "n4";
 export type TypeFlashCard = "noun" | "katakana-noun" | "adverb" | "verb" | "adjective-i" | "adjective-na" | "bunpou" | "particles" | "kanji"
 
 const config = useConfig()
-const { getLevelFromLocal: level } = storeToRefs(config)
+const { getGlobalConfigFromLocal: globalConfig } = storeToRefs(config)
 
 const router = useRouter();
-const selectedLevel = ref<JLPTLevel>(level.value)
+const selectedLevel = ref<JLPTLevel>(globalConfig.value.level as JLPTLevel)
 const types = ref<TypeFlashCard[]>(["noun", "katakana-noun", "adverb", "verb", "adjective-i", "adjective-na", "bunpou", "particles", "kanji"])
 
-watch(selectedLevel, (v) => config.setLevel(v))
+watch(selectedLevel, (v) => config.setGlobalConfig("level", v))
 
 function selectType(type: string) {
   router.push({ name: 'WordCheck', params: { level: selectedLevel.value, type } });

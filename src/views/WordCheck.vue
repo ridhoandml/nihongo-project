@@ -6,17 +6,29 @@
           <h1 class="text-2xl font-bold">Remembered {{ level.toUpperCase() }} {{ type }}</h1>
           <span class="text-base"> ({{ savedDataCount }} - {{ flashcardData?.length }})</span>
         </div>
-        <div class="flex gap-4">
-          <label v-for="key in Object.keys(configs)">
+        <div class="flex gap-4 justify-between">
+          <div class="flex gap-4">
+            <label v-for="key in Object.keys(configs)">
+              <input
+                class="border-none outline-none"
+                :value="(configs as Record<string, boolean>)[key]"
+                v-model="(configs as Record<string, boolean>)[key]"
+                type="checkbox"
+                name="config-saved"
+                :id="key"
+              >
+              {{ key }}
+            </label>
+          </div>
+          <label>
             <input
               class="border-none outline-none"
-              :value="(configs as Record<string, boolean>)[key]"
-              v-model="(configs as Record<string, boolean>)[key]"
+              :value="globalConfigs['is-shuffle']"
+              v-model="globalConfigs['is-shuffle']"
               type="checkbox"
               name="config-saved"
-              :id="key"
             >
-            {{ key }}
+            shuffle
           </label>
         </div>
         <div class="flex gap-3 justify-between">
@@ -76,7 +88,7 @@ export type JapaneseWordSaved = Record<string, boolean>
 
 const jsonFiles = import.meta.glob('/public/jlpt-*/**/*.json', { eager: true })
 const config = useConfig()
-const { getConfigFromLocal: configs } = storeToRefs(config)
+const { getConfigFromLocal: configs, getGlobalConfigFromLocal: globalConfigs } = storeToRefs(config)
 
 const router = useRouter();
 const route = useRoute();
@@ -109,6 +121,7 @@ if (isLoaded) savedData.value = isLoaded
 
 watch(savedData, () => saveSelection(), { deep: true })
 watch(configs, (v) => config.setAllConfig(v), { deep: true })
+watch(globalConfigs, (v) => config.setAllGlobalConfig(v), { deep: true })
 
 function saveSelection () {
   localStorage.setItem(`saved-${level}-${type}`, JSON.stringify(savedData.value));

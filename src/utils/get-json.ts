@@ -8,5 +8,3 @@ for (const path in jsonFiles) {
     flashcardData[category] = jsonFiles[path];
   }
 }
-
-console.log(flashcardData);
