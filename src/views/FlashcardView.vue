@@ -8,13 +8,14 @@
       <div v-if="cards.length > 0" class="flex grow flex-col">
         <div class="p-4 flex flex-col gap-2 rounded h-64 text-center border border-gray-800">
           <div
+            v-if="'kana' in currentCard"
             class="text-2xl text-gray-300"
             :class="showDetails ? 'invisible' : 'visible'"
             >
-            {{ currentCard.furigana }}
+            {{ currentCard.kana }}
           </div>
-          <div class="text-5xl">{{ currentCard.kanji }}</div>
-          <div class="text-2xl text-gray-100">{{ currentCard.translation }}</div>
+          <div class="text-5xl">{{ currentCard.main }}</div>
+          <div class="text-2xl text-gray-100">{{ currentCard.meaning }}</div>
         </div>
   
         <div class="mt-4 flex gap-2">
@@ -48,7 +49,12 @@
 import { ref, onMounted, computed } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import type { JLPTLevel, TypeFlashCard } from './FlashcardSelector.vue';
-import type { JapaneseWordInterface } from './WordCheck.vue';
+
+type JLPTN5 = JLPTN5NounInterface | JLPTN5ParticlesInterface | JLPTN5KatakanaNounInterface | JLPTN5AdjectiveIInterface | JLPTN5AdverbInterface | JLPTN5AdjectiveNaInterface | JLPTN5KanjiInterface | JLPTN5GrammarInterface | JLPTN5VerbInterface
+
+type JLPTN4 = JLPTN4NounInterface | JLPTN4ParticlesInterface | JLPTN4KatakanaNounInterface | JLPTN4AdjectiveIInterface | JLPTN4AdverbInterface | JLPTN4AdjectiveNaInterface | JLPTN4KanjiInterface | JLPTN4GrammarInterface | JLPTN4VerbInterface
+
+type JLPT = JLPTN5 | JLPTN4
 
 const router = useRouter();
 const route = useRoute();
@@ -57,7 +63,7 @@ const type = route.params.type as TypeFlashCard;
 
 const jsonPath = `/jlpt-${level}/${type}.json`;
 
-const cards = ref<JapaneseWordInterface[]>([]);
+const cards = ref<JLPT[]>([]);
 const currentIndex = ref(0);
 const showDetails = ref(false);
 
@@ -66,8 +72,8 @@ const currentCard = computed(() => cards.value[currentIndex.value] || {});
 async function loadCards() {
   const res = await fetch(jsonPath)
   const rememberedCards = loadSelection()
-  const json = await res.json() as JapaneseWordInterface[]
-  cards.value = rememberedCards ? json.filter(item => !rememberedCards[item.kanji]) : json
+  const json = await res.json() as JLPT[]
+  cards.value = rememberedCards ? json.filter(item => !rememberedCards[item.main]) : json
 }
 
 function nextCard() {
@@ -85,7 +91,7 @@ function toggleDetails() {
 }
 
 function speak() {
-  const text = currentCard.value.furigana || currentCard.value.kanji;
+  let text: string = 'kana' in currentCard.value ? currentCard.value.kana : currentCard.value.main
   const utterance = new SpeechSynthesisUtterance(text);
 
   // Find Japanese female voice

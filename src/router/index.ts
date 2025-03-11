@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import FlashcardSelector from '@/views/FlashcardSelector.vue';
 import FlashcardView from '@/views/FlashcardView.vue';
 import WordCheck from '@/views/WordCheck.vue';
@@ -10,6 +10,6 @@ const routes = [
 ];
 
 export default createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 });

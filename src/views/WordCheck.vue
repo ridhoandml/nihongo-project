@@ -44,15 +44,33 @@ import { computed, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import type { JLPTLevel, TypeFlashCard } from './FlashcardSelector.vue';
 import FlashcardWord from '@/components/FlashcardWord.vue';
-import { useConfig, type Config } from '@/store/config';
+import { useConfig } from '@/store/config';
 import { storeToRefs } from 'pinia';
 
-export interface JapaneseWordInterface {
-  kanji: string,
-  furigana: string
-  translation: string
-  check: boolean
-}
+const typeMap = {
+  n5: {
+    noun: { default: {} as JLPTN5NounInterface[] },
+    particles: { default: {} as JLPTN5ParticlesInterface[] },
+    "katakana-noun": { default: {} as JLPTN5KatakanaNounInterface[] },
+    adverb: { default: {} as JLPTN5AdverbInterface[] },
+    "adjective-i": { default: {} as JLPTN5AdjectiveIInterface[] },
+    "adjective-na": { default: {} as JLPTN5AdjectiveNaInterface[] },
+    kanji: { default: {} as JLPTN5KanjiInterface[] },
+    bunpou: { default: {} as JLPTN5GrammarInterface[] },
+    verb: { default: {} as JLPTN5VerbInterface[] },
+  },
+  n4: {
+    noun: { default: {} as JLPTN4NounInterface[] },
+    particles: { default: {} as JLPTN4ParticlesInterface[] },
+    "katakana-noun": { default: {} as JLPTN4KatakanaNounInterface[] },
+    adverb: { default: {} as JLPTN4AdverbInterface[] },
+    "adjective-i": { default: {} as JLPTN4AdjectiveIInterface[] },
+    "adjective-na": { default: {} as JLPTN4AdjectiveNaInterface[] },
+    kanji: { default: {} as JLPTN4KanjiInterface[] },
+    bunpou: { default: {} as JLPTN4GrammarInterface[] },
+    verb: { default: {} as JLPTN4VerbInterface[] },
+  }
+} as const;
 
 export type JapaneseWordSaved = Record<string, boolean>
 
@@ -68,13 +86,20 @@ const savedData = ref<JapaneseWordSaved>({})
 
 const flashcardData = computed(() => {
   for (const [path, moduleUnknown] of Object.entries(jsonFiles)) {
-    const category = path.split('/').pop()?.replace('.json', '')
+    const category = path.split('/').pop()?.replace('.json', '');
+    
     if (path.includes(level) && type === category) {
-      const module = moduleUnknown as { default: JapaneseWordInterface[] }
-      return module.default
+      const levelData = typeMap[level as keyof typeof typeMap];
+
+      if (levelData && type in levelData) {
+        const module = moduleUnknown as typeof levelData[typeof type];
+        return module.default;
+      }
     }
   }
-})
+  return null
+});
+
 const savedDataCount = computed(() => {
   return Object.values(savedData.value).filter(value => value).length
 })
