@@ -1,7 +1,7 @@
 <template>
   <label
     :id="flashcard.main"
-    class="h-24 w-full relative flex flex-col gap-1 p-2 border border-slate-800 rounded">
+    class="w-44 sm:w-44 h-28 relative flex flex-col gap-1 p-2 border border-slate-800 rounded">
     <input
       class="absolute top-2 right-2 border-none outline-none"
       :value="savedFlashcard[flashcard.main]"
@@ -14,7 +14,7 @@
       <span class="text-xl">{{ flashcard.main }}</span>
       <span v-if="configs['show-furigana'] && 'kana' in flashcard" class="text-xs text-gray-300">{{ flashcard.kana }}</span>
     </div>
-    <span v-if="configs['show-meaning']" class="text-sm text-gray-100 line-clamp-2">{{ flashcard.meaning }}</span>
+    <span v-if="configs['show-meaning']" class="text-sm text-gray-100 line-clamp-3">{{ flashcard.meaning }}</span>
   </label>
 </template>
 

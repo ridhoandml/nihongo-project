@@ -1,10 +1,10 @@
 <template>
   <div class="h-screen w-screen flex flex-col justify-start overflow-hidden">
     <div class="flex flex-col h-full">
-      <div class="flex flex-col self-center gap-4 p-8 w-full max-w-[600px]">
+      <div class="flex flex-col self-center gap-4 p-4 sm:p-8 w-full max-w-[600px]">
         <div class="flex gap-1 sm:gap-3 flex-col sm:flex-row justify-between items-center">
-          <h1 class="text-2xl font-bold">Remembered Word</h1>
-          <span class="text-base">{{ level.toUpperCase() }} - {{ type }} ({{ savedDataCount }} - {{ flashcardData?.length }})</span>
+          <h1 class="text-2xl font-bold">Remembered {{ level.toUpperCase() }} {{ type }}</h1>
+          <span class="text-base"> ({{ savedDataCount }} - {{ flashcardData?.length }})</span>
         </div>
         <div class="flex gap-4">
           <label v-for="key in Object.keys(configs)">
@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class="flex flex-col items-center overflow-scroll">
-        <div class="max-w-[900px] grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 px-8 pb-8">
+        <div class="max-w-[900px] grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 px-4 pb-4">
           <FlashcardWord 
             v-for="flashcard in flashcardData"
             :flashcard="flashcard"
