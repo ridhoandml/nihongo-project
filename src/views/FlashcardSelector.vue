@@ -28,15 +28,22 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { useConfig } from '@/store/config';
+import { storeToRefs } from 'pinia';
+import { ref, watch } from 'vue';
 import { useRouter } from 'vue-router';
 
 export type JLPTLevel = "n5" | "n4";
 export type TypeFlashCard = "noun" | "katakana-noun" | "adverb" | "verb" | "adjective-i" | "adjective-na" | "bunpou" | "particles" | "kanji"
 
+const config = useConfig()
+const { getLevelFromLocal: level } = storeToRefs(config)
+
 const router = useRouter();
-const selectedLevel = ref<JLPTLevel>("n5")
+const selectedLevel = ref<JLPTLevel>(level.value)
 const types = ref<TypeFlashCard[]>(["noun", "katakana-noun", "adverb", "verb", "adjective-i", "adjective-na", "bunpou", "particles", "kanji"])
+
+watch(selectedLevel, (v) => config.setLevel(v))
 
 function selectType(type: string) {
   router.push({ name: 'WordCheck', params: { level: selectedLevel.value, type } });
