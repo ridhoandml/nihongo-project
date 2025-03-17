@@ -3,7 +3,7 @@
     <div class="flex flex-col h-full">
       <div class="flex flex-col self-center gap-4 p-4 sm:p-8 w-full max-w-[600px]">
         <div class="flex gap-1 sm:gap-3 flex-col sm:flex-row justify-between items-center">
-          <h1 class="text-2xl font-bold">Remembered {{ level.toUpperCase() }} {{ type }}</h1>
+          <h1 class="text-2xl font-bold">{{ level.toUpperCase() }} {{ capitalizeAll(type) }}</h1>
           <span class="text-base"> ({{ savedDataCount }} - {{ flashcardData?.length }})</span>
         </div>
         <div class="flex gap-4 justify-between">
@@ -58,6 +58,7 @@ import type { JLPTLevel, TypeFlashCard } from './FlashcardSelector.vue';
 import FlashcardWord from '@/components/FlashcardWord.vue';
 import { useConfig } from '@/store/config';
 import { storeToRefs } from 'pinia';
+import capitalizeAll from '@/utils/capitalize-all'
 
 const typeMap = {
   n5: {

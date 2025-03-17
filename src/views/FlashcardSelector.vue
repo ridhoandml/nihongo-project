@@ -17,11 +17,12 @@
     <div class="grid grid-cols-2 gap-4">
       <button
         v-for="type in types"
-        :key="type"
-        class="px-4 py-2 bg-blue-500 text-white rounded cursor-pointer"
-        @click="selectType(type)"
+        :key="type.name"
+        class="flex flex-col px-4 py-2 bg-blue-500 text-white rounded cursor-pointer"
+        @click="selectType(type.name)"
       >
-        {{ type }}
+        <span>{{ capitalizeAll(type.name) }}</span>
+        <span>{{ type.current }} / {{ type.total }}</span>
       </button>
     </div>
   </div>
@@ -30,22 +31,61 @@
 <script setup lang="ts">
 import { useConfig } from '@/store/config';
 import { storeToRefs } from 'pinia';
-import { ref, watch } from 'vue';
+import { onMounted, ref, watch, watchEffect } from 'vue';
 import { useRouter } from 'vue-router';
+import capitalizeAll from '@/utils/capitalize-all'
 
 export type JLPTLevel = "n5" | "n4";
 export type TypeFlashCard = "noun" | "katakana-noun" | "adverb" | "verb" | "adjective-i" | "adjective-na" | "bunpou" | "particles" | "kanji"
 
+interface FlashCardData {
+  name: TypeFlashCard
+  current: number
+  total: number
+}
+
 const config = useConfig()
 const { getGlobalConfigFromLocal: globalConfig } = storeToRefs(config)
 
+const list: TypeFlashCard[] = ["noun", "katakana-noun", "adverb", "verb", "adjective-i", "adjective-na", "bunpou", "particles", "kanji"]
 const router = useRouter();
 const selectedLevel = ref<JLPTLevel>(globalConfig.value.level as JLPTLevel)
-const types = ref<TypeFlashCard[]>(["noun", "katakana-noun", "adverb", "verb", "adjective-i", "adjective-na", "bunpou", "particles", "kanji"])
+const types = ref<FlashCardData[]>([]);
+
+watchEffect(async () => {
+  types.value = await Promise.all(
+    list.map(async (item) => {
+      const saved = loadSelection(selectedLevel.value, item);
+      const cards = await loadCards(selectedLevel.value, item);
+      return {
+        name: item,
+        total: cards.length || 0,
+        current: saved ? Object.keys(saved).length : 0
+      };
+    })
+  );
+});
 
 watch(selectedLevel, (v) => config.setGlobalConfig("level", v))
 
 function selectType(type: string) {
   router.push({ name: 'WordCheck', params: { level: selectedLevel.value, type } });
 }
+
+async function loadCards (level: string, type: string) {
+  const jsonPath = `/jlpt-${level}/${type}.json`;
+
+  const res = await fetch(jsonPath)
+  return await res.json() as any[]
+}
+
+function loadSelection (level: string, type: string): Record<string, boolean> | undefined {
+  const data = localStorage.getItem(`saved-${level}-${type}`)
+  if (!data) return undefined
+  return JSON.parse(data);
+}
+
+onMounted(() => {
+
+})
 </script>
